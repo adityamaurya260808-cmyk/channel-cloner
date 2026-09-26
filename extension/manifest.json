@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "FlowPilot - Batch prompts for Google Flow",
+  "version": "0.1.0",
+  "description": "Queue many prompts into Google Flow, one after another, and auto-download the generated images and videos.",
+  "permissions": ["sidePanel", "storage", "downloads", "tabs"],
+  "host_permissions": ["https://labs.google/*"],
+  "action": { "default_title": "Open FlowPilot" },
+  "background": { "service_worker": "background.js" },
+  "side_panel": { "default_path": "sidepanel.html" },
+  "content_scripts": [
+    {
+      "matches": ["https://labs.google/fx/*"],
+      "js": ["page-hook.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    },
+    {
+      "matches": ["https://labs.google/fx/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}

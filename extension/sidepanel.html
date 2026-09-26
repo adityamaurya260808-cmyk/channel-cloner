@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FlowPilot</title>
+  <link rel="stylesheet" href="sidepanel.css">
+</head>
+<body>
+  <header class="header">
+    <div class="brand"><span class="logo">▶</span>FlowPilot</div>
+    <span id="status" class="status status-off">Not connected</span>
+  </header>
+
+  <div id="connect-hint" class="hint-box" hidden>
+    <p id="connect-text">Open a Google Flow project to start.</p>
+    <div class="row">
+      <button id="btn-open-flow" class="btn">Open Flow</button>
+      <button id="btn-reload-flow" class="btn" hidden>Reload Flow tab</button>
+    </div>
+  </div>
+
+  <nav class="tabs">
+    <button class="tab active" data-tab="create">Create</button>
+    <button class="tab" data-tab="queue">Queue <span id="queue-badge" class="badge"></span></button>
+    <button class="tab" data-tab="logs">Logs</button>
+  </nav>
+
+  <section id="tab-create" class="panel active">
+    <label class="label">Mode</label>
+    <div class="pills" data-group="mode">
+      <button class="pill active" data-value="image">Image</button>
+      <button class="pill" data-value="video">Video</button>
+    </div>
+    <p class="note">Choose the same mode, model and aspect ratio in Flow itself — FlowPilot uses whatever Flow is set to.</p>
+
+    <label class="label">Speed</label>
+    <div class="pills" data-group="speed">
+      <button class="pill" data-value="fast" title="Up to 4 prompts generating at once">Fast</button>
+      <button class="pill active" data-value="balanced" title="Up to 2 at once, 10s apart">Balanced</button>
+      <button class="pill" data-value="slow" title="One at a time — most reliable">Slow</button>
+    </div>
+
+    <label class="label" for="prompts">Prompts <span class="muted">(one per line)</span></label>
+    <textarea id="prompts" rows="8" placeholder="A red fox in the snow, cinematic&#10;A city skyline at night, neon lights&#10;..."></textarea>
+    <div class="row between">
+      <div class="row">
+        <button id="btn-import" class="btn btn-small">Import .txt</button>
+        <input type="file" id="file-input" accept=".txt,text/plain" hidden>
+        <span id="prompt-count" class="muted">0 prompts</span>
+      </div>
+    </div>
+
+    <div class="row actions">
+      <button id="btn-start" class="btn btn-primary">Start</button>
+      <button id="btn-stop" class="btn btn-danger" disabled>Stop</button>
+    </div>
+
+    <div id="progress" class="progress" hidden>
+      <div class="bar"><div id="progress-fill" class="fill"></div></div>
+      <span id="progress-text" class="muted"></span>
+    </div>
+
+    <label class="label">Downloads</label>
+    <div class="card">
+      <div class="setting"><span>Folder (inside Downloads)</span><input id="set-folder" type="text" placeholder="flowpilot"></div>
+      <div class="setting"><span>Auto-download images</span><input id="set-auto-images" type="checkbox" checked></div>
+      <div class="setting"><span>Auto-download videos</span><input id="set-auto-videos" type="checkbox" checked></div>
+      <div class="setting">
+        <span>File names</span>
+        <select id="set-naming">
+          <option value="numbered">001, 002, 003</option>
+          <option value="prompt">001-prompt-text</option>
+        </select>
+      </div>
+    </div>
+  </section>
+
+  <section id="tab-queue" class="panel">
+    <div class="row between">
+      <span id="queue-summary" class="muted"></span>
+      <div class="row">
+        <button id="btn-retry" class="btn btn-small">Retry failed</button>
+        <button id="btn-clear" class="btn btn-small btn-danger">Clear</button>
+      </div>
+    </div>
+    <ol id="queue-list" class="queue"></ol>
+  </section>
+
+  <section id="tab-logs" class="panel">
+    <div class="row between">
+      <span class="muted">Latest first</span>
+      <button id="btn-clear-logs" class="btn btn-small">Clear logs</button>
+    </div>
+    <ul id="log-list" class="logs"></ul>
+  </section>
+
+  <script src="sidepanel.js"></script>
+</body>
+</html>
