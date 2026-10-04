@@ -83,6 +83,39 @@ They attach one of 5 "tails" in brackets to boost CTR:
 ### Key insight
 The **formats** are fine to reuse, since the whole finance niche uses them. The **topics inside the formats** are where they've run dry: after March they mostly re-ran their own hits with new numbers (Japanese ×4, Fake Rich ×3, No Longer Worth ×4, Looking Rich/Poor ×6, Free Upgrades ×4, Car ×5), and the re-runs get 3–20K. **New topic + proven format** is the gap.
 
+### Last 3 months (~Jul 4 – Oct 4 2026, 118 videos)
+Publish dates are approximate (YouTube shows "3 months ago"), and the bucket assignment is a judgment call for a few titles.
+
+| Bucket | Videos | Share | Median views | Best | Share of views |
+|---|---|---|---|---|---|
+| "Why…" contrarian | 25 | 21% | 9.9K | 286K | 30% |
+| Numbered habits/rules | 22 | 19% | 10.1K | 55K | 15% |
+| Buy / don't buy | 17 | 14% | 9.1K | 200K | 18% |
+| Signs | 11 | 9% | 12.0K | 106K | 12% |
+| First-person proof | 10 | 8% | 12.5K | 88K | 11% |
+| Command / how-to | 8 | 7% | 8.1K | 22K | 3% |
+| Stat / number reveal | 7 | 6% | 6.0K | 9.1K | 2% |
+| What rich people do | 6 | 5% | 9.1K | 63K | 5% |
+| Age | 5 | 4% | 6.7K | 20K | 2% |
+| Named trap / rule | 5 | 4% | 4.1K | 5.8K | 1% |
+| Mega guide | 2 | 2% | 11K | 11K | 1% |
+
+Channel-wide median in this period: ~8.4K per video.
+
+### Top 7 buckets to use (fresh topics only)
+
+| # | Bucket | Why it's on the list | Fresh example (checked against all their titles) |
+|---|---|---|---|
+| 1 | Named trap / rule | Biggest past hits (329K, 127K). Recent ones were too niche (median 4.1K), so the trap must hit a broad audience | The Sandwich Generation Trap: Paying for Your Kids and Your Parents at the Same Time |
+| 2 | "Why…" contrarian | Largest share of output and views; 286K + 194K + 230K hits | Why Renting Can Make You Richer Than Buying (The Math Nobody Shows You) |
+| 3 | Numbered habits/rules | Channel's biggest hit (1.9M); most crowded, so the subject must be new | 9 German Money Rules That Make Americans Look Reckless |
+| 4 | Age / life event | 291K, 104K; matches the 40–70 audience. 30s/40s/50s/60 are taken, so use a life event | The Retirement Bill Medicare Won't Pay (Most People Find Out at 65) |
+| 5 | Mega guide | 193K, 97K, 57K; long watch time | Every Money Talk You Need to Have With Your Aging Parents (Complete Guide) |
+| 6 | Signs | 219K, 106K; highest recent median (12K) with low output | 9 Signs a Retiree Is Being Targeted by a Scam (Share This With Your Parents) |
+| 7 | **Buy / don't buy** | 297K and 200K hits; 2nd-largest share of recent views (18%). About 30 versions exist, so only a brand-new subject works | 10 Things Worth Buying Used (And 5 You Should Never Buy Secondhand) · 10 Things You Should Never Buy on Black Friday (publish early Nov) · Store Brand vs Name Brand: 12 Things Where the Cheap Version Is Identical |
+
+**Buy / don't buy: already taken (don't repeat):** No Longer Worth Your Money (×4) · Complete Waste of Money (×4, incl. home upgrades and everyday purchases) · Things I Stopped Paying For · Things I Refuse to Do With My Money · Things Wealthy People / Retirees Refuse to Buy or Stopped Buying (×4) · Purchases Wealthy People Make Once · Things Worth Upgrading · Free/Cheap Upgrades (×4) · $0 Little Luxuries · Freebies & Discounts · Subscriptions · Silent Fees · Ordinary Things in Your Home Worth Money · Wealthy Spend More on 5 Things · Buy Fewer, Better Things · Designer bags · Cheap Purchases Destroying Wealth.
+
 ---
 
 ## 4. Script DNA (reverse-engineered from the 1.9M and 286K transcripts)
