@@ -108,7 +108,7 @@ Channel-wide median in this period: ~8.4K per video.
 |---|---|---|---|
 | 1 | Named trap / rule | Biggest past hits (329K, 127K). Recent ones were too niche (median 4.1K), so the trap must hit a broad audience | The Sandwich Generation Trap: Paying for Your Kids and Your Parents at the Same Time |
 | 2 | "Why…" contrarian | Largest share of output and views; 286K + 194K + 230K hits | Why Renting Can Make You Richer Than Buying (The Math Nobody Shows You) |
-| 3 | Numbered habits/rules | Channel's biggest hit (1.9M); most crowded, so the subject must be new | 9 German Money Rules That Make Americans Look Reckless |
+| 3 | Numbered habits/rules | Channel's biggest hit (1.9M); most crowded, so the subject must be new | 11 Money Rules Military Families Live By (That Civilians Never Learn) |
 | 4 | Age / life event | 291K, 104K; matches the 40–70 audience. 30s/40s/50s/60 are taken, so use a life event | The Retirement Bill Medicare Won't Pay (Most People Find Out at 65) |
 | 5 | Mega guide | 193K, 97K, 57K; long watch time | Every Money Talk You Need to Have With Your Aging Parents (Complete Guide) |
 | 6 | Signs | 219K, 106K; highest recent median (12K) with low output | 9 Signs a Retiree Is Being Targeted by a Scam (Share This With Your Parents) |
@@ -171,8 +171,8 @@ The top comments on the 1.9M video show who is watching:
 
 | # | Title | Format bucket | Why it's new |
 |---|---|---|---|
-| 1 | What Korean Parents Teach Kids About Money That American Schools Never Do | #3 Why/contrarian + foreign wisdom | Korea never covered; kids/parenting angle never covered |
-| 2 | 9 German Money Rules That Make Americans Look Reckless | #1 Numbered rules | Germany never covered |
+| 1 | The Grandparent Trap: How Helping Your Grandkids Is Quietly Draining Your Retirement | #6 Named trap | Grandparent spending never covered (YouTube-checked) |
+| 2 | 11 Money Rules Military Families Live By (That Civilians Never Learn) | #1 Numbered rules | Never covered (YouTube-checked) |
 | 3 | The Sandwich Generation Trap: Paying for Your Kids and Your Parents at the Same Time | #6 Named trap | Family-care money never covered |
 | 4 | How to Talk to Your Aging Parents About Money (Before It's Too Late) | #8 Practical / command | Never covered; fits the 40–60 audience |
 | 5 | The Retirement Bill Medicare Won't Pay (Most People Find Out at 65) | #6 Named trap + age | Healthcare costs never covered (verify exact coverage rules) |
@@ -191,7 +191,21 @@ The top comments on the 1.9M video show who is watching:
 
 **Already done by them, so don't make these** (non-exhaustive): Fake Rich / Genuinely Rich / Secretly Wealthy signs · No Longer Worth Your Money · Waste of Money lists · Free/Cheap Upgrades · Looking Poor / Looking Rich · Rich People Drive Old Cars / $30K Cars / Car Payments / Pavement Princess · Bigger House · Paid-Off House · $50K vs $150K · High Income / Salary / Promotion Trap · Middle Class · Your 30s / 40s / 50s / Almost 60 · By 40 / By 50 · Japanese (×4) / Italian / Great Depression / Grandparents / Poor Man's / Old Money · Social Security at 62 · 401(k) · Compounding rules (8-4-3, 7-5-3-1) · Credit Score Loophole · Banks & Your Income · Emergency Fund · Inheritance · Downsizing · Designer bags · Subscriptions · Silent Fees · Money Lessons Too Late / Brutal Truths · Signs You're Ahead / Better With Money · Quiet Millionaires / Millionaires I've Met · Financial Literacy / Money Roadmap mega-guides.
 
-**Top 3 to start with:** #3 (sandwich generation hits the core 40–60 audience), #6 (scams are highly shareable), #1 (Korea is an unclaimed foreign angle).
+**Crowded elsewhere on YouTube (avoid even though Alicia hasn't done them):** Korean money habits (many small channels, including near-exact copies of Alicia's Japanese title), German money habits, Amish money rules, 1970s inflation habits, "first 90 days of retirement", warehouse-club/bulk-buy lists, "turn savings into a retirement paycheck".
+
+**Top 3 to start with:** #3 (sandwich generation hits the core 40–60 audience), #6 (scams are highly shareable), #1 (grandparent trap: emotional and unclaimed).
+
+### 7 verified titles (one per top bucket, checked against Alicia's ~245 titles + a YouTube search, Oct 2026)
+
+| Bucket | Title | YouTube check |
+|---|---|---|
+| Named trap | The Grandparent Trap: How Helping Your Grandkids Is Quietly Draining Your Retirement | Closest: "Why Your Family Is Draining Your Retirement" (14K, general); no grandkid-specific video |
+| "Why…" contrarian | Why Letting Your Adult Kids Move Back Home Can Make the Whole Family Richer | No finance video with this angle |
+| Numbered rules | 11 Money Rules Military Families Live By (That Civilians Never Learn) | Only niche advice for military families themselves |
+| Age / life event | The Empty Nest Money Window: The 5 Years That Decide Your Retirement | Only a few tiny videos (≤206 views) |
+| Mega guide | The Complete Scam-Proof Guide for Anyone Over 60 (Every Scam, Every Defense, One Video) | Only short, tiny videos; no comprehensive guide |
+| Signs | 9 Signs Your Parents Are Quietly Running Out of Money (And Won't Tell You) | No matching video |
+| Buy / don't buy | 10 Things You Should Never Buy From a TV Commercial (Retirees Lose the Most) | Only a 2-minute short (155 views) |
 
 ---
 
@@ -363,8 +377,8 @@ And freedom, it turns out, is very quiet.
 
 ## 9. Hooks for 5 fresh videos (ready to use)
 
-**#1: What Korean Parents Teach Kids About Money That American Schools Never Do**
-> "In Seoul, there's a money lesson so common that most parents don't even think of it as a lesson. Ask them about it and they'll shrug. Ask most Americans about it and they've never heard of it. Today I'm going to show you what Korean kids learn about money at the kitchen table, and why almost none of it costs anything to teach." *(Verify every cultural claim with a Korean source; avoid stereotypes.)*
+**#1: The Grandparent Trap**
+> "It starts with a birthday gift. Then it's braces. Then a car down payment, a semester of tuition, and a 'small loan' nobody mentions again. Nobody calls it a financial decision, because it's love. But for millions of grandparents, it's quietly becoming the biggest line item in retirement."
 
 **#3: The Sandwich Generation Trap**
 > "Picture a kitchen table on a Sunday night. On one side, a college tuition bill. On the other, a letter from Mom's assisted-living facility. In the middle, a 401(k) statement that hasn't grown in two years. Millions of people in their 40s and 50s are sitting at that exact table right now, and almost nobody planned for it."
