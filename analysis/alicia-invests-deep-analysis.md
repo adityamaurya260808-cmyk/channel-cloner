@@ -50,22 +50,38 @@
 
 ---
 
-## 3. The title formula, decoded
+## 3. Title buckets (all ~245 titles classified)
 
-Almost every hit follows one of these 5 templates:
+Every title on the channel was pulled (Feb–Oct 2026) and sorted by **how the title is built**. Shares are approximate (a few titles fit two buckets).
 
-1. **`[Number] [Adjective] Habits/Rules/Things That [Desired Result] ([Exclusivity/Proof])`**
-   - "10 Japanese Money Habits That Build Quiet Wealth (Most Americans Have Never Heard of These)"
-2. **`Why [Counter-intuitive Belief] Is [Important/Wrong]`**
-   - "Why Looking Poor Is SO Important", "Why Buying a Bigger House Is LITERALLY the #1 Wealth KILLER"
-3. **`The [Named Trap/Concept] | [Paradox]`**
-   - "The High Income Poverty Trap | Rich on Paper, Broke in Reality"
-4. **`[Age/Life stage] + [Stakes]`**
-   - "Why Your 40s Decide Whether You Retire Comfortable or Stressed"
-5. **`Signs Someone Is [Identity]`**
-   - "10 Signs That Someone is 'Fake Rich'", "10 Signs Someone Is Genuinely Rich (Even Though They Look Broke)"
+| # | Bucket (format) | Share | Template | Best performers | Status |
+|---|---|---|---|---|---|
+| 1 | **Numbered habits / rules / lessons** | ~20% | `[N] [Adjective] Habits/Rules That [Result] ([Tail])` | Minimalist Money Rules 1.9M · Japanese Habits 252K · 20 Frugal Habits $100K by 24 175K · 10 Unsexy Habits 162K | Main engine, but heavily over-used since July (most new ones 5–15K) |
+| 2 | **Numbered "what to buy / not buy"** | ~13% | `[N] Things That Are No Longer Worth / a Waste of / I Stopped Paying For` | No Longer Worth It 297K · 12 Free Upgrades 200K · 12 Things Wealthy Refuse to Buy 44K | Saturated: about 30 versions already |
+| 3 | **"Why…" contrarian** | ~15% | `Why [Belief Everyone Has] Is Wrong / Matters` | Looking Poor 286K + 194K · SS at 62 230K · Bigger House 62K | Strong when the belief is genuinely surprising |
+| 4 | **"[N] Signs…" identity** | ~8% | `[N] Signs Someone / You Are [Fake Rich / Secretly Wealthy / Ahead]` | Fake Rich 219K · Genuinely Rich 106K · Friends Secretly Broke 42K | Over-used: about 20 versions, newest ones 5–15K |
+| 5 | **What rich people do / think** | ~9% | `[N] Things Wealthy People Notice / Obsess Over / Refuse to Do` | 10 Things Wealthy Notice 63K · 10 Things Wealthy Refuse to Do 31K | Mid performer |
+| 6 | **Named trap / rule / loophole** | ~8% | `The [Name] Trap/Rule/Loophole: [Paradox]` | High Income Poverty Trap 329K · Credit Score Loophole 127K · 8-4-3 Rule 62K | High ceiling when the name is new |
+| 7 | **Age / life stage** | ~7% | `Why Your [40s/50s] Decide… / What You Should Have by [40/50]` | Your 40s Decide 291K · Accomplished by 40 104K · Your 50s Decide 25K | 30s, 40s, 50s and "almost 60" are all done |
+| 8 | **First-person proof** | ~7% | `How I… / I… / My First $X` | Emergency Savings on $30K 88K · I Kept These 15 Habits 14K | Works only with a specific $ number |
+| 9 | **Stat / number reveal** | ~6% | `The Average American Actually Retires With… / Once You Hit THIS Number` | Average Person Retires With 110K · Who Has $2M? 33K | Mid |
+| 10 | **Command / shock** | ~4% | `STOP… / It's IMPOSSIBLE to… / Do This EVERY Time…` | IMPOSSIBLE to Stay Broke 106K · STOP Telling Banks 99K · Paycheck Routine 58K | Good CTR, used sparingly |
+| 11 | **Mega guide** | ~3% | `Master X in 62 Minutes / The ONLY X Video / EVERY X at Every Age` | Financial Literacy 62 min 193K · ONLY Minimalist Video 97K · 100 Money Tips 57K | Excellent for watch time |
+| 12 | **News / macro fear** | ~2% | `[Bank] Warning / [Country] Debt Bomb` | Goldman Sachs Warning 50K | Mostly flops (Japan Debt Bomb 5K) |
+| — | Dead experiments | <2% | Story series ("Millionaires I've Met #1" 4.2K), niche systemic topics (car insurance 1.6K, taxes 1.8K) | — | Avoid as they framed them |
 
-**Power words:** Quiet, Invisible, Boring, Unsexy, Silent, Nobody tells you, Never heard of, LITERALLY, SO, MUST, specific dollar amounts ($100,000 / $30,000 salary / $2,000 a month).
+### The bracket tail (second half of almost every title)
+They attach one of 5 "tails" in brackets to boost CTR:
+- **Exclusivity:** "(Most Americans Have Never Heard of These)", "(Most People Skip This)"
+- **Even-if reassurance:** "(Even If You Feel Broke Right Now!)", "(Even Though They Look Completely Broke)"
+- **Challenge question:** "(Are You Ahead or Behind?)", "(Is This You?!)", "(Spot Any Around You?)"
+- **Proof / explain:** "(The Math Proves It!)", "(Let Me Explain!)", "(Here's Why)"
+- **Command:** "(Stop Today!)", "(Try It This Week!)", "(Cancel These Today!)"
+
+**Power words:** Quiet/Quietly, Invisible, Boring, Unsexy, Silent, Secretly, Brutal, LITERALLY, IMPOSSIBLE, MUST, plus specific dollar amounts ($100,000 / $30,000 salary / $2,000 a month).
+
+### Key insight
+The **formats** are fine to reuse, since the whole finance niche uses them. The **topics inside the formats** are where they've run dry: after March they mostly re-ran their own hits with new numbers (Japanese ×4, Fake Rich ×3, No Longer Worth ×4, Looking Rich/Poor ×6, Free Upgrades ×4, Car ×5), and the re-runs get 3–20K. **New topic + proven format** is the gap.
 
 ---
 
@@ -112,45 +128,45 @@ The top comments on the 1.9M video show who is watching:
 2. **The same hook everywhere:** "I want you to picture…" works, but the audience is getting used to it.
 3. **No Shorts strategy** visible. You can use clips of the hooks as Shorts to funnel viewers to long videos.
 4. **Empty description field** (descriptions are blank in the API). This is a weak SEO gap.
-5. **Untouched angles:** ages 25–35 (they mostly target 40+), Korea/Germany/Swiss/Scandinavian habits (they only did Japanese), and story-driven case studies (real people like Ronald Read and Sylvia Bloom).
+5. **Untouched angles (checked against all ~245 titles):** Korea/Germany/Scandinavia (they did Japan ×4 and Italy ×1), family money (aging parents, sandwich generation, divorce, kids), healthcare costs in retirement and Medicare, scams targeting retirees, pets/weddings/gift costs, AI and job security, and retiring abroad. (Their one story-series attempt, "Millionaires I've Met #1", got only 4.2K, so stories need a stronger hook than they used.)
 
 ---
 
-## 7. 20 viral topic ideas for your channel (based on proven patterns)
+## 7. Fresh viral topics (checked against all ~245 of their titles)
 
-Each idea is tied to a proven outlier pattern from this channel.
+**Rule for this channel: always brand-new topics.** Reuse a proven **format** from the bucket table, never their **topic**. Each idea below was checked against their full title list. Before publishing, still search the title on YouTube.
 
-| # | Title | Based on pattern |
-|---|---|---|
-| 1 | **Rich on $50K, Broke on $150K: The 7 Invisible Differences** | High Income Poverty Trap (329K) + two-apartment contrast (1.9M) |
-| 2 | What Korean Parents Teach Kids About Money That American Schools Never Do | Japanese Habits (252K): same "foreign wisdom" angle, different format |
-| 3 | 9 German Money Rules That Make Americans Look Reckless | Foreign habits |
-| 4 | Smart Buys in 2020 That Are a Total Waste of Money Now | No Longer Worth It (297K): same "stop buying" demand, "then vs now" angle |
-| 5 | Why Your 30s Decide Whether You Retire at 55 or 75 | Your 40s Decide (291K), for a younger demographic |
-| 6 | Why Your 50s Are Your Last Chance to Fix Retirement (And How to Use It) | Your 40s Decide |
-| 7 | The Middle-Class Trap: Why Hard-Working Families Stay Stuck Forever | High Income Trap |
-| 8 | 10 Signs You're Secretly Doing Better Financially Than You Think | Signs Genuinely Rich (106K), validation angle |
-| 9 | 10 Signs You're One Bad Month Away From Financial Collapse | Signs + fear |
-| 10 | Why Renting Can Make You Richer Than Buying (The Math Nobody Shows You) | Contrarian (bigger house / SS at 62) |
-| 11 | Why Paying Off Your Mortgage Early Might Be a Mistake | Contrarian |
-| 12 | The Janitor Who Died With $8 Million: 10 Lessons From Secret Millionaires | Story-driven, quiet wealth (untouched angle; verify facts) |
-| 13 | 12 Things Poor People Buy That Rich People Never Do | Fake Rich / Looking Poor |
-| 14 | Old Money vs New Money: 10 Habits That Reveal the Difference | Signs + status psychology |
-| 15 | The "Invisible Wealth" Rule: Why Real Millionaires Never Look Like Millionaires | Looking Poor (286K), new framing |
-| 16 | 20 Depression-Era Money Habits That Still Work Today | Grandparents' Habits / Poor Man's Habits |
-| 17 | How to Live on 50% of Your Income Without Feeling Poor | Frugal + Free upgrades |
-| 18 | The Lifestyle Creep Trap: How Every Raise Quietly Makes You Poorer | Minimalist / high income |
-| 19 | Master Retirement Planning in 60 Minutes: Everything Nobody Taught You | 62-Minute Financial Literacy (193K) |
-| 20 | Why Smart People Stay Broke: 10 Money Mistakes Intelligent People Make | Identity + Silent killers |
+| # | Title | Format bucket | Why it's new |
+|---|---|---|---|
+| 1 | What Korean Parents Teach Kids About Money That American Schools Never Do | #3 Why/contrarian + foreign wisdom | Korea never covered; kids/parenting angle never covered |
+| 2 | 9 German Money Rules That Make Americans Look Reckless | #1 Numbered rules | Germany never covered |
+| 3 | The Sandwich Generation Trap: Paying for Your Kids and Your Parents at the Same Time | #6 Named trap | Family-care money never covered |
+| 4 | How to Talk to Your Aging Parents About Money (Before It's Too Late) | #8 Practical / command | Never covered; fits the 40–60 audience |
+| 5 | The Retirement Bill Medicare Won't Pay (Most People Find Out at 65) | #6 Named trap + age | Healthcare costs never covered (verify exact coverage rules) |
+| 6 | 9 Scams Targeting Retirees Right Now (And the One Question That Stops All of Them) | #4 Signs/list + tail | Scams never covered; very shareable to parents |
+| 7 | Why Renting Can Make You Richer Than Buying (The Math Nobody Shows You) | #3 Why/contrarian | They only did "paid-off house"; renting never argued |
+| 8 | What Divorce Actually Costs (The Money Side Nobody Plans For) | #9 Stat reveal | Never covered |
+| 9 | How Couples Who Never Fight About Money Split Their Bills | #8 Practical | Only "Two Paychecks, Still Broke" exists; bill-splitting systems never covered |
+| 10 | The True Lifetime Cost of a Dog (It's More Than Your Car) | #9 Stat reveal | Pets never covered |
+| 11 | The Wedding Debt Trap: Why the Average Wedding Sets Couples Back Years | #6 Named trap | Weddings never covered |
+| 12 | The Holiday Spending Hangover: How December Quietly Wrecks Your Next 6 Months | #6 Named trap, seasonal | Seasonal never done; publish mid-November |
+| 13 | Gift Inflation: Why Birthdays, Showers and Weddings Are Quietly Draining You | #6 Named trap | Never covered |
+| 14 | Will AI Take Your Job Before You Retire? The Financial Backup Plan | #10 Command/fear (non-news) | AI/jobs never covered |
+| 15 | The Parent PLUS Loan Trap: Still Paying for Your Kid's College at 60 | #6 Named trap + age | Student debt never covered |
+| 16 | Retiring Abroad: Is It Still Cheaper, or a Costly Fantasy? | #3 Why/contrarian | Never covered (verify costs per country) |
+| 17 | The Money Checklist Every Widow Wishes She'd Had | #11 Guide | Never covered; handle sensitively |
 
-**Top 3 to start with:** #1 (two proven hooks combined), #2 (cultural gap, and Korea is unclaimed), #13 (identity + judgment, highly shareable).
+**Already done by them, so don't make these** (non-exhaustive): Fake Rich / Genuinely Rich / Secretly Wealthy signs · No Longer Worth Your Money · Waste of Money lists · Free/Cheap Upgrades · Looking Poor / Looking Rich · Rich People Drive Old Cars / $30K Cars / Car Payments / Pavement Princess · Bigger House · Paid-Off House · $50K vs $150K · High Income / Salary / Promotion Trap · Middle Class · Your 30s / 40s / 50s / Almost 60 · By 40 / By 50 · Japanese (×4) / Italian / Great Depression / Grandparents / Poor Man's / Old Money · Social Security at 62 · 401(k) · Compounding rules (8-4-3, 7-5-3-1) · Credit Score Loophole · Banks & Your Income · Emergency Fund · Inheritance · Downsizing · Designer bags · Subscriptions · Silent Fees · Money Lessons Too Late / Brutal Truths · Signs You're Ahead / Better With Money · Quiet Millionaires / Millionaires I've Met · Financial Literacy / Money Roadmap mega-guides.
+
+**Top 3 to start with:** #3 (sandwich generation hits the core 40–60 audience), #6 (scams are highly shareable), #1 (Korea is an unclaimed foreign angle).
 
 ---
 
-## 8. Full script: Video #1
+## 8. Full script: Sample (structure reference)
 
-**Title:** Rich on $50K, Broke on $150K: The 7 Invisible Differences
-**Alt titles:** "Why Some People Earning $50K Are Richer Than People Earning $150K" / "The $150K Paycheck Illusion"
+> ⚠️ **Overlap warning:** After checking all their titles, this topic overlaps their video "Why People on $50,000 Are Quietly Beating People on $150,000 to Wealth" (5.7K views, July 2026). **Don't publish it under this title or topic.** Keep it as a structure reference: the same skeleton (contrast cold open → reframe → 7 points → action plan → callback) can be reused for any fresh topic from section 7.
+
+**Title (do not use):** Rich on $50K, Broke on $150K: The 7 Invisible Differences
 **Thumbnail idea:** Split screen. Left: a stressed character in a big house with a luxury car, labeled "$150K". Right: a calm character with a small house and a piggy bank, labeled "$50K". Big text: "WHO'S RICHER?"
 **Length target:** ~20 min (~3,300 words), calm narration, simple animation.
 
@@ -312,22 +328,22 @@ And freedom, it turns out, is very quiet.
 
 ---
 
-## 9. Hooks for 5 more videos (ready to use)
+## 9. Hooks for 5 fresh videos (ready to use)
 
-**#2: What Korean Parents Teach Kids About Money That American Schools Never Do**
+**#1: What Korean Parents Teach Kids About Money That American Schools Never Do**
 > "In Seoul, there's a money lesson so common that most parents don't even think of it as a lesson. Ask them about it and they'll shrug. Ask most Americans about it and they've never heard of it. Today I'm going to show you what Korean kids learn about money at the kitchen table, and why almost none of it costs anything to teach." *(Verify every cultural claim with a Korean source; avoid stereotypes.)*
 
-**#13: 12 Things Poor People Buy That Rich People Never Do**
-> "There's a grocery store checkout line that tells you almost everything about someone's financial future. Not what's in their cart. How they pay for it, and what they grabbed at the last second. The rich rarely buy the twelve things I'm about to show you. Not because they can't afford them, but because they understand exactly what those things cost."
+**#3: The Sandwich Generation Trap**
+> "Picture a kitchen table on a Sunday night. On one side, a college tuition bill. On the other, a letter from Mom's assisted-living facility. In the middle, a 401(k) statement that hasn't grown in two years. Millions of people in their 40s and 50s are sitting at that exact table right now, and almost nobody planned for it."
 
-**#5: Why Your 30s Decide Whether You Retire at 55 or 75**
-> "Two friends, both thirty-two, both earning the same salary. One will stop working at fifty-five. The other will still be clocking in at seventy-five. Over the next ten years, they'll make almost the same decisions, except for three. Those three decisions are what this video is about."
+**#6: 9 Scams Targeting Retirees Right Now**
+> "The phone rings. It's your grandson. He's crying, he's in trouble, and he needs money in the next hour. Except it isn't your grandson. Today I'll show you nine scams aimed squarely at retirees, and one simple question that shuts down every single one of them."
 
-**#10: Why Renting Can Make You Richer Than Buying**
+**#7: Why Renting Can Make You Richer Than Buying**
 > "Everyone told Sarah she was throwing money away on rent. Ten years later, her friend who bought the house has more square footage. Sarah has more money. A lot more. Here's the math that nobody at the open house will ever show you."
 
-**#9: 10 Signs You're One Bad Month Away From Financial Collapse**
-> "Most financial collapses don't look like collapses from the outside. They look like a nice car, a full calendar, and a tired smile. Today I'll show you ten quiet warning signs. And if you recognize three or more, this might be the most important video you watch this year."
+**#12: The Holiday Spending Hangover**
+> "On December 26th, the decorations are still up, the kids are still excited, and the credit card statement hasn't arrived yet. By the time it does, in late January, most families will have quietly borrowed against the next six months. Here's how that hangover works, and how to skip it this year."
 
 ---
 
