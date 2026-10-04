@@ -123,9 +123,9 @@ Each idea is tied to a proven outlier pattern from this channel.
 | # | Title | Based on pattern |
 |---|---|---|
 | 1 | **Rich on $50K, Broke on $150K: The 7 Invisible Differences** | High Income Poverty Trap (329K) + two-apartment contrast (1.9M) |
-| 2 | 10 Korean Money Habits That Quietly Build Wealth (Americans Never Do These) | Japanese Habits (252K) |
+| 2 | What Korean Parents Teach Kids About Money That American Schools Never Do | Japanese Habits (252K): same "foreign wisdom" angle, different format |
 | 3 | 9 German Money Rules That Make Americans Look Reckless | Foreign habits |
-| 4 | 15 Things That Are No Longer Worth Your Money in 2027 | No Longer Worth It (297K), so publish in Dec 2026 |
+| 4 | Smart Buys in 2020 That Are a Total Waste of Money Now | No Longer Worth It (297K): same "stop buying" demand, "then vs now" angle |
 | 5 | Why Your 30s Decide Whether You Retire at 55 or 75 | Your 40s Decide (291K), for a younger demographic |
 | 6 | Why Your 50s Are Your Last Chance to Fix Retirement (And How to Use It) | Your 40s Decide |
 | 7 | The Middle-Class Trap: Why Hard-Working Families Stay Stuck Forever | High Income Trap |
@@ -314,8 +314,8 @@ And freedom, it turns out, is very quiet.
 
 ## 9. Hooks for 5 more videos (ready to use)
 
-**#2: 10 Korean Money Habits That Quietly Build Wealth**
-> "In Seoul, there's a savings habit so common that most families don't even think of it as a strategy. Ask them about it and they'll shrug. Ask most Americans about it and they've never heard the word. Today I'm going to show you ten money habits from Korea that quietly build wealth, and why almost none of them cost anything to start."
+**#2: What Korean Parents Teach Kids About Money That American Schools Never Do**
+> "In Seoul, there's a money lesson so common that most parents don't even think of it as a lesson. Ask them about it and they'll shrug. Ask most Americans about it and they've never heard of it. Today I'm going to show you what Korean kids learn about money at the kitchen table, and why almost none of it costs anything to teach." *(Verify every cultural claim with a Korean source; avoid stereotypes.)*
 
 **#13: 12 Things Poor People Buy That Rich People Never Do**
 > "There's a grocery store checkout line that tells you almost everything about someone's financial future. Not what's in their cart. How they pay for it, and what they grabbed at the last second. The rich rarely buy the twelve things I'm about to show you. Not because they can't afford them, but because they understand exactly what those things cost."
