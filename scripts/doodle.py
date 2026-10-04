@@ -600,7 +600,7 @@ class Canvas:
         defs = (
             f'<defs><style>@font-face{{font-family:"Hand";src:url(data:font/woff2;base64,{font_b64()}) format("woff2");}}</style>'
             '<filter id="wob" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="4" result="n"/>'
-            '<feDisplacementMap in="SourceGraphic" in2="n" scale="5"/></filter></defs>'
+            '<feDisplacementMap in="SourceGraphic" in2="n" scale="3"/></filter></defs>'
         )
         body = "".join(self.el)
         return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">{defs}'

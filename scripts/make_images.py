@@ -6,7 +6,7 @@ import sys
 sys.path.insert(0, os.path.dirname(__file__))
 from doodle import Canvas  # noqa: E402
 from registry import SCENES, ENV  # noqa: E402
-import scene_defs_1, scene_defs_2, scene_defs_3, scene_defs_4  # noqa: E402,F401
+import scene_defs_1, scene_defs_1b, scene_defs_2, scene_defs_3, scene_defs_4  # noqa: E402,F401
 
 out = os.path.join(os.path.dirname(__file__), "..", "scenes", "svg")
 os.makedirs(out, exist_ok=True)
