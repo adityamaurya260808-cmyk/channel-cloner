@@ -161,7 +161,7 @@ The top comments on the 1.9M video show who is watching:
 2. **The same hook everywhere:** "I want you to picture…" works, but the audience is getting used to it.
 3. **No Shorts strategy** visible. You can use clips of the hooks as Shorts to funnel viewers to long videos.
 4. **Empty description field** (descriptions are blank in the API). This is a weak SEO gap.
-5. **Untouched angles (checked against all ~245 titles):** Korea/Germany/Scandinavia (they did Japan ×4 and Italy ×1), family money (aging parents, sandwich generation, divorce, kids), healthcare costs in retirement and Medicare, scams targeting retirees, pets/weddings/gift costs, AI and job security, and retiring abroad. (Their one story-series attempt, "Millionaires I've Met #1", got only 4.2K, so stories need a stronger hook than they used.)
+5. **Untouched angles (checked against all ~245 titles):** family money (aging parents, sandwich generation, divorce, kids), healthcare costs in retirement and Medicare, scams targeting retirees, pets/weddings/gift costs, AI and job security, and retiring abroad. (Their one story-series attempt, "Millionaires I've Met #1", got only 4.2K, so stories need a stronger hook than they used.)
 
 ---
 
