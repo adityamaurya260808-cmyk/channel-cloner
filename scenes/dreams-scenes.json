@@ -1,0 +1,1127 @@
+[
+  {
+    "scene": 1,
+    "section": "HOOK",
+    "start": 0.0,
+    "duration": 2.8,
+    "narration": "Tonight, you're going to close your eyes,",
+    "visual": "Stick figure lying in bed, eyes closed, dark blue room, moon in window",
+    "prompt": "Stick figure lying in bed, eyes closed, dark blue room, moon in window. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 2,
+    "section": "HOOK",
+    "start": 2.8,
+    "duration": 4.0,
+    "narration": "and within an hour or two, you'll start to dream.",
+    "visual": "Swirly thought-cloud rising above the sleeping figure",
+    "prompt": "Swirly thought-cloud rising above the sleeping figure. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 3,
+    "section": "HOOK",
+    "start": 6.8,
+    "duration": 4.4,
+    "narration": "You'll fly, or fall, or run from something you can't see.",
+    "visual": "Three panels: figure flying, figure falling, figure running from a black blob",
+    "prompt": "Three panels: figure flying, figure falling, figure running from a black blob. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 4,
+    "section": "HOOK",
+    "start": 11.2,
+    "duration": 4.0,
+    "narration": "You might meet someone you haven't thought about in years.",
+    "visual": "Faded grey silhouette of a person with a question mark",
+    "prompt": "Faded grey silhouette of a person with a question mark. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 5,
+    "section": "HOOK",
+    "start": 15.2,
+    "duration": 2.4,
+    "narration": "And it will feel completely real.",
+    "visual": "Figure inside dream bubble, big hand-lettered word REAL",
+    "prompt": "Figure inside dream bubble, big hand-lettered word REAL. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 6,
+    "section": "HOOK",
+    "start": 17.6,
+    "duration": 3.6,
+    "narration": "Then you'll wake up, and it will be gone.",
+    "visual": "Sunrise, figure sitting up, thought bubble dissolving into dots",
+    "prompt": "Sunrise, figure sitting up, thought bubble dissolving into dots. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 7,
+    "section": "HOOK",
+    "start": 21.2,
+    "duration": 4.4,
+    "narration": "Over an average lifetime, you will spend about six years dreaming.",
+    "visual": "Long timeline bar labeled YOUR LIFE with a small yellow slice labeled 6 YEARS",
+    "prompt": "Long timeline bar labeled YOUR LIFE with a small yellow slice labeled 6 YEARS. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 8,
+    "section": "HOOK",
+    "start": 25.6,
+    "duration": 5.6,
+    "narration": "Six years of stories, faces, and places that no one else will ever see.",
+    "visual": "Row of small thought bubbles holding faces and places",
+    "prompt": "Row of small thought bubbles holding faces and places. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 9,
+    "section": "HOOK",
+    "start": 31.2,
+    "duration": 3.2,
+    "narration": "And you will remember almost none of it.",
+    "visual": "Same bubbles fading out, red X over the row",
+    "prompt": "Same bubbles fading out, red X over the row. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 10,
+    "section": "HOOK",
+    "start": 34.4,
+    "duration": 2.8,
+    "narration": "That isn't a flaw in your memory.",
+    "visual": "Brain doodle with red X over the word FLAW",
+    "prompt": "Brain doodle with red X over the word FLAW. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 11,
+    "section": "HOOK",
+    "start": 37.2,
+    "duration": 2.0,
+    "narration": "It's a feature.",
+    "visual": "Same brain with yellow check mark and the word FEATURE",
+    "prompt": "Same brain with yellow check mark and the word FEATURE. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 12,
+    "section": "HOOK",
+    "start": 39.2,
+    "duration": 3.6,
+    "narration": "And the reason why is stranger than you'd think.",
+    "visual": "Stick figure with raised eyebrow, giant question mark",
+    "prompt": "Stick figure with raised eyebrow, giant question mark. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 13,
+    "section": "1. THE DISCOVERY",
+    "start": 42.8,
+    "duration": 4.0,
+    "narration": "For most of history, nobody even knew when dreams happened.",
+    "visual": "Timeline labeled HUMAN HISTORY filled with question marks",
+    "prompt": "Timeline labeled HUMAN HISTORY filled with question marks. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 14,
+    "section": "1. THE DISCOVERY",
+    "start": 46.8,
+    "duration": 3.6,
+    "narration": "Then, in 1953, a graduate student named Eugene Aserinsky",
+    "visual": "Stick figure with glasses holding a clipboard, label 1953",
+    "prompt": "Stick figure with glasses holding a clipboard, label 1953. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 15,
+    "section": "1. THE DISCOVERY",
+    "start": 50.4,
+    "duration": 3.6,
+    "narration": "and his professor, Nathaniel Kleitman, were watching sleeping people",
+    "visual": "Two figures standing beside a bed with a sleeper",
+    "prompt": "Two figures standing beside a bed with a sleeper. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 16,
+    "section": "1. THE DISCOVERY",
+    "start": 54.0,
+    "duration": 2.0,
+    "narration": "at the University of Chicago.",
+    "visual": "Simple building labeled UNIVERSITY OF CHICAGO",
+    "prompt": "Simple building labeled UNIVERSITY OF CHICAGO. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 17,
+    "section": "1. THE DISCOVERY",
+    "start": 56.0,
+    "duration": 2.0,
+    "narration": "They noticed something odd.",
+    "visual": "Magnifying glass over a sleeper's face",
+    "prompt": "Magnifying glass over a sleeper's face. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 18,
+    "section": "1. THE DISCOVERY",
+    "start": 58.0,
+    "duration": 6.4,
+    "narration": "Several times a night, a sleeper's eyes would start darting back and forth under closed lids,",
+    "visual": "Closed eyes with left-right arrows",
+    "prompt": "Closed eyes with left-right arrows. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 19,
+    "section": "1. THE DISCOVERY",
+    "start": 64.4,
+    "duration": 6.0,
+    "narration": "and their brain activity would suddenly look almost the same as when they were awake.",
+    "visual": "Two brainwave squiggles labeled AWAKE and REM, nearly identical",
+    "prompt": "Two brainwave squiggles labeled AWAKE and REM, nearly identical. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 20,
+    "section": "1. THE DISCOVERY",
+    "start": 70.4,
+    "duration": 3.2,
+    "narration": "They called it rapid eye movement sleep. REM.",
+    "visual": "Big text REM = RAPID EYE MOVEMENT",
+    "prompt": "Big text REM = RAPID EYE MOVEMENT. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 21,
+    "section": "1. THE DISCOVERY",
+    "start": 73.6,
+    "duration": 2.4,
+    "narration": "Here's the part that surprised everyone.",
+    "visual": "Surprised stick figure, exclamation marks",
+    "prompt": "Surprised stick figure, exclamation marks. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 22,
+    "section": "1. THE DISCOVERY",
+    "start": 76.0,
+    "duration": 5.6,
+    "narration": "When they woke people during REM, most of them could describe a vivid dream.",
+    "visual": "Alarm bell, sleeper sitting up with a full colorful thought bubble",
+    "prompt": "Alarm bell, sleeper sitting up with a full colorful thought bubble. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 23,
+    "section": "1. THE DISCOVERY",
+    "start": 81.6,
+    "duration": 3.6,
+    "narration": "A few years later, William Dement and Kleitman found",
+    "visual": "Two figures, label 1957",
+    "prompt": "Two figures, label 1957. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 24,
+    "section": "1. THE DISCOVERY",
+    "start": 85.2,
+    "duration": 5.6,
+    "narration": "that people woken from REM sleep reported dreaming around 80 percent of the time.",
+    "visual": "Pie chart, 80% yellow slice",
+    "prompt": "Pie chart, 80% yellow slice. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 25,
+    "section": "1. THE DISCOVERY",
+    "start": 90.8,
+    "duration": 2.0,
+    "narration": "So dreams weren't rare.",
+    "visual": "Figure shaking head, text NOT RARE",
+    "prompt": "Figure shaking head, text NOT RARE. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 26,
+    "section": "1. THE DISCOVERY",
+    "start": 92.8,
+    "duration": 2.0,
+    "narration": "They were happening constantly.",
+    "visual": "Many thought bubbles rising from a sleeper",
+    "prompt": "Many thought bubbles rising from a sleeper. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 27,
+    "section": "1. THE DISCOVERY",
+    "start": 94.8,
+    "duration": 3.6,
+    "narration": "We just weren't carrying them out of the night.",
+    "visual": "Figure leaving a dark doorway into sunlight with an empty basket, bubbles left behind",
+    "prompt": "Figure leaving a dark doorway into sunlight with an empty basket, bubbles left behind. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 28,
+    "section": "1. THE DISCOVERY",
+    "start": 98.4,
+    "duration": 2.0,
+    "narration": "Which raises the real question.",
+    "visual": "Giant yellow question mark",
+    "prompt": "Giant yellow question mark. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 29,
+    "section": "1. THE DISCOVERY",
+    "start": 100.4,
+    "duration": 4.4,
+    "narration": "If your brain can build an entire world while you sleep,",
+    "visual": "Brain building a tiny globe with hammers",
+    "prompt": "Brain building a tiny globe with hammers. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 30,
+    "section": "1. THE DISCOVERY",
+    "start": 104.8,
+    "duration": 2.0,
+    "narration": "why can't it keep it?",
+    "visual": "Globe slipping through open hands",
+    "prompt": "Globe slipping through open hands. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 31,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 106.8,
+    "duration": 2.4,
+    "narration": "Part of the answer is chemistry.",
+    "visual": "Beaker with glowing yellow liquid",
+    "prompt": "Beaker with glowing yellow liquid. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 32,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 109.2,
+    "duration": 5.2,
+    "narration": "During the day, your brain is constantly bathed in a chemical called norepinephrine.",
+    "visual": "Brain sitting in yellow liquid labeled NOREPINEPHRINE",
+    "prompt": "Brain sitting in yellow liquid labeled NOREPINEPHRINE. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 33,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 114.4,
+    "duration": 2.0,
+    "narration": "It's linked to alertness,",
+    "visual": "Wide-eyed awake figure under a sun",
+    "prompt": "Wide-eyed awake figure under a sun. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 34,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 116.4,
+    "duration": 5.6,
+    "narration": "and it plays a major role in helping your brain decide what's worth remembering.",
+    "visual": "Brain sorting items into a box labeled KEEP",
+    "prompt": "Brain sorting items into a box labeled KEEP. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 35,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 122.0,
+    "duration": 2.4,
+    "narration": "When something surprising happens, norepinephrine rises,",
+    "visual": "Startled figure, meter rising",
+    "prompt": "Startled figure, meter rising. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 36,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 124.4,
+    "duration": 2.0,
+    "narration": "and the memory gets stored.",
+    "visual": "Memory folder dropping into a brain",
+    "prompt": "Memory folder dropping into a brain. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 37,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 126.4,
+    "duration": 2.8,
+    "narration": "But during REM sleep, something unusual happens.",
+    "visual": "Moon and sleeping figure with REM tag",
+    "prompt": "Moon and sleeping figure with REM tag. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 38,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 129.2,
+    "duration": 2.0,
+    "narration": "Norepinephrine drops to almost nothing.",
+    "visual": "Meter falling to zero",
+    "prompt": "Meter falling to zero. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 39,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 131.2,
+    "duration": 5.2,
+    "narration": "A small region in the brainstem that normally produces it goes nearly silent.",
+    "visual": "Brain cross-section, brainstem highlighted, figure saying shh",
+    "prompt": "Brain cross-section, brainstem highlighted, figure saying shh. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 40,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 136.4,
+    "duration": 2.0,
+    "narration": "Think about what that means.",
+    "visual": "Figure with finger on chin, thinking",
+    "prompt": "Figure with finger on chin, thinking. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 41,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 138.4,
+    "duration": 3.6,
+    "narration": "You're having the most vivid experiences of your night,",
+    "visual": "Big colorful dream bubble",
+    "prompt": "Big colorful dream bubble. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 42,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 142.0,
+    "duration": 5.2,
+    "narration": "and the chemical that helps your brain write things down is switched off.",
+    "visual": "Pencil with an OFF switch",
+    "prompt": "Pencil with an OFF switch. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 43,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 147.2,
+    "duration": 3.2,
+    "narration": "Your brain is a camera, recording a movie,",
+    "visual": "Camera on tripod with film reel",
+    "prompt": "Camera on tripod with film reel. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 44,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 150.4,
+    "duration": 2.0,
+    "narration": "with the film supply cut.",
+    "visual": "Scissors cutting the film strip",
+    "prompt": "Scissors cutting the film strip. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 45,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 152.4,
+    "duration": 4.0,
+    "narration": "The hippocampus, the region most associated with forming new memories,",
+    "visual": "Seahorse-shaped hippocampus inside a brain, labeled",
+    "prompt": "Seahorse-shaped hippocampus inside a brain, labeled. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 46,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 156.4,
+    "duration": 2.4,
+    "narration": "is also behaving differently during REM.",
+    "visual": "Same seahorse looking sleepy, dimmed",
+    "prompt": "Same seahorse looking sleepy, dimmed. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 47,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 158.8,
+    "duration": 3.2,
+    "narration": "So the dream plays out in real time,",
+    "visual": "Dream bubble with a ticking clock",
+    "prompt": "Dream bubble with a ticking clock. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 48,
+    "section": "2. THE CHEMICAL SWITCH",
+    "start": 162.0,
+    "duration": 6.0,
+    "narration": "but the machinery for saving it is running at a fraction of its normal power.",
+    "visual": "Battery icon at 10 percent",
+    "prompt": "Battery icon at 10 percent. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 49,
+    "section": "3. DREAM TO FORGET",
+    "start": 168.0,
+    "duration": 3.2,
+    "narration": "But some scientists think there's a deeper reason.",
+    "visual": "Scientist figure with a lightbulb",
+    "prompt": "Scientist figure with a lightbulb. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 50,
+    "section": "3. DREAM TO FORGET",
+    "start": 171.2,
+    "duration": 3.2,
+    "narration": "Maybe forgetting dreams isn't a bug at all.",
+    "visual": "Red X over the word BUG",
+    "prompt": "Red X over the word BUG. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 51,
+    "section": "3. DREAM TO FORGET",
+    "start": 174.4,
+    "duration": 2.0,
+    "narration": "In 1983, Francis Crick,",
+    "visual": "Figure labeled 1983 FRANCIS CRICK",
+    "prompt": "Figure labeled 1983 FRANCIS CRICK. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 52,
+    "section": "3. DREAM TO FORGET",
+    "start": 176.4,
+    "duration": 3.6,
+    "narration": "the man who helped discover the structure of DNA,",
+    "visual": "DNA double helix",
+    "prompt": "DNA double helix. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 53,
+    "section": "3. DREAM TO FORGET",
+    "start": 180.0,
+    "duration": 3.6,
+    "narration": "and his colleague Graeme Mitchison, proposed a surprising idea.",
+    "visual": "Two figures sharing a lightbulb",
+    "prompt": "Two figures sharing a lightbulb. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 54,
+    "section": "3. DREAM TO FORGET",
+    "start": 183.6,
+    "duration": 3.6,
+    "narration": "They suggested that we dream in order to forget.",
+    "visual": "Sleeper whose dream bubble says TO FORGET",
+    "prompt": "Sleeper whose dream bubble says TO FORGET. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 55,
+    "section": "3. DREAM TO FORGET",
+    "start": 187.2,
+    "duration": 2.0,
+    "narration": "Their argument went like this.",
+    "visual": "Chalkboard with a stick-figure teacher",
+    "prompt": "Chalkboard with a stick-figure teacher. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 56,
+    "section": "3. DREAM TO FORGET",
+    "start": 189.2,
+    "duration": 4.4,
+    "narration": "During the day, your brain absorbs an enormous amount of information.",
+    "visual": "Brain with many arrows flowing in",
+    "prompt": "Brain with many arrows flowing in. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 57,
+    "section": "3. DREAM TO FORGET",
+    "start": 193.6,
+    "duration": 2.0,
+    "narration": "Some of it is useful.",
+    "visual": "Yellow check marks",
+    "prompt": "Yellow check marks. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 58,
+    "section": "3. DREAM TO FORGET",
+    "start": 195.6,
+    "duration": 4.8,
+    "narration": "A lot of it is noise, random connections that don't mean anything.",
+    "visual": "Tangled grey scribbles",
+    "prompt": "Tangled grey scribbles. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 59,
+    "section": "3. DREAM TO FORGET",
+    "start": 200.4,
+    "duration": 3.6,
+    "narration": "If the brain kept everything, it would become overloaded,",
+    "visual": "Brain stuffed like an overflowing backpack",
+    "prompt": "Brain stuffed like an overflowing backpack. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 60,
+    "section": "3. DREAM TO FORGET",
+    "start": 204.0,
+    "duration": 3.6,
+    "narration": "and useful memories would get buried under useless ones.",
+    "visual": "Gold nugget buried under a junk pile",
+    "prompt": "Gold nugget buried under a junk pile. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 61,
+    "section": "3. DREAM TO FORGET",
+    "start": 207.6,
+    "duration": 5.2,
+    "narration": "So during REM sleep, they proposed, the brain runs a kind of cleanup.",
+    "visual": "Broom sweeping inside a brain",
+    "prompt": "Broom sweeping inside a brain. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 62,
+    "section": "3. DREAM TO FORGET",
+    "start": 212.8,
+    "duration": 2.8,
+    "narration": "It fires off random patterns of activity,",
+    "visual": "Brain with yellow sparks",
+    "prompt": "Brain with yellow sparks. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 63,
+    "section": "3. DREAM TO FORGET",
+    "start": 215.6,
+    "duration": 4.0,
+    "narration": "and in doing so, it weakens weak or unnecessary connections.",
+    "visual": "Thin connection lines fading out",
+    "prompt": "Thin connection lines fading out. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 64,
+    "section": "3. DREAM TO FORGET",
+    "start": 219.6,
+    "duration": 2.0,
+    "narration": "They called it reverse learning.",
+    "visual": "Text REVERSE LEARNING with a rewind arrow",
+    "prompt": "Text REVERSE LEARNING with a rewind arrow. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 65,
+    "section": "3. DREAM TO FORGET",
+    "start": 221.6,
+    "duration": 6.0,
+    "narration": "If that's true, then dreams are the sound of the brain taking out the trash.",
+    "visual": "Figure carrying a trash bag out of a head",
+    "prompt": "Figure carrying a trash bag out of a head. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 66,
+    "section": "3. DREAM TO FORGET",
+    "start": 227.6,
+    "duration": 2.4,
+    "narration": "And you don't keep the trash.",
+    "visual": "Trash can lid closing",
+    "prompt": "Trash can lid closing. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 67,
+    "section": "3. DREAM TO FORGET",
+    "start": 230.0,
+    "duration": 4.4,
+    "narration": "Not every scientist agrees with this theory, and it's still debated.",
+    "visual": "Two scientists, one thumbs up, one thumbs down",
+    "prompt": "Two scientists, one thumbs up, one thumbs down. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 68,
+    "section": "3. DREAM TO FORGET",
+    "start": 234.4,
+    "duration": 2.4,
+    "narration": "But it points to something important.",
+    "visual": "Arrow pointing at a glowing word",
+    "prompt": "Arrow pointing at a glowing word. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 69,
+    "section": "3. DREAM TO FORGET",
+    "start": 236.8,
+    "duration": 2.8,
+    "narration": "Forgetting is not the opposite of memory.",
+    "visual": "Text FORGETTING is not the OPPOSITE of MEMORY",
+    "prompt": "Text FORGETTING is not the OPPOSITE of MEMORY. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 70,
+    "section": "3. DREAM TO FORGET",
+    "start": 239.6,
+    "duration": 2.4,
+    "narration": "It's part of how memory works.",
+    "visual": "Gear labeled FORGETTING inside memory gears",
+    "prompt": "Gear labeled FORGETTING inside memory gears. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 71,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 242.0,
+    "duration": 2.0,
+    "narration": "Now, not everyone forgets equally.",
+    "visual": "Row of five sleepers with different-sized bubbles",
+    "prompt": "Row of five sleepers with different-sized bubbles. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 72,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 244.0,
+    "duration": 3.6,
+    "narration": "Some people wake up every morning with detailed dreams.",
+    "visual": "Figure waking with a huge detailed bubble",
+    "prompt": "Figure waking with a huge detailed bubble. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 73,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 247.6,
+    "duration": 3.2,
+    "narration": "Others say they almost never dream at all.",
+    "visual": "Figure waking with an empty bubble",
+    "prompt": "Figure waking with an empty bubble. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 74,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 250.8,
+    "duration": 2.0,
+    "narration": "And for years, researchers wondered",
+    "visual": "Researcher with a question mark",
+    "prompt": "Researcher with a question mark. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 75,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 252.8,
+    "duration": 3.2,
+    "narration": "whether those two groups simply had different brains.",
+    "visual": "Two brains side by side",
+    "prompt": "Two brains side by side. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 76,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 256.0,
+    "duration": 4.4,
+    "narration": "In 2014, a team led by Perrine Ruby in Lyon, France,",
+    "visual": "Map pin labeled LYON, FRANCE and 2014",
+    "prompt": "Map pin labeled LYON, FRANCE and 2014. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 77,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 260.4,
+    "duration": 5.6,
+    "narration": "scanned the brains of people who recalled dreams often and people who rarely did.",
+    "visual": "Brain scanner machine with a person inside",
+    "prompt": "Brain scanner machine with a person inside. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 78,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 266.0,
+    "duration": 2.0,
+    "narration": "They found real differences.",
+    "visual": "Two brain scans compared, one area circled",
+    "prompt": "Two brain scans compared, one area circled. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 79,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 268.0,
+    "duration": 5.2,
+    "narration": "In the frequent dreamers, an area called the temporoparietal junction was more active,",
+    "visual": "Brain with a glowing highlighted area labeled TPJ",
+    "prompt": "Brain with a glowing highlighted area labeled TPJ. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 80,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 273.2,
+    "duration": 2.4,
+    "narration": "both when awake and during sleep.",
+    "visual": "Sun and moon icons with glow",
+    "prompt": "Sun and moon icons with glow. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 81,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 275.6,
+    "duration": 6.0,
+    "narration": "It's a region involved in processing information from the outside world and shifting your attention.",
+    "visual": "Eye and ear with arrows into a brain",
+    "prompt": "Eye and ear with arrows into a brain. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 82,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 281.6,
+    "duration": 2.0,
+    "narration": "But here's the twist.",
+    "visual": "Twisting spiral arrow",
+    "prompt": "Twisting spiral arrow. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 83,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 283.6,
+    "duration": 5.6,
+    "narration": "The people who remembered more dreams also woke up more often during the night.",
+    "visual": "Sleep graph with small spikes upward",
+    "prompt": "Sleep graph with small spikes upward. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 84,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 289.2,
+    "duration": 2.4,
+    "narration": "About twice as long, in fact.",
+    "visual": "Two bars labeled AWAKE TIME, one twice as tall",
+    "prompt": "Two bars labeled AWAKE TIME, one twice as tall. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 85,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 291.6,
+    "duration": 2.0,
+    "narration": "That's the key.",
+    "visual": "Yellow key icon",
+    "prompt": "Yellow key icon. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 86,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 293.6,
+    "duration": 2.8,
+    "narration": "You don't remember dreams by dreaming harder.",
+    "visual": "Straining figure with a red X",
+    "prompt": "Straining figure with a red X. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 87,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 296.4,
+    "duration": 3.6,
+    "narration": "You remember them by being awake just long enough,",
+    "visual": "Figure with eyes half open",
+    "prompt": "Figure with eyes half open. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 88,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 300.0,
+    "duration": 4.4,
+    "narration": "in just the right moment, for the memory to be saved.",
+    "visual": "Memory folder dropping with a SAVE label",
+    "prompt": "Memory folder dropping with a SAVE label. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 89,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 304.4,
+    "duration": 5.2,
+    "narration": "A dream you wake up inside of is a dream you can keep.",
+    "visual": "Figure cupping a glowing bubble in both hands",
+    "prompt": "Figure cupping a glowing bubble in both hands. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 90,
+    "section": "4. THE PEOPLE WHO REMEMBER",
+    "start": 309.6,
+    "duration": 3.6,
+    "narration": "A dream you sleep straight through is gone forever.",
+    "visual": "Bubble popping into dust",
+    "prompt": "Bubble popping into dust. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 91,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 313.2,
+    "duration": 4.0,
+    "narration": "For thousands of years, people believed forgotten dreams meant something.",
+    "visual": "Ancient scroll with an eye symbol",
+    "prompt": "Ancient scroll with an eye symbol. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 92,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 317.2,
+    "duration": 2.0,
+    "narration": "Ancient Egyptians wrote dream books.",
+    "visual": "Egyptian-style figure holding a papyrus",
+    "prompt": "Egyptian-style figure holding a papyrus. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 93,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 319.2,
+    "duration": 2.8,
+    "narration": "The Greeks built temples for dream healing.",
+    "visual": "Temple columns with a sleeper inside",
+    "prompt": "Temple columns with a sleeper inside. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 94,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 322.0,
+    "duration": 3.6,
+    "narration": "In 1899, Sigmund Freud published The Interpretation of Dreams,",
+    "visual": "Book cover with label 1899",
+    "prompt": "Book cover with label 1899. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 95,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 325.6,
+    "duration": 3.6,
+    "narration": "arguing that dreams were disguised wishes from the unconscious,",
+    "visual": "Figure wearing a mask inside a bubble",
+    "prompt": "Figure wearing a mask inside a bubble. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 96,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 329.2,
+    "duration": 6.0,
+    "narration": "and that forgetting them was the mind's way of protecting you from your own secrets.",
+    "visual": "Locked box inside a head",
+    "prompt": "Locked box inside a head. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 97,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 335.2,
+    "duration": 2.4,
+    "narration": "Today, most researchers see it differently.",
+    "visual": "Figure shaking head",
+    "prompt": "Figure shaking head. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 98,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 337.6,
+    "duration": 3.6,
+    "narration": "In 1977, J. Allan Hobson and Robert McCarley proposed",
+    "visual": "Two figures, label 1977",
+    "prompt": "Two figures, label 1977. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 99,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 341.2,
+    "duration": 3.6,
+    "narration": "that dreams begin as random signals from the brainstem,",
+    "visual": "Zigzag signals rising from the brainstem",
+    "prompt": "Zigzag signals rising from the brainstem. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 100,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 344.8,
+    "duration": 4.8,
+    "narration": "and the forebrain does its best to stitch them into a story.",
+    "visual": "Needle and thread stitching scribbles into a story",
+    "prompt": "Needle and thread stitching scribbles into a story. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 101,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 349.6,
+    "duration": 3.2,
+    "narration": "That's why dreams jump from place to place,",
+    "visual": "Arrows hopping beach, school, space",
+    "prompt": "Arrows hopping beach, school, space. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 102,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 352.8,
+    "duration": 6.0,
+    "narration": "and why a person can be your teacher and your cousin at the same time.",
+    "visual": "One figure drawn half teacher, half cousin",
+    "prompt": "One figure drawn half teacher, half cousin. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 103,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 358.8,
+    "duration": 3.2,
+    "narration": "Whether dreams carry hidden meaning is still debated.",
+    "visual": "Balance scale with a question mark",
+    "prompt": "Balance scale with a question mark. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 104,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 362.0,
+    "duration": 2.0,
+    "narration": "But one thing is clear.",
+    "visual": "Raised finger",
+    "prompt": "Raised finger. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 105,
+    "section": "5. A HISTORY OF GETTING IT WRONG",
+    "start": 364.0,
+    "duration": 6.0,
+    "narration": "Whatever the mystery of the dream, the forgetting is a matter of biology, not secrets.",
+    "visual": "Open lock beside the word BIOLOGY",
+    "prompt": "Open lock beside the word BIOLOGY. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 106,
+    "section": "6. HOW TO KEEP THEM",
+    "start": 370.0,
+    "duration": 4.4,
+    "narration": "If you want to remember more, the research is surprisingly practical.",
+    "visual": "Clipboard checklist",
+    "prompt": "Clipboard checklist. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 107,
+    "section": "6. HOW TO KEEP THEM",
+    "start": 374.4,
+    "duration": 2.4,
+    "narration": "Keep a notebook beside your bed.",
+    "visual": "Nightstand with a notebook and pen",
+    "prompt": "Nightstand with a notebook and pen. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 108,
+    "section": "6. HOW TO KEEP THEM",
+    "start": 376.8,
+    "duration": 6.0,
+    "narration": "The moment you wake up, before you look at your phone, before you stand up,",
+    "visual": "Phone and feet each with a red X",
+    "prompt": "Phone and feet each with a red X. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 109,
+    "section": "6. HOW TO KEEP THEM",
+    "start": 382.8,
+    "duration": 3.2,
+    "narration": "stay still and write down whatever you have,",
+    "visual": "Figure lying in bed writing",
+    "prompt": "Figure lying in bed writing. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 110,
+    "section": "6. HOW TO KEEP THEM",
+    "start": 386.0,
+    "duration": 4.0,
+    "narration": "even if it's just a feeling or a single image.",
+    "visual": "Notebook page with one scribble and a heart",
+    "prompt": "Notebook page with one scribble and a heart. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 111,
+    "section": "6. HOW TO KEEP THEM",
+    "start": 390.0,
+    "duration": 4.8,
+    "narration": "Studies of people who keep dream journals suggest recall improves with practice.",
+    "visual": "Rising line graph labeled DAYS",
+    "prompt": "Rising line graph labeled DAYS. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 112,
+    "section": "6. HOW TO KEEP THEM",
+    "start": 394.8,
+    "duration": 2.4,
+    "narration": "Don't open your eyes right away.",
+    "visual": "Closed eyes",
+    "prompt": "Closed eyes. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 113,
+    "section": "6. HOW TO KEEP THEM",
+    "start": 397.2,
+    "duration": 4.8,
+    "narration": "The moment you start thinking about your day, the dream starts dissolving.",
+    "visual": "To-do list replacing a fading bubble",
+    "prompt": "To-do list replacing a fading bubble. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 114,
+    "section": "6. HOW TO KEEP THEM",
+    "start": 402.0,
+    "duration": 2.4,
+    "narration": "And don't worry if nothing comes.",
+    "visual": "Relaxed shrugging figure",
+    "prompt": "Relaxed shrugging figure. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 115,
+    "section": "6. HOW TO KEEP THEM",
+    "start": 404.4,
+    "duration": 2.0,
+    "narration": "Everyone dreams.",
+    "visual": "Row of different people sleeping with bubbles",
+    "prompt": "Row of different people sleeping with bubbles. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 116,
+    "section": "6. HOW TO KEEP THEM",
+    "start": 406.4,
+    "duration": 2.0,
+    "narration": "You're just not catching them.",
+    "visual": "Net missing a flock of butterflies",
+    "prompt": "Net missing a flock of butterflies. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 117,
+    "section": "ENDING",
+    "start": 408.4,
+    "duration": 3.6,
+    "narration": "So tonight, when you fall asleep, remember what's happening.",
+    "visual": "Figure in bed, moon outside",
+    "prompt": "Figure in bed, moon outside. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 118,
+    "section": "ENDING",
+    "start": 412.0,
+    "duration": 4.0,
+    "narration": "For about two hours, your brain will build entire worlds,",
+    "visual": "Small planets rising out of a sleeping head",
+    "prompt": "Small planets rising out of a sleeping head. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 119,
+    "section": "ENDING",
+    "start": 416.0,
+    "duration": 4.4,
+    "narration": "with no chemical to save them, and no one to watch.",
+    "visual": "Empty theater seats facing a glowing dream",
+    "prompt": "Empty theater seats facing a glowing dream. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 120,
+    "section": "ENDING",
+    "start": 420.4,
+    "duration": 3.6,
+    "narration": "You'll live in them, and you'll leave them behind.",
+    "visual": "Figure walking out of a bubble world",
+    "prompt": "Figure walking out of a bubble world. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 121,
+    "section": "ENDING",
+    "start": 424.0,
+    "duration": 4.4,
+    "narration": "Six years of your life, spent in places that never existed,",
+    "visual": "Timeline slice labeled 6 YEARS with empty planets",
+    "prompt": "Timeline slice labeled 6 YEARS with empty planets. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 122,
+    "section": "ENDING",
+    "start": 428.4,
+    "duration": 2.8,
+    "narration": "with people who were only ever you.",
+    "visual": "Crowd of faces all drawn as the same stick figure",
+    "prompt": "Crowd of faces all drawn as the same stick figure. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 123,
+    "section": "ENDING",
+    "start": 431.2,
+    "duration": 3.6,
+    "narration": "And the strangest part isn't that you forget them.",
+    "visual": "Red X over the word FORGET",
+    "prompt": "Red X over the word FORGET. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 124,
+    "section": "ENDING",
+    "start": 434.8,
+    "duration": 3.2,
+    "narration": "It's that you wake up the next morning,",
+    "visual": "Sunrise, figure waking up",
+    "prompt": "Sunrise, figure waking up. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  },
+  {
+    "scene": 125,
+    "section": "ENDING",
+    "start": 438.0,
+    "duration": 2.8,
+    "narration": "and you were there the whole time.",
+    "visual": "Figure silhouette smiling inside a faded dream bubble",
+    "prompt": "Figure silhouette smiling inside a faded dream bubble. Hand-drawn 2D doodle, simple stick figures with black outlines, flat marker-style fills, deep night-blue background, golden-yellow accent, red for emphasis, bold hand-written sans-serif labels, 16:9, minimal, no shading"
+  }
+]
