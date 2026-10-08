@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Channel Studio</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="topbar">
+  <h1>Channel Studio</h1>
+  <div class="row">
+    <select id="project-select" aria-label="Project"></select>
+    <button id="btn-new">New video</button>
+    <button id="btn-delete" class="ghost danger" title="Delete this project">Delete</button>
+  </div>
+  <span id="flow-status" class="pill">Checking Flow…</span>
+</header>
+
+<main>
+  <section class="grid-2">
+    <div class="panel">
+      <h2><span class="step">1</span>Script</h2>
+      <label for="title">Video title</label>
+      <input id="title" type="text">
+
+      <label for="script">Your script</label>
+      <textarea id="script" rows="14" placeholder="Write your narration here.&#10;&#10;A blank line starts a new paragraph. In 'One scene per paragraph' mode each paragraph is one scene.&#10;&#10;Want a specific picture for a paragraph? Add a line like:&#10;IMAGE: an old lighthouse in a storm at night"></textarea>
+      <p class="hint"><span id="script-stats">0 words</span> · about <span id="script-minutes">0</span> min of narration</p>
+
+      <div class="row fields">
+        <div>
+          <label for="split-mode">Scenes</label>
+          <select id="split-mode">
+            <option value="auto">Auto: a new scene every ~2 sentences</option>
+            <option value="paragraph">One scene per paragraph</option>
+          </select>
+        </div>
+        <button id="btn-split" class="primary">Make scenes</button>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2><span class="step">⚙</span>Look and sound</h2>
+      <label for="style">Visual style (added to every image prompt)</label>
+      <input id="style" type="text">
+      <label for="character">Recurring character or setting (optional)</label>
+      <input id="character" type="text" placeholder="e.g. a young explorer with a red scarf and brown backpack">
+
+      <div class="row fields">
+        <div>
+          <label for="voice">Voice</label>
+          <select id="voice"></select>
+        </div>
+        <div>
+          <label for="rate">Speed</label>
+          <select id="rate">
+            <option value="-10%">Slower</option>
+            <option value="+0%">Normal</option>
+            <option value="+10%">Faster</option>
+          </select>
+        </div>
+        <button id="btn-preview" class="ghost">▶ Preview</button>
+      </div>
+
+      <div class="row fields">
+        <div>
+          <label for="format">Format</label>
+          <select id="format">
+            <option value="landscape">YouTube 16:9 · 1080p</option>
+            <option value="landscape-1440">YouTube 16:9 · 1440p</option>
+            <option value="shorts">Shorts 9:16 · 1080p</option>
+          </select>
+        </div>
+        <div>
+          <label for="speed">Flow speed</label>
+          <select id="speed">
+            <option value="slow">Slow (most reliable)</option>
+            <option value="balanced">Balanced</option>
+            <option value="fast">Fast</option>
+          </select>
+        </div>
+      </div>
+      <p id="format-hint" class="hint">In Flow, set the aspect ratio to 16:9 for this format.</p>
+
+      <label class="check"><input id="captions" type="checkbox"> Burn in captions</label>
+      <label>Background music (optional)</label>
+      <div class="row">
+        <button id="btn-music" class="ghost">Choose audio file</button>
+        <input id="music-file" type="file" accept="audio/*" hidden>
+        <span id="music-name" class="hint">None</span>
+        <button id="btn-music-remove" class="ghost small" hidden>Remove</button>
+        <label class="check" id="use-music-wrap" hidden><input id="use-music" type="checkbox"> Use it</label>
+      </div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="row between">
+      <h2><span class="step">2</span>Scenes <span id="scene-count" class="hint"></span></h2>
+      <div class="row">
+        <button id="btn-generate" class="primary">Generate missing images</button>
+        <button id="btn-stop" class="ghost">Stop</button>
+      </div>
+    </div>
+    <p class="hint">Keep a Google Flow project open in another tab of this browser, in image mode. Click any picture under a scene to use it instead.</p>
+    <div id="scenes" class="scenes"></div>
+  </section>
+
+  <section class="panel">
+    <div class="row between">
+      <h2><span class="step">3</span>Render</h2>
+      <button id="btn-render" class="primary">Render video</button>
+    </div>
+    <div id="render-progress" class="progress" hidden>
+      <div class="bar"><div id="render-fill" class="fill"></div></div>
+      <span id="render-stage" class="hint"></span>
+    </div>
+    <p id="render-error" class="error" hidden></p>
+    <div id="video-wrap" hidden>
+      <video id="video" controls preload="metadata"></video>
+      <a id="video-download" class="button primary" download>Download MP4</a>
+    </div>
+  </section>
+</main>
+
+<div id="toast" class="toast" hidden></div>
+
+<template id="scene-template">
+  <article class="scene">
+    <div class="scene-media">
+      <div class="scene-image"></div>
+      <div class="choices"></div>
+    </div>
+    <div class="scene-body">
+      <div class="row between">
+        <strong class="scene-num"></strong>
+        <span class="scene-status hint"></span>
+      </div>
+      <label>Narration</label>
+      <textarea class="scene-text" rows="3"></textarea>
+      <label>Image prompt</label>
+      <textarea class="scene-prompt" rows="2"></textarea>
+      <div class="row">
+        <button class="ghost small act-regen">Regenerate</button>
+        <button class="ghost small act-upload">Upload image</button>
+        <input type="file" accept="image/png,image/jpeg,image/webp" class="upload-input" hidden>
+        <button class="ghost small danger act-delete">Delete</button>
+      </div>
+    </div>
+  </article>
+</template>
+
+<script src="/flowpilot-client.js"></script>
+<script src="/static/app.js"></script>
+</body>
+</html>
