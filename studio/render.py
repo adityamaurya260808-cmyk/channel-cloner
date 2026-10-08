@@ -7,6 +7,7 @@ captions burned in and optional background music mixed under the voice.
 import asyncio
 import hashlib
 import math
+import shutil
 import subprocess
 from pathlib import Path
 
@@ -38,8 +39,16 @@ VOICES = [
 ]
 
 
+FFMPEG_HINT = ('Install it to render videos (Mac: brew install ffmpeg, Windows: winget install ffmpeg), '
+               'then restart the studio.')
+
+
 class RenderError(Exception):
     pass
+
+
+def missing_tools():
+    return [t for t in ('ffmpeg', 'ffprobe') if not shutil.which(t)]
 
 
 def run(cmd, cwd=None):
@@ -163,6 +172,8 @@ def render_scene(image, audio, seconds, out, width, height, index):
 
 def render_project(project_dir, project, progress=lambda stage, done, total: None):
     """Renders project_dir/video.mp4 from the project's scenes and returns its path."""
+    if missing_tools():
+        raise RenderError(f'FFmpeg is not installed. {FFMPEG_HINT}')
     project_dir = Path(project_dir)
     width, height = FORMATS.get(project.get('format'), FORMATS['landscape'])
     voice = project.get('voice') or VOICES[0][0]

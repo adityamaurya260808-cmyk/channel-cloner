@@ -11,9 +11,8 @@ if ! command -v python3 >/dev/null 2>&1; then
   exit 1
 fi
 if ! command -v ffmpeg >/dev/null 2>&1; then
-  echo "FFmpeg is not installed."
+  echo "Note: FFmpeg is not installed yet, so the studio opens but cannot render videos."
   echo "On a Mac, install Homebrew from https://brew.sh, then run:  brew install ffmpeg"
-  exit 1
 fi
 
 if [ ! -x .venv/bin/python ]; then

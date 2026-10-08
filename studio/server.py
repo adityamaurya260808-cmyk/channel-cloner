@@ -329,9 +329,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument('--port', type=int, default=8770)
     args = parser.parse_args()
-    for tool in ('ffmpeg', 'ffprobe'):
-        if not shutil.which(tool):
-            raise SystemExit(f'{tool} not found. Install FFmpeg first (see studio/README.md).')
+    if render.missing_tools():
+        print(f'Note: FFmpeg not found. {render.FFMPEG_HINT} You can still write scripts and make images.')
     PROJECTS.mkdir(exist_ok=True)
     try:
         server = ThreadingHTTPServer(('127.0.0.1', args.port), Handler)
