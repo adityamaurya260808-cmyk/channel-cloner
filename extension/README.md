@@ -25,12 +25,36 @@ No login, no server, no paid plan: everything runs in your browser, on your own 
 
 The **Queue** tab shows each prompt's status. **Retry failed** re-queues failed prompts. **Logs** shows what happened.
 
+## Use from your own website
+
+Your site can send prompts to FlowPilot and get the results back, using your
+own Flow account in the same browser. Nothing goes through a server.
+
+1. Reload FlowPilot in `chrome://extensions` after updating (version 0.2.0+).
+2. Keep a Flow project open in a tab, set to the mode, model and aspect ratio you want.
+3. Serve your site from `http://localhost` or `http://127.0.0.1` (any port) and load
+   [`web/flowpilot-client.js`](../web/flowpilot-client.js) on it. To try the demo:
+   `cd web && python3 -m http.server 8765`, then open http://localhost:8765.
+
+```js
+const results = await FlowPilot.generate(['a red fox in snow'], { mode: 'image', speed: 'balanced' });
+// results[0].outputs[0].url is a data: URL you can show or upload
+```
+
+To use another address (for example a site you host), add it to the `bridge.js`
+entry's `matches` in `manifest.json` and reload the extension. Any page on those
+addresses can queue prompts on your Flow account, so list only sites you control.
+
+Prompts from a website are not saved to Downloads; the site receives the files instead.
+Images arrive as `data:` URLs; videos keep their Flow URL.
+
 ## How it works
 
 - `content.js` types each prompt into Flow's prompt box and clicks Flow's own create button,
   just as you would by hand. It does not call Google's APIs itself.
 - `page-hook.js` reads Flow's responses to spot finished images and videos.
 - `background.js` saves them with `chrome.downloads`.
+- `bridge.js` runs on your website and relays its requests to the Flow tab and the results back.
 
 ## Limitations
 

@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FlowPilot Studio</title>
+  <style>
+    :root {
+      --bg: #f6f7f9; --panel: #ffffff; --text: #16181d; --muted: #6b7280; --line: #e3e6eb;
+      --accent: #2563eb; --accent-text: #ffffff; --ok: #15803d; --warn: #b45309; --bad: #b91c1c;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #111317; --panel: #1a1d23; --text: #e8eaee; --muted: #9aa1ad; --line: #2b2f37;
+        --accent: #4f8cff; --accent-text: #0b0d10; --ok: #4ade80; --warn: #fbbf24; --bad: #f87171;
+      }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 system-ui, sans-serif; }
+    main { max-width: 1100px; margin: 0 auto; padding: 24px 16px 48px; }
+    header { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 20px; }
+    h1 { font-size: 20px; margin: 0; }
+    .pill { font-size: 13px; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); }
+    .pill.on { color: var(--ok); border-color: currentColor; }
+    .pill.off { color: var(--bad); border-color: currentColor; }
+    .panel { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 16px; }
+    label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 6px; }
+    textarea, select { width: 100%; font: inherit; color: var(--text); background: var(--bg);
+      border: 1px solid var(--line); border-radius: 8px; padding: 10px; }
+    textarea { min-height: 140px; resize: vertical; }
+    .row { display: flex; gap: 12px; flex-wrap: wrap; align-items: end; margin-top: 12px; }
+    .row > div { flex: 1 1 140px; }
+    button { font: inherit; padding: 10px 18px; border-radius: 8px; border: 1px solid var(--line);
+      background: var(--panel); color: var(--text); cursor: pointer; }
+    button.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-text); }
+    button:disabled { opacity: .5; cursor: default; }
+    .hint { color: var(--muted); font-size: 13px; margin: 10px 0 0; }
+    .error { color: var(--bad); }
+    #results { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; margin-top: 20px; }
+    .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+    .card .media { display: grid; gap: 2px; background: var(--line); }
+    .card img, .card video { width: 100%; display: block; background: var(--bg); }
+    .card .body { padding: 10px 12px; }
+    .card .prompt { font-size: 14px; margin: 0 0 6px; overflow-wrap: anywhere; }
+    .card .meta { display: flex; justify-content: space-between; gap: 8px; font-size: 13px; }
+    .st-pending, .st-generating { color: var(--warn); }
+    .st-done { color: var(--ok); }
+    .st-failed { color: var(--bad); }
+    .card a { color: var(--accent); }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>FlowPilot Studio</h1>
+    <span id="status" class="pill">Checking…</span>
+  </header>
+
+  <section class="panel">
+    <label for="prompts">Prompts (one per line)</label>
+    <textarea id="prompts" placeholder="A red fox in the snow, cinematic&#10;A city skyline at night, neon lights"></textarea>
+    <div class="row">
+      <div>
+        <label for="mode">Mode (match Flow)</label>
+        <select id="mode"><option value="image">Image</option><option value="video">Video</option></select>
+      </div>
+      <div>
+        <label for="speed">Speed</label>
+        <select id="speed">
+          <option value="slow">Slow: one at a time</option>
+          <option value="balanced" selected>Balanced: 2 at once</option>
+          <option value="fast">Fast: 4 at once</option>
+        </select>
+      </div>
+      <button id="generate" class="primary">Generate</button>
+      <button id="stop">Stop</button>
+    </div>
+    <p id="message" class="hint">Keep a Google Flow project open in another tab of this browser, set to the model and aspect ratio you want.</p>
+  </section>
+
+  <section id="results"></section>
+</main>
+
+<script src="flowpilot-client.js"></script>
+<script>
+  const $ = (id) => document.getElementById(id);
+  const LABEL = { pending: 'Queued', generating: 'Generating…', done: 'Done', failed: 'Failed' };
+
+  async function refreshStatus() {
+    const s = await FlowPilot.status();
+    const pill = $('status');
+    if (!s.ok) { pill.textContent = 'Not connected'; pill.className = 'pill off'; pill.title = s.error; }
+    else if (!s.hasEditor) { pill.textContent = 'Open a Flow project'; pill.className = 'pill off'; pill.title = ''; }
+    else { pill.textContent = s.running ? 'Flow busy' : 'Flow connected'; pill.className = 'pill on'; pill.title = ''; }
+    return s;
+  }
+
+  function el(tag, cls, text) {
+    const node = document.createElement(tag);
+    if (cls) node.className = cls;
+    if (text != null) node.textContent = text;
+    return node;
+  }
+
+  function renderCard(card, r, n) {
+    const media = el('div', 'media');
+    r.outputs.forEach((out) => {
+      const m = out.kind === 'video' ? el('video') : el('img');
+      m.src = out.url;
+      if (out.kind === 'video') m.controls = true; else m.alt = r.prompt;
+      media.append(m);
+    });
+    const meta = el('div', 'meta');
+    const st = el('span', `st-${r.status}`, LABEL[r.status] || r.status);
+    meta.append(st);
+    const links = el('span');
+    r.outputs.forEach((out, i) => {
+      const a = el('a', null, r.outputs.length > 1 ? `Save ${i + 1}` : 'Save');
+      a.href = out.url;
+      const ext = out.kind === 'video' ? 'mp4' : out.url.startsWith('data:image/png') ? 'png' : 'jpg';
+      a.download = `${String(n).padStart(3, '0')}${r.outputs.length > 1 ? `-${i + 1}` : ''}.${ext}`;
+      a.target = '_blank';
+      links.append(a, ' ');
+    });
+    meta.append(links);
+    const body = el('div', 'body');
+    body.append(el('p', 'prompt', r.prompt), meta);
+    if (r.error) body.append(el('p', 'hint error', r.error));
+    card.replaceChildren(...(r.outputs.length ? [media] : []), body);
+  }
+
+  $('generate').addEventListener('click', async () => {
+    const prompts = $('prompts').value.split('\n').map((l) => l.trim()).filter(Boolean);
+    if (!prompts.length) { $('message').textContent = 'Add at least one prompt.'; return; }
+
+    const cards = prompts.map(() => el('article', 'card'));
+    const base = $('results').children.length;
+    prompts.forEach((p, i) => renderCard(cards[i], { prompt: p, status: 'pending', outputs: [] }, base + i + 1));
+    $('results').prepend(...cards);
+    $('message').className = 'hint';
+    $('message').textContent = `Sending ${prompts.length} prompt${prompts.length > 1 ? 's' : ''} to Flow…`;
+
+    try {
+      const results = await FlowPilot.generate(prompts, {
+        mode: $('mode').value,
+        speed: $('speed').value,
+        onUpdate: (i, r) => renderCard(cards[i], r, base + i + 1),
+      });
+      const failed = results.filter((r) => r.status === 'failed').length;
+      $('message').textContent = `Finished: ${results.length - failed} done, ${failed} failed.`;
+    } catch (e) {
+      cards.forEach((c) => c.remove());
+      $('message').className = 'hint error';
+      $('message').textContent = e.message;
+    }
+  });
+
+  $('stop').addEventListener('click', async () => {
+    const res = await FlowPilot.stop();
+    $('message').className = res.ok ? 'hint' : 'hint error';
+    $('message').textContent = res.ok ? 'Stopped. Prompts already sent to Flow may still finish.' : res.error;
+  });
+
+  refreshStatus();
+  setInterval(refreshStatus, 4000);
+</script>
+</body>
+</html>

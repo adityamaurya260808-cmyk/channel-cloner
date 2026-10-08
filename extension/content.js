@@ -31,6 +31,21 @@
     save();
   }
 
+  // Prompts queued from your website carry a ref; their progress goes back
+  // to that site through background.js and bridge.js.
+  function notifyWeb(item, event) {
+    if (!item.ref) return;
+    chrome.runtime.sendMessage({ type: 'FP_WEB_RESULT', ref: item.ref, event }).catch(() => {});
+  }
+
+  function markFailed(item, error, logMsg = `#${item.n} failed: ${error}`) {
+    item.status = 'failed';
+    item.error = error;
+    log(logMsg, 'error');
+    notifyWeb(item, { status: 'failed', error });
+    save();
+  }
+
   // ---------- Flow page helpers ----------
 
   function findEditor() {
@@ -112,6 +127,7 @@
     item.submittedAt = Date.now();
     lastSubmitAt = Date.now();
     log(`Sent #${item.n}: ${item.prompt.slice(0, 60)}`);
+    notifyWeb(item, { status: 'generating' });
     save();
   }
 
@@ -123,12 +139,10 @@
       if (now - item.submittedAt > limit) {
         if (item.outputs.length) {
           item.status = 'done';
+          save();
         } else {
-          item.status = 'failed';
-          item.error = 'Timed out waiting for result';
-          log(`#${item.n} timed out`, 'error');
+          markFailed(item, 'Timed out waiting for result', `#${item.n} timed out`);
         }
-        save();
       }
     }
   }
@@ -157,9 +171,7 @@
             await submit(next);
             failStreak = 0;
           } catch (e) {
-            next.status = 'failed';
-            next.error = e.message;
-            log(`#${next.n} failed: ${e.message}`, 'error');
+            markFailed(next, e.message);
             if (++failStreak >= 3) {
               state.running = false;
               log('Stopped after 3 failures in a row. Check the Flow tab.', 'error');
@@ -236,14 +248,18 @@
   }
 
   function addOutputs(item, mediaList) {
+    const fresh = [];
     for (const media of mediaList) {
       const key = mediaKey(media.url);
       if (seenMedia.has(key)) continue;
       seenMedia.add(key);
       item.outputs.push(media.url.startsWith('data:') ? 'inline-image' : media.url);
       item.status = 'done';
-      downloadMedia(item, media);
+      fresh.push(media);
+      // Website prompts get their files through the bridge, not Downloads.
+      if (!item.ref) downloadMedia(item, media);
     }
+    if (fresh.length) notifyWeb(item, { status: 'done', outputs: fresh });
     save();
   }
 
@@ -251,10 +267,7 @@
     if (status >= 400) {
       const item = itemForRequest(body, kind === 'image' ? 'image' : 'video');
       if (item && kind !== 'video-status') {
-        item.status = 'failed';
-        item.error = data?.error?.message || `Flow returned HTTP ${status}`;
-        log(`#${item.n} failed: ${item.error}`, 'error');
-        save();
+        markFailed(item, data?.error?.message || `Flow returned HTTP ${status}`);
       }
       return;
     }
@@ -287,9 +300,7 @@
       } else if (/FAILED/.test(op?.status || '')) {
         item.failedOps = (item.failedOps || 0) + 1;
         if (item.failedOps >= (item.opNames?.length || 1) && !item.outputs.length) {
-          item.status = 'failed';
-          item.error = 'Flow reported the video failed';
-          log(`#${item.n} video failed`, 'error');
+          markFailed(item, 'Flow reported the video failed', `#${item.n} video failed`);
         }
         save();
       }
@@ -317,8 +328,10 @@
         state.speed = msg.speed || state.speed;
         state.mode = msg.mode || state.mode;
         let n = state.items.reduce((m, i) => Math.max(m, i.n), 0);
-        for (const prompt of msg.prompts || []) {
-          state.items.push({ n: ++n, prompt, mode: state.mode, status: 'pending', outputs: [] });
+        // Prompts are plain strings from the side panel, { prompt, ref } from a website.
+        for (const entry of msg.prompts || []) {
+          const { prompt, ref } = typeof entry === 'string' ? { prompt: entry } : entry;
+          state.items.push({ n: ++n, prompt, ref, mode: state.mode, status: 'pending', outputs: [] });
         }
         if (!state.items.some((i) => i.status === 'pending')) {
           sendResponse({ ok: false, error: 'No prompts in the queue' });
