@@ -333,7 +333,11 @@ def main():
         if not shutil.which(tool):
             raise SystemExit(f'{tool} not found. Install FFmpeg first (see studio/README.md).')
     PROJECTS.mkdir(exist_ok=True)
-    server = ThreadingHTTPServer(('127.0.0.1', args.port), Handler)
+    try:
+        server = ThreadingHTTPServer(('127.0.0.1', args.port), Handler)
+    except OSError:
+        raise SystemExit(f'Port {args.port} is already in use. Is the studio already running? '
+                         f'Otherwise start it on another port: --port {args.port + 10}')
     print(f'Channel Studio running at http://localhost:{args.port}  (Ctrl+C to stop)')
     try:
         server.serve_forever()

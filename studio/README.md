@@ -14,13 +14,16 @@ Everything runs on your machine. Projects are saved in `studio/projects/`.
 ## Setup (once)
 
 1. Install **Python 3.9+** and **FFmpeg** (`ffmpeg -version` must work in a terminal).
-   - Windows: `winget install ffmpeg` · macOS: `brew install ffmpeg` · Ubuntu: `sudo apt install ffmpeg`
-2. In this folder: `pip install -r requirements.txt`
-3. Install the FlowPilot extension from [`../extension`](../extension) (version 0.2.0 or later).
+   - macOS: install [Homebrew](https://brew.sh), then `brew install ffmpeg` · Windows: `winget install ffmpeg` · Ubuntu: `sudo apt install ffmpeg`
+2. Install the FlowPilot extension from [`../extension`](../extension) (version 0.2.0 or later).
 
 ## Use
 
-1. Start the studio: `python3 server.py` (on Windows: `python server.py`), then open http://localhost:8770.
+1. Start the studio and keep that terminal window open while you work:
+   - **macOS / Linux**: in Terminal, go to this folder and run `bash start.sh`.
+     The first run sets up the Python packages; it opens http://localhost:8770 for you.
+   - **Windows**: in this folder run `python -m pip install -r requirements.txt` once, then `python server.py`,
+     and open http://localhost:8770.
 2. Open a Google Flow project in another tab of the same browser. Set it to **image** mode, your model,
    and the aspect ratio that matches your video format (16:9, or 9:16 for Shorts).
    The studio's top-right badge should say **Flow connected**.
