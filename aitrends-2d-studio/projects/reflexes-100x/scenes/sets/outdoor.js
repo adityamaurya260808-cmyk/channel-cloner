@@ -57,11 +57,11 @@ export function park(g, t, cam, o = {}) {
 // school gate (golden afternoon): brick wall, iron gate, school building behind, trees
 export function gate(g, t, cam, o = {}) {
   const M = mood(o.mood || 'golden'), GY = GYd(), CX = E.W / 2;
-  layer(g, cam, 0.12, (g) => { backdrop(g, M.sky); FX.sun(g, CX + V(520, 220), GY - V(420, 820), 60, '#fff3dc', M.key, 5); });
+  layer(g, cam, 0.12, (g) => { backdrop(g, M.sky); FX.sun(g, CX + V(420, 220), GY - V(470, 820), 70, '#fff3dc', M.key, 6); FX.godRays(g, CX + V(420, 220), GY - V(470, 820), { count: 10, angle: Math.PI / 2 + 0.4, spread: 2.2, len: 1600, a: 0.06, t }); FX.clouds(g, { y: V(80, 200), h: 160, color: '#ffe7c7', a: 0.14, seed: 12 }); });
   layer(g, cam, 0.4, (g) => {
-    const top = GY - V(520, 900), w = shade(M.wall, -0.25);
+    const top = GY - V(400, 760), w = shade(M.wall, -0.35);
     g.fillStyle = linGrad(g, 0, top, 0, GY, [shade(w, 0.05), shade(w, -0.3)]); g.fillRect(-E.W, top, E.W * 3, GY - top);
-    for (let i = 0; i < 14; i++) for (let j = 0; j < 2; j++) { const wx = -E.W + 150 + i * 330, wy = top + 70 + j * 190; g.fillStyle = (i + j) % 3 ? alpha(M.practical, 0.75) : shade(M.wall, -0.55); g.fillRect(wx, wy, 150, 120); }
+    for (let i = 0; i < 14; i++) for (let j = 0; j < 2; j++) { const wx = -E.W + 150 + i * 330, wy = top + 70 + j * 190; const lit = (i + j) % 3; g.fillStyle = lit ? alpha(M.practical, 0.6) : shade(M.wall, -0.6); g.fillRect(wx, wy, 150, 100); if (lit) glow(g, wx + 75, wy + 50, 140, M.practical, 0.12); }
     g.fillStyle = shade(M.wall, -0.55); g.fillRect(-E.W, top - 30, E.W * 3, 34);
     for (const x of [-500, 2400]) FX.tree(g, x, GY - 40, 2.6, shade(M.grass, -0.7));
   });
@@ -98,7 +98,7 @@ export function road(g, t, cam, o = {}) {
   const M = mood(o.mood || (o.night ? 'night' : 'dusk')), GY = GYd(), CX = E.W / 2, roadTop = GY - V(190, 260);
   layer(g, cam, 0.12, (g) => { backdrop(g, M.sky); if (o.night) { FX.stars(g, t, { count: 90, area: [-200, 0, E.W + 400, E.H * 0.4] }); FX.moon(g, CX - V(500, 200), V(170, 300), 40); } else FX.sun(g, CX - V(560, 200), roadTop - V(260, 600), 60, '#fff3dc', M.key, 5); });
   layer(g, cam, 0.4, (g) => {
-    for (let i = 0; i < 10; i++) FX.facade(g, { x: -E.W + i * 480, y: roadTop - 30, w: 440, h: V(360, 640) + (i % 4) * 50, color: shade(M.wall, -0.3 - (i % 2) * 0.1), win: M.practical, dark: shade(M.wall, -0.6), cols: 3, rows: 3, lit: o.night ? 0.55 : 0.35, seed: 80 + i });
+    for (let i = 0; i < 10; i++) FX.facade(g, { x: -E.W + i * 480, y: roadTop - 30, w: 440, h: V(360, 640) + (i % 4) * 50, color: shade(M.wall, -0.4 - (i % 2) * 0.1), win: alpha(M.practical, 0.55), dark: shade(M.wall, -0.6), cols: 5, rows: 4, lit: o.night ? 0.4 : 0.3, seed: 80 + i });
     g.fillStyle = shade(M.floor, -0.15); g.fillRect(-E.W, roadTop - 30, E.W * 3, 30);
   });
   layer(g, cam, 0.75, (g) => {

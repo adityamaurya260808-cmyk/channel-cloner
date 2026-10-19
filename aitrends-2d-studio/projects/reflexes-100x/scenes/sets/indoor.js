@@ -132,7 +132,7 @@ export function market(g, t, cam, o = {}) {
     const top = GY - V(520, 760), r = rng(17);
     g.fillStyle = shade(M.wall, -0.35); g.fillRect(-E.W, top, E.W * 3, GY - top);
     for (let s = 0; s < 5; s++) { const sy = top + 30 + s * ((GY - top - 40) / 5); g.fillStyle = shade(M.wall, 0.25); g.fillRect(-E.W, sy + (GY - top - 40) / 5 - 12, E.W * 3, 10);
-      for (let x = -E.W; x < E.W * 2; x += 46 + r() * 20) { const h = 50 + r() * 50, c = cols[Math.floor(r() * cols.length)]; g.fillStyle = shade(c, -0.25); g.fillRect(x, sy + (GY - top - 40) / 5 - 12 - h, 38, h); g.fillStyle = alpha('#ffffff', 0.25); g.fillRect(x + 6, sy + (GY - top - 40) / 5 - 12 - h + 10, 26, 8); } }
+      for (let x = -E.W; x < E.W * 2; x += 46 + r() * 20) { const h = 50 + r() * 50, c = mix(cols[Math.floor(r() * cols.length)], M.wall, 0.55); g.fillStyle = shade(c, -0.25); g.fillRect(x, sy + (GY - top - 40) / 5 - 12 - h, 38, h); g.fillStyle = alpha('#ffffff', 0.25); g.fillRect(x + 6, sy + (GY - top - 40) / 5 - 12 - h + 10, 26, 8); } }
     text_sign(g, CX - 160, top - 70, o.sign || 'CEREAL', M);
     for (let i = 0; i < 6; i++) { rr(g, -E.W + 200 + i * 700, top - 170, 380, 12, 6); g.fillStyle = '#f4f8ff'; g.fill(); glow(g, -E.W + 390 + i * 700, top - 160, 380, '#e8f0ff', 0.3); }
   });

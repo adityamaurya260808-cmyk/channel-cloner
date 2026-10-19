@@ -1,7 +1,7 @@
 // lib.js: shared helpers for this video (camera moves, word timing, face close-ups, recurring props).
 import { E, V, S, mood, layer, blurLayer, veil, ease, prog, clamp, lerp, key, wordTime, talkAmount, alpha, shade, mix,
   seg, circle, ring, rr, poly, glow, linGrad, radGrad, text, FONTS } from '/engine/core.js';
-import { drawFigure, bigFace, breathe, POSES, posesAt } from '/engine/rig2d.js';
+import { drawFigure, bigFace, breathe, POSES, posesAt, EXPR } from '/engine/rig2d.js';
 import * as FX from '/engine/fx2d.js';
 import * as UI from '/engine/ui2d.js';
 
@@ -42,9 +42,12 @@ export function faceShot(g, t, info, o) {
   o.behind?.(g, t);
   const r = V(300, 330) * (o.scale ?? 1) * (1 + (o.zoom ?? 0.05) * ease.inOut(t / info.dur));
   const cx = E.W / 2 + (o.dx ?? 0) + (o.drift ?? 0) * t, cy = E.H * V(0.6, 0.55) + (o.dy ?? 0);
-  bigFace(g, cx, cy, r, { outfit: o.outfit, expr: typeof o.expr === 'function' ? o.expr(t) : o.expr, talk: o.talk ? o.talk(t) : 0,
+  const ex = typeof o.expr === 'function' ? o.expr(t) : o.expr, br = { ...(EXPR[ex] || {}), ...(o.face || {}) }.brows;
+  // the engine's brow slants are mirrored in the front view: swap so sad looks sad and determined looks determined
+  const face = { ...(o.face || {}), ...(br === 'worried' ? { brows: 'angry' } : br === 'angry' ? { brows: 'worried' } : {}) };
+  bigFace(g, cx, cy, r, { outfit: o.outfit, expr: ex, talk: o.talk ? o.talk(t) : 0,
     blink: o.noBlink ? false : blinkAt(t, o.blinkP ?? 3.1, o.seed ?? 0), look: typeof o.look === 'function' ? o.look(t) : o.look,
-    rimColor: o.rimColor || M.rim, rimSide: o.side ?? -1, tilt: o.tilt, face: o.face });
+    rimColor: o.rimColor || M.rim, rimSide: o.side ?? -1, tilt: o.tilt, face });
   if (o.talk && o.talk(t) > 0) FX.rings(g, cx, cy, t, { count: 3, r0: r * 1.1, r1: r * 1.55, color: '#fff3e0', a: 0.28 });
   o.front?.(g, t, cx, cy, r);
   return { cx, cy, r };
