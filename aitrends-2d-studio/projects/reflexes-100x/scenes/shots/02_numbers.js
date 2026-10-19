@@ -66,10 +66,10 @@ registerShot('s023', { draw(g, t, info) {
     ruler(g, x, y0 + (t > tDrop ? 0.4 : 0), V(560, 700), ui.gold, ui.gold);
     fingers(g, x, fy, t < tGrab ? 1 : 0, ui.gold);
     text(g, 'YOU', x, V(110, 160), { size: V(44, 48), color: ui.gold, font: FONTS.ui, weight: 900, spacing: 4 });
-    const k = popIn(t, wt(info, 'brain', 1.5) - 0.3, 0.5); if (k > 0) {
+    const k = popIn(t, wt(info, 'brain', 1.5) - 0.3, 0.5); if (k > 0.03) {
       const mx = E.W * V(0.68, 0.5), my = E.H * V(0.42, 0.7), R = V(220, 200) * k;
       seg(g, [[x + 40, y0 + 120], [mx - R * 0.7, my - R * 0.4]], 2, alpha(ui.gold, 0.5)); ring(g, mx, my, R, 8, ui.gold); seg(g, [[mx + R * 0.7, my + R * 0.7], [mx + R * 1.2, my + R * 1.2]], 14, ui.gold);
-      g.save(); g.beginPath(); g.arc(mx, my, R - 4, 0, 7); g.clip(); g.fillStyle = alpha(ui.bpBg, 0.9); g.fill();
+      g.save(); g.beginPath(); g.arc(mx, my, Math.max(1, R - 4), 0, 7); g.clip(); g.fillStyle = alpha(ui.bpBg, 0.9); g.fill();
       seg(g, [[mx - R, my - 10], [mx + R, my - 10]], 3, alpha(c, 0.7)); seg(g, [[mx - R, my + 4], [mx + R, my + 4]], 3, ui.gold); g.restore();
       UI.dimension(g, t, { x1: mx + R * 0.35, y1: my - 10, x2: mx + R * 0.35, y2: my + 4, str: '0.03 mm', start: wt(info, 'three', 2.5) - 0.2 });
     }
