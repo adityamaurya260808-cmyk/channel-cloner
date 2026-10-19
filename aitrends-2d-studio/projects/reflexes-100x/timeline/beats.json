@@ -1,0 +1,850 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "speechStart": 0.08,
+  "speechEnd": 5.15,
+  "text": "A wasp drifts toward your sandwich. You watch it come. Slowly.",
+  "end": 5.74
+ },
+ {
+  "i": 1,
+  "start": 5.74,
+  "speechStart": 5.89,
+  "speechEnd": 7.63,
+  "text": "Like a feather sinking through honey.",
+  "end": 8.49
+ },
+ {
+  "i": 2,
+  "start": 8.49,
+  "speechStart": 8.64,
+  "speechEnd": 12.19,
+  "text": "You have time to count its stripes... and step aside.",
+  "end": 13.04
+ },
+ {
+  "i": 3,
+  "start": 13.04,
+  "speechStart": 13.19,
+  "speechEnd": 17.5,
+  "text": "Your mom drops a glass. You see it tip. You see it fall.",
+  "end": 18.29
+ },
+ {
+  "i": 4,
+  "start": 18.29,
+  "speechStart": 18.44,
+  "speechEnd": 20.02,
+  "text": "You remember where the dustpan is...",
+  "end": 20.49
+ },
+ {
+  "i": 5,
+  "start": 20.49,
+  "speechStart": 20.64,
+  "speechEnd": 24.5,
+  "text": "before it even reaches the floor. Your little brother blinks.",
+  "end": 25.13
+ },
+ {
+  "i": 6,
+  "start": 25.13,
+  "speechStart": 25.28,
+  "speechEnd": 27.34,
+  "text": "To you, that blink takes ten seconds.",
+  "end": 28.25
+ },
+ {
+  "i": 7,
+  "start": 28.25,
+  "speechStart": 28.4,
+  "speechEnd": 32.2,
+  "text": "Theo, why are you staring at me? Because, Sam...",
+  "end": 32.33
+ },
+ {
+  "i": 8,
+  "start": 32.33,
+  "speechStart": 32.48,
+  "speechEnd": 37.5,
+  "text": "your eyelid is still closing. And your toast? It still hasn’t popped.",
+  "end": 38.15
+ },
+ {
+  "i": 9,
+  "start": 38.15,
+  "speechStart": 38.3,
+  "speechEnd": 44.51,
+  "text": "You’ve been waiting for it for what feels like an hour. Your name is Theo. You’re fourteen.",
+  "end": 45.1
+ },
+ {
+  "i": 10,
+  "start": 45.1,
+  "speechStart": 45.25,
+  "speechEnd": 50.67,
+  "text": "A normal person reacts to something they see in about a quarter of a second. You?",
+  "end": 51.6
+ },
+ {
+  "i": 11,
+  "start": 51.6,
+  "speechStart": 51.75,
+  "speechEnd": 53.08,
+  "text": "Two and a half thousandths.",
+  "end": 53.48
+ },
+ {
+  "i": 12,
+  "start": 53.48,
+  "speechStart": 53.63,
+  "speechEnd": 54.93,
+  "text": "A hundred times faster.",
+  "end": 55.81
+ },
+ {
+  "i": 13,
+  "start": 55.81,
+  "speechStart": 55.96,
+  "speechEnd": 63.14,
+  "text": "Drop a ruler between most people’s fingers, and it falls about thirty centimeters before they grab it. Drop one for you...",
+  "end": 63.37
+ },
+ {
+  "i": 14,
+  "start": 63.37,
+  "speechStart": 63.52,
+  "speechEnd": 68.3,
+  "text": "and your brain notices after three hundredths of a millimeter. The catch?",
+  "end": 69.02
+ },
+ {
+  "i": 15,
+  "start": 69.02,
+  "speechStart": 69.17,
+  "speechEnd": 73.0,
+  "text": "Your brain got a hundred times faster. Your body did not.",
+  "end": 73.73
+ },
+ {
+  "i": 16,
+  "start": 73.73,
+  "speechStart": 73.88,
+  "speechEnd": 77.84,
+  "text": "Your nerves still carry signals at about a hundred meters per second.",
+  "end": 78.52
+ },
+ {
+  "i": 17,
+  "start": 78.52,
+  "speechStart": 78.67,
+  "speechEnd": 81.34,
+  "text": "Your legs still run like any fourteen-year-old’s.",
+  "end": 82.05
+ },
+ {
+  "i": 18,
+  "start": 82.05,
+  "speechStart": 82.2,
+  "speechEnd": 83.54,
+  "text": "You see everything coming...",
+  "end": 84.08
+ },
+ {
+  "i": 19,
+  "start": 84.08,
+  "speechStart": 84.23,
+  "speechEnd": 86.39,
+  "text": "you just can’t move any faster to meet it.",
+  "end": 87.25
+ },
+ {
+  "i": 20,
+  "start": 87.25,
+  "speechStart": 87.4,
+  "speechEnd": 91.57,
+  "text": "So what if your reflexes were a hundred times faster? Plus:",
+  "end": 91.81
+ },
+ {
+  "i": 21,
+  "start": 91.81,
+  "speechStart": 91.96,
+  "speechEnd": 93.33,
+  "text": "you never lose at catch.",
+  "end": 94.07
+ },
+ {
+  "i": 22,
+  "start": 94.07,
+  "speechStart": 94.22,
+  "speechEnd": 101.57,
+  "text": "Your best friend Mia throws a ball at your face. You have time to yawn. Then you catch it. How...",
+  "end": 101.95
+ },
+ {
+  "i": 23,
+  "start": 101.95,
+  "speechStart": 102.1,
+  "speechEnd": 103.47,
+  "text": "how did you even see that?",
+  "end": 104.32
+ },
+ {
+  "i": 24,
+  "start": 104.32,
+  "speechStart": 104.47,
+  "speechEnd": 110.35,
+  "text": "I see everything, Mia. Okay. That’s actually creepy. Video games?",
+  "end": 111.06
+ },
+ {
+  "i": 25,
+  "start": 111.06,
+  "speechStart": 111.21,
+  "speechEnd": 113.26,
+  "text": "You read every enemy before it moves.",
+  "end": 113.99
+ },
+ {
+  "i": 26,
+  "start": 113.99,
+  "speechStart": 114.14,
+  "speechEnd": 115.41,
+  "text": "Forty wins in a row.",
+  "end": 115.82
+ },
+ {
+  "i": 27,
+  "start": 115.82,
+  "speechStart": 115.97,
+  "speechEnd": 119.06,
+  "text": "Then the game bans you for cheating. Dude.",
+  "end": 119.13
+ },
+ {
+  "i": 28,
+  "start": 119.13,
+  "speechStart": 119.28,
+  "speechEnd": 122.59,
+  "text": "Even the computer thinks you’re cheating. Movies?",
+  "end": 123.19
+ },
+ {
+  "i": 29,
+  "start": 123.19,
+  "speechStart": 123.34,
+  "speechEnd": 125.95,
+  "text": "A film shows twenty-four pictures every second.",
+  "end": 126.5
+ },
+ {
+  "i": 30,
+  "start": 126.5,
+  "speechStart": 126.65,
+  "speechEnd": 133.82,
+  "text": "Everyone else sees motion. You see... a slideshow. Click. Click. Click.",
+  "end": 134.15
+ },
+ {
+  "i": 31,
+  "start": 134.15,
+  "speechStart": 134.3,
+  "speechEnd": 139.1,
+  "text": "Great movie, right? Very... clicky. Minus:",
+  "end": 139.35
+ },
+ {
+  "i": 32,
+  "start": 139.35,
+  "speechStart": 139.5,
+  "speechEnd": 144.86,
+  "text": "some old lights flicker a hundred times a second. Nobody notices. You do.",
+  "end": 145.57
+ },
+ {
+  "i": 33,
+  "start": 145.57,
+  "speechStart": 145.72,
+  "speechEnd": 149.85,
+  "text": "Your school hallway strobes like a nightclub. Then there’s track.",
+  "end": 150.54
+ },
+ {
+  "i": 34,
+  "start": 150.54,
+  "speechStart": 150.69,
+  "speechEnd": 152.61,
+  "text": "Coach Lee fires the starting gun.",
+  "end": 153.09
+ },
+ {
+  "i": 35,
+  "start": 153.09,
+  "speechStart": 153.24,
+  "speechEnd": 156.9,
+  "text": "You’re gone before the smoke clears. And disqualified.",
+  "end": 157.51
+ },
+ {
+  "i": 36,
+  "start": 157.51,
+  "speechStart": 157.66,
+  "speechEnd": 162.86,
+  "text": "Leave the blocks less than a tenth of a second after the gun, and the rules decide you must have guessed.",
+  "end": 163.66
+ },
+ {
+  "i": 37,
+  "start": 163.66,
+  "speechStart": 163.81,
+  "speechEnd": 166.75,
+  "text": "The best sprinters react in about fifteen hundredths.",
+  "end": 167.37
+ },
+ {
+  "i": 38,
+  "start": 167.37,
+  "speechStart": 167.52,
+  "speechEnd": 171.38,
+  "text": "Nobody beats a tenth. Nobody... except you.",
+  "end": 172.23
+ },
+ {
+  "i": 39,
+  "start": 172.23,
+  "speechStart": 172.38,
+  "speechEnd": 175.97,
+  "text": "So you learn the strangest skill in sport. Waiting.",
+  "end": 176.78
+ },
+ {
+  "i": 40,
+  "start": 176.78,
+  "speechStart": 176.93,
+  "speechEnd": 181.6,
+  "text": "Coach Lee hands you a rule. Count, Theo. Count to what?",
+  "end": 182.28
+ },
+ {
+  "i": 41,
+  "start": 182.28,
+  "speechStart": 182.43,
+  "speechEnd": 187.16,
+  "text": "Count until you’re on time. Fast doesn’t matter. On time does.",
+  "end": 188.57
+ },
+ {
+  "i": 42,
+  "start": 188.57,
+  "speechStart": 188.72,
+  "speechEnd": 191.45,
+  "text": "But where it gets really crazy... is the road.",
+  "end": 192.27
+ },
+ {
+  "i": 43,
+  "start": 192.27,
+  "speechStart": 192.42,
+  "speechEnd": 197.01,
+  "text": "A car at fifty kilometers per hour moves about fourteen meters every second.",
+  "end": 197.8
+ },
+ {
+  "i": 44,
+  "start": 197.8,
+  "speechStart": 197.95,
+  "speechEnd": 199.58,
+  "text": "You see every one of those meters.",
+  "end": 200.04
+ },
+ {
+  "i": 45,
+  "start": 200.04,
+  "speechStart": 200.19,
+  "speechEnd": 202.11,
+  "text": "You see drivers glance at phones.",
+  "end": 202.57
+ },
+ {
+  "i": 46,
+  "start": 202.57,
+  "speechStart": 202.72,
+  "speechEnd": 208.57,
+  "text": "You see near-misses nobody else even notices. And there’s a cost. The price?",
+  "end": 209.3
+ },
+ {
+  "i": 47,
+  "start": 209.3,
+  "speechStart": 209.45,
+  "speechEnd": 212.1,
+  "text": "Every second feels like a minute and forty seconds.",
+  "end": 212.81
+ },
+ {
+  "i": 48,
+  "start": 212.81,
+  "speechStart": 212.96,
+  "speechEnd": 218.34,
+  "text": "A ten-minute lesson feels like more than sixteen hours. Mia says good morning...",
+  "end": 218.74
+ },
+ {
+  "i": 49,
+  "start": 218.74,
+  "speechStart": 218.89,
+  "speechEnd": 223.52,
+  "text": "and you plan your answer, rewrite it twice, and get bored waiting for her to finish.",
+  "end": 224.5
+ },
+ {
+  "i": 50,
+  "start": 224.5,
+  "speechStart": 224.65,
+  "speechEnd": 227.59,
+  "text": "Your mind lives a hundred days for every day you live.",
+  "end": 228.32
+ },
+ {
+  "i": 51,
+  "start": 228.32,
+  "speechStart": 228.47,
+  "speechEnd": 232.65,
+  "text": "People start to feel like statues. Beautiful. And lonely.",
+  "end": 233.14
+ },
+ {
+  "i": 52,
+  "start": 233.14,
+  "speechStart": 233.29,
+  "speechEnd": 234.54,
+  "text": "Usually both at once.",
+  "end": 235.3
+ },
+ {
+  "i": 53,
+  "start": 235.3,
+  "speechStart": 235.45,
+  "speechEnd": 241.35,
+  "text": "Who talks to statues? And who... is going to wait for you? Sam does.",
+  "end": 241.71
+ },
+ {
+  "i": 54,
+  "start": 241.71,
+  "speechStart": 241.86,
+  "speechEnd": 243.06,
+  "text": "Your seven-year-old brother.",
+  "end": 243.68
+ },
+ {
+  "i": 55,
+  "start": 243.68,
+  "speechStart": 243.83,
+  "speechEnd": 245.83,
+  "text": "The only person who doesn’t think you’re weird.",
+  "end": 246.66
+ },
+ {
+  "i": 56,
+  "start": 246.66,
+  "speechStart": 246.81,
+  "speechEnd": 249.39,
+  "text": "He waits for you at the school gate every afternoon.",
+  "end": 250.0
+ },
+ {
+  "i": 57,
+  "start": 250.0,
+  "speechStart": 250.15,
+  "speechEnd": 254.93,
+  "text": "He listens to your endless stories. He never once says... hurry up.",
+  "end": 255.83
+ },
+ {
+  "i": 58,
+  "start": 255.83,
+  "speechStart": 255.98,
+  "speechEnd": 262.95,
+  "text": "Years ago, you taught him a game. A whistle. Two notes. High, then low. It means:",
+  "end": 263.0
+ },
+ {
+  "i": 59,
+  "start": 263.0,
+  "speechStart": 263.15,
+  "speechEnd": 263.82,
+  "text": "freeze.",
+  "end": 264.56
+ },
+ {
+  "i": 60,
+  "start": 264.56,
+  "speechStart": 264.71,
+  "speechEnd": 271.65,
+  "text": "Whenever you whistle, he stops mid-step like a robot. Every single time. Even in the supermarket.",
+  "end": 272.38
+ },
+ {
+  "i": 61,
+  "start": 272.38,
+  "speechStart": 272.53,
+  "speechEnd": 273.03,
+  "text": "Sam!",
+  "end": 273.26
+ },
+ {
+  "i": 62,
+  "start": 273.26,
+  "speechStart": 273.41,
+  "speechEnd": 274.66,
+  "text": "Not in the cereal aisle!",
+  "end": 275.58
+ },
+ {
+  "i": 63,
+  "start": 275.58,
+  "speechStart": 275.73,
+  "speechEnd": 280.94,
+  "text": "Robots don’t choose aisles, Theo. Sports day. The hundred-meter final.",
+  "end": 281.53
+ },
+ {
+  "i": 64,
+  "start": 281.53,
+  "speechStart": 281.68,
+  "speechEnd": 283.87,
+  "text": "The track sits right beside the main road.",
+  "end": 284.5
+ },
+ {
+  "i": 65,
+  "start": 284.5,
+  "speechStart": 284.65,
+  "speechEnd": 286.15,
+  "text": "Your whole family is watching.",
+  "end": 286.66
+ },
+ {
+  "i": 66,
+  "start": 286.66,
+  "speechStart": 286.81,
+  "speechEnd": 290.47,
+  "text": "You crouch in the blocks. On your marks. Set.",
+  "end": 291.15
+ },
+ {
+  "i": 67,
+  "start": 291.15,
+  "speechStart": 291.3,
+  "speechEnd": 294.9,
+  "text": "Your brain waits for the gun. And then... you see it.",
+  "end": 295.62
+ },
+ {
+  "i": 68,
+  "start": 295.62,
+  "speechStart": 295.77,
+  "speechEnd": 298.04,
+  "text": "A red ball bouncing through the open gate.",
+  "end": 298.57
+ },
+ {
+  "i": 69,
+  "start": 298.57,
+  "speechStart": 298.72,
+  "speechEnd": 301.44,
+  "text": "And a small boy chasing it. Sam.",
+  "end": 302.1
+ },
+ {
+  "i": 70,
+  "start": 302.1,
+  "speechStart": 302.25,
+  "speechEnd": 303.99,
+  "text": "Down the road comes a delivery truck.",
+  "end": 304.39
+ },
+ {
+  "i": 71,
+  "start": 304.39,
+  "speechStart": 304.54,
+  "speechEnd": 310.77,
+  "text": "Fifty kilometers per hour. Forty meters away. Under three seconds. You do the math...",
+  "end": 311.13
+ },
+ {
+  "i": 72,
+  "start": 311.13,
+  "speechStart": 311.28,
+  "speechEnd": 311.92,
+  "text": "in a blink.",
+  "end": 312.49
+ },
+ {
+  "i": 73,
+  "start": 312.49,
+  "speechStart": 312.64,
+  "speechEnd": 314.29,
+  "text": "You’re sixty meters from that gate.",
+  "end": 314.96
+ },
+ {
+  "i": 74,
+  "start": 314.96,
+  "speechStart": 315.11,
+  "speechEnd": 321.68,
+  "text": "Even the fastest man in history needed over six seconds to cover sixty meters. You’d need eight.",
+  "end": 322.44
+ },
+ {
+  "i": 75,
+  "start": 322.44,
+  "speechStart": 322.59,
+  "speechEnd": 326.78,
+  "text": "Your brain is fast. Your legs are not. You can’t reach him.",
+  "end": 327.21
+ },
+ {
+  "i": 76,
+  "start": 327.21,
+  "speechStart": 327.36,
+  "speechEnd": 334.08,
+  "text": "And the gun hasn’t fired. Move now... and you’re out. Months of training. Gone.",
+  "end": 334.72
+ },
+ {
+  "i": 77,
+  "start": 334.72,
+  "speechStart": 334.87,
+  "speechEnd": 339.67,
+  "text": "The race... or your brother. You stand up. Before the gun.",
+  "end": 340.33
+ },
+ {
+  "i": 78,
+  "start": 340.33,
+  "speechStart": 340.48,
+  "speechEnd": 346.77,
+  "text": "The crowd groans. False start. But you don’t run. Running won’t work.",
+  "end": 347.31
+ },
+ {
+  "i": 79,
+  "start": 347.31,
+  "speechStart": 347.46,
+  "speechEnd": 349.97,
+  "text": "Instead, you whistle. Two notes.",
+  "end": 350.3
+ },
+ {
+  "i": 80,
+  "start": 350.3,
+  "speechStart": 350.45,
+  "speechEnd": 351.79,
+  "text": "High, then low.",
+  "end": 352.56
+ },
+ {
+  "i": 81,
+  "start": 352.56,
+  "speechStart": 352.71,
+  "speechEnd": 356.07,
+  "text": "Sound travels at about three hundred and forty meters per second.",
+  "end": 356.7
+ },
+ {
+  "i": 82,
+  "start": 356.7,
+  "speechStart": 356.85,
+  "speechEnd": 359.39,
+  "text": "It reaches Sam in less than a fifth of a second.",
+  "end": 360.16
+ },
+ {
+  "i": 83,
+  "start": 360.16,
+  "speechStart": 360.31,
+  "speechEnd": 367.49,
+  "text": "You watch the sound arrive. You watch him hear it. And Sam... freezes. One foot in the air.",
+  "end": 367.71
+ },
+ {
+  "i": 84,
+  "start": 367.71,
+  "speechStart": 367.86,
+  "speechEnd": 368.78,
+  "text": "Right at the curb.",
+  "end": 369.45
+ },
+ {
+  "i": 85,
+  "start": 369.45,
+  "speechStart": 369.6,
+  "speechEnd": 370.99,
+  "text": "The truck rushes past.",
+  "end": 371.28
+ },
+ {
+  "i": 86,
+  "start": 371.28,
+  "speechStart": 371.43,
+  "speechEnd": 375.34,
+  "text": "The ball rolls under its wheels. Pop. Silence.",
+  "end": 376.08
+ },
+ {
+  "i": 87,
+  "start": 376.08,
+  "speechStart": 376.23,
+  "speechEnd": 378.85,
+  "text": "Then Sam turns around... and waves.",
+  "end": 379.59
+ },
+ {
+  "i": 88,
+  "start": 379.59,
+  "speechStart": 379.74,
+  "speechEnd": 381.06,
+  "text": "The whole stadium saw it.",
+  "end": 381.77
+ },
+ {
+  "i": 89,
+  "start": 381.77,
+  "speechStart": 381.92,
+  "speechEnd": 383.14,
+  "text": "Coach Lee walks over.",
+  "end": 383.69
+ },
+ {
+  "i": 90,
+  "start": 383.69,
+  "speechStart": 383.84,
+  "speechEnd": 390.26,
+  "text": "You know you’re disqualified, right? I know. Fast doesn’t matter. On time does.",
+  "end": 391.08
+ },
+ {
+  "i": 91,
+  "start": 391.08,
+  "speechStart": 391.23,
+  "speechEnd": 393.74,
+  "text": "Mia is crying. Your mom is running.",
+  "end": 394.08
+ },
+ {
+  "i": 92,
+  "start": 394.08,
+  "speechStart": 394.23,
+  "speechEnd": 396.14,
+  "text": "And Sam crashes into your arms.",
+  "end": 396.87
+ },
+ {
+  "i": 93,
+  "start": 396.87,
+  "speechStart": 397.02,
+  "speechEnd": 403.56,
+  "text": "For once, you don’t mind that every second lasts so long. You want this one... to last forever.",
+  "end": 404.61
+ },
+ {
+  "i": 94,
+  "start": 404.61,
+  "speechStart": 404.76,
+  "speechEnd": 409.89,
+  "text": "That night, a letter slides under your door. No name. Just one line.",
+  "end": 410.65
+ },
+ {
+  "i": 95,
+  "start": 410.65,
+  "speechStart": 410.8,
+  "speechEnd": 417.48,
+  "text": "‘We saw what you did on that road. We would like to test you.’ Is any of this real? Partly.",
+  "end": 417.93
+ },
+ {
+  "i": 96,
+  "start": 417.93,
+  "speechStart": 418.08,
+  "speechEnd": 421.79,
+  "text": "Human visual reaction really sits around a quarter of a second.",
+  "end": 422.49
+ },
+ {
+  "i": 97,
+  "start": 422.49,
+  "speechStart": 422.64,
+  "speechEnd": 427.14,
+  "text": "Sprinting really does treat anything under a tenth of a second as a false start.",
+  "end": 427.84
+ },
+ {
+  "i": 98,
+  "start": 427.84,
+  "speechStart": 427.99,
+  "speechEnd": 430.44,
+  "text": "And some animals really do see faster than us.",
+  "end": 431.04
+ },
+ {
+  "i": 99,
+  "start": 431.04,
+  "speechStart": 431.19,
+  "speechEnd": 434.79,
+  "text": "Houseflies notice flicker that looks like smooth light to you,",
+  "end": 435.22
+ },
+ {
+  "i": 100,
+  "start": 435.22,
+  "speechStart": 435.37,
+  "speechEnd": 437.84,
+  "text": "which helps explain why they’re so hard to swat.",
+  "end": 438.64
+ },
+ {
+  "i": 101,
+  "start": 438.64,
+  "speechStart": 438.79,
+  "speechEnd": 441.13,
+  "text": "But a human brain a hundred times faster?",
+  "end": 441.88
+ },
+ {
+  "i": 102,
+  "start": 441.88,
+  "speechStart": 442.03,
+  "speechEnd": 444.35,
+  "text": "Your nerves are simply too slow to keep up.",
+  "end": 445.07
+ },
+ {
+  "i": 103,
+  "start": 445.07,
+  "speechStart": 445.22,
+  "speechEnd": 450.28,
+  "text": "So could anything ever make human reflexes truly instant? What do you think?",
+  "end": 451.05
+ },
+ {
+  "i": 104,
+  "start": 451.05,
+  "speechStart": 451.2,
+  "speechEnd": 454.91,
+  "text": "Tell us in the comments, and tell us which superpower we should do next.",
+  "end": 455.51
+ },
+ {
+  "i": 105,
+  "start": 455.51,
+  "speechStart": 455.66,
+  "speechEnd": 458.27,
+  "text": "Hit like, and subscribe for more What Ifs.",
+  "end": 459.77
+ }
+]

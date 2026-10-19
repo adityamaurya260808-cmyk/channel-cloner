@@ -1,0 +1,3722 @@
+{
+ "title": "What If Your Reflexes Were 100x Faster?",
+ "duration": 459.9,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 2.77,
+   "line": "A wasp drifts toward your sandwich.",
+   "scene": "garden wide: Theo at picnic table with sandwich, wasp drifts in from right, slow push",
+   "set": "garden",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "buzz",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s002",
+   "start": 2.77,
+   "end": 4.43,
+   "line": "You watch it come.",
+   "scene": "bigFace Theo calm, eyes track the blurred wasp across frame",
+   "set": "garden",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "buzz",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s003",
+   "start": 4.43,
+   "end": 5.74,
+   "line": "Slowly.",
+   "scene": "TIME SLOW: wasp macro hanging in golden air, wings barely moving, 100x badge",
+   "set": "garden",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "slowmo",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s004",
+   "start": 5.74,
+   "end": 8.49,
+   "line": "Like a feather sinking through honey.",
+   "scene": "metaphor: a feather sinking through amber honey, bubbles, slow",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s005",
+   "start": 8.49,
+   "end": 11.05,
+   "line": "You have time to count its stripes...",
+   "scene": "wasp close-up, stripes counted 1-2-3-4 with gold tick labels",
+   "set": "garden",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 0.8,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s006",
+   "start": 11.05,
+   "end": 13.04,
+   "line": "and step aside.",
+   "scene": "garden medium: Theo leans aside casually, wasp sails past, sandwich in hand",
+   "set": "garden",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s007",
+   "start": 13.04,
+   "end": 14.94,
+   "line": "Your mom drops a glass.",
+   "scene": "kitchen wide morning: Mom at counter, glass slips from her hand; Theo at table, Sam beside",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s008",
+   "start": 14.94,
+   "end": 16.43,
+   "line": "You see it tip.",
+   "scene": "insert: glass tipping off fingertips, slow, cool rim",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s009",
+   "start": 16.43,
+   "end": 18.29,
+   "line": "You see it fall.",
+   "scene": "TIME SLOW: glass falling, water drops frozen in air",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s010",
+   "start": 18.29,
+   "end": 20.49,
+   "line": "You remember where the dustpan is...",
+   "scene": "bigFace Theo thinking; thought callout: dustpan in the cupboard (blueprint line art)",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s011",
+   "start": 20.49,
+   "end": 23.2,
+   "line": "before it even reaches the floor.",
+   "scene": "low insert: glass hangs a hand above the floor tiles, Theo's hand already holding the dustpan",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s012",
+   "start": 23.2,
+   "end": 25.13,
+   "line": "Your little brother blinks.",
+   "scene": "medium: Sam at the table, eyelids starting to close",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s013",
+   "start": 25.13,
+   "end": 28.25,
+   "line": "To you, that blink takes ten seconds.",
+   "scene": "bigFace Sam mid-blink; readout NORMAL 0.1 s vs YOU 10 s",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s014",
+   "start": 28.25,
+   "end": 31.32,
+   "line": "Theo, why are you staring at me?",
+   "scene": "OTS: Theo's blurred shoulder fg, Sam half-blinking, talking",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s015",
+   "start": 31.32,
+   "end": 34.78,
+   "line": "Because, Sam... your eyelid is still closing.",
+   "scene": "bigFace Theo deadpan, talking",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s016",
+   "start": 34.78,
+   "end": 38.15,
+   "line": "And your toast? It still hasn’t popped.",
+   "scene": "insert: toaster, glowing coils, bread waiting",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hum",
+     "gain": -22
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s017",
+   "start": 38.15,
+   "end": 41.73,
+   "line": "You’ve been waiting for it for what feels like an hour.",
+   "scene": "Theo slumped at the toaster, chin on hand, wall clock crawling",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "clock",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s018",
+   "start": 41.73,
+   "end": 45.1,
+   "line": "Your name is Theo. You’re fourteen.",
+   "scene": "Theo turns to camera in kitchen light; callout THEO, then 14",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.9,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s019",
+   "start": 45.1,
+   "end": 50.2,
+   "line": "A normal person reacts to something they see in about a quarter of a second.",
+   "scene": "blueprint: NORMAL HUMAN reaction bar fills to 0.25 s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s020",
+   "start": 50.2,
+   "end": 53.48,
+   "line": "You? Two and a half thousandths.",
+   "scene": "blueprint: YOU row appears, tiny gold bar 0.0025 s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.3,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s021",
+   "start": 53.48,
+   "end": 55.81,
+   "line": "A hundred times faster.",
+   "scene": "giant gold 100x stamps in with shimmer",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s022",
+   "start": 55.81,
+   "end": 62.05,
+   "line": "Drop a ruler between most people’s fingers, and it falls about thirty centimeters before they grab it.",
+   "scene": "blueprint ruler drop: ruler falls between line-art fingers, dimension 30 cm",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.2,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s023",
+   "start": 62.05,
+   "end": 67.63,
+   "line": "Drop one for you... and your brain notices after three hundredths of a millimeter.",
+   "scene": "macro: ruler barely moved, magnifier, dimension 0.03 mm in gold",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s024",
+   "start": 67.63,
+   "end": 69.02,
+   "line": "The catch?",
+   "scene": "bigLine THE CATCH? over dark haze",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s025",
+   "start": 69.02,
+   "end": 71.78,
+   "line": "Your brain got a hundred times faster.",
+   "scene": "blueprint: line-art head, brain glowing gold, 100x",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "powerup",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s026",
+   "start": 71.78,
+   "end": 73.73,
+   "line": "Your body did not.",
+   "scene": "same figure, body stays dull blue, 1x",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s027",
+   "start": 73.73,
+   "end": 78.52,
+   "line": "Your nerves still carry signals at about a hundred meters per second.",
+   "scene": "nerve path brain to arm, a slow pulse crawls along it, ~100 m/s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -18
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s028",
+   "start": 78.52,
+   "end": 82.05,
+   "line": "Your legs still run like any fourteen-year-old’s.",
+   "scene": "track side view: Theo jogs past at ordinary speed",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 0.6,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 1.0,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s029",
+   "start": 82.05,
+   "end": 84.08,
+   "line": "You see everything coming...",
+   "scene": "bigFace Theo, eyes wide, sees everything",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s030",
+   "start": 84.08,
+   "end": 87.25,
+   "line": "you just can’t move any faster to meet it.",
+   "scene": "Theo strains forward, ghost afterimages of his mind racing ahead; body lagging",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "slowmo",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s031",
+   "start": 87.25,
+   "end": 91.09,
+   "line": "So what if your reflexes were a hundred times faster?",
+   "scene": "TITLE CARD over sunset city: WHAT IF YOUR REFLEXES WERE 100X FASTER?",
+   "set": "title",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "stinger",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "captions": false
+  },
+  {
+   "id": "s032",
+   "start": 91.09,
+   "end": 94.07,
+   "line": "Plus: you never lose at catch.",
+   "scene": "park wide at golden hour, Theo and Mia with a ball; PLUS badge",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s033",
+   "start": 94.07,
+   "end": 97.82,
+   "line": "Your best friend Mia throws a ball at your face.",
+   "scene": "medium two-shot: Mia winds up and throws the ball at Theo's face",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "swish",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s034",
+   "start": 97.82,
+   "end": 99.35,
+   "line": "You have time to yawn.",
+   "scene": "TIME SLOW: bigFace Theo yawning, ball frozen inches away, 100x badge",
+   "set": "park",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s035",
+   "start": 99.35,
+   "end": 101.1,
+   "line": "Then you catch it.",
+   "scene": "snap: Theo catches the ball one-handed, shockwave rings",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s036",
+   "start": 101.1,
+   "end": 104.32,
+   "line": "How... how did you even see that?",
+   "scene": "bigFace Mia shocked, talking: How... how did you even see that?",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s037",
+   "start": 104.32,
+   "end": 106.67,
+   "line": "I see everything, Mia.",
+   "scene": "medium: Theo smirks, tossing the ball, talking",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s038",
+   "start": 106.67,
+   "end": 109.43,
+   "line": "Okay. That’s actually creepy.",
+   "scene": "two-shot: Mia steps back, nervous, talking: That's actually creepy",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s039",
+   "start": 109.43,
+   "end": 111.06,
+   "line": "Video games?",
+   "scene": "bedroom at night: Theo in gaming chair lit by monitor",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s040",
+   "start": 111.06,
+   "end": 113.99,
+   "line": "You read every enemy before it moves.",
+   "scene": "screen insert: enemies with prediction arrows drawn before they move",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 1.0,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s041",
+   "start": 113.99,
+   "end": 115.82,
+   "line": "Forty wins in a row.",
+   "scene": "screen: WINS counter races to 40",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s042",
+   "start": 115.82,
+   "end": 118.54,
+   "line": "Then the game bans you for cheating.",
+   "scene": "screen turns red: BANNED - SUSPECTED CHEATING",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "glitch",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s043",
+   "start": 118.54,
+   "end": 119.13,
+   "line": "Dude.",
+   "scene": "bigFace Theo in red monitor light, talking: Dude.",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s044",
+   "start": 119.13,
+   "end": 121.91,
+   "line": "Even the computer thinks you’re cheating.",
+   "scene": "wide: Theo facepalms in his chair, red glow",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s045",
+   "start": 121.91,
+   "end": 123.19,
+   "line": "Movies?",
+   "scene": "cinema: Theo and Mia in a dark row, projector beam",
+   "set": "cinema",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s046",
+   "start": 123.19,
+   "end": 126.5,
+   "line": "A film shows twenty-four pictures every second.",
+   "scene": "insert: film strip racing past, counter 24 / s",
+   "set": "cinema",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s047",
+   "start": 126.5,
+   "end": 128.58,
+   "line": "Everyone else sees motion.",
+   "scene": "screen: smooth running horse silhouette, motion blur, Mia smiling",
+   "set": "cinema",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s048",
+   "start": 128.58,
+   "end": 131.26,
+   "line": "You see... a slideshow.",
+   "scene": "Theo's view: same screen as stepped single frames, black gaps",
+   "set": "cinema",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s049",
+   "start": 131.26,
+   "end": 134.15,
+   "line": "Click. Click. Click.",
+   "scene": "bigFace Theo blank, screen light snaps on his face on each Click",
+   "set": "cinema",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 0.95,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 2.05,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s050",
+   "start": 134.15,
+   "end": 135.77,
+   "line": "Great movie, right?",
+   "scene": "two-shot in seats: Mia beams, talking",
+   "set": "cinema",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s051",
+   "start": 135.77,
+   "end": 138.47,
+   "line": "Very... clicky.",
+   "scene": "bigFace Theo deadpan, talking: Very... clicky.",
+   "set": "cinema",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s052",
+   "start": 138.47,
+   "end": 142.73,
+   "line": "Minus: some old lights flicker a hundred times a second.",
+   "scene": "MINUS badge; school hallway, fluorescent tubes flickering, 100 Hz label",
+   "set": "hallway",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -10
+    },
+    {
+     "at": 0.5,
+     "name": "buzz",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s053",
+   "start": 142.73,
+   "end": 145.57,
+   "line": "Nobody notices. You do.",
+   "scene": "students walk normally; Theo squints at the ceiling",
+   "set": "hallway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s054",
+   "start": 145.57,
+   "end": 148.85,
+   "line": "Your school hallway strobes like a nightclub.",
+   "scene": "hallway strobing like a nightclub, coloured flashes, figures in stop-motion",
+   "set": "hallway",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s055",
+   "start": 148.85,
+   "end": 150.54,
+   "line": "Then there’s track.",
+   "scene": "3D: athletics track at dusk, floodlights, slow crane",
+   "set": "track3d",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s056",
+   "start": 150.54,
+   "end": 153.09,
+   "line": "Coach Lee fires the starting gun.",
+   "scene": "Coach Lee raises the starting pistol and fires; smoke puff",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.25,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s057",
+   "start": 153.09,
+   "end": 155.77,
+   "line": "You’re gone before the smoke clears.",
+   "scene": "Theo explodes out of the blocks, speed trail, smoke still hanging",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s058",
+   "start": 155.77,
+   "end": 157.51,
+   "line": "And disqualified.",
+   "scene": "red DQ stamp slams over Theo, coach blows whistle",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "hit",
+     "gain": -6
+    },
+    {
+     "at": 0.4,
+     "name": "whistle",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s059",
+   "start": 157.51,
+   "end": 163.66,
+   "line": "Leave the blocks less than a tenth of a second after the gun, and the rules decide you must have guessed.",
+   "scene": "blueprint timeline after the gun: 0 to 0.30 s, red FALSE START zone under 0.10 s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 3.4,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s060",
+   "start": 163.66,
+   "end": 167.37,
+   "line": "The best sprinters react in about fifteen hundredths.",
+   "scene": "marker BEST SPRINTERS at 0.15 s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s061",
+   "start": 167.37,
+   "end": 169.35,
+   "line": "Nobody beats a tenth.",
+   "scene": "red wall at 0.10 s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s062",
+   "start": 169.35,
+   "end": 172.23,
+   "line": "Nobody... except you.",
+   "scene": "gold YOU marker beyond the wall at 0.0025 s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s063",
+   "start": 172.23,
+   "end": 175.33,
+   "line": "So you learn the strangest skill in sport.",
+   "scene": "Theo in the blocks, Coach standing over him, dusk",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s064",
+   "start": 175.33,
+   "end": 176.78,
+   "line": "Waiting.",
+   "scene": "bigFace Theo eyes closed, breathing, slow tick",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s065",
+   "start": 176.78,
+   "end": 179.2,
+   "line": "Coach Lee hands you a rule.",
+   "scene": "Coach hands Theo a small card",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s066",
+   "start": 179.2,
+   "end": 180.76,
+   "line": "Count, Theo.",
+   "scene": "bigFace Coach Lee talking: Count, Theo.",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s067",
+   "start": 180.76,
+   "end": 182.28,
+   "line": "Count to what?",
+   "scene": "two-shot: Theo confused, talking",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s068",
+   "start": 182.28,
+   "end": 184.41,
+   "line": "Count until you’re on time.",
+   "scene": "two-shot: Coach explains, pointing",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s069",
+   "start": 184.41,
+   "end": 188.57,
+   "line": "Fast doesn’t matter. On time does.",
+   "scene": "bigLine FAST DOESN'T MATTER. / ON TIME DOES. over dusk track",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s070",
+   "start": 188.57,
+   "end": 192.27,
+   "line": "But where it gets really crazy... is the road.",
+   "scene": "night road: Theo on the sidewalk, headlights streaming, rain-slick",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "carpass",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s071",
+   "start": 192.27,
+   "end": 197.8,
+   "line": "A car at fifty kilometers per hour moves about fourteen meters every second.",
+   "scene": "car passes; readout 50 km/h, then dimension 14 m per second",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "carpass",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s072",
+   "start": 197.8,
+   "end": 200.04,
+   "line": "You see every one of those meters.",
+   "scene": "TIME SLOW: car frozen, 14 metre ticks light up one by one",
+   "set": "road",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s073",
+   "start": 200.04,
+   "end": 202.57,
+   "line": "You see drivers glance at phones.",
+   "scene": "insert: driver silhouette lit by a phone screen",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "phonebuzz",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s074",
+   "start": 202.57,
+   "end": 206.22,
+   "line": "You see near-misses nobody else even notices.",
+   "scene": "top-down: car and cyclist paths almost touch, 0.4 m gap",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "riser",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s075",
+   "start": 206.22,
+   "end": 207.84,
+   "line": "And there’s a cost.",
+   "scene": "bigFace Theo sad, rain light",
+   "set": "road",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s076",
+   "start": 207.84,
+   "end": 209.3,
+   "line": "The price?",
+   "scene": "bigLine THE PRICE? in coral",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s077",
+   "start": 209.3,
+   "end": 212.81,
+   "line": "Every second feels like a minute and forty seconds.",
+   "scene": "clock: 1 SECOND = 1 MIN 40 S, second hand crawling",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "clock",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s078",
+   "start": 212.81,
+   "end": 217.05,
+   "line": "A ten-minute lesson feels like more than sixteen hours.",
+   "scene": "classroom: teacher at board, Theo slumped, readout 10 MIN = 16+ HOURS",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s079",
+   "start": 217.05,
+   "end": 218.74,
+   "line": "Mia says good morning...",
+   "scene": "hallway morning: Mia waves and starts to talk",
+   "set": "hallway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s080",
+   "start": 218.74,
+   "end": 221.52,
+   "line": "and you plan your answer, rewrite it twice,",
+   "scene": "Theo with a thought bubble: drafts written, crossed out twice",
+   "set": "hallway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.7,
+     "name": "swish",
+     "gain": -16
+    },
+    {
+     "at": 1.9,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s081",
+   "start": 221.52,
+   "end": 224.5,
+   "line": "and get bored waiting for her to finish.",
+   "scene": "bigFace Theo sleepy while Mia's mouth moves in slow motion behind",
+   "set": "hallway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s082",
+   "start": 224.5,
+   "end": 228.32,
+   "line": "Your mind lives a hundred days for every day you live.",
+   "scene": "blueprint calendar: 1 day vs a grid of 100 days filling",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s083",
+   "start": 228.32,
+   "end": 230.79,
+   "line": "People start to feel like statues.",
+   "scene": "TIME SLOW: crowded hallway frozen like grey statues, Theo moves between them",
+   "set": "hallway",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s084",
+   "start": 230.79,
+   "end": 231.87,
+   "line": "Beautiful.",
+   "scene": "statues in golden window light, dust hanging",
+   "set": "hallway",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s085",
+   "start": 231.87,
+   "end": 235.3,
+   "line": "And lonely. Usually both at once.",
+   "scene": "pull-out: Theo small and alone among the statues",
+   "set": "hallway",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s086",
+   "start": 235.3,
+   "end": 237.38,
+   "line": "Who talks to statues?",
+   "scene": "Theo sits on a bench beside a frozen classmate",
+   "set": "hallway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s087",
+   "start": 237.38,
+   "end": 240.5,
+   "line": "And who... is going to wait for you?",
+   "scene": "empty corridor, Theo walks away into the light",
+   "set": "hallway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s088",
+   "start": 240.5,
+   "end": 241.71,
+   "line": "Sam does.",
+   "scene": "school gate golden afternoon: Sam jumps up waving",
+   "set": "gate",
+   "bars": null,
+   "in": {
+    "type": "dipWhite",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s089",
+   "start": 241.71,
+   "end": 243.68,
+   "line": "Your seven-year-old brother.",
+   "scene": "medium: Sam grinning, yellow cap; label 7",
+   "set": "gate",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s090",
+   "start": 243.68,
+   "end": 246.66,
+   "line": "The only person who doesn’t think you’re weird.",
+   "scene": "Sam hugs Theo's leg, Theo smiles",
+   "set": "gate",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s091",
+   "start": 246.66,
+   "end": 250.0,
+   "line": "He waits for you at the school gate every afternoon.",
+   "scene": "wide: Sam sitting on the gate wall, swinging legs, waiting",
+   "set": "gate",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s092",
+   "start": 250.0,
+   "end": 252.72,
+   "line": "He listens to your endless stories.",
+   "scene": "walking home at sunset, Theo talking, story bubbles; Sam listening, joy",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s093",
+   "start": 252.72,
+   "end": 255.83,
+   "line": "He never once says... hurry up.",
+   "scene": "bigFace Sam smiling up at Theo",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s094",
+   "start": 255.83,
+   "end": 258.09,
+   "line": "Years ago, you taught him a game.",
+   "scene": "flashback (soft, faded): backyard, Theo younger teaching little Sam",
+   "set": "garden",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s095",
+   "start": 258.09,
+   "end": 259.19,
+   "line": "A whistle.",
+   "scene": "insert: Theo whistles, musical rings",
+   "set": "garden",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whistle",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s096",
+   "start": 259.19,
+   "end": 262.19,
+   "line": "Two notes. High, then low.",
+   "scene": "two notes on a staff: HIGH then LOW, waveform",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 1.2,
+     "name": "blip",
+     "gain": -14,
+     "pitch": 0.75
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s097",
+   "start": 262.19,
+   "end": 264.56,
+   "line": "It means: freeze.",
+   "scene": "FREEZE in big letters; Sam stops mid-run",
+   "set": "garden",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "freeze",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s098",
+   "start": 264.56,
+   "end": 268.74,
+   "line": "Whenever you whistle, he stops mid-step like a robot.",
+   "scene": "Sam frozen mid-step like a robot, Theo laughing",
+   "set": "garden",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whistle",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s099",
+   "start": 268.74,
+   "end": 270.34,
+   "line": "Every single time.",
+   "scene": "triptych: Sam frozen in three different places",
+   "set": "garden",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.7,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s100",
+   "start": 270.34,
+   "end": 272.38,
+   "line": "Even in the supermarket.",
+   "scene": "supermarket aisle: Sam frozen mid-step, shoppers stare",
+   "set": "market",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s101",
+   "start": 272.38,
+   "end": 275.58,
+   "line": "Sam! Not in the cereal aisle!",
+   "scene": "Theo, embarrassed, talking: Sam! Not in the cereal aisle!",
+   "set": "market",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s102",
+   "start": 275.58,
+   "end": 278.48,
+   "line": "Robots don’t choose aisles, Theo.",
+   "scene": "bigFace Sam deadpan, frozen, talking",
+   "set": "market",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s103",
+   "start": 278.48,
+   "end": 279.6,
+   "line": "Sports day.",
+   "scene": "3D: stadium on sports day, crowd, flags, main road beside it",
+   "set": "track3d",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -12
+    },
+    {
+     "at": 0.3,
+     "name": "cheer",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s104",
+   "start": 279.6,
+   "end": 281.53,
+   "line": "The hundred-meter final.",
+   "scene": "finalists line up; giant screen 100 M FINAL",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s105",
+   "start": 281.53,
+   "end": 284.5,
+   "line": "The track sits right beside the main road.",
+   "scene": "wide: track, fence, an open gate, the main road beyond",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "carpass",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s106",
+   "start": 284.5,
+   "end": 286.66,
+   "line": "Your whole family is watching.",
+   "scene": "stands: Mom, Sam and Mia cheering",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "cheer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s107",
+   "start": 286.66,
+   "end": 288.72,
+   "line": "You crouch in the blocks.",
+   "scene": "Theo crouches into the blocks, side view",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s108",
+   "start": 288.72,
+   "end": 289.91,
+   "line": "On your marks.",
+   "scene": "Coach Lee lifts the pistol, talking",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s109",
+   "start": 289.91,
+   "end": 291.15,
+   "line": "Set.",
+   "scene": "Theo hips up, frozen tension, crowd hushed",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s110",
+   "start": 291.15,
+   "end": 293.18,
+   "line": "Your brain waits for the gun.",
+   "scene": "bigFace Theo determined, heartbeat",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s111",
+   "start": 293.18,
+   "end": 295.62,
+   "line": "And then... you see it.",
+   "scene": "extreme close on Theo's eye, it flicks right",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s112",
+   "start": 295.62,
+   "end": 298.57,
+   "line": "A red ball bouncing through the open gate.",
+   "scene": "red ball bouncing through the open gate toward the road",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -16
+    },
+    {
+     "at": 1.0,
+     "name": "pop",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s113",
+   "start": 298.57,
+   "end": 300.77,
+   "line": "And a small boy chasing it.",
+   "scene": "Sam runs after the ball",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "footstep",
+     "gain": -16
+    },
+    {
+     "at": 0.5,
+     "name": "footstep",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s114",
+   "start": 300.77,
+   "end": 302.1,
+   "line": "Sam.",
+   "scene": "bigFace Theo shocked",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s115",
+   "start": 302.1,
+   "end": 304.39,
+   "line": "Down the road comes a delivery truck.",
+   "scene": "golden road: delivery truck rolling toward camera",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "carpass",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s116",
+   "start": 304.39,
+   "end": 309.84,
+   "line": "Fifty kilometers per hour. Forty meters away. Under three seconds.",
+   "scene": "truck; readouts 50 km/h, 40 m, 2.9 s countdown",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 2.1,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 3.7,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s117",
+   "start": 309.84,
+   "end": 312.49,
+   "line": "You do the math... in a blink.",
+   "scene": "TIME FREEZE: blueprint math lines over the frozen stadium, Theo blinks",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s118",
+   "start": 312.49,
+   "end": 314.96,
+   "line": "You’re sixty meters from that gate.",
+   "scene": "top-down map: Theo at the blocks, gate 60 m away, truck, Sam",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s119",
+   "start": 314.96,
+   "end": 320.65,
+   "line": "Even the fastest man in history needed over six seconds to cover sixty meters.",
+   "scene": "blueprint: fastest sprinter line-figure, 60 m in 6+ s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s120",
+   "start": 320.65,
+   "end": 322.44,
+   "line": "You’d need eight.",
+   "scene": "YOU 8 s bar in coral vs truck 2.9 s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s121",
+   "start": 322.44,
+   "end": 325.74,
+   "line": "Your brain is fast. Your legs are not.",
+   "scene": "brain gold / legs grey",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 1.6,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s122",
+   "start": 325.74,
+   "end": 327.21,
+   "line": "You can’t reach him.",
+   "scene": "frozen wide: Theo far from the gate, Sam near the curb",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s123",
+   "start": 327.21,
+   "end": 329.38,
+   "line": "And the gun hasn’t fired.",
+   "scene": "insert: pistol, finger on trigger, frozen",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s124",
+   "start": 329.38,
+   "end": 332.17,
+   "line": "Move now... and you’re out.",
+   "scene": "Theo in blocks; red DQ ghost flickers over him",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s125",
+   "start": 332.17,
+   "end": 334.72,
+   "line": "Months of training. Gone.",
+   "scene": "memories of training as fading frames, then GONE",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s126",
+   "start": 334.72,
+   "end": 337.58,
+   "line": "The race... or your brother.",
+   "scene": "split: finish line left, Sam right",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s127",
+   "start": 337.58,
+   "end": 338.71,
+   "line": "You stand up.",
+   "scene": "Theo rises out of the blocks",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s128",
+   "start": 338.71,
+   "end": 340.33,
+   "line": "Before the gun.",
+   "scene": "Coach Lee, pistol raised, startled",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s129",
+   "start": 340.33,
+   "end": 342.41,
+   "line": "The crowd groans.",
+   "scene": "crowd slumps, groan",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "murmur",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s130",
+   "start": 342.41,
+   "end": 344.05,
+   "line": "False start.",
+   "scene": "stadium screen flashes FALSE START",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s131",
+   "start": 344.05,
+   "end": 345.62,
+   "line": "But you don’t run.",
+   "scene": "Theo standing still while others stay crouched",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s132",
+   "start": 345.62,
+   "end": 347.31,
+   "line": "Running won’t work.",
+   "scene": "top-down: dotted run path to the gate, crossed out",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s133",
+   "start": 347.31,
+   "end": 349.21,
+   "line": "Instead, you whistle.",
+   "scene": "bigFace Theo whistling, rings",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "whistle",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s134",
+   "start": 349.21,
+   "end": 352.56,
+   "line": "Two notes. High, then low.",
+   "scene": "two gold note rings leave Theo and sweep across the field",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whistle",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s135",
+   "start": 352.56,
+   "end": 356.7,
+   "line": "Sound travels at about three hundred and forty meters per second.",
+   "scene": "blueprint: sound wave arcs crossing 60 m, 340 m/s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s136",
+   "start": 356.7,
+   "end": 360.16,
+   "line": "It reaches Sam in less than a fifth of a second.",
+   "scene": "timer: 0.18 s, wave hits Sam's icon",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s137",
+   "start": 360.16,
+   "end": 362.17,
+   "line": "You watch the sound arrive.",
+   "scene": "TIME FREEZE: wide, gold rings crawling across the field toward Sam",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s138",
+   "start": 362.17,
+   "end": 363.87,
+   "line": "You watch him hear it.",
+   "scene": "Sam's head, the ring touches it, eyes widen",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s139",
+   "start": 363.87,
+   "end": 366.34,
+   "line": "And Sam... freezes.",
+   "scene": "Sam stops dead, mid-step",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s140",
+   "start": 366.34,
+   "end": 369.45,
+   "line": "One foot in the air. Right at the curb.",
+   "scene": "low insert: Sam's foot hovering over the curb edge, truck lights growing",
+   "set": "road",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s141",
+   "start": 369.45,
+   "end": 371.28,
+   "line": "The truck rushes past.",
+   "scene": "truck blurs past between camera and Sam, shake",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "carpass",
+     "gain": -4
+    },
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s142",
+   "start": 371.28,
+   "end": 373.62,
+   "line": "The ball rolls under its wheels.",
+   "scene": "red ball rolls under the giant wheel",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s143",
+   "start": 373.62,
+   "end": 374.56,
+   "line": "Pop.",
+   "scene": "POP: ball bursts, flash and rings",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hit",
+     "gain": -4
+    },
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -4
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s144",
+   "start": 374.56,
+   "end": 376.08,
+   "line": "Silence.",
+   "scene": "still wide: empty road, dust settling, Sam frozen at the curb",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s145",
+   "start": 376.08,
+   "end": 379.59,
+   "line": "Then Sam turns around... and waves.",
+   "scene": "Sam turns around and waves",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s146",
+   "start": 379.59,
+   "end": 381.77,
+   "line": "The whole stadium saw it.",
+   "scene": "crowd on its feet, stunned",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "murmur",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s147",
+   "start": 381.77,
+   "end": 383.69,
+   "line": "Coach Lee walks over.",
+   "scene": "Coach Lee walks over to Theo",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -16
+    },
+    {
+     "at": 0.7,
+     "name": "footstep",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s148",
+   "start": 383.69,
+   "end": 386.29,
+   "line": "You know you’re disqualified, right?",
+   "scene": "bigFace Coach smiling, talking",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s149",
+   "start": 386.29,
+   "end": 391.08,
+   "line": "I know. Fast doesn’t matter. On time does.",
+   "scene": "two-shot: Theo smiles, talking; Coach's hand on his shoulder",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s150",
+   "start": 391.08,
+   "end": 392.6,
+   "line": "Mia is crying.",
+   "scene": "bigFace Mia crying happy tears",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s151",
+   "start": 392.6,
+   "end": 394.08,
+   "line": "Your mom is running.",
+   "scene": "Mom runs across the field",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 0.5,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s152",
+   "start": 394.08,
+   "end": 396.87,
+   "line": "And Sam crashes into your arms.",
+   "scene": "Sam leaps into Theo's arms",
+   "set": "track",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s153",
+   "start": 396.87,
+   "end": 401.03,
+   "line": "For once, you don’t mind that every second lasts so long.",
+   "scene": "warm slow push on the hug, sunset, dust",
+   "set": "track",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s154",
+   "start": 401.03,
+   "end": 404.61,
+   "line": "You want this one... to last forever.",
+   "scene": "3D: slow orbit around the hug in the evening light",
+   "set": "track3d",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s155",
+   "start": 404.61,
+   "end": 407.89,
+   "line": "That night, a letter slides under your door.",
+   "scene": "bedroom night, moonlight; a letter slides under the door",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s156",
+   "start": 407.89,
+   "end": 410.65,
+   "line": "No name. Just one line.",
+   "scene": "insert: blank envelope in Theo's hands, moonlight",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s157",
+   "start": 410.65,
+   "end": 412.81,
+   "line": "‘We saw what you did on that road.",
+   "scene": "the letter's single line appears",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s158",
+   "start": 412.81,
+   "end": 414.98,
+   "line": "We would like to test you.’",
+   "scene": "bigFace Theo reading, moonlit, awe",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s159",
+   "start": 414.98,
+   "end": 416.82,
+   "line": "Is any of this real?",
+   "scene": "bigLine IS ANY OF THIS REAL?",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s160",
+   "start": 416.82,
+   "end": 417.93,
+   "line": "Partly.",
+   "scene": "blueprint: PARTLY. stamp",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s161",
+   "start": 417.93,
+   "end": 422.49,
+   "line": "Human visual reaction really sits around a quarter of a second.",
+   "scene": "blueprint: real human reaction bar 0.25 s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s162",
+   "start": 422.49,
+   "end": 427.84,
+   "line": "Sprinting really does treat anything under a tenth of a second as a false start.",
+   "scene": "blueprint: false-start rule under 0.10 s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s163",
+   "start": 427.84,
+   "end": 431.04,
+   "line": "And some animals really do see faster than us.",
+   "scene": "blueprint: eyes of animals, fly eye glowing",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s164",
+   "start": 431.04,
+   "end": 435.22,
+   "line": "Houseflies notice flicker that looks like smooth light to you,",
+   "scene": "blueprint: lamp light smooth for human vs strobing for the fly",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s165",
+   "start": 435.22,
+   "end": 438.64,
+   "line": "which helps explain why they’re so hard to swat.",
+   "scene": "kitchen: a hand swats, the fly casually dodges",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "swish",
+     "gain": -10
+    },
+    {
+     "at": 1.9,
+     "name": "buzz",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s166",
+   "start": 438.64,
+   "end": 441.88,
+   "line": "But a human brain a hundred times faster?",
+   "scene": "brain 100x with a question mark",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s167",
+   "start": 441.88,
+   "end": 445.07,
+   "line": "Your nerves are simply too slow to keep up.",
+   "scene": "nerve pulse crawling, too slow",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s168",
+   "start": 445.07,
+   "end": 449.43,
+   "line": "So could anything ever make human reflexes truly instant?",
+   "scene": "Theo at the moonlit window holding the letter, slow push",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s169",
+   "start": 449.43,
+   "end": 459.9,
+   "line": "What do you think? Tell us in the comments, and tell us which superpower we should do next. Hit like, and subscribe for more What Ifs.",
+   "scene": "END SCREEN: question, comment bubble, subscribe, cast lined up",
+   "set": "end",
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0.0,
+   "end": 12.79,
+   "mood": "wonder",
+   "intensity": 0.35
+  },
+  {
+   "start": 12.79,
+   "end": 44.85,
+   "mood": "playful",
+   "intensity": 0.4
+  },
+  {
+   "start": 44.85,
+   "end": 87.0,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 87.0,
+   "end": 90.84,
+   "mood": "epic",
+   "intensity": 0.65
+  },
+  {
+   "start": 90.84,
+   "end": 138.22,
+   "mood": "playful",
+   "intensity": 0.5
+  },
+  {
+   "start": 138.22,
+   "end": 148.6,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 148.6,
+   "end": 188.32,
+   "mood": "hopeful",
+   "intensity": 0.55
+  },
+  {
+   "start": 188.32,
+   "end": 205.97,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 205.97,
+   "end": 240.25,
+   "mood": "sad",
+   "intensity": 0.35
+  },
+  {
+   "start": 240.25,
+   "end": 278.23,
+   "mood": "hopeful",
+   "intensity": 0.4
+  },
+  {
+   "start": 278.23,
+   "end": 292.93,
+   "mood": "action",
+   "intensity": 0.55
+  },
+  {
+   "start": 292.93,
+   "end": 337.33,
+   "mood": "tension",
+   "intensity": 0.75
+  },
+  {
+   "start": 337.33,
+   "end": 374.31,
+   "mood": "epic",
+   "intensity": 0.7
+  },
+  {
+   "start": 374.31,
+   "end": 379.34,
+   "mood": "calm",
+   "intensity": 0.2
+  },
+  {
+   "start": 379.34,
+   "end": 404.36,
+   "mood": "triumph",
+   "intensity": 0.6
+  },
+  {
+   "start": 404.36,
+   "end": 414.73,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 414.73,
+   "end": 459.9,
+   "mood": "wonder",
+   "intensity": 0.4
+  }
+ ],
+ "sfx": []
+}
