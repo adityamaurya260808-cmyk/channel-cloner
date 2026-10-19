@@ -113,7 +113,7 @@ registerShot('s027', { draw(g, t, info) { bodyBoard(g, t, info, 'nerve'); } });
 
 // ---------- track: ordinary legs ----------
 registerShot('s028', { draw(g, t, info) {
-  const cam = push(t, info, { z0: 1.15, z1: 1.2, x0: -200, x1: 200, y0: -40, y1: -40 });
+  const cam = push(t, info, { z0: 1.15, z1: 1.2, x0: -200, x1: 200, y0: 80, y1: 80 });
   const { GY, M } = track(g, t, cam, { view: 'stands' });
   const x = lerp(E.W * 0.05, E.W * 0.95, t / info.dur), ph = t * 2 * Math.PI * 1.45;
   layer(g, cam, 1, (g) => drawFigure(g, { x, y: GY, s: 1.25, facing: 1, outfit: THEO, pose: walkPose(ph, { run: true }), expr: 'neutral', rim: rimOf(M, [-0.7, -0.7]) }));
@@ -125,7 +125,7 @@ registerShot('s029', { draw(g, t, info) {
     look: (tt) => [Math.sin(tt * 3) * 0.8, -0.2], front: (g) => { for (let i = 0; i < 8; i++) { const a = i * 0.8 + t * 0.4; seg(g, [[E.W / 2 + Math.cos(a) * 520, E.H * 0.55 + Math.sin(a) * 320], [E.W / 2 + Math.cos(a) * 620, E.H * 0.55 + Math.sin(a) * 380]], 2, alpha('#ffffff', 0.25)); } } });
 } });
 registerShot('s030', { draw(g, t, info) {
-  const cam = push(t, info, { z0: 1.5, z1: 1.55, x0: 0, x1: 20, y0: -120, y1: -120 });
+  const cam = push(t, info, { z0: 1.5, z1: 1.55, x0: 0, x1: 20, y0: 170, y1: 170 });
   const { GY, M } = track(g, t * 0.2, cam, { view: 'stands' });
   const x = E.W * 0.42 + t * 12, ph = t * 2 * Math.PI * 0.25 + 1;
   layer(g, cam, 1, (g) => {

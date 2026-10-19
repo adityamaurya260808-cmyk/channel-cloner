@@ -50,7 +50,7 @@ export function park(g, t, cam, o = {}) {
   layer(g, cam, 0.1, (g) => { backdrop(g, M.sky); FX.sun(g, CX - V(260, 120), GY - V(260, 640), 72, '#fff3dc', M.key, 5); FX.clouds(g, { y: GY - V(760, 1300), h: 200, color: '#ffe7c7', a: 0.12, seed: 9 }); });
   layer(g, cam, 0.25, (g) => FX.skyline(g, { x: -E.W, y: GY - V(160, 300), w: E.W * 3, minH: 40, maxH: V(220, 360), color: mix(M.sky[1], M.dark, 0.7), windowColor: alpha(M.practical, 0.5), lit: 0.12, seed: 14 }));
   layer(g, cam, 0.45, (g) => { FX.hills(g, { y: GY - V(60, 160), amp: 50, color: shade(M.grass, -0.55), seed: 7 }); for (let i = 0; i < 10; i++) FX.tree(g, -700 + i * 380 + (i % 3) * 70, GY - V(60, 150), 1.1 + (i % 2) * 0.5, shade(M.grass, -0.72)); });
-  layer(g, cam, 0.9, (g) => { lawn(g, M, GY, t, { lift: -0.15, seed: 41 }); FX.pool(g, CX - V(200, 60), GY + 40, 800, 100, M.key, 0.12); });
+  layer(g, cam, 0.9, (g) => { lawn(g, M, GY, t, { lift: -0.45, seed: 41 }); FX.pool(g, CX - V(200, 60), GY + 40, 800, 100, M.key, 0.12); });
   return { GY, CX, M };
 }
 

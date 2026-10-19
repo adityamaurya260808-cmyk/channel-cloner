@@ -156,3 +156,10 @@ export function label(g, t, str, x, y, at = 0, o = {}) {
   g.restore();
 }
 export { FX, UI, POSES, posesAt, breathe, drawFigure, bigFace };
+
+// ---------- sprint poses (face +x) ----------
+export const MARKS = { head: [58, -100], sh: [36, -96], hip: [-34, -60], eF: [42, -50], hF: [44, 0], eB: [38, -50], hB: [40, 0], kF: [2, -20], fF: [-40, -2], kB: [-20, -14], fB: [-70, -2] };
+export const SETP = { head: [62, -118], sh: [40, -112], hip: [-24, -106], eF: [44, -58], hF: [46, 0], eB: [40, -58], hB: [42, 0], kF: [12, -60], fF: [-40, -2], kB: [-42, -50], fB: [-74, -2] };
+export const HUGK = { head: [14, -150], sh: [8, -120], hip: [0, -58], eF: [44, -118], hF: [56, -142], eB: [38, -120], hB: [50, -146], kF: [36, -44], fF: [40, 0], kB: [-8, -4], fB: [-50, 0] };
+// starting-pistol smoke puff (k = 0..1 age)
+export function smoke(g, x, y, k, s = 1) { if (k <= 0) return; for (let i = 0; i < 7; i++) { const a = i * 0.9, d = (20 + k * 70) * s; circle(g, x + Math.cos(a) * d * 0.6 + k * 30 * s, y - k * 60 * s + Math.sin(a) * d * 0.4, (18 + k * 40) * s * (0.7 + (i % 3) * 0.15), alpha('#d8d2dc', 0.5 * (1 - k))); } }

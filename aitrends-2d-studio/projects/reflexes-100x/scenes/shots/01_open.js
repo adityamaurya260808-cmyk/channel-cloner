@@ -72,7 +72,7 @@ registerShot('s005', { draw(g, t, info) {
 } });
 
 registerShot('s006', { draw(g, t, info) {
-  const cam = push(t, info, { z0: 1.32, z1: 1.38, x0: -220, x1: -240, y0: -90, y1: -90 });
+  const cam = push(t, info, { z0: 1.32, z1: 1.38, x0: -220, x1: -240, y0: 90, y1: 95 });
   const lean = ease.inOut(prog(t, 0.05, 0.5));
   const sideLean = { ...POSES.sitBack, head: [-22, -170], sh: [-14, -142] };
   const w = [lerp(E.W * 0.85, E.W * 0.05, ease.inOut(prog(t, 0.1, info.dur))), E.H * V(0.46, 0.5) + Math.sin(t * 6) * 10];
@@ -173,7 +173,7 @@ function lids(g, cx, cy, r, lid) { const ey = cy - r * 0.16; for (const ex of [c
 function lidsSide(g, o, lid) { const [hx, hy, r] = headPos(o), f = o.facing ?? 1, fx = hx + f * r * 0.34, ey = hy - r * 0.16; for (const dx of [-0.26, 0.32]) { const ex = fx + f * dx * r; g.save(); g.beginPath(); g.arc(ex, ey, r * 0.2, 0, Math.PI * 2); g.clip(); g.fillStyle = S().ink; g.fillRect(ex - r * 0.3, ey - r * 0.25, r * 0.6, lid * r * 0.36); g.restore(); } }
 
 registerShot('s012', { draw(g, t, info) {
-  const M = mood('interiorWarm'), cam = push(t, info, { z0: 1.7, z1: 1.78, x0: V(500, 300), x1: V(480, 290), y0: -80, y1: -90 });
+  const M = mood('interiorWarm'), cam = push(t, info, { z0: 1.7, z1: 1.78, x0: V(500, 300), x1: V(480, 290), y0: 140, y1: 150 });
   const lid = ease.inOut(prog(t, 0.5, info.dur)) * 0.35;
   kitchenWide(g, t, cam, { samBlink: false, samExpr: 'neutral', theoExpr: 'neutral', theoLook: [1, 0],
     extra: (g, GY, tb, s) => { const k = K(); lidsSide(g, { x: k.samX, y: GY, s, facing: -1, outfit: SAM, pose: breathe(POSES.sit, t, 1, 4) }, lid); } });
@@ -222,7 +222,7 @@ registerShot('s016', { draw(g, t, info) {
 } });
 
 registerShot('s017', { draw(g, t, info) {
-  const cam = push(t, info, { z0: 1.4, z1: 1.48, x0: -330, x1: -350, y0: -60, y1: -70 }), k = K();
+  const cam = push(t, info, { z0: 1.4, z1: 1.48, x0: -330, x1: -350, y0: 130, y1: 140 }), k = K();
   const { GY, M, counterTop } = kitchen(g, t, cam, { clockSpeed: 900, clockT: 7 * 3600 });
   const s = 1.3, chin = { ...POSES.think, head: [14, -196], eF: [30, -150], hF: [24, -186], eB: [24, -146], hB: [42, -158] };
   layer(g, cam, 1, (g) => {
@@ -233,7 +233,7 @@ registerShot('s017', { draw(g, t, info) {
 } });
 
 registerShot('s018', { draw(g, t, info) {
-  const cam = push(t, info, { z0: 1.6, z1: 1.7, x0: 80, x1: 60, y0: -110, y1: -130 }), k = K();
+  const cam = push(t, info, { z0: 1.6, z1: 1.7, x0: 80, x1: 60, y0: 170, y1: 180 }), k = K();
   const { GY, M } = kitchen(g, t, cam);
   const x = E.W / 2 + 60, s = 1.3;
   layer(g, cam, 1, (g) => drawFigure(g, { x, y: GY, s, facing: -1, outfit: THEO, pose: breathe(posesAt(t, [[0, POSES.relaxed], [0.3, POSES.wave], [1.4, POSES.relaxed]]), t), expr: 'smile', rim: rimOf(M, [-0.6, -0.8]), blink: blinkAt(t, 3.1) }));
