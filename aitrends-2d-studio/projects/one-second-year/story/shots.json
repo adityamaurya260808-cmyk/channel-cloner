@@ -1,0 +1,3397 @@
+{
+ "title": "What If One Second Felt Like a Year?",
+ "duration": 400.13,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 3.01,
+   "line": "Sunday afternoon. Music on.",
+   "scene": "kitchen wide, warm afternoon: Grandpa dancing by the record player, Leo at the table, slow push",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s002",
+   "start": 3.01,
+   "end": 7.11,
+   "line": "Your grandpa is dancing in the kitchen, the way he always does.",
+   "scene": "medium: Grandpa dances, tapping the counter, music notes",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s003",
+   "start": 7.11,
+   "end": 9.48,
+   "line": "Then his hand slips off the counter.",
+   "scene": "insert: Grandpa's hand slides off the counter edge",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s004",
+   "start": 9.48,
+   "end": 10.98,
+   "line": "His knees fold.",
+   "scene": "medium: Grandpa's knees buckle, Leo turns",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s005",
+   "start": 10.98,
+   "end": 12.46,
+   "line": "And the whole world...",
+   "scene": "bigFace Leo shocked",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s006",
+   "start": 12.46,
+   "end": 13.61,
+   "line": "stops.",
+   "scene": "TIME FREEZE: the kitchen stops, blue tint, everything hangs",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -5
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s007",
+   "start": 13.61,
+   "end": 15.63,
+   "line": "His glasses hang in the air.",
+   "scene": "insert: Grandpa's glasses floating in the air",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s008",
+   "start": 15.63,
+   "end": 17.79,
+   "line": "A spoon floats above the floor.",
+   "scene": "insert: a spoon hanging above the floor tiles",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s009",
+   "start": 17.79,
+   "end": 19.95,
+   "line": "The music holds one long note.",
+   "scene": "record player: one long flat sound wave",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hum",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s010",
+   "start": 19.95,
+   "end": 21.21,
+   "line": "Nothing moves.",
+   "scene": "wide frozen kitchen, slow pull back",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s011",
+   "start": 21.21,
+   "end": 22.8,
+   "line": "Not even you.",
+   "scene": "bigFace Leo frozen, eyes fixed",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s012",
+   "start": 22.8,
+   "end": 25.09,
+   "line": "You’re standing inside a single second.",
+   "scene": "Leo stands tiny on a giant frozen clock face",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s013",
+   "start": 25.09,
+   "end": 27.22,
+   "line": "And you’re about to live a whole year in it.",
+   "scene": "calendar pages flip DAY 1 to 365; 1 SECOND = 1 YEAR",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s014",
+   "start": 27.22,
+   "end": 30.78,
+   "line": "Three weeks earlier, it happened for the very first time.",
+   "scene": "dip: bedroom morning, label THREE WEEKS EARLIER",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s015",
+   "start": 30.78,
+   "end": 33.66,
+   "line": "Your name is Leo. You’re fifteen.",
+   "scene": "Leo medium, labels LEO and AGE 15",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.5,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s016",
+   "start": 33.66,
+   "end": 37.24,
+   "line": "A year holds about thirty-one and a half million seconds.",
+   "scene": "counter races to 31,500,000 SECONDS",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s017",
+   "start": 37.24,
+   "end": 40.86,
+   "line": "Most people feel each one as... just a second.",
+   "scene": "line figures, each second ticks past as just 1 s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 1.3,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 2.3,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s018",
+   "start": 40.86,
+   "end": 41.93,
+   "line": "You?",
+   "scene": "bigFace Leo smirk",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s019",
+   "start": 41.93,
+   "end": 45.35,
+   "line": "Hold your breath, and one second stretches into a full year.",
+   "scene": "Leo inhales, blue freeze spreads; 1 SECOND = 1 YEAR",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "freeze",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s020",
+   "start": 45.35,
+   "end": 49.39,
+   "line": "A year to think. To remember. To plan.",
+   "scene": "THINK, REMEMBER, PLAN icons pop on the words",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.9,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 2.9,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s021",
+   "start": 49.39,
+   "end": 50.7,
+   "line": "But there’s a rule.",
+   "scene": "bigLine THE RULE",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s022",
+   "start": 50.7,
+   "end": 52.49,
+   "line": "Your mind runs free.",
+   "scene": "line figure: brain glowing gold, thoughts sparking",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s023",
+   "start": 52.49,
+   "end": 54.18,
+   "line": "Your body doesn’t move.",
+   "scene": "body locked grey with a padlock",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s024",
+   "start": 54.18,
+   "end": 55.32,
+   "line": "Not a finger.",
+   "scene": "insert: frozen finger, lock icon",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s025",
+   "start": 55.32,
+   "end": 56.88,
+   "line": "Not even your eyes.",
+   "scene": "bigFace Leo, eyes locked in place",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s026",
+   "start": 56.88,
+   "end": 60.7,
+   "line": "You can think anything... but you can’t do anything.",
+   "scene": "split: THINK yes, DO no",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 1.6,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s027",
+   "start": 60.7,
+   "end": 62.52,
+   "line": "Not until you breathe out.",
+   "scene": "Leo breathes out, colour returns",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s028",
+   "start": 62.52,
+   "end": 65.17,
+   "line": "So what if one second felt like a year?",
+   "scene": "TITLE CARD: WHAT IF ONE SECOND FELT LIKE A YEAR?",
+   "set": "title",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "stinger",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "captions": false
+  },
+  {
+   "id": "s029",
+   "start": 65.17,
+   "end": 67.33,
+   "line": "The first time is a maths test.",
+   "scene": "classroom wide: maths test, students writing, clock",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s030",
+   "start": 67.33,
+   "end": 68.67,
+   "line": "Question seven.",
+   "scene": "insert: test paper, QUESTION 7, scary equation",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s031",
+   "start": 68.67,
+   "end": 71.68,
+   "line": "You hold your breath... and you get a whole year with it.",
+   "scene": "bigFace Leo holds breath, freeze flash",
+   "set": "classroom",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s032",
+   "start": 71.68,
+   "end": 72.86,
+   "line": "You solve it.",
+   "scene": "frozen classroom; thought bubble: equation solved",
+   "set": "classroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s033",
+   "start": 72.86,
+   "end": 74.9,
+   "line": "Then you solve it three more ways.",
+   "scene": "bubble: three more methods, ticks",
+   "set": "classroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.7,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 1.1,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s034",
+   "start": 74.9,
+   "end": 78.29,
+   "line": "Then you get bored and invent a board game in your head.",
+   "scene": "bubble: a board game builds itself in Leo's head",
+   "set": "classroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s035",
+   "start": 78.29,
+   "end": 79.46,
+   "line": "You breathe out.",
+   "scene": "unfreeze, colour returns",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s036",
+   "start": 79.46,
+   "end": 81.09,
+   "line": "The clock hasn’t moved.",
+   "scene": "insert: wall clock, second hand barely moved",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s037",
+   "start": 81.09,
+   "end": 83.62,
+   "line": "Leo, you finished in four minutes?",
+   "scene": "bigFace teacher amazed, talking",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s038",
+   "start": 83.62,
+   "end": 86.17,
+   "line": "I had... plenty of time.",
+   "scene": "Leo smirks, talking: plenty of time",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s039",
+   "start": 86.17,
+   "end": 87.92,
+   "line": "Plus: chess club.",
+   "scene": "PLUS badge; chess club, Leo vs the champion",
+   "set": "chess",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s040",
+   "start": 87.92,
+   "end": 90.1,
+   "line": "Every move gets a year of thought.",
+   "scene": "top-down chess board, a piece glows; 1 YEAR PER MOVE",
+   "set": "chess",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s041",
+   "start": 90.1,
+   "end": 92.83,
+   "line": "You beat the school champion in eleven moves.",
+   "scene": "checkmate; champion facepalms; 11 MOVES",
+   "set": "chess",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s042",
+   "start": 92.83,
+   "end": 95.1,
+   "line": "Your best friend Jake stares at you.",
+   "scene": "Jake stares at Leo, shocked",
+   "set": "chess",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s043",
+   "start": 95.1,
+   "end": 96.75,
+   "line": "How long were you thinking?",
+   "scene": "bigFace Jake talking",
+   "set": "chess",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s044",
+   "start": 96.75,
+   "end": 98.01,
+   "line": "About a second.",
+   "scene": "Leo shrugs, talking",
+   "set": "chess",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s045",
+   "start": 98.01,
+   "end": 100.95,
+   "line": "Mate. That was a very scary second.",
+   "scene": "Jake leans back nervously, talking",
+   "set": "chess",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s046",
+   "start": 100.95,
+   "end": 102.16,
+   "line": "Then football.",
+   "scene": "football pitch at golden hour: Leo in goal, striker at the spot",
+   "set": "pitch",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s047",
+   "start": 102.16,
+   "end": 105.71,
+   "line": "A hard penalty reaches the goal in about half a second.",
+   "scene": "diagram: spot to goal 11 m, ball arrives in 0.5 s",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s048",
+   "start": 105.71,
+   "end": 108.38,
+   "line": "You hold your breath as the ball leaves the boot.",
+   "scene": "striker kicks; the ball leaves the boot; freeze",
+   "set": "pitch",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "kick",
+     "gain": -8
+    },
+    {
+     "at": 0.1,
+     "name": "freeze",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s049",
+   "start": 108.38,
+   "end": 109.64,
+   "line": "You see the spin.",
+   "scene": "frozen ball macro, spin arrows; SPIN",
+   "set": "pitch",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s050",
+   "start": 109.64,
+   "end": 111.99,
+   "line": "The angle. The exact corner.",
+   "scene": "goal diagram: ANGLE, then a gold line to the TOP CORNER",
+   "set": "pitch",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 1.0,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s051",
+   "start": 111.99,
+   "end": 113.87,
+   "line": "But the rule still holds.",
+   "scene": "bigFace Leo frozen in his gloves",
+   "set": "pitch",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s052",
+   "start": 113.87,
+   "end": 116.69,
+   "line": "You can’t dive any faster than any other keeper.",
+   "scene": "two keepers' dive bars: SAME SPEED",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s053",
+   "start": 116.69,
+   "end": 119.76,
+   "line": "You just dive the right way... first time.",
+   "scene": "Leo dives toward the right corner",
+   "set": "pitch",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s054",
+   "start": 119.76,
+   "end": 120.83,
+   "line": "Fingertips.",
+   "scene": "insert: glove fingertips tip the ball",
+   "set": "pitch",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s055",
+   "start": 120.83,
+   "end": 121.79,
+   "line": "Saved.",
+   "scene": "ball deflects wide; Jake celebrates",
+   "set": "pitch",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "cheer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s056",
+   "start": 121.79,
+   "end": 124.13,
+   "line": "Minus: your eyes can’t move.",
+   "scene": "MINUS badge; an eye-shaped frame around one frozen picture",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s057",
+   "start": 124.13,
+   "end": 127.8,
+   "line": "So for a whole year, you stare at one frozen picture.",
+   "scene": "the frozen picture, DAY counter crawling",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -18
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s058",
+   "start": 127.8,
+   "end": 129.46,
+   "line": "Sometimes it’s a sunset.",
+   "scene": "frozen picture: a sunset over the city",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s059",
+   "start": 129.46,
+   "end": 131.79,
+   "line": "Sometimes it’s Jake... mid-sneeze.",
+   "scene": "frozen picture: Jake mid-sneeze, droplets hanging",
+   "set": "chess",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s060",
+   "start": 131.79,
+   "end": 134.03,
+   "line": "For three hundred and sixty-five days.",
+   "scene": "same sneeze; DAY 365 counter",
+   "set": "chess",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s061",
+   "start": 134.03,
+   "end": 136.32,
+   "line": "Your heart beats roughly once a second.",
+   "scene": "heartbeat line, one beat per second",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s062",
+   "start": 136.32,
+   "end": 139.26,
+   "line": "So inside the year, you hear one heartbeat.",
+   "scene": "one beat stretched across a whole year timeline",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s063",
+   "start": 139.26,
+   "end": 140.25,
+   "line": "Just one.",
+   "scene": "a single glowing heart pulse",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "heartbeat",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s064",
+   "start": 140.25,
+   "end": 142.75,
+   "line": "Like a door closing very, very slowly.",
+   "scene": "a door closing very slowly in the dark",
+   "set": "hallway",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hum",
+     "gain": -20
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s065",
+   "start": 142.75,
+   "end": 145.93,
+   "line": "But where it gets really crazy... is a storm.",
+   "scene": "night storm over the city, rain",
+   "set": "storm",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "thunder",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s066",
+   "start": 145.93,
+   "end": 148.78,
+   "line": "A lightning flash is over in less than a second.",
+   "scene": "lightning flashes; label UNDER 1 SECOND",
+   "set": "storm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "thunder",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s067",
+   "start": 148.78,
+   "end": 152.39,
+   "line": "You get to watch it crawl across the sky... for months.",
+   "scene": "TIME FREEZE: lightning grows branch by branch, Leo at the window; FOR MONTHS",
+   "set": "storm",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s068",
+   "start": 152.39,
+   "end": 153.76,
+   "line": "And there’s a cost.",
+   "scene": "bigFace Leo sad in the dark",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s069",
+   "start": 153.76,
+   "end": 156.64,
+   "line": "Every time you use it, you live another year.",
+   "scene": "years stack up: +1 YEAR, +1 YEAR",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s070",
+   "start": 156.64,
+   "end": 157.56,
+   "line": "Alone.",
+   "scene": "Leo tiny and alone in an endless dark space",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s071",
+   "start": 157.56,
+   "end": 158.73,
+   "line": "No voices.",
+   "scene": "speech bubbles fade away",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s072",
+   "start": 158.73,
+   "end": 159.82,
+   "line": "No touch.",
+   "scene": "a hand reaches into nothing",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s073",
+   "start": 159.82,
+   "end": 162.56,
+   "line": "Just your thoughts and one frozen picture.",
+   "scene": "Leo with one frozen picture floating in front of him",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s074",
+   "start": 162.56,
+   "end": 163.8,
+   "line": "You’re fifteen.",
+   "scene": "Leo medium; AGE 15",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s075",
+   "start": 163.8,
+   "end": 165.86,
+   "line": "But you’ve used it forty times.",
+   "scene": "40 tally marks",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s076",
+   "start": 165.86,
+   "end": 169.53,
+   "line": "Which means... you’ve lived forty years nobody saw.",
+   "scene": "Leo's shadow on the wall is an old man; 40 YEARS NOBODY SAW",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s077",
+   "start": 169.53,
+   "end": 170.28,
+   "line": "The price?",
+   "scene": "bigLine THE PRICE? in coral",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s078",
+   "start": 170.28,
+   "end": 173.79,
+   "line": "Scientists know long isolation is hard on the human brain.",
+   "scene": "brain inside an isolation box",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s079",
+   "start": 173.79,
+   "end": 180.24,
+   "line": "People kept alone for long stretches often report anxiety, confusion, even seeing things that aren’t there.",
+   "scene": "ANXIETY, CONFUSION, SEEING THINGS appear on the words",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 3.4,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 4.6,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s080",
+   "start": 180.24,
+   "end": 181.68,
+   "line": "You start to feel it.",
+   "scene": "Leo in his room at night; shapes creep in the shadows",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s081",
+   "start": 181.68,
+   "end": 183.07,
+   "line": "Jake notices.",
+   "scene": "hallway: Jake looks at tired Leo",
+   "set": "hallway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s082",
+   "start": 183.07,
+   "end": 185.57,
+   "line": "Dude. You sigh like my dad.",
+   "scene": "bigFace Jake talking",
+   "set": "hallway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s083",
+   "start": 185.57,
+   "end": 187.75,
+   "line": "And one question keeps growing.",
+   "scene": "a question mark grows huge",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s084",
+   "start": 187.75,
+   "end": 191.34,
+   "line": "What if one day... you can’t make yourself breathe out?",
+   "scene": "frozen forever: breath held, clock never restarts",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s085",
+   "start": 191.34,
+   "end": 193.36,
+   "line": "Only one person knows.",
+   "scene": "kitchen evening: Leo and Grandpa at the table",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s086",
+   "start": 193.36,
+   "end": 194.31,
+   "line": "Grandpa.",
+   "scene": "bigFace Grandpa, kind eyes behind glasses",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s087",
+   "start": 194.31,
+   "end": 196.82,
+   "line": "He doesn’t laugh. He just nods.",
+   "scene": "two-shot: Grandpa nods slowly",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s088",
+   "start": 196.82,
+   "end": 200.23,
+   "line": "A whole year alone? Then don’t go in empty-handed.",
+   "scene": "bigFace Grandpa talking",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s089",
+   "start": 200.23,
+   "end": 202.41,
+   "line": "Take a song. His song.",
+   "scene": "Grandpa holds up a vinyl record, talking",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s090",
+   "start": 202.41,
+   "end": 206.98,
+   "line": "The same old disco record he dances to every Sunday, tapping the counter.",
+   "scene": "Grandpa dancing, tapping the counter, record spinning",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s091",
+   "start": 206.98,
+   "end": 209.0,
+   "line": "He even taught you the steps.",
+   "scene": "Grandpa and Leo dancing side by side",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s092",
+   "start": 209.0,
+   "end": 210.44,
+   "line": "Boom. Boom. Boom.",
+   "scene": "three gold beat rings on each Boom",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "kick",
+     "gain": -8
+    },
+    {
+     "at": 0.33,
+     "name": "kick",
+     "gain": -8
+    },
+    {
+     "at": 0.62,
+     "name": "kick",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s093",
+   "start": 210.44,
+   "end": 212.22,
+   "line": "About a hundred beats a minute.",
+   "scene": "metronome swinging: 100 BEATS / MIN",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 0.8,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s094",
+   "start": 212.22,
+   "end": 216.7,
+   "line": "You hum it inside every frozen year, so the silence isn’t silent.",
+   "scene": "frozen void; Leo humming, gold notes drifting",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s095",
+   "start": 216.7,
+   "end": 219.64,
+   "line": "And whenever you worry, he says the same thing.",
+   "scene": "Grandpa's hand on Leo's shoulder, talking",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s096",
+   "start": 219.64,
+   "end": 222.67,
+   "line": "A second is plenty, Leo... if you use it.",
+   "scene": "bigLine A SECOND IS PLENTY... IF YOU USE IT.",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s097",
+   "start": 222.67,
+   "end": 225.7,
+   "line": "Sunday. The kitchen. The song.",
+   "scene": "quick: SUNDAY. kitchen wide; record player; Grandpa dancing",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s098",
+   "start": 225.7,
+   "end": 227.09,
+   "line": "Grandpa falls.",
+   "scene": "Grandpa collapses",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s099",
+   "start": 227.09,
+   "end": 228.55,
+   "line": "And you hold your breath.",
+   "scene": "bigFace Leo holds breath, flash",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "freeze",
+     "gain": -5
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s100",
+   "start": 228.55,
+   "end": 230.42,
+   "line": "Now you’re in the year.",
+   "scene": "frozen kitchen; DAY 1 badge",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s101",
+   "start": 230.42,
+   "end": 233.61,
+   "line": "A body takes about half a second to reach the floor.",
+   "scene": "falling line figure; 0.5 s to the floor",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s102",
+   "start": 233.61,
+   "end": 235.41,
+   "line": "You watch every centimeter.",
+   "scene": "frozen Grandpa mid-fall, centimetre ticks",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s103",
+   "start": 235.41,
+   "end": 237.32,
+   "line": "What can a frozen boy do?",
+   "scene": "bigFace Leo frozen",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s104",
+   "start": 237.32,
+   "end": 239.12,
+   "line": "Nothing. Not yet.",
+   "scene": "NOTHING... NOT YET.",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s105",
+   "start": 239.12,
+   "end": 241.33,
+   "line": "You remember a first-aid class.",
+   "scene": "flashback: first-aid class, instructor with a dummy",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s106",
+   "start": 241.33,
+   "end": 246.95,
+   "line": "When a heart suddenly stops, the brain can start to be damaged after just a few minutes without oxygen.",
+   "scene": "heart stops; brain needs oxygen; MINUTES",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s107",
+   "start": 246.95,
+   "end": 248.81,
+   "line": "Every real second counts.",
+   "scene": "a real clock ticking loudly",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "tick",
+     "gain": -8
+    },
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -8
+    },
+    {
+     "at": 1.0,
+     "name": "tick",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s108",
+   "start": 248.81,
+   "end": 251.72,
+   "line": "And you have a whole year... to think about that.",
+   "scene": "frozen kitchen; DAY counter running",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s109",
+   "start": 251.72,
+   "end": 253.67,
+   "line": "Can you even remember the steps?",
+   "scene": "CPR steps diagram assembling",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s110",
+   "start": 253.67,
+   "end": 258.15,
+   "line": "You go over that class again. And again. A thousand times.",
+   "scene": "the class repeats; counter x1000",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s111",
+   "start": 258.15,
+   "end": 260.56,
+   "line": "But in here, nothing gets worse.",
+   "scene": "frozen kitchen, calm and quiet",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s112",
+   "start": 260.56,
+   "end": 263.02,
+   "line": "Grandpa’s still standing, sort of.",
+   "scene": "Grandpa frozen at a tilt",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s113",
+   "start": 263.02,
+   "end": 264.22,
+   "line": "Nothing ends.",
+   "scene": "endless frozen space",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s114",
+   "start": 264.22,
+   "end": 268.29,
+   "line": "You could stay. A year. Ten years. Forever.",
+   "scene": "A YEAR / TEN YEARS / FOREVER",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 1.3,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 2.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s115",
+   "start": 268.29,
+   "end": 270.53,
+   "line": "In here, he’s still okay.",
+   "scene": "warm frozen Grandpa, glasses hanging",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s116",
+   "start": 270.53,
+   "end": 273.06,
+   "line": "Out there... the clock starts.",
+   "scene": "a clock starts ticking, red",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "tick",
+     "gain": -8
+    },
+    {
+     "at": 0.9,
+     "name": "tick",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s117",
+   "start": 273.06,
+   "end": 277.07,
+   "line": "Stay in the frozen second... or step out and fight for him.",
+   "scene": "split: frozen blue left, real red right",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s118",
+   "start": 277.07,
+   "end": 278.37,
+   "line": "Then you hear it.",
+   "scene": "bigFace Leo, a sound ring arrives",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s119",
+   "start": 278.37,
+   "end": 279.8,
+   "line": "One long note.",
+   "scene": "record player, the long note glowing",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hum",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s120",
+   "start": 279.8,
+   "end": 281.04,
+   "line": "His song.",
+   "scene": "memory: Grandpa dancing, gold",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s121",
+   "start": 281.04,
+   "end": 283.67,
+   "line": "A second is plenty... if you use it.",
+   "scene": "memory: bigFace Grandpa talking",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s122",
+   "start": 283.67,
+   "end": 284.98,
+   "line": "You’ve had your year.",
+   "scene": "bigFace Leo determined",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "riser",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s123",
+   "start": 284.98,
+   "end": 286.51,
+   "line": "Now use the second.",
+   "scene": "bigLine NOW USE THE SECOND.",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s124",
+   "start": 286.51,
+   "end": 287.64,
+   "line": "You breathe out.",
+   "scene": "unfreeze: everything crashes back",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s125",
+   "start": 287.64,
+   "end": 289.22,
+   "line": "The spoon hits the floor.",
+   "scene": "insert: spoon clatters on the tiles",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s126",
+   "start": 289.22,
+   "end": 291.53,
+   "line": "Mom! Call an ambulance!",
+   "scene": "Leo shouting toward the door",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s127",
+   "start": 291.53,
+   "end": 292.55,
+   "line": "You kneel.",
+   "scene": "Leo kneels by Grandpa on the floor",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s128",
+   "start": 292.55,
+   "end": 294.46,
+   "line": "Hands in the center of his chest.",
+   "scene": "insert: hands stacked on the centre of the chest",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s129",
+   "start": 294.46,
+   "end": 295.77,
+   "line": "Push hard.",
+   "scene": "Leo starts compressions",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s130",
+   "start": 295.77,
+   "end": 297.72,
+   "line": "About five centimeters deep.",
+   "scene": "diagram: 5 cm deep",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s131",
+   "start": 297.72,
+   "end": 300.58,
+   "line": "About a hundred to a hundred and twenty times a minute.",
+   "scene": "100-120 PER MINUTE",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s132",
+   "start": 300.58,
+   "end": 302.0,
+   "line": "How fast is that?",
+   "scene": "bigFace Leo",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s133",
+   "start": 302.0,
+   "end": 303.27,
+   "line": "You already know.",
+   "scene": "record player still spinning",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s134",
+   "start": 303.27,
+   "end": 305.55,
+   "line": "Boom. Boom. Boom.",
+   "scene": "compressions land on each Boom, gold rings",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "kick",
+     "gain": -8
+    },
+    {
+     "at": 0.75,
+     "name": "kick",
+     "gain": -8
+    },
+    {
+     "at": 1.5,
+     "name": "kick",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s135",
+   "start": 305.55,
+   "end": 307.25,
+   "line": "His song is still playing.",
+   "scene": "record player; notes in the air",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s136",
+   "start": 307.25,
+   "end": 308.71,
+   "line": "You push on every beat.",
+   "scene": "compressions with beat rings",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "kick",
+     "gain": -12
+    },
+    {
+     "at": 0.7,
+     "name": "kick",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s137",
+   "start": 308.71,
+   "end": 310.05,
+   "line": "Your arms burn.",
+   "scene": "bigFace Leo straining, sweat",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s138",
+   "start": 310.05,
+   "end": 311.2,
+   "line": "You don’t stop.",
+   "scene": "compressions continue; clock on the wall",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s139",
+   "start": 311.2,
+   "end": 313.56,
+   "line": "Nine minutes later, sirens.",
+   "scene": "blue and red lights sweep through the window",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s140",
+   "start": 313.56,
+   "end": 316.32,
+   "line": "The paramedics take over with a defibrillator.",
+   "scene": "paramedics with a defibrillator",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s141",
+   "start": 316.32,
+   "end": 318.05,
+   "line": "Then... a beep.",
+   "scene": "monitor insert: flat line, then a beep",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "blip",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s142",
+   "start": 318.05,
+   "end": 319.26,
+   "line": "A heartbeat.",
+   "scene": "ECG beat glows",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "heartbeat",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s143",
+   "start": 319.26,
+   "end": 321.0,
+   "line": "Who kept that rhythm going?",
+   "scene": "bigFace paramedic talking",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s144",
+   "start": 321.0,
+   "end": 323.08,
+   "line": "Me. And his song.",
+   "scene": "Leo talking, exhausted",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s145",
+   "start": 323.08,
+   "end": 326.35,
+   "line": "The next day, Grandpa smiles from a hospital bed.",
+   "scene": "hospital room, morning light: Grandpa smiling in bed, Leo beside him",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "dipWhite",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s146",
+   "start": 326.35,
+   "end": 329.14,
+   "line": "So. How long did that second feel?",
+   "scene": "bigFace Grandpa talking",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s147",
+   "start": 329.14,
+   "end": 330.04,
+   "line": "A year.",
+   "scene": "Leo talking",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s148",
+   "start": 330.04,
+   "end": 331.75,
+   "line": "And the nine minutes after?",
+   "scene": "Grandpa talking",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s149",
+   "start": 331.75,
+   "end": 333.28,
+   "line": "You squeeze his hand.",
+   "scene": "insert: Leo squeezes Grandpa's hand",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s150",
+   "start": 333.28,
+   "end": 334.69,
+   "line": "Like nine minutes.",
+   "scene": "Leo smiling, talking",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s151",
+   "start": 334.69,
+   "end": 336.89,
+   "line": "Grandpa winks. Told you.",
+   "scene": "bigFace Grandpa winks, talking: Told you.",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s152",
+   "start": 336.89,
+   "end": 342.12,
+   "line": "A second is plenty. And for the first time in forty years... you’re not alone.",
+   "scene": "two-shot in warm light",
+   "set": "hospital",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s153",
+   "start": 342.12,
+   "end": 345.67,
+   "line": "That night, you hold your breath, just to rest.",
+   "scene": "night: Leo holds his breath to rest; freeze",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "freeze",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s154",
+   "start": 345.67,
+   "end": 349.34,
+   "line": "And in the frozen picture, something... moves.",
+   "scene": "the frozen picture; something moves",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s155",
+   "start": 349.34,
+   "end": 351.54,
+   "line": "Someone else is in the year with you.",
+   "scene": "a silhouette in a hat turns toward Leo",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s156",
+   "start": 351.54,
+   "end": 353.03,
+   "line": "Is any of this real?",
+   "scene": "bigLine IS ANY OF THIS REAL?",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s157",
+   "start": 353.03,
+   "end": 356.73,
+   "line": "People often say time slowed down during a scare.",
+   "scene": "line figure scared, clock slowing?",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s158",
+   "start": 356.73,
+   "end": 361.22,
+   "line": "In 2007, neuroscientist David Eagleman tested it.",
+   "scene": "2007: DAVID EAGLEMAN",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s159",
+   "start": 361.22,
+   "end": 367.53,
+   "line": "Volunteers fell about thirty meters into a net while watching a display flash numbers too fast to read.",
+   "scene": "30 m drop into a net, wrist display flashing numbers",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s160",
+   "start": 367.53,
+   "end": 370.05,
+   "line": "If time really slowed, they could read them.",
+   "scene": "the display: numbers too fast to read",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s161",
+   "start": 370.05,
+   "end": 371.06,
+   "line": "They couldn’t.",
+   "scene": "a red X",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s162",
+   "start": 371.06,
+   "end": 377.92,
+   "line": "Their brains just recorded more. Frightening moments get stored in richer detail, so they feel longer afterward.",
+   "scene": "memory frames pile up densely",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s163",
+   "start": 377.92,
+   "end": 380.68,
+   "line": "And the CPR part? That’s real.",
+   "scene": "REAL tag",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s164",
+   "start": 380.68,
+   "end": 387.99,
+   "line": "If someone collapses and isn’t breathing normally, call emergency services and push hard and fast in the center of the chest.",
+   "scene": "CPR steps: CALL 112/911 and PUSH HARD AND FAST",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 3.5,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s165",
+   "start": 387.99,
+   "end": 390.76,
+   "line": "So could a brain ever truly stretch a second?",
+   "scene": "Leo at the moonlit window",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s166",
+   "start": 390.76,
+   "end": 400.13,
+   "line": "What do you think? Tell us in the comments, and tell us which superpower we should do next. Hit like, and subscribe for Part Two.",
+   "scene": "END SCREEN: question, comment bubble, subscribe, cast",
+   "set": "end",
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0.0,
+   "end": 10.73,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 10.73,
+   "end": 26.97,
+   "mood": "tension",
+   "intensity": 0.6
+  },
+  {
+   "start": 26.97,
+   "end": 62.27,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 62.27,
+   "end": 64.92,
+   "mood": "epic",
+   "intensity": 0.65
+  },
+  {
+   "start": 64.92,
+   "end": 121.54,
+   "mood": "playful",
+   "intensity": 0.5
+  },
+  {
+   "start": 121.54,
+   "end": 142.5,
+   "mood": "mystery",
+   "intensity": 0.4
+  },
+  {
+   "start": 142.5,
+   "end": 152.14,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 152.14,
+   "end": 191.09,
+   "mood": "sad",
+   "intensity": 0.35
+  },
+  {
+   "start": 191.09,
+   "end": 222.42,
+   "mood": "hopeful",
+   "intensity": 0.4
+  },
+  {
+   "start": 222.42,
+   "end": 238.87,
+   "mood": "tension",
+   "intensity": 0.7
+  },
+  {
+   "start": 238.87,
+   "end": 276.82,
+   "mood": "dark",
+   "intensity": 0.5
+  },
+  {
+   "start": 276.82,
+   "end": 286.26,
+   "mood": "epic",
+   "intensity": 0.6
+  },
+  {
+   "start": 286.26,
+   "end": 310.95,
+   "mood": "action",
+   "intensity": 0.75
+  },
+  {
+   "start": 310.95,
+   "end": 317.8,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 317.8,
+   "end": 322.83,
+   "mood": "triumph",
+   "intensity": 0.55
+  },
+  {
+   "start": 322.83,
+   "end": 341.87,
+   "mood": "hopeful",
+   "intensity": 0.45
+  },
+  {
+   "start": 341.87,
+   "end": 351.29,
+   "mood": "mystery",
+   "intensity": 0.5
+  },
+  {
+   "start": 351.29,
+   "end": 400.13,
+   "mood": "wonder",
+   "intensity": 0.4
+  }
+ ],
+ "sfx": []
+}

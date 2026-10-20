@@ -15,14 +15,20 @@ from common import load_audio, load_json, sentences_from_words, write_timeline
 EXTRA = {
     "clicky": "K L IH K IY", "dustpan": "D AH S T P AE N", "houseflies": "HH AW S F L AY Z",
     "slideshow": "S L AY D SH OW", "strobes": "S T R OW B Z",
+    "cpr": "S IY P IY AA R", "eagleman": "IY G AH L M AH N", "maths": "M AE TH S",
 }
+# numbers written as digits in the script -> the words the voice actually says
+SPOKEN = {"2007": "two thousand seven"}
 
 
 def tokens(script):
     """Script tokens as written (kept for display) + the normalised words to align for each."""
     out = []
     for tok in re.findall(r"\S+", script):
-        parts = [p.strip("'") for p in re.findall(r"[a-z']+", tok.lower().replace("’", "'").replace("‘", "'").replace("-", " "))]
+        low = tok.lower().replace("’", "'").replace("‘", "'").replace("-", " ")
+        for num, words in SPOKEN.items():
+            low = low.replace(num, " " + words + " ")
+        parts = [p.strip("'") for p in re.findall(r"[a-z']+", low)]
         out.append((tok, [p for p in parts if p]))
     return out
 
