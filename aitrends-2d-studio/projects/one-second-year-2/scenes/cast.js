@@ -1,0 +1,16 @@
+// cast.js: one outfit per recurring character. The signature colour is their identity; keep it identical in every shot.
+export const LEO = { top: 'hoodie', color: '#d64a33', head: 'curly' };                                    // "you", 15
+export const GRANDPA = { top: 'suit', color: '#b5862a', color2: '#7a5a1a', head: 'none', face: 'glasses' }; // mustard cardigan + glasses
+export const JAKE = { top: 'none', head: 'cap', headColor: '#3fb950' };                                    // best friend
+export const MOM = { top: 'dress', color: '#8a5ad6', head: 'bun' };
+export const TEACHER = { top: 'suit', color: '#3a3448', head: 'bun', face: 'glasses' };
+export const CHAMP = { top: 'none', head: 'spiky', face: 'glasses' };
+export const STRIKER = { top: 'jersey', color: '#4a4458', color2: '#d8d2e0', number: '9', head: 'none' };
+export const MEDIC = { top: 'tshirt', color: '#4a9a7a', head: 'none' };
+export const STRANGER = { top: 'trench', color: '#2c2833', head: 'fedora', headColor: '#1c1a22', face: 'sunglasses' };
+export const EXTRA = { top: 'none', head: 'none' };
+export const EXTRA2 = { top: 'none', head: 'ponytail' };
+export const CAST = [LEO, GRANDPA, JAKE, MOM];
+export const NOVA = { top: 'hoodie', color: '#2fb5a8', head: 'ponytail' };                               // Nova, 16: teal hoodie
+export const DRIVER = { top: 'tshirt', color: '#4a4a5a', head: 'none' };
+export const CAST2 = [LEO, NOVA, GRANDPA, JAKE];

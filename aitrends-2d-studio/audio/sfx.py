@@ -287,6 +287,23 @@ def buzz(dur=1.5, seed=35, **_):
     return normalize(np.stack([x * l, x * r], 1).astype(np.float32), -6)
 
 
+@sfx("big vehicle horn blast (bus / truck), two detuned tones", 1.4)
+def horn(dur=1.4, seed=36, **_):
+    n = secs(dur); u = np.linspace(0, 1, n)
+    x = sum(lp(osc("saw", f, n), 2200) for f in (311.0, 370.0, 314.0)) / 3
+    env = np.clip(u * 40, 0, 1) * np.clip((1 - u) * 12, 0, 1)
+    return normalize(reverb(fade(stereo(x * env, 0, 0.2)), 0.6, 0.12, seed), -2)
+
+
+@sfx("tyre / brake screech", 1.6)
+def screech(dur=1.6, seed=37, **_):
+    n = secs(dur); t = t_axis(n); u = np.linspace(0, 1, n)
+    f = 2400 + 300 * np.sin(2 * np.pi * 9 * t)
+    x = bp(noise(n, seed), 1500, 5000) * 0.5 + sine(f, n) * 0.35
+    env = np.clip(u * 20, 0, 1) * (1 - u) ** 0.6
+    return normalize(fade(stereo(x * env, 0, 0.3)), -3)
+
+
 def make(name, **kw):
     if name not in LIB: raise KeyError(f"unknown sfx '{name}'. Available: {', '.join(LIB)}")
     k = {"dur": LIB[name]["dur"], **{a: b for a, b in kw.items() if b is not None}}
