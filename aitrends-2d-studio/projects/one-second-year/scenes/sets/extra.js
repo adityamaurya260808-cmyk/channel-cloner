@@ -28,7 +28,7 @@ export function goal(g, x, GY, s = 1, M) {
 
 // storm over the city at night
 export function storm(g, t, cam, o = {}) {
-  const r = road(g, t, cam, { mood: 'storm', night: false, rain: o.rain !== false });
+  const r = road(g, t, cam, { mood: 'storm', night: true, stormy: true, rain: o.rain !== false });
   return r;
 }
 // a lightning bolt that grows over time k (0..1); deterministic jagged path

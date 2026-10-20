@@ -96,7 +96,7 @@ export function street(g, t, cam, o = {}) {
 // road: asphalt running left-right, curb + sidewalk in front, facades behind. o.night for the "crazy" beat.
 export function road(g, t, cam, o = {}) {
   const M = mood(o.mood || (o.night ? 'night' : 'dusk')), GY = GYd(), CX = E.W / 2, roadTop = GY - V(190, 260);
-  layer(g, cam, 0.12, (g) => { backdrop(g, M.sky); if (o.night) { FX.stars(g, t, { count: 90, area: [-200, 0, E.W + 400, E.H * 0.4] }); FX.moon(g, CX - V(500, 200), V(170, 300), 40); } else FX.sun(g, CX - V(560, 200), roadTop - V(260, 600), 60, '#fff3dc', M.key, 5); });
+  layer(g, cam, 0.12, (g) => { backdrop(g, M.sky); if (o.stormy) { FX.clouds(g, { y: 0, h: roadTop * 0.6, count: 12, color: '#05060c', a: 0.5, seed: 31 }); } else if (o.night) { FX.stars(g, t, { count: 90, area: [-200, 0, E.W + 400, E.H * 0.4] }); FX.moon(g, CX - V(500, 200), V(170, 300), 40); } else FX.sun(g, CX - V(560, 200), roadTop - V(260, 600), 60, '#fff3dc', M.key, 5); });
   layer(g, cam, 0.4, (g) => {
     for (let i = 0; i < 10; i++) FX.facade(g, { x: -E.W + i * 480, y: roadTop - 30, w: 440, h: V(360, 640) + (i % 4) * 50, color: shade(M.wall, -0.4 - (i % 2) * 0.1), win: alpha(M.practical, 0.55), dark: shade(M.wall, -0.6), cols: 5, rows: 4, lit: o.night ? 0.4 : 0.3, seed: 80 + i });
     g.fillStyle = shade(M.floor, -0.15); g.fillRect(-E.W, roadTop - 30, E.W * 3, 30);
