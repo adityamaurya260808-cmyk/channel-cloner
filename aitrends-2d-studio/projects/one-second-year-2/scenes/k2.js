@@ -85,7 +85,7 @@ export const voiceRings = (g, t, x, y, o = {}) => FX.rings(g, x, y, t, { count: 
 export function whisper(g, t, str, o = {}) {
   const a = clamp(prog(t, o.at ?? 0.1, (o.at ?? 0.1) + 0.5)) * (o.dur ? clamp((o.dur - t) / 0.4) : 1); if (a <= 0) return;
   const size = o.size || V(88, 72), y = o.y ?? E.H / 2, c = o.color || S().ui.gold;
-  g.save(); g.globalAlpha *= a; g.translate(E.W / 2, y); const sc = 1 + 0.03 * t; g.scale(sc, sc);
+  g.save(); g.globalAlpha *= a; g.translate(o.x ?? E.W / 2, y); const sc = 1 + 0.03 * t; g.scale(sc, sc);
   text(g, str, 0, 0, { size, color: c, font: FONTS.serif, weight: 900, italic: true, spacing: 3, glow: 30, glowColor: alpha(c, 0.7) });
   g.restore();
 }
