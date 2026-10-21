@@ -1,0 +1,7564 @@
+{
+"words": [
+{
+"word": "Your",
+"start": 0.4,
+"end": 0.64
+},
+{
+"word": "phone",
+"start": 0.661,
+"end": 0.942
+},
+{
+"word": "buzzes",
+"start": 0.966,
+"end": 1.287
+},
+{
+"word": "at",
+"start": 1.315,
+"end": 1.475
+},
+{
+"word": "three",
+"start": 1.489,
+"end": 1.77
+},
+{
+"word": "in",
+"start": 1.794,
+"end": 1.955
+},
+{
+"word": "the",
+"start": 1.968,
+"end": 2.169
+},
+{
+"word": "morning.",
+"start": 2.186,
+"end": 2.587
+},
+{
+"word": "It's",
+"start": 2.942,
+"end": 3.232
+},
+{
+"word": "your",
+"start": 3.258,
+"end": 3.548
+},
+{
+"word": "mom.",
+"start": 3.573,
+"end": 3.864
+},
+{
+"word": "Her",
+"start": 4.209,
+"end": 4.428
+},
+{
+"word": "voice",
+"start": 4.447,
+"end": 4.754
+},
+{
+"word": "is",
+"start": 4.78,
+"end": 4.955
+},
+{
+"word": "shaking.",
+"start": 4.971,
+"end": 5.408
+},
+{
+"word": "Sam...",
+"start": 5.766,
+"end": 6.353
+},
+{
+"word": "they",
+"start": 6.954,
+"end": 7.208
+},
+{
+"word": "took",
+"start": 7.23,
+"end": 7.484
+},
+{
+"word": "it.",
+"start": 7.506,
+"end": 7.717
+},
+{
+"word": "All",
+"start": 8.056,
+"end": 8.287
+},
+{
+"word": "of",
+"start": 8.307,
+"end": 8.491
+},
+{
+"word": "it.",
+"start": 8.507,
+"end": 8.738
+},
+{
+"word": "You",
+"start": 9.078,
+"end": 9.311
+},
+{
+"word": "open",
+"start": 9.331,
+"end": 9.611
+},
+{
+"word": "your",
+"start": 9.636,
+"end": 9.915
+},
+{
+"word": "investing",
+"start": 9.94,
+"end": 10.452
+},
+{
+"word": "app.",
+"start": 10.497,
+"end": 10.777
+},
+{
+"word": "One",
+"start": 11.121,
+"end": 11.338
+},
+{
+"word": "number",
+"start": 11.357,
+"end": 11.703
+},
+{
+"word": "glows",
+"start": 11.733,
+"end": 12.037
+},
+{
+"word": "on",
+"start": 12.063,
+"end": 12.236
+},
+{
+"word": "the",
+"start": 12.251,
+"end": 12.468
+},
+{
+"word": "screen.",
+"start": 12.487,
+"end": 12.877
+},
+{
+"word": "Thirty-three",
+"start": 13.231,
+"end": 13.784
+},
+{
+"word": "years",
+"start": 13.832,
+"end": 14.108
+},
+{
+"word": "of",
+"start": 14.132,
+"end": 14.29
+},
+{
+"word": "your",
+"start": 14.304,
+"end": 14.541
+},
+{
+"word": "life...",
+"start": 14.562,
+"end": 14.917
+},
+{
+"word": "in",
+"start": 15.498,
+"end": 15.685
+},
+{
+"word": "one",
+"start": 15.702,
+"end": 15.936
+},
+{
+"word": "number.",
+"start": 15.956,
+"end": 16.378
+},
+{
+"word": "Your",
+"start": 16.734,
+"end": 17.01
+},
+{
+"word": "thumb",
+"start": 17.034,
+"end": 17.356
+},
+{
+"word": "hovers",
+"start": 17.384,
+"end": 17.753
+},
+{
+"word": "over",
+"start": 17.785,
+"end": 18.061
+},
+{
+"word": "one",
+"start": 18.085,
+"end": 18.315
+},
+{
+"word": "word.",
+"start": 18.335,
+"end": 18.657
+},
+{
+"word": "'Withdraw.'",
+"start": 19.005,
+"end": 19.536
+},
+{
+"word": "Press",
+"start": 19.582,
+"end": 19.868
+},
+{
+"word": "it...",
+"start": 19.893,
+"end": 20.179
+},
+{
+"word": "and",
+"start": 20.754,
+"end": 20.963
+},
+{
+"word": "that",
+"start": 20.981,
+"end": 21.232
+},
+{
+"word": "money",
+"start": 21.253,
+"end": 21.546
+},
+{
+"word": "stops",
+"start": 21.571,
+"end": 21.863
+},
+{
+"word": "growing",
+"start": 21.889,
+"end": 22.265
+},
+{
+"word": "forever.",
+"start": 22.297,
+"end": 22.715
+},
+{
+"word": "Don't",
+"start": 23.071,
+"end": 23.337
+},
+{
+"word": "press",
+"start": 23.361,
+"end": 23.627
+},
+{
+"word": "it...",
+"start": 23.65,
+"end": 23.916
+},
+{
+"word": "and",
+"start": 24.489,
+"end": 24.696
+},
+{
+"word": "your",
+"start": 24.715,
+"end": 24.963
+},
+{
+"word": "mom",
+"start": 24.985,
+"end": 25.192
+},
+{
+"word": "loses",
+"start": 25.21,
+"end": 25.501
+},
+{
+"word": "her",
+"start": 25.526,
+"end": 25.733
+},
+{
+"word": "home.",
+"start": 25.751,
+"end": 26.042
+},
+{
+"word": "How",
+"start": 26.387,
+"end": 26.605
+},
+{
+"word": "did",
+"start": 26.624,
+"end": 26.842
+},
+{
+"word": "one",
+"start": 26.861,
+"end": 27.079
+},
+{
+"word": "dollar...",
+"start": 27.098,
+"end": 27.578
+},
+{
+"word": "lead",
+"start": 28.17,
+"end": 28.476
+},
+{
+"word": "to",
+"start": 28.503,
+"end": 28.707
+},
+{
+"word": "this?",
+"start": 28.724,
+"end": 29.081
+},
+{
+"word": "Thirty-three",
+"start": 29.562,
+"end": 30.145
+},
+{
+"word": "years",
+"start": 30.196,
+"end": 30.487
+},
+{
+"word": "earlier...",
+"start": 30.512,
+"end": 31.011
+},
+{
+"word": "it",
+"start": 31.605,
+"end": 31.778
+},
+{
+"word": "started",
+"start": 31.793,
+"end": 32.183
+},
+{
+"word": "with",
+"start": 32.217,
+"end": 32.477
+},
+{
+"word": "a",
+"start": 32.5,
+"end": 32.63
+},
+{
+"word": "glass",
+"start": 32.641,
+"end": 32.945
+},
+{
+"word": "jar.",
+"start": 32.971,
+"end": 33.231
+},
+{
+"word": "Your",
+"start": 33.574,
+"end": 33.862
+},
+{
+"word": "name",
+"start": 33.887,
+"end": 34.175
+},
+{
+"word": "is",
+"start": 34.2,
+"end": 34.392
+},
+{
+"word": "Sam.",
+"start": 34.408,
+"end": 34.696
+},
+{
+"word": "You're",
+"start": 35.041,
+"end": 35.403
+},
+{
+"word": "twenty-five.",
+"start": 35.434,
+"end": 36.067
+},
+{
+"word": "And",
+"start": 36.441,
+"end": 36.659
+},
+{
+"word": "your",
+"start": 36.678,
+"end": 36.939
+},
+{
+"word": "mom",
+"start": 36.962,
+"end": 37.18
+},
+{
+"word": "just",
+"start": 37.199,
+"end": 37.46
+},
+{
+"word": "handed",
+"start": 37.483,
+"end": 37.831
+},
+{
+"word": "you",
+"start": 37.861,
+"end": 38.079
+},
+{
+"word": "a",
+"start": 38.098,
+"end": 38.229
+},
+{
+"word": "glass",
+"start": 38.24,
+"end": 38.545
+},
+{
+"word": "jar.",
+"start": 38.571,
+"end": 38.833
+},
+{
+"word": "Inside?",
+"start": 39.175,
+"end": 39.882
+},
+{
+"word": "One",
+"start": 40.393,
+"end": 40.647
+},
+{
+"word": "dollar.",
+"start": 40.669,
+"end": 41.125
+},
+{
+"word": "One",
+"start": 41.485,
+"end": 41.72
+},
+{
+"word": "dollar",
+"start": 41.741,
+"end": 42.118
+},
+{
+"word": "a",
+"start": 42.151,
+"end": 42.292
+},
+{
+"word": "day,",
+"start": 42.304,
+"end": 42.587
+},
+{
+"word": "kid.",
+"start": 42.612,
+"end": 42.894
+},
+{
+"word": "Into",
+"start": 43.239,
+"end": 43.502
+},
+{
+"word": "the",
+"start": 43.525,
+"end": 43.745
+},
+{
+"word": "stock",
+"start": 43.764,
+"end": 44.071
+},
+{
+"word": "market.",
+"start": 44.098,
+"end": 44.493
+},
+{
+"word": "Every",
+"start": 44.847,
+"end": 45.204
+},
+{
+"word": "single",
+"start": 45.235,
+"end": 45.643
+},
+{
+"word": "day.",
+"start": 45.679,
+"end": 45.985
+},
+{
+"word": "Your",
+"start": 46.332,
+"end": 46.593
+},
+{
+"word": "best",
+"start": 46.616,
+"end": 46.878
+},
+{
+"word": "friend",
+"start": 46.9,
+"end": 47.249
+},
+{
+"word": "Max",
+"start": 47.28,
+"end": 47.498
+},
+{
+"word": "laughs.",
+"start": 47.517,
+"end": 47.909
+},
+{
+"word": "Dude.",
+"start": 48.263,
+"end": 48.846
+},
+{
+"word": "That's",
+"start": 49.216,
+"end": 49.571
+},
+{
+"word": "not",
+"start": 49.601,
+"end": 49.823
+},
+{
+"word": "investing.",
+"start": 49.842,
+"end": 50.374
+},
+{
+"word": "That's",
+"start": 50.74,
+"end": 51.132
+},
+{
+"word": "a",
+"start": 51.166,
+"end": 51.313
+},
+{
+"word": "tip",
+"start": 51.326,
+"end": 51.571
+},
+{
+"word": "jar.",
+"start": 51.592,
+"end": 51.886
+},
+{
+"word": "Fair.",
+"start": 52.232,
+"end": 52.76
+},
+{
+"word": "A",
+"start": 53.126,
+"end": 53.246
+},
+{
+"word": "dollar",
+"start": 53.256,
+"end": 53.577
+},
+{
+"word": "is",
+"start": 53.604,
+"end": 53.764
+},
+{
+"word": "less",
+"start": 53.778,
+"end": 54.019
+},
+{
+"word": "than",
+"start": 54.039,
+"end": 54.28
+},
+{
+"word": "a",
+"start": 54.3,
+"end": 54.42
+},
+{
+"word": "coffee.",
+"start": 54.431,
+"end": 54.791
+},
+{
+"word": "A",
+"start": 55.142,
+"end": 55.273
+},
+{
+"word": "whole",
+"start": 55.284,
+"end": 55.588
+},
+{
+"word": "year",
+"start": 55.614,
+"end": 55.875
+},
+{
+"word": "of",
+"start": 55.898,
+"end": 56.071
+},
+{
+"word": "dollars?",
+"start": 56.086,
+"end": 56.521
+},
+{
+"word": "Three",
+"start": 57.008,
+"end": 57.343
+},
+{
+"word": "hundred",
+"start": 57.372,
+"end": 57.801
+},
+{
+"word": "sixty-five.",
+"start": 57.839,
+"end": 58.459
+},
+{
+"word": "Forty",
+"start": 58.833,
+"end": 59.215
+},
+{
+"word": "years?",
+"start": 59.248,
+"end": 59.685
+},
+{
+"word": "Fourteen",
+"start": 60.173,
+"end": 60.625
+},
+{
+"word": "thousand",
+"start": 60.664,
+"end": 61.117
+},
+{
+"word": "six",
+"start": 61.156,
+"end": 61.383
+},
+{
+"word": "hundred.",
+"start": 61.402,
+"end": 61.855
+},
+{
+"word": "That's",
+"start": 62.214,
+"end": 62.62
+},
+{
+"word": "it.",
+"start": 62.655,
+"end": 62.908
+},
+{
+"word": "That's",
+"start": 63.25,
+"end": 63.554
+},
+{
+"word": "everything",
+"start": 63.58,
+"end": 64.036
+},
+{
+"word": "you'll",
+"start": 64.075,
+"end": 64.379
+},
+{
+"word": "ever",
+"start": 64.405,
+"end": 64.633
+},
+{
+"word": "put",
+"start": 64.653,
+"end": 64.842
+},
+{
+"word": "in.",
+"start": 64.859,
+"end": 65.049
+},
+{
+"word": "But",
+"start": 65.385,
+"end": 65.597
+},
+{
+"word": "there's",
+"start": 65.616,
+"end": 65.997
+},
+{
+"word": "one",
+"start": 66.03,
+"end": 66.242
+},
+{
+"word": "rule.",
+"start": 66.261,
+"end": 66.558
+},
+{
+"word": "The",
+"start": 66.904,
+"end": 67.109
+},
+{
+"word": "money",
+"start": 67.127,
+"end": 67.415
+},
+{
+"word": "only",
+"start": 67.44,
+"end": 67.686
+},
+{
+"word": "grows",
+"start": 67.708,
+"end": 67.996
+},
+{
+"word": "if",
+"start": 68.021,
+"end": 68.185
+},
+{
+"word": "you",
+"start": 68.199,
+"end": 68.405
+},
+{
+"word": "leave",
+"start": 68.423,
+"end": 68.711
+},
+{
+"word": "it",
+"start": 68.736,
+"end": 68.9
+},
+{
+"word": "alone.",
+"start": 68.914,
+"end": 69.243
+},
+{
+"word": "Every",
+"start": 69.592,
+"end": 69.875
+},
+{
+"word": "dollar",
+"start": 69.9,
+"end": 70.223
+},
+{
+"word": "you",
+"start": 70.251,
+"end": 70.454
+},
+{
+"word": "pull",
+"start": 70.471,
+"end": 70.714
+},
+{
+"word": "out...",
+"start": 70.735,
+"end": 71.059
+},
+{
+"word": "stops",
+"start": 71.637,
+"end": 72.025
+},
+{
+"word": "growing.",
+"start": 72.059,
+"end": 72.613
+},
+{
+"word": "Forever.",
+"start": 72.981,
+"end": 73.594
+},
+{
+"word": "You",
+"start": 73.967,
+"end": 74.191
+},
+{
+"word": "can",
+"start": 74.21,
+"end": 74.433
+},
+{
+"word": "buy",
+"start": 74.453,
+"end": 74.676
+},
+{
+"word": "almost",
+"start": 74.695,
+"end": 75.053
+},
+{
+"word": "anything",
+"start": 75.084,
+"end": 75.53
+},
+{
+"word": "back.",
+"start": 75.569,
+"end": 75.881
+},
+{
+"word": "Except",
+"start": 76.228,
+"end": 76.704
+},
+{
+"word": "time.",
+"start": 76.746,
+"end": 77.162
+},
+{
+"word": "So",
+"start": 77.519,
+"end": 77.703
+},
+{
+"word": "what",
+"start": 77.719,
+"end": 77.996
+},
+{
+"word": "if",
+"start": 78.02,
+"end": 78.205
+},
+{
+"word": "you",
+"start": 78.221,
+"end": 78.452
+},
+{
+"word": "invested",
+"start": 78.472,
+"end": 78.933
+},
+{
+"word": "one",
+"start": 78.973,
+"end": 79.204
+},
+{
+"word": "dollar",
+"start": 79.224,
+"end": 79.594
+},
+{
+"word": "every",
+"start": 79.626,
+"end": 79.949
+},
+{
+"word": "day...",
+"start": 79.977,
+"end": 80.346
+},
+{
+"word": "for",
+"start": 80.928,
+"end": 81.171
+},
+{
+"word": "forty",
+"start": 81.192,
+"end": 81.531
+},
+{
+"word": "years?",
+"start": 81.561,
+"end": 81.949
+},
+{
+"word": "Year",
+"start": 82.432,
+"end": 82.754
+},
+{
+"word": "one.",
+"start": 82.782,
+"end": 83.103
+},
+{
+"word": "You",
+"start": 83.451,
+"end": 83.653
+},
+{
+"word": "check",
+"start": 83.67,
+"end": 83.953
+},
+{
+"word": "the",
+"start": 83.978,
+"end": 84.179
+},
+{
+"word": "account.",
+"start": 84.197,
+"end": 84.601
+},
+{
+"word": "About",
+"start": 84.956,
+"end": 85.236
+},
+{
+"word": "three",
+"start": 85.261,
+"end": 85.541
+},
+{
+"word": "hundred",
+"start": 85.565,
+"end": 85.926
+},
+{
+"word": "eighty",
+"start": 85.957,
+"end": 86.278
+},
+{
+"word": "dollars.",
+"start": 86.306,
+"end": 86.706
+},
+{
+"word": "Your",
+"start": 87.061,
+"end": 87.298
+},
+{
+"word": "money",
+"start": 87.319,
+"end": 87.596
+},
+{
+"word": "earned",
+"start": 87.62,
+"end": 87.936
+},
+{
+"word": "you...",
+"start": 87.964,
+"end": 88.28
+},
+{
+"word": "roughly",
+"start": 88.858,
+"end": 89.298
+},
+{
+"word": "fifteen",
+"start": 89.337,
+"end": 89.778
+},
+{
+"word": "bucks.",
+"start": 89.816,
+"end": 90.208
+},
+{
+"word": "Max",
+"start": 90.562,
+"end": 90.802
+},
+{
+"word": "holds",
+"start": 90.822,
+"end": 91.158
+},
+{
+"word": "up",
+"start": 91.187,
+"end": 91.379
+},
+{
+"word": "a",
+"start": 91.395,
+"end": 91.539
+},
+{
+"word": "pizza.",
+"start": 91.552,
+"end": 91.935
+},
+{
+"word": "I",
+"start": 92.288,
+"end": 92.415
+},
+{
+"word": "earned",
+"start": 92.426,
+"end": 92.762
+},
+{
+"word": "this",
+"start": 92.791,
+"end": 93.043
+},
+{
+"word": "today.",
+"start": 93.065,
+"end": 93.401
+},
+{
+"word": "Also",
+"start": 93.75,
+"end": 94.139
+},
+{
+"word": "fair.",
+"start": 94.173,
+"end": 94.627
+},
+{
+"word": "Plus:",
+"start": 94.986,
+"end": 95.501
+},
+{
+"word": "you",
+"start": 95.795,
+"end": 95.984
+},
+{
+"word": "don't",
+"start": 96.0,
+"end": 96.264
+},
+{
+"word": "have",
+"start": 96.286,
+"end": 96.512
+},
+{
+"word": "to",
+"start": 96.532,
+"end": 96.683
+},
+{
+"word": "pick",
+"start": 96.696,
+"end": 96.922
+},
+{
+"word": "stocks.",
+"start": 96.941,
+"end": 97.28
+},
+{
+"word": "You",
+"start": 97.63,
+"end": 97.861
+},
+{
+"word": "buy",
+"start": 97.881,
+"end": 98.112
+},
+{
+"word": "an",
+"start": 98.132,
+"end": 98.317
+},
+{
+"word": "index",
+"start": 98.333,
+"end": 98.656
+},
+{
+"word": "fund.",
+"start": 98.684,
+"end": 99.008
+},
+{
+"word": "One",
+"start": 99.356,
+"end": 99.64
+},
+{
+"word": "tiny",
+"start": 99.665,
+"end": 100.006
+},
+{
+"word": "slice...",
+"start": 100.035,
+"end": 100.604
+},
+{
+"word": "of",
+"start": 101.203,
+"end": 101.404
+},
+{
+"word": "five",
+"start": 101.422,
+"end": 101.723
+},
+{
+"word": "hundred",
+"start": 101.749,
+"end": 102.202
+},
+{
+"word": "of",
+"start": 102.241,
+"end": 102.442
+},
+{
+"word": "America's",
+"start": 102.46,
+"end": 103.013
+},
+{
+"word": "biggest",
+"start": 103.061,
+"end": 103.513
+},
+{
+"word": "companies.",
+"start": 103.553,
+"end": 104.156
+},
+{
+"word": "All",
+"start": 104.528,
+"end": 104.78
+},
+{
+"word": "at",
+"start": 104.802,
+"end": 105.003
+},
+{
+"word": "once.",
+"start": 105.02,
+"end": 105.372
+},
+{
+"word": "You",
+"start": 105.723,
+"end": 105.94
+},
+{
+"word": "set",
+"start": 105.959,
+"end": 106.176
+},
+{
+"word": "it",
+"start": 106.195,
+"end": 106.369
+},
+{
+"word": "to",
+"start": 106.384,
+"end": 106.558
+},
+{
+"word": "automatic.",
+"start": 106.573,
+"end": 107.095
+},
+{
+"word": "And",
+"start": 107.46,
+"end": 107.631
+},
+{
+"word": "then",
+"start": 107.646,
+"end": 107.85
+},
+{
+"word": "you",
+"start": 107.868,
+"end": 108.039
+},
+{
+"word": "forget",
+"start": 108.054,
+"end": 108.327
+},
+{
+"word": "about",
+"start": 108.351,
+"end": 108.59
+},
+{
+"word": "it.",
+"start": 108.61,
+"end": 108.781
+},
+{
+"word": "Year",
+"start": 109.116,
+"end": 109.443
+},
+{
+"word": "three.",
+"start": 109.472,
+"end": 109.908
+},
+{
+"word": "Still",
+"start": 110.266,
+"end": 110.634
+},
+{
+"word": "boring.",
+"start": 110.666,
+"end": 111.139
+},
+{
+"word": "This",
+"start": 111.5,
+"end": 111.741
+},
+{
+"word": "is",
+"start": 111.762,
+"end": 111.923
+},
+{
+"word": "where",
+"start": 111.937,
+"end": 112.218
+},
+{
+"word": "most",
+"start": 112.242,
+"end": 112.483
+},
+{
+"word": "people",
+"start": 112.504,
+"end": 112.825
+},
+{
+"word": "quit.",
+"start": 112.853,
+"end": 113.134
+},
+{
+"word": "Why?",
+"start": 113.478,
+"end": 113.953
+},
+{
+"word": "Because",
+"start": 114.444,
+"end": 114.802
+},
+{
+"word": "the",
+"start": 114.833,
+"end": 115.032
+},
+{
+"word": "growth",
+"start": 115.049,
+"end": 115.368
+},
+{
+"word": "is",
+"start": 115.395,
+"end": 115.554
+},
+{
+"word": "too",
+"start": 115.568,
+"end": 115.767
+},
+{
+"word": "small",
+"start": 115.784,
+"end": 116.063
+},
+{
+"word": "to",
+"start": 116.087,
+"end": 116.246
+},
+{
+"word": "feel.",
+"start": 116.26,
+"end": 116.538
+},
+{
+"word": "Your",
+"start": 116.882,
+"end": 117.167
+},
+{
+"word": "brain",
+"start": 117.192,
+"end": 117.524
+},
+{
+"word": "wants",
+"start": 117.553,
+"end": 117.885
+},
+{
+"word": "rewards",
+"start": 117.914,
+"end": 118.341
+},
+{
+"word": "now.",
+"start": 118.378,
+"end": 118.663
+},
+{
+"word": "Not",
+"start": 119.008,
+"end": 119.268
+},
+{
+"word": "in",
+"start": 119.291,
+"end": 119.499
+},
+{
+"word": "four",
+"start": 119.517,
+"end": 119.829
+},
+{
+"word": "decades.",
+"start": 119.856,
+"end": 120.377
+},
+{
+"word": "Year",
+"start": 120.742,
+"end": 121.109
+},
+{
+"word": "five.",
+"start": 121.141,
+"end": 121.569
+},
+{
+"word": "Max",
+"start": 121.926,
+"end": 122.174
+},
+{
+"word": "buys",
+"start": 122.196,
+"end": 122.493
+},
+{
+"word": "a",
+"start": 122.519,
+"end": 122.668
+},
+{
+"word": "new",
+"start": 122.681,
+"end": 122.929
+},
+{
+"word": "car.",
+"start": 122.951,
+"end": 123.248
+},
+{
+"word": "Shiny.",
+"start": 123.594,
+"end": 124.166
+},
+{
+"word": "Loud.",
+"start": 124.536,
+"end": 125.113
+},
+{
+"word": "You",
+"start": 125.483,
+"end": 125.742
+},
+{
+"word": "buy...",
+"start": 125.764,
+"end": 126.178
+},
+{
+"word": "one",
+"start": 126.764,
+"end": 126.99
+},
+{
+"word": "more",
+"start": 127.01,
+"end": 127.282
+},
+{
+"word": "dollar.",
+"start": 127.305,
+"end": 127.713
+},
+{
+"word": "He",
+"start": 128.069,
+"end": 128.33
+},
+{
+"word": "grins.",
+"start": 128.353,
+"end": 128.876
+},
+{
+"word": "You're",
+"start": 129.241,
+"end": 129.547
+},
+{
+"word": "gonna",
+"start": 129.574,
+"end": 129.841
+},
+{
+"word": "be",
+"start": 129.864,
+"end": 130.017
+},
+{
+"word": "rich",
+"start": 130.031,
+"end": 130.26
+},
+{
+"word": "at",
+"start": 130.28,
+"end": 130.433
+},
+{
+"word": "ninety,",
+"start": 130.446,
+"end": 130.79
+},
+{
+"word": "bro.",
+"start": 130.82,
+"end": 131.049
+},
+{
+"word": "Maybe.",
+"start": 131.389,
+"end": 131.978
+},
+{
+"word": "But",
+"start": 132.349,
+"end": 132.538
+},
+{
+"word": "you",
+"start": 132.555,
+"end": 132.745
+},
+{
+"word": "notice",
+"start": 132.761,
+"end": 133.065
+},
+{
+"word": "something.",
+"start": 133.091,
+"end": 133.546
+},
+{
+"word": "Your",
+"start": 133.906,
+"end": 134.157
+},
+{
+"word": "account",
+"start": 134.179,
+"end": 134.555
+},
+{
+"word": "isn't",
+"start": 134.588,
+"end": 134.881
+},
+{
+"word": "just",
+"start": 134.906,
+"end": 135.157
+},
+{
+"word": "growing.",
+"start": 135.179,
+"end": 135.598
+},
+{
+"word": "It's",
+"start": 135.954,
+"end": 136.214
+},
+{
+"word": "growing",
+"start": 136.236,
+"end": 136.626
+},
+{
+"word": "faster",
+"start": 136.66,
+"end": 137.006
+},
+{
+"word": "each",
+"start": 137.036,
+"end": 137.296
+},
+{
+"word": "year.",
+"start": 137.319,
+"end": 137.622
+},
+{
+"word": "Here's",
+"start": 137.968,
+"end": 138.309
+},
+{
+"word": "the",
+"start": 138.339,
+"end": 138.552
+},
+{
+"word": "secret.",
+"start": 138.571,
+"end": 138.955
+},
+{
+"word": "Over",
+"start": 139.308,
+"end": 139.598
+},
+{
+"word": "the",
+"start": 139.623,
+"end": 139.865
+},
+{
+"word": "long",
+"start": 139.886,
+"end": 140.176
+},
+{
+"word": "run,",
+"start": 140.201,
+"end": 140.491
+},
+{
+"word": "the",
+"start": 140.516,
+"end": 140.757
+},
+{
+"word": "US",
+"start": 140.778,
+"end": 141.068
+},
+{
+"word": "stock",
+"start": 141.094,
+"end": 141.432
+},
+{
+"word": "market",
+"start": 141.461,
+"end": 141.848
+},
+{
+"word": "has",
+"start": 141.881,
+"end": 142.123
+},
+{
+"word": "averaged",
+"start": 142.144,
+"end": 142.627
+},
+{
+"word": "around",
+"start": 142.669,
+"end": 143.056
+},
+{
+"word": "ten",
+"start": 143.089,
+"end": 143.331
+},
+{
+"word": "percent",
+"start": 143.352,
+"end": 143.787
+},
+{
+"word": "a",
+"start": 143.825,
+"end": 143.97
+},
+{
+"word": "year.",
+"start": 143.982,
+"end": 144.321
+},
+{
+"word": "And",
+"start": 144.67,
+"end": 144.862
+},
+{
+"word": "there's",
+"start": 144.879,
+"end": 145.224
+},
+{
+"word": "a",
+"start": 145.254,
+"end": 145.369
+},
+{
+"word": "shortcut",
+"start": 145.379,
+"end": 145.763
+},
+{
+"word": "called",
+"start": 145.796,
+"end": 146.103
+},
+{
+"word": "the",
+"start": 146.13,
+"end": 146.322
+},
+{
+"word": "rule",
+"start": 146.339,
+"end": 146.569
+},
+{
+"word": "of",
+"start": 146.589,
+"end": 146.742
+},
+{
+"word": "seventy-two.",
+"start": 146.756,
+"end": 147.293
+},
+{
+"word": "Divide",
+"start": 147.66,
+"end": 148.045
+},
+{
+"word": "seventy-two",
+"start": 148.079,
+"end": 148.704
+},
+{
+"word": "by",
+"start": 148.759,
+"end": 148.951
+},
+{
+"word": "your",
+"start": 148.968,
+"end": 149.257
+},
+{
+"word": "return.",
+"start": 149.282,
+"end": 149.716
+},
+{
+"word": "Seventy-two",
+"start": 150.073,
+"end": 150.787
+},
+{
+"word": "divided",
+"start": 150.849,
+"end": 151.344
+},
+{
+"word": "by",
+"start": 151.387,
+"end": 151.607
+},
+{
+"word": "ten?",
+"start": 151.626,
+"end": 151.955
+},
+{
+"word": "About",
+"start": 152.434,
+"end": 152.822
+},
+{
+"word": "seven.",
+"start": 152.855,
+"end": 153.298
+},
+{
+"word": "That's",
+"start": 153.657,
+"end": 153.981
+},
+{
+"word": "roughly",
+"start": 154.009,
+"end": 154.374
+},
+{
+"word": "how",
+"start": 154.405,
+"end": 154.608
+},
+{
+"word": "many",
+"start": 154.625,
+"end": 154.869
+},
+{
+"word": "years",
+"start": 154.89,
+"end": 155.173
+},
+{
+"word": "it",
+"start": 155.198,
+"end": 155.36
+},
+{
+"word": "takes",
+"start": 155.374,
+"end": 155.657
+},
+{
+"word": "your",
+"start": 155.682,
+"end": 155.925
+},
+{
+"word": "money",
+"start": 155.946,
+"end": 156.23
+},
+{
+"word": "to",
+"start": 156.254,
+"end": 156.416
+},
+{
+"word": "double.",
+"start": 156.43,
+"end": 156.795
+},
+{
+"word": "Then",
+"start": 157.147,
+"end": 157.409
+},
+{
+"word": "double",
+"start": 157.432,
+"end": 157.781
+},
+{
+"word": "again.",
+"start": 157.811,
+"end": 158.161
+},
+{
+"word": "Then",
+"start": 158.511,
+"end": 158.825
+},
+{
+"word": "again.",
+"start": 158.853,
+"end": 159.272
+},
+{
+"word": "Year",
+"start": 159.628,
+"end": 159.976
+},
+{
+"word": "ten.",
+"start": 160.006,
+"end": 160.354
+},
+{
+"word": "You've",
+"start": 160.704,
+"end": 161.052
+},
+{
+"word": "put",
+"start": 161.082,
+"end": 161.3
+},
+{
+"word": "in",
+"start": 161.319,
+"end": 161.493
+},
+{
+"word": "three",
+"start": 161.508,
+"end": 161.812
+},
+{
+"word": "thousand",
+"start": 161.839,
+"end": 162.274
+},
+{
+"word": "six",
+"start": 162.311,
+"end": 162.529
+},
+{
+"word": "hundred",
+"start": 162.548,
+"end": 162.939
+},
+{
+"word": "fifty",
+"start": 162.973,
+"end": 163.278
+},
+{
+"word": "dollars.",
+"start": 163.304,
+"end": 163.739
+},
+{
+"word": "The",
+"start": 164.097,
+"end": 164.307
+},
+{
+"word": "account",
+"start": 164.325,
+"end": 164.703
+},
+{
+"word": "says",
+"start": 164.735,
+"end": 164.987
+},
+{
+"word": "almost",
+"start": 165.009,
+"end": 165.345
+},
+{
+"word": "six",
+"start": 165.374,
+"end": 165.584
+},
+{
+"word": "thousand.",
+"start": 165.602,
+"end": 166.064
+},
+{
+"word": "The",
+"start": 166.424,
+"end": 166.665
+},
+{
+"word": "extra",
+"start": 166.686,
+"end": 167.023
+},
+{
+"word": "two",
+"start": 167.053,
+"end": 167.294
+},
+{
+"word": "thousand?",
+"start": 167.315,
+"end": 167.845
+},
+{
+"word": "You",
+"start": 168.341,
+"end": 168.531
+},
+{
+"word": "didn't",
+"start": 168.548,
+"end": 168.852
+},
+{
+"word": "earn",
+"start": 168.878,
+"end": 169.107
+},
+{
+"word": "it.",
+"start": 169.126,
+"end": 169.317
+},
+{
+"word": "Your",
+"start": 169.653,
+"end": 169.93
+},
+{
+"word": "money",
+"start": 169.954,
+"end": 170.278
+},
+{
+"word": "did.",
+"start": 170.306,
+"end": 170.583
+},
+{
+"word": "While",
+"start": 170.927,
+"end": 171.221
+},
+{
+"word": "you",
+"start": 171.246,
+"end": 171.456
+},
+{
+"word": "slept.",
+"start": 171.475,
+"end": 171.81
+},
+{
+"word": "That's",
+"start": 172.159,
+"end": 172.53
+},
+{
+"word": "when",
+"start": 172.562,
+"end": 172.84
+},
+{
+"word": "Max",
+"start": 172.864,
+"end": 173.095
+},
+{
+"word": "finally",
+"start": 173.116,
+"end": 173.532
+},
+{
+"word": "starts.",
+"start": 173.568,
+"end": 173.985
+},
+{
+"word": "He's",
+"start": 174.341,
+"end": 174.643
+},
+{
+"word": "thirty-five.",
+"start": 174.669,
+"end": 175.372
+},
+{
+"word": "Same",
+"start": 175.753,
+"end": 176.066
+},
+{
+"word": "dollar.",
+"start": 176.093,
+"end": 176.562
+},
+{
+"word": "Same",
+"start": 176.923,
+"end": 177.241
+},
+{
+"word": "market.",
+"start": 177.269,
+"end": 177.747
+},
+{
+"word": "Just",
+"start": 178.109,
+"end": 178.36
+},
+{
+"word": "ten",
+"start": 178.382,
+"end": 178.592
+},
+{
+"word": "years",
+"start": 178.61,
+"end": 178.903
+},
+{
+"word": "late.",
+"start": 178.929,
+"end": 179.222
+},
+{
+"word": "Here's",
+"start": 179.567,
+"end": 179.931
+},
+{
+"word": "the",
+"start": 179.962,
+"end": 180.189
+},
+{
+"word": "brutal",
+"start": 180.209,
+"end": 180.572
+},
+{
+"word": "part.",
+"start": 180.604,
+"end": 180.922
+},
+{
+"word": "If",
+"start": 181.269,
+"end": 181.447
+},
+{
+"word": "he",
+"start": 181.463,
+"end": 181.641
+},
+{
+"word": "never",
+"start": 181.656,
+"end": 181.967
+},
+{
+"word": "stops...",
+"start": 181.994,
+"end": 182.439
+},
+{
+"word": "he'll",
+"start": 183.028,
+"end": 183.325
+},
+{
+"word": "reach",
+"start": 183.351,
+"end": 183.649
+},
+{
+"word": "sixty-five",
+"start": 183.675,
+"end": 184.185
+},
+{
+"word": "with",
+"start": 184.23,
+"end": 184.485
+},
+{
+"word": "about",
+"start": 184.507,
+"end": 184.805
+},
+{
+"word": "sixty",
+"start": 184.83,
+"end": 185.128
+},
+{
+"word": "thousand.",
+"start": 185.154,
+"end": 185.622
+},
+{
+"word": "You?",
+"start": 185.982,
+"end": 186.457
+},
+{
+"word": "About",
+"start": 186.948,
+"end": 187.265
+},
+{
+"word": "one",
+"start": 187.293,
+"end": 187.52
+},
+{
+"word": "hundred",
+"start": 187.539,
+"end": 187.947
+},
+{
+"word": "sixty",
+"start": 187.983,
+"end": 188.3
+},
+{
+"word": "thousand.",
+"start": 188.328,
+"end": 188.826
+},
+{
+"word": "Ten",
+"start": 189.19,
+"end": 189.42
+},
+{
+"word": "years",
+"start": 189.44,
+"end": 189.762
+},
+{
+"word": "late...",
+"start": 189.79,
+"end": 190.205
+},
+{
+"word": "could",
+"start": 190.791,
+"end": 191.096
+},
+{
+"word": "cost",
+"start": 191.123,
+"end": 191.385
+},
+{
+"word": "him",
+"start": 191.408,
+"end": 191.627
+},
+{
+"word": "a",
+"start": 191.646,
+"end": 191.777
+},
+{
+"word": "hundred",
+"start": 191.788,
+"end": 192.182
+},
+{
+"word": "thousand",
+"start": 192.216,
+"end": 192.653
+},
+{
+"word": "dollars.",
+"start": 192.691,
+"end": 193.128
+},
+{
+"word": "Wait...",
+"start": 193.486,
+"end": 194.05
+},
+{
+"word": "just",
+"start": 194.649,
+"end": 194.953
+},
+{
+"word": "ten",
+"start": 194.98,
+"end": 195.233
+},
+{
+"word": "years?",
+"start": 195.255,
+"end": 195.66
+},
+{
+"word": "Why",
+"start": 196.146,
+"end": 196.353
+},
+{
+"word": "does",
+"start": 196.371,
+"end": 196.62
+},
+{
+"word": "that",
+"start": 196.642,
+"end": 196.891
+},
+{
+"word": "hurt",
+"start": 196.913,
+"end": 197.162
+},
+{
+"word": "so",
+"start": 197.184,
+"end": 197.35
+},
+{
+"word": "much?",
+"start": 197.364,
+"end": 197.655
+},
+{
+"word": "Because",
+"start": 198.13,
+"end": 198.496
+},
+{
+"word": "the",
+"start": 198.528,
+"end": 198.731
+},
+{
+"word": "biggest",
+"start": 198.749,
+"end": 199.114
+},
+{
+"word": "growth...",
+"start": 199.146,
+"end": 199.593
+},
+{
+"word": "happens",
+"start": 200.182,
+"end": 200.593
+},
+{
+"word": "at",
+"start": 200.629,
+"end": 200.812
+},
+{
+"word": "the",
+"start": 200.827,
+"end": 201.056
+},
+{
+"word": "very",
+"start": 201.076,
+"end": 201.35
+},
+{
+"word": "end.",
+"start": 201.373,
+"end": 201.647
+},
+{
+"word": "Minus:",
+"start": 201.991,
+"end": 202.611
+},
+{
+"word": "year",
+"start": 202.915,
+"end": 203.25
+},
+{
+"word": "twelve.",
+"start": 203.279,
+"end": 203.781
+},
+{
+"word": "The",
+"start": 204.145,
+"end": 204.388
+},
+{
+"word": "market",
+"start": 204.41,
+"end": 204.799
+},
+{
+"word": "crashes.",
+"start": 204.833,
+"end": 205.32
+},
+{
+"word": "Your",
+"start": 205.683,
+"end": 205.929
+},
+{
+"word": "account",
+"start": 205.95,
+"end": 206.319
+},
+{
+"word": "drops",
+"start": 206.351,
+"end": 206.638
+},
+{
+"word": "by",
+"start": 206.663,
+"end": 206.827
+},
+{
+"word": "a",
+"start": 206.841,
+"end": 206.964
+},
+{
+"word": "third",
+"start": 206.975,
+"end": 207.262
+},
+{
+"word": "in",
+"start": 207.287,
+"end": 207.451
+},
+{
+"word": "a",
+"start": 207.465,
+"end": 207.588
+},
+{
+"word": "few",
+"start": 207.599,
+"end": 207.804
+},
+{
+"word": "weeks.",
+"start": 207.822,
+"end": 208.15
+},
+{
+"word": "Max",
+"start": 208.498,
+"end": 208.72
+},
+{
+"word": "calls",
+"start": 208.739,
+"end": 209.049
+},
+{
+"word": "you,",
+"start": 209.076,
+"end": 209.341
+},
+{
+"word": "panicking.",
+"start": 209.365,
+"end": 209.896
+},
+{
+"word": "Sell!",
+"start": 210.262,
+"end": 210.763
+},
+{
+"word": "Sell",
+"start": 211.126,
+"end": 211.419
+},
+{
+"word": "everything!",
+"start": 211.444,
+"end": 212.077
+},
+{
+"word": "You?",
+"start": 212.452,
+"end": 212.927
+},
+{
+"word": "You",
+"start": 213.418,
+"end": 213.629
+},
+{
+"word": "keep",
+"start": 213.647,
+"end": 213.901
+},
+{
+"word": "feeding",
+"start": 213.923,
+"end": 214.303
+},
+{
+"word": "the",
+"start": 214.336,
+"end": 214.547
+},
+{
+"word": "jar.",
+"start": 214.565,
+"end": 214.818
+},
+{
+"word": "Because",
+"start": 215.16,
+"end": 215.55
+},
+{
+"word": "when",
+"start": 215.584,
+"end": 215.844
+},
+{
+"word": "prices",
+"start": 215.867,
+"end": 216.213
+},
+{
+"word": "fall...",
+"start": 216.243,
+"end": 216.633
+},
+{
+"word": "your",
+"start": 217.217,
+"end": 217.485
+},
+{
+"word": "dollar",
+"start": 217.508,
+"end": 217.865
+},
+{
+"word": "buys",
+"start": 217.896,
+"end": 218.164
+},
+{
+"word": "more.",
+"start": 218.187,
+"end": 218.499
+},
+{
+"word": "Months",
+"start": 218.847,
+"end": 219.221
+},
+{
+"word": "later...",
+"start": 219.253,
+"end": 219.721
+},
+{
+"word": "the",
+"start": 220.312,
+"end": 220.52
+},
+{
+"word": "market",
+"start": 220.538,
+"end": 220.872
+},
+{
+"word": "starts",
+"start": 220.901,
+"end": 221.234
+},
+{
+"word": "climbing",
+"start": 221.263,
+"end": 221.68
+},
+{
+"word": "back.",
+"start": 221.717,
+"end": 222.009
+},
+{
+"word": "Max",
+"start": 222.354,
+"end": 222.56
+},
+{
+"word": "sold",
+"start": 222.578,
+"end": 222.826
+},
+{
+"word": "near",
+"start": 222.847,
+"end": 223.095
+},
+{
+"word": "the",
+"start": 223.117,
+"end": 223.323
+},
+{
+"word": "bottom.",
+"start": 223.341,
+"end": 223.712
+},
+{
+"word": "He",
+"start": 224.065,
+"end": 224.221
+},
+{
+"word": "missed",
+"start": 224.235,
+"end": 224.548
+},
+{
+"word": "the",
+"start": 224.576,
+"end": 224.772
+},
+{
+"word": "whole",
+"start": 224.789,
+"end": 225.063
+},
+{
+"word": "recovery.",
+"start": 225.087,
+"end": 225.518
+},
+{
+"word": "The",
+"start": 225.875,
+"end": 226.132
+},
+{
+"word": "catch?",
+"start": 226.154,
+"end": 226.564
+},
+{
+"word": "Crashes",
+"start": 227.049,
+"end": 227.478
+},
+{
+"word": "bring",
+"start": 227.515,
+"end": 227.848
+},
+{
+"word": "sharks.",
+"start": 227.877,
+"end": 228.306
+},
+{
+"word": "A",
+"start": 228.663,
+"end": 228.819
+},
+{
+"word": "stranger",
+"start": 228.832,
+"end": 229.351
+},
+{
+"word": "online",
+"start": 229.396,
+"end": 229.812
+},
+{
+"word": "named",
+"start": 229.848,
+"end": 230.211
+},
+{
+"word": "Mr.",
+"start": 230.243,
+"end": 230.658
+},
+{
+"word": "Black",
+"start": 230.694,
+"end": 231.057
+},
+{
+"word": "slides",
+"start": 231.089,
+"end": 231.504
+},
+{
+"word": "into",
+"start": 231.54,
+"end": 231.852
+},
+{
+"word": "your",
+"start": 231.879,
+"end": 232.19
+},
+{
+"word": "messages.",
+"start": 232.217,
+"end": 232.788
+},
+{
+"word": "Guaranteed",
+"start": 233.158,
+"end": 233.76
+},
+{
+"word": "twenty",
+"start": 233.812,
+"end": 234.213
+},
+{
+"word": "percent.",
+"start": 234.248,
+"end": 234.75
+},
+{
+"word": "Every",
+"start": 235.113,
+"end": 235.479
+},
+{
+"word": "month.",
+"start": 235.51,
+"end": 235.928
+},
+{
+"word": "Zero",
+"start": 236.284,
+"end": 236.675
+},
+{
+"word": "risk.",
+"start": 236.709,
+"end": 237.164
+},
+{
+"word": "You",
+"start": 237.524,
+"end": 237.731
+},
+{
+"word": "do",
+"start": 237.749,
+"end": 237.914
+},
+{
+"word": "the",
+"start": 237.929,
+"end": 238.135
+},
+{
+"word": "math.",
+"start": 238.153,
+"end": 238.443
+},
+{
+"word": "Twenty",
+"start": 238.788,
+"end": 239.161
+},
+{
+"word": "percent",
+"start": 239.193,
+"end": 239.613
+},
+{
+"word": "a",
+"start": 239.65,
+"end": 239.789
+},
+{
+"word": "month",
+"start": 239.802,
+"end": 240.128
+},
+{
+"word": "turns",
+"start": 240.156,
+"end": 240.483
+},
+{
+"word": "one",
+"start": 240.511,
+"end": 240.744
+},
+{
+"word": "dollar",
+"start": 240.764,
+"end": 241.137
+},
+{
+"word": "into",
+"start": 241.17,
+"end": 241.45
+},
+{
+"word": "almost",
+"start": 241.474,
+"end": 241.847
+},
+{
+"word": "nine",
+"start": 241.879,
+"end": 242.159
+},
+{
+"word": "in",
+"start": 242.184,
+"end": 242.37
+},
+{
+"word": "a",
+"start": 242.386,
+"end": 242.526
+},
+{
+"word": "single",
+"start": 242.538,
+"end": 242.911
+},
+{
+"word": "year.",
+"start": 242.944,
+"end": 243.27
+},
+{
+"word": "Nobody",
+"start": 243.618,
+"end": 243.994
+},
+{
+"word": "does",
+"start": 244.027,
+"end": 244.309
+},
+{
+"word": "that.",
+"start": 244.334,
+"end": 244.663
+},
+{
+"word": "Nobody",
+"start": 245.011,
+"end": 245.521
+},
+{
+"word": "honest.",
+"start": 245.565,
+"end": 246.138
+},
+{
+"word": "You",
+"start": 246.508,
+"end": 246.732
+},
+{
+"word": "block",
+"start": 246.752,
+"end": 247.066
+},
+{
+"word": "him.",
+"start": 247.093,
+"end": 247.363
+},
+{
+"word": "Real",
+"start": 247.706,
+"end": 248.081
+},
+{
+"word": "rule:",
+"start": 248.114,
+"end": 248.551
+},
+{
+"word": "if",
+"start": 248.839,
+"end": 249.044
+},
+{
+"word": "someone",
+"start": 249.061,
+"end": 249.522
+},
+{
+"word": "guarantees",
+"start": 249.562,
+"end": 250.176
+},
+{
+"word": "huge",
+"start": 250.23,
+"end": 250.537
+},
+{
+"word": "returns",
+"start": 250.564,
+"end": 251.024
+},
+{
+"word": "with",
+"start": 251.065,
+"end": 251.372
+},
+{
+"word": "no",
+"start": 251.398,
+"end": 251.603
+},
+{
+"word": "risk...",
+"start": 251.621,
+"end": 252.082
+},
+{
+"word": "it's",
+"start": 252.672,
+"end": 252.944
+},
+{
+"word": "almost",
+"start": 252.968,
+"end": 253.332
+},
+{
+"word": "always",
+"start": 253.363,
+"end": 253.727
+},
+{
+"word": "a",
+"start": 253.759,
+"end": 253.895
+},
+{
+"word": "scam.",
+"start": 253.907,
+"end": 254.225
+},
+{
+"word": "Year",
+"start": 254.573,
+"end": 254.91
+},
+{
+"word": "twenty.",
+"start": 254.94,
+"end": 255.446
+},
+{
+"word": "Twenty-one",
+"start": 255.81,
+"end": 256.376
+},
+{
+"word": "thousand",
+"start": 256.426,
+"end": 256.898
+},
+{
+"word": "dollars.",
+"start": 256.939,
+"end": 257.411
+},
+{
+"word": "You've",
+"start": 257.772,
+"end": 258.115
+},
+{
+"word": "only",
+"start": 258.145,
+"end": 258.403
+},
+{
+"word": "put",
+"start": 258.425,
+"end": 258.64
+},
+{
+"word": "in",
+"start": 258.659,
+"end": 258.83
+},
+{
+"word": "seven",
+"start": 258.845,
+"end": 259.146
+},
+{
+"word": "thousand",
+"start": 259.172,
+"end": 259.602
+},
+{
+"word": "three",
+"start": 259.639,
+"end": 259.94
+},
+{
+"word": "hundred.",
+"start": 259.966,
+"end": 260.395
+},
+{
+"word": "The",
+"start": 260.752,
+"end": 261.031
+},
+{
+"word": "rest?",
+"start": 261.055,
+"end": 261.445
+},
+{
+"word": "Pure",
+"start": 261.929,
+"end": 262.251
+},
+{
+"word": "growth.",
+"start": 262.279,
+"end": 262.761
+},
+{
+"word": "Year",
+"start": 263.123,
+"end": 263.427
+},
+{
+"word": "twenty-five.",
+"start": 263.454,
+"end": 264.164
+},
+{
+"word": "About",
+"start": 264.546,
+"end": 264.878
+},
+{
+"word": "thirty-six",
+"start": 264.907,
+"end": 265.476
+},
+{
+"word": "thousand.",
+"start": 265.526,
+"end": 266.048
+},
+{
+"word": "Now,",
+"start": 266.414,
+"end": 266.692
+},
+{
+"word": "in",
+"start": 266.716,
+"end": 266.901
+},
+{
+"word": "one",
+"start": 266.917,
+"end": 267.149
+},
+{
+"word": "good",
+"start": 267.169,
+"end": 267.447
+},
+{
+"word": "year,",
+"start": 267.471,
+"end": 267.796
+},
+{
+"word": "your",
+"start": 267.824,
+"end": 268.102
+},
+{
+"word": "money",
+"start": 268.126,
+"end": 268.451
+},
+{
+"word": "can",
+"start": 268.479,
+"end": 268.711
+},
+{
+"word": "earn",
+"start": 268.731,
+"end": 269.009
+},
+{
+"word": "around",
+"start": 269.033,
+"end": 269.404
+},
+{
+"word": "three",
+"start": 269.436,
+"end": 269.76
+},
+{
+"word": "thousand",
+"start": 269.789,
+"end": 270.252
+},
+{
+"word": "six",
+"start": 270.292,
+"end": 270.524
+},
+{
+"word": "hundred.",
+"start": 270.544,
+"end": 271.008
+},
+{
+"word": "That's",
+"start": 271.368,
+"end": 271.659
+},
+{
+"word": "ten",
+"start": 271.685,
+"end": 271.867
+},
+{
+"word": "years",
+"start": 271.882,
+"end": 272.137
+},
+{
+"word": "of",
+"start": 272.159,
+"end": 272.305
+},
+{
+"word": "your",
+"start": 272.318,
+"end": 272.536
+},
+{
+"word": "dollars...",
+"start": 272.555,
+"end": 272.992
+},
+{
+"word": "in",
+"start": 273.58,
+"end": 273.768
+},
+{
+"word": "twelve",
+"start": 273.784,
+"end": 274.16
+},
+{
+"word": "months.",
+"start": 274.192,
+"end": 274.615
+},
+{
+"word": "Max",
+"start": 274.972,
+"end": 275.178
+},
+{
+"word": "squints",
+"start": 275.196,
+"end": 275.568
+},
+{
+"word": "at",
+"start": 275.6,
+"end": 275.765
+},
+{
+"word": "your",
+"start": 275.78,
+"end": 276.027
+},
+{
+"word": "screen.",
+"start": 276.049,
+"end": 276.421
+},
+{
+"word": "Wait.",
+"start": 276.773,
+"end": 277.282
+},
+{
+"word": "It's",
+"start": 277.646,
+"end": 277.906
+},
+{
+"word": "doing",
+"start": 277.928,
+"end": 278.231
+},
+{
+"word": "your",
+"start": 278.257,
+"end": 278.517
+},
+{
+"word": "job",
+"start": 278.539,
+"end": 278.756
+},
+{
+"word": "now?",
+"start": 278.774,
+"end": 279.034
+},
+{
+"word": "Yeah.",
+"start": 279.506,
+"end": 280.0
+},
+{
+"word": "It",
+"start": 280.363,
+"end": 280.554
+},
+{
+"word": "kind",
+"start": 280.57,
+"end": 280.855
+},
+{
+"word": "of",
+"start": 280.88,
+"end": 281.07
+},
+{
+"word": "is.",
+"start": 281.087,
+"end": 281.325
+},
+{
+"word": "But",
+"start": 281.666,
+"end": 281.868
+},
+{
+"word": "where",
+"start": 281.886,
+"end": 282.169
+},
+{
+"word": "it",
+"start": 282.194,
+"end": 282.356
+},
+{
+"word": "gets",
+"start": 282.37,
+"end": 282.613
+},
+{
+"word": "really",
+"start": 282.634,
+"end": 282.958
+},
+{
+"word": "crazy...",
+"start": 282.986,
+"end": 283.391
+},
+{
+"word": "is",
+"start": 283.976,
+"end": 284.14
+},
+{
+"word": "the",
+"start": 284.154,
+"end": 284.359
+},
+{
+"word": "end",
+"start": 284.377,
+"end": 284.582
+},
+{
+"word": "of",
+"start": 284.6,
+"end": 284.764
+},
+{
+"word": "the",
+"start": 284.778,
+"end": 284.983
+},
+{
+"word": "plan.",
+"start": 285.001,
+"end": 285.288
+},
+{
+"word": "Year",
+"start": 285.633,
+"end": 285.97
+},
+{
+"word": "thirty.",
+"start": 285.999,
+"end": 286.505
+},
+{
+"word": "About",
+"start": 286.869,
+"end": 287.25
+},
+{
+"word": "sixty",
+"start": 287.284,
+"end": 287.665
+},
+{
+"word": "thousand.",
+"start": 287.698,
+"end": 288.296
+},
+{
+"word": "Year",
+"start": 288.668,
+"end": 289.021
+},
+{
+"word": "forty?",
+"start": 289.051,
+"end": 289.521
+},
+{
+"word": "About",
+"start": 290.011,
+"end": 290.329
+},
+{
+"word": "one",
+"start": 290.356,
+"end": 290.583
+},
+{
+"word": "hundred",
+"start": 290.603,
+"end": 291.011
+},
+{
+"word": "sixty",
+"start": 291.046,
+"end": 291.363
+},
+{
+"word": "thousand.",
+"start": 291.391,
+"end": 291.89
+},
+{
+"word": "The",
+"start": 292.253,
+"end": 292.447
+},
+{
+"word": "last",
+"start": 292.464,
+"end": 292.698
+},
+{
+"word": "ten",
+"start": 292.718,
+"end": 292.913
+},
+{
+"word": "years",
+"start": 292.93,
+"end": 293.202
+},
+{
+"word": "make",
+"start": 293.226,
+"end": 293.459
+},
+{
+"word": "more",
+"start": 293.479,
+"end": 293.713
+},
+{
+"word": "money...",
+"start": 293.733,
+"end": 294.122
+},
+{
+"word": "than",
+"start": 294.706,
+"end": 294.958
+},
+{
+"word": "the",
+"start": 294.98,
+"end": 295.19
+},
+{
+"word": "first",
+"start": 295.208,
+"end": 295.502
+},
+{
+"word": "thirty",
+"start": 295.528,
+"end": 295.864
+},
+{
+"word": "combined.",
+"start": 295.893,
+"end": 296.356
+},
+{
+"word": "That's",
+"start": 296.716,
+"end": 297.085
+},
+{
+"word": "compounding.",
+"start": 297.117,
+"end": 297.764
+},
+{
+"word": "Slow.",
+"start": 298.14,
+"end": 298.723
+},
+{
+"word": "And",
+"start": 299.094,
+"end": 299.389
+},
+{
+"word": "slow.",
+"start": 299.415,
+"end": 299.828
+},
+{
+"word": "And",
+"start": 300.184,
+"end": 300.479
+},
+{
+"word": "slow.",
+"start": 300.505,
+"end": 300.918
+},
+{
+"word": "And",
+"start": 301.274,
+"end": 301.513
+},
+{
+"word": "then...",
+"start": 301.534,
+"end": 301.964
+},
+{
+"word": "suddenly",
+"start": 302.551,
+"end": 303.067
+},
+{
+"word": "not.",
+"start": 303.111,
+"end": 303.421
+},
+{
+"word": "And",
+"start": 303.768,
+"end": 303.966
+},
+{
+"word": "if",
+"start": 303.984,
+"end": 304.143
+},
+{
+"word": "it",
+"start": 304.156,
+"end": 304.315
+},
+{
+"word": "were",
+"start": 304.329,
+"end": 304.568
+},
+{
+"word": "ten",
+"start": 304.588,
+"end": 304.787
+},
+{
+"word": "dollars",
+"start": 304.804,
+"end": 305.162
+},
+{
+"word": "a",
+"start": 305.193,
+"end": 305.312
+},
+{
+"word": "day",
+"start": 305.323,
+"end": 305.521
+},
+{
+"word": "instead",
+"start": 305.539,
+"end": 305.896
+},
+{
+"word": "of",
+"start": 305.927,
+"end": 306.086
+},
+{
+"word": "one?",
+"start": 306.1,
+"end": 306.338
+},
+{
+"word": "Over",
+"start": 306.809,
+"end": 307.073
+},
+{
+"word": "one",
+"start": 307.096,
+"end": 307.316
+},
+{
+"word": "point",
+"start": 307.335,
+"end": 307.643
+},
+{
+"word": "six",
+"start": 307.67,
+"end": 307.889
+},
+{
+"word": "million.",
+"start": 307.909,
+"end": 308.348
+},
+{
+"word": "And",
+"start": 308.707,
+"end": 308.927
+},
+{
+"word": "there's",
+"start": 308.946,
+"end": 309.342
+},
+{
+"word": "a",
+"start": 309.377,
+"end": 309.509
+},
+{
+"word": "price",
+"start": 309.52,
+"end": 309.828
+},
+{
+"word": "nobody",
+"start": 309.855,
+"end": 310.207
+},
+{
+"word": "mentions.",
+"start": 310.238,
+"end": 310.722
+},
+{
+"word": "It's",
+"start": 311.084,
+"end": 311.385
+},
+{
+"word": "boring.",
+"start": 311.412,
+"end": 311.863
+},
+{
+"word": "For",
+"start": 312.222,
+"end": 312.517
+},
+{
+"word": "decades.",
+"start": 312.542,
+"end": 313.131
+},
+{
+"word": "Friends",
+"start": 313.503,
+"end": 313.882
+},
+{
+"word": "buy",
+"start": 313.915,
+"end": 314.126
+},
+{
+"word": "a",
+"start": 314.144,
+"end": 314.27
+},
+{
+"word": "new",
+"start": 314.281,
+"end": 314.492
+},
+{
+"word": "phone",
+"start": 314.51,
+"end": 314.805
+},
+{
+"word": "every",
+"start": 314.831,
+"end": 315.126
+},
+{
+"word": "year.",
+"start": 315.152,
+"end": 315.447
+},
+{
+"word": "You",
+"start": 315.792,
+"end": 315.995
+},
+{
+"word": "keep",
+"start": 316.012,
+"end": 316.255
+},
+{
+"word": "the",
+"start": 316.276,
+"end": 316.478
+},
+{
+"word": "old",
+"start": 316.496,
+"end": 316.698
+},
+{
+"word": "one...",
+"start": 316.716,
+"end": 317.039
+},
+{
+"word": "again.",
+"start": 317.617,
+"end": 318.212
+},
+{
+"word": "People",
+"start": 318.584,
+"end": 318.947
+},
+{
+"word": "call",
+"start": 318.978,
+"end": 319.25
+},
+{
+"word": "you",
+"start": 319.274,
+"end": 319.501
+},
+{
+"word": "cheap.",
+"start": 319.521,
+"end": 319.883
+},
+{
+"word": "And",
+"start": 320.235,
+"end": 320.425
+},
+{
+"word": "your",
+"start": 320.441,
+"end": 320.668
+},
+{
+"word": "brain",
+"start": 320.688,
+"end": 320.953
+},
+{
+"word": "fights",
+"start": 320.976,
+"end": 321.28
+},
+{
+"word": "you",
+"start": 321.306,
+"end": 321.495
+},
+{
+"word": "every",
+"start": 321.512,
+"end": 321.777
+},
+{
+"word": "day.",
+"start": 321.8,
+"end": 322.028
+},
+{
+"word": "Humans",
+"start": 322.367,
+"end": 322.766
+},
+{
+"word": "are",
+"start": 322.801,
+"end": 323.05
+},
+{
+"word": "wired",
+"start": 323.072,
+"end": 323.421
+},
+{
+"word": "to",
+"start": 323.451,
+"end": 323.651
+},
+{
+"word": "grab",
+"start": 323.668,
+"end": 323.967
+},
+{
+"word": "rewards",
+"start": 323.993,
+"end": 324.442
+},
+{
+"word": "now.",
+"start": 324.481,
+"end": 324.78
+},
+{
+"word": "A",
+"start": 325.126,
+"end": 325.264
+},
+{
+"word": "dollar",
+"start": 325.276,
+"end": 325.644
+},
+{
+"word": "today",
+"start": 325.676,
+"end": 325.998
+},
+{
+"word": "feels",
+"start": 326.026,
+"end": 326.348
+},
+{
+"word": "real.",
+"start": 326.376,
+"end": 326.698
+},
+{
+"word": "A",
+"start": 327.046,
+"end": 327.185
+},
+{
+"word": "dollar",
+"start": 327.197,
+"end": 327.568
+},
+{
+"word": "in",
+"start": 327.6,
+"end": 327.786
+},
+{
+"word": "forty",
+"start": 327.802,
+"end": 328.127
+},
+{
+"word": "years",
+"start": 328.155,
+"end": 328.48
+},
+{
+"word": "feels",
+"start": 328.508,
+"end": 328.833
+},
+{
+"word": "like",
+"start": 328.861,
+"end": 329.14
+},
+{
+"word": "a",
+"start": 329.164,
+"end": 329.303
+},
+{
+"word": "rumor.",
+"start": 329.315,
+"end": 329.686
+},
+{
+"word": "And",
+"start": 330.039,
+"end": 330.233
+},
+{
+"word": "there's",
+"start": 330.249,
+"end": 330.599
+},
+{
+"word": "another",
+"start": 330.629,
+"end": 330.978
+},
+{
+"word": "catch.",
+"start": 331.009,
+"end": 331.319
+},
+{
+"word": "Inflation.",
+"start": 331.666,
+"end": 332.475
+},
+{
+"word": "US",
+"start": 332.865,
+"end": 333.179
+},
+{
+"word": "prices",
+"start": 333.206,
+"end": 333.625
+},
+{
+"word": "have",
+"start": 333.662,
+"end": 333.976
+},
+{
+"word": "risen",
+"start": 334.003,
+"end": 334.37
+},
+{
+"word": "around",
+"start": 334.401,
+"end": 334.82
+},
+{
+"word": "three",
+"start": 334.857,
+"end": 335.223
+},
+{
+"word": "percent",
+"start": 335.255,
+"end": 335.726
+},
+{
+"word": "a",
+"start": 335.767,
+"end": 335.924
+},
+{
+"word": "year",
+"start": 335.938,
+"end": 336.252
+},
+{
+"word": "on",
+"start": 336.279,
+"end": 336.489
+},
+{
+"word": "average",
+"start": 336.507,
+"end": 336.978
+},
+{
+"word": "over",
+"start": 337.019,
+"end": 337.333
+},
+{
+"word": "the",
+"start": 337.36,
+"end": 337.622
+},
+{
+"word": "long",
+"start": 337.645,
+"end": 337.959
+},
+{
+"word": "run.",
+"start": 337.986,
+"end": 338.3
+},
+{
+"word": "At",
+"start": 338.648,
+"end": 338.841
+},
+{
+"word": "that",
+"start": 338.857,
+"end": 339.147
+},
+{
+"word": "pace,",
+"start": 339.172,
+"end": 339.509
+},
+{
+"word": "prices",
+"start": 339.538,
+"end": 339.924
+},
+{
+"word": "roughly",
+"start": 339.958,
+"end": 340.391
+},
+{
+"word": "triple",
+"start": 340.429,
+"end": 340.815
+},
+{
+"word": "in",
+"start": 340.848,
+"end": 341.041
+},
+{
+"word": "forty",
+"start": 341.058,
+"end": 341.395
+},
+{
+"word": "years.",
+"start": 341.424,
+"end": 341.81
+},
+{
+"word": "So",
+"start": 342.163,
+"end": 342.332
+},
+{
+"word": "your",
+"start": 342.346,
+"end": 342.598
+},
+{
+"word": "one",
+"start": 342.62,
+"end": 342.83
+},
+{
+"word": "hundred",
+"start": 342.849,
+"end": 343.227
+},
+{
+"word": "sixty",
+"start": 343.26,
+"end": 343.554
+},
+{
+"word": "thousand?",
+"start": 343.579,
+"end": 344.042
+},
+{
+"word": "In",
+"start": 344.532,
+"end": 344.713
+},
+{
+"word": "today's",
+"start": 344.728,
+"end": 345.135
+},
+{
+"word": "money...",
+"start": 345.171,
+"end": 345.623
+},
+{
+"word": "it",
+"start": 346.212,
+"end": 346.393
+},
+{
+"word": "buys",
+"start": 346.409,
+"end": 346.681
+},
+{
+"word": "closer",
+"start": 346.705,
+"end": 347.068
+},
+{
+"word": "to",
+"start": 347.099,
+"end": 347.281
+},
+{
+"word": "fifty",
+"start": 347.296,
+"end": 347.614
+},
+{
+"word": "thousand.",
+"start": 347.641,
+"end": 348.14
+},
+{
+"word": "Still",
+"start": 348.504,
+"end": 348.913
+},
+{
+"word": "big.",
+"start": 348.949,
+"end": 349.3
+},
+{
+"word": "Just...",
+"start": 349.65,
+"end": 350.253
+},
+{
+"word": "smaller",
+"start": 350.856,
+"end": 351.229
+},
+{
+"word": "than",
+"start": 351.262,
+"end": 351.511
+},
+{
+"word": "it",
+"start": 351.532,
+"end": 351.698
+},
+{
+"word": "looks.",
+"start": 351.713,
+"end": 352.045
+},
+{
+"word": "Through",
+"start": 352.394,
+"end": 352.734
+},
+{
+"word": "all",
+"start": 352.763,
+"end": 352.952
+},
+{
+"word": "of",
+"start": 352.969,
+"end": 353.12
+},
+{
+"word": "it...",
+"start": 353.133,
+"end": 353.398
+},
+{
+"word": "there's",
+"start": 353.971,
+"end": 354.375
+},
+{
+"word": "your",
+"start": 354.41,
+"end": 354.679
+},
+{
+"word": "mom.",
+"start": 354.703,
+"end": 354.972
+},
+{
+"word": "Every",
+"start": 355.315,
+"end": 355.618
+},
+{
+"word": "Sunday,",
+"start": 355.645,
+"end": 356.034
+},
+{
+"word": "you",
+"start": 356.068,
+"end": 356.285
+},
+{
+"word": "visit.",
+"start": 356.303,
+"end": 356.65
+},
+{
+"word": "Every",
+"start": 357.0,
+"end": 357.328
+},
+{
+"word": "Sunday,",
+"start": 357.356,
+"end": 357.777
+},
+{
+"word": "she",
+"start": 357.814,
+"end": 358.048
+},
+{
+"word": "asks",
+"start": 358.068,
+"end": 358.349
+},
+{
+"word": "the",
+"start": 358.374,
+"end": 358.608
+},
+{
+"word": "same",
+"start": 358.628,
+"end": 358.909
+},
+{
+"word": "question.",
+"start": 358.934,
+"end": 359.449
+},
+{
+"word": "Still",
+"start": 359.813,
+"end": 360.131
+},
+{
+"word": "feeding",
+"start": 360.159,
+"end": 360.568
+},
+{
+"word": "the",
+"start": 360.603,
+"end": 360.831
+},
+{
+"word": "jar?",
+"start": 360.85,
+"end": 361.123
+},
+{
+"word": "Still",
+"start": 361.597,
+"end": 361.922
+},
+{
+"word": "feeding",
+"start": 361.95,
+"end": 362.368
+},
+{
+"word": "the",
+"start": 362.404,
+"end": 362.636
+},
+{
+"word": "jar.",
+"start": 362.656,
+"end": 362.935
+},
+{
+"word": "The",
+"start": 363.279,
+"end": 363.501
+},
+{
+"word": "old",
+"start": 363.52,
+"end": 363.742
+},
+{
+"word": "glass",
+"start": 363.761,
+"end": 364.071
+},
+{
+"word": "jar",
+"start": 364.098,
+"end": 364.32
+},
+{
+"word": "sits",
+"start": 364.339,
+"end": 364.605
+},
+{
+"word": "on",
+"start": 364.628,
+"end": 364.805
+},
+{
+"word": "your",
+"start": 364.821,
+"end": 365.086
+},
+{
+"word": "shelf",
+"start": 365.11,
+"end": 365.42
+},
+{
+"word": "now.",
+"start": 365.447,
+"end": 365.713
+},
+{
+"word": "Taped",
+"start": 366.056,
+"end": 366.321
+},
+{
+"word": "to",
+"start": 366.344,
+"end": 366.496
+},
+{
+"word": "it",
+"start": 366.509,
+"end": 366.661
+},
+{
+"word": "is",
+"start": 366.674,
+"end": 366.825
+},
+{
+"word": "her",
+"start": 366.839,
+"end": 367.028
+},
+{
+"word": "note.",
+"start": 367.045,
+"end": 367.31
+},
+{
+"word": "'One",
+"start": 367.653,
+"end": 367.94
+},
+{
+"word": "a",
+"start": 367.964,
+"end": 368.108
+},
+{
+"word": "day.",
+"start": 368.12,
+"end": 368.407
+},
+{
+"word": "Don't",
+"start": 368.752,
+"end": 369.028
+},
+{
+"word": "touch.'",
+"start": 369.052,
+"end": 369.407
+},
+{
+"word": "There's",
+"start": 369.438,
+"end": 369.793
+},
+{
+"word": "writing",
+"start": 369.824,
+"end": 370.179
+},
+{
+"word": "on",
+"start": 370.21,
+"end": 370.368
+},
+{
+"word": "the",
+"start": 370.382,
+"end": 370.579
+},
+{
+"word": "back",
+"start": 370.596,
+"end": 370.833
+},
+{
+"word": "too.",
+"start": 370.853,
+"end": 371.09
+},
+{
+"word": "You've",
+"start": 371.431,
+"end": 371.772
+},
+{
+"word": "never",
+"start": 371.801,
+"end": 372.1
+},
+{
+"word": "read",
+"start": 372.126,
+"end": 372.381
+},
+{
+"word": "it.",
+"start": 372.404,
+"end": 372.617
+},
+{
+"word": "Her",
+"start": 372.955,
+"end": 373.18
+},
+{
+"word": "handwriting",
+"start": 373.2,
+"end": 373.785
+},
+{
+"word": "is",
+"start": 373.836,
+"end": 374.016
+},
+{
+"word": "terrible.",
+"start": 374.031,
+"end": 374.526
+},
+{
+"word": "And",
+"start": 374.889,
+"end": 375.152
+},
+{
+"word": "honestly...",
+"start": 375.175,
+"end": 375.859
+},
+{
+"word": "you're",
+"start": 376.468,
+"end": 376.765
+},
+{
+"word": "scared",
+"start": 376.791,
+"end": 377.088
+},
+{
+"word": "it",
+"start": 377.114,
+"end": 377.263
+},
+{
+"word": "says",
+"start": 377.276,
+"end": 377.499
+},
+{
+"word": "something",
+"start": 377.518,
+"end": 377.927
+},
+{
+"word": "sad.",
+"start": 377.962,
+"end": 378.185
+},
+{
+"word": "Your",
+"start": 378.524,
+"end": 378.773
+},
+{
+"word": "mom",
+"start": 378.794,
+"end": 379.001
+},
+{
+"word": "worked",
+"start": 379.019,
+"end": 379.35
+},
+{
+"word": "thirty",
+"start": 379.379,
+"end": 379.71
+},
+{
+"word": "years",
+"start": 379.739,
+"end": 380.029
+},
+{
+"word": "in",
+"start": 380.054,
+"end": 380.22
+},
+{
+"word": "a",
+"start": 380.234,
+"end": 380.358
+},
+{
+"word": "factory.",
+"start": 380.369,
+"end": 380.783
+},
+{
+"word": "She",
+"start": 381.139,
+"end": 381.38
+},
+{
+"word": "never",
+"start": 381.401,
+"end": 381.738
+},
+{
+"word": "invested",
+"start": 381.768,
+"end": 382.25
+},
+{
+"word": "a",
+"start": 382.292,
+"end": 382.436
+},
+{
+"word": "single",
+"start": 382.449,
+"end": 382.835
+},
+{
+"word": "dollar.",
+"start": 382.868,
+"end": 383.302
+},
+{
+"word": "That's",
+"start": 383.66,
+"end": 383.962
+},
+{
+"word": "why",
+"start": 383.989,
+"end": 384.178
+},
+{
+"word": "I'm",
+"start": 384.194,
+"end": 384.384
+},
+{
+"word": "telling",
+"start": 384.4,
+"end": 384.741
+},
+{
+"word": "you,",
+"start": 384.77,
+"end": 384.997
+},
+{
+"word": "she",
+"start": 385.017,
+"end": 385.206
+},
+{
+"word": "says.",
+"start": 385.223,
+"end": 385.488
+},
+{
+"word": "So",
+"start": 385.831,
+"end": 385.977
+},
+{
+"word": "you",
+"start": 385.99,
+"end": 386.172
+},
+{
+"word": "don't",
+"start": 386.188,
+"end": 386.444
+},
+{
+"word": "end",
+"start": 386.466,
+"end": 386.649
+},
+{
+"word": "up",
+"start": 386.665,
+"end": 386.811
+},
+{
+"word": "like",
+"start": 386.824,
+"end": 387.043
+},
+{
+"word": "me.",
+"start": 387.062,
+"end": 387.245
+},
+{
+"word": "Max",
+"start": 387.581,
+"end": 387.807
+},
+{
+"word": "still",
+"start": 387.826,
+"end": 388.143
+},
+{
+"word": "teases",
+"start": 388.171,
+"end": 388.532
+},
+{
+"word": "you.",
+"start": 388.564,
+"end": 388.835
+},
+{
+"word": "Dude.",
+"start": 389.179,
+"end": 389.761
+},
+{
+"word": "You're",
+"start": 390.132,
+"end": 390.447
+},
+{
+"word": "the",
+"start": 390.474,
+"end": 390.671
+},
+{
+"word": "richest",
+"start": 390.688,
+"end": 391.042
+},
+{
+"word": "broke",
+"start": 391.073,
+"end": 391.348
+},
+{
+"word": "guy",
+"start": 391.372,
+"end": 391.569
+},
+{
+"word": "I",
+"start": 391.586,
+"end": 391.704
+},
+{
+"word": "know.",
+"start": 391.714,
+"end": 391.989
+},
+{
+"word": "Year",
+"start": 392.333,
+"end": 392.62
+},
+{
+"word": "thirty-three.",
+"start": 392.645,
+"end": 393.363
+},
+{
+"word": "Three",
+"start": 393.746,
+"end": 394.003
+},
+{
+"word": "in",
+"start": 394.025,
+"end": 394.172
+},
+{
+"word": "the",
+"start": 394.184,
+"end": 394.368
+},
+{
+"word": "morning.",
+"start": 394.384,
+"end": 394.751
+},
+{
+"word": "Your",
+"start": 395.103,
+"end": 395.406
+},
+{
+"word": "phone",
+"start": 395.433,
+"end": 395.787
+},
+{
+"word": "buzzes.",
+"start": 395.817,
+"end": 396.273
+},
+{
+"word": "Sam...",
+"start": 396.632,
+"end": 397.219
+},
+{
+"word": "they",
+"start": 397.82,
+"end": 398.074
+},
+{
+"word": "took",
+"start": 398.096,
+"end": 398.35
+},
+{
+"word": "it.",
+"start": 398.372,
+"end": 398.583
+},
+{
+"word": "A",
+"start": 398.922,
+"end": 399.045
+},
+{
+"word": "man",
+"start": 399.056,
+"end": 399.262
+},
+{
+"word": "called",
+"start": 399.28,
+"end": 399.61
+},
+{
+"word": "your",
+"start": 399.639,
+"end": 399.886
+},
+{
+"word": "mom.",
+"start": 399.907,
+"end": 400.155
+},
+{
+"word": "He",
+"start": 400.496,
+"end": 400.663
+},
+{
+"word": "said",
+"start": 400.678,
+"end": 400.929
+},
+{
+"word": "he",
+"start": 400.951,
+"end": 401.118
+},
+{
+"word": "was",
+"start": 401.133,
+"end": 401.342
+},
+{
+"word": "from",
+"start": 401.36,
+"end": 401.611
+},
+{
+"word": "her",
+"start": 401.633,
+"end": 401.842
+},
+{
+"word": "bank.",
+"start": 401.86,
+"end": 402.153
+},
+{
+"word": "He",
+"start": 402.499,
+"end": 402.65
+},
+{
+"word": "said",
+"start": 402.663,
+"end": 402.889
+},
+{
+"word": "her",
+"start": 402.909,
+"end": 403.098
+},
+{
+"word": "account",
+"start": 403.114,
+"end": 403.454
+},
+{
+"word": "was",
+"start": 403.483,
+"end": 403.672
+},
+{
+"word": "hacked.",
+"start": 403.688,
+"end": 404.028
+},
+{
+"word": "He",
+"start": 404.378,
+"end": 404.532
+},
+{
+"word": "said",
+"start": 404.546,
+"end": 404.777
+},
+{
+"word": "to",
+"start": 404.797,
+"end": 404.952
+},
+{
+"word": "move",
+"start": 404.965,
+"end": 405.197
+},
+{
+"word": "everything",
+"start": 405.217,
+"end": 405.68
+},
+{
+"word": "into",
+"start": 405.72,
+"end": 405.952
+},
+{
+"word": "a",
+"start": 405.972,
+"end": 406.088
+},
+{
+"word": "'safe",
+"start": 406.098,
+"end": 406.368
+},
+{
+"word": "account'.",
+"start": 406.392,
+"end": 406.816
+},
+{
+"word": "Right",
+"start": 407.173,
+"end": 407.56
+},
+{
+"word": "now.",
+"start": 407.594,
+"end": 407.926
+},
+{
+"word": "Before",
+"start": 408.275,
+"end": 408.618
+},
+{
+"word": "the",
+"start": 408.647,
+"end": 408.862
+},
+{
+"word": "hackers",
+"start": 408.88,
+"end": 409.266
+},
+{
+"word": "did.",
+"start": 409.299,
+"end": 409.556
+},
+{
+"word": "So",
+"start": 409.899,
+"end": 410.125
+},
+{
+"word": "she",
+"start": 410.145,
+"end": 410.429
+},
+{
+"word": "did.",
+"start": 410.454,
+"end": 410.794
+},
+{
+"word": "Fifteen",
+"start": 411.144,
+"end": 411.592
+},
+{
+"word": "thousand",
+"start": 411.63,
+"end": 412.128
+},
+{
+"word": "dollars.",
+"start": 412.171,
+"end": 412.669
+},
+{
+"word": "Her",
+"start": 413.032,
+"end": 413.259
+},
+{
+"word": "whole",
+"start": 413.279,
+"end": 413.597
+},
+{
+"word": "life",
+"start": 413.625,
+"end": 413.898
+},
+{
+"word": "savings.",
+"start": 413.922,
+"end": 414.376
+},
+{
+"word": "Gone",
+"start": 414.736,
+"end": 414.984
+},
+{
+"word": "in",
+"start": 415.005,
+"end": 415.17
+},
+{
+"word": "one",
+"start": 415.185,
+"end": 415.391
+},
+{
+"word": "phone",
+"start": 415.409,
+"end": 415.698
+},
+{
+"word": "call.",
+"start": 415.724,
+"end": 416.013
+},
+{
+"word": "I'm",
+"start": 416.358,
+"end": 416.624
+},
+{
+"word": "so",
+"start": 416.647,
+"end": 416.86
+},
+{
+"word": "stupid,",
+"start": 416.878,
+"end": 417.357
+},
+{
+"word": "Sam.",
+"start": 417.399,
+"end": 417.718
+},
+{
+"word": "You're",
+"start": 418.066,
+"end": 418.418
+},
+{
+"word": "not",
+"start": 418.449,
+"end": 418.669
+},
+{
+"word": "stupid,",
+"start": 418.688,
+"end": 419.085
+},
+{
+"word": "Mom.",
+"start": 419.119,
+"end": 419.383
+},
+{
+"word": "They",
+"start": 419.726,
+"end": 419.944
+},
+{
+"word": "do",
+"start": 419.962,
+"end": 420.107
+},
+{
+"word": "this",
+"start": 420.12,
+"end": 420.337
+},
+{
+"word": "for",
+"start": 420.356,
+"end": 420.537
+},
+{
+"word": "a",
+"start": 420.553,
+"end": 420.662
+},
+{
+"word": "living.",
+"start": 420.671,
+"end": 420.997
+},
+{
+"word": "Scammers",
+"start": 421.345,
+"end": 421.816
+},
+{
+"word": "make",
+"start": 421.857,
+"end": 422.14
+},
+{
+"word": "everything",
+"start": 422.165,
+"end": 422.73
+},
+{
+"word": "urgent",
+"start": 422.779,
+"end": 423.156
+},
+{
+"word": "on",
+"start": 423.189,
+"end": 423.377
+},
+{
+"word": "purpose...",
+"start": 423.394,
+"end": 423.959
+},
+{
+"word": "so",
+"start": 424.558,
+"end": 424.709
+},
+{
+"word": "you",
+"start": 424.723,
+"end": 424.912
+},
+{
+"word": "don't",
+"start": 424.928,
+"end": 425.193
+},
+{
+"word": "stop",
+"start": 425.216,
+"end": 425.443
+},
+{
+"word": "to",
+"start": 425.462,
+"end": 425.614
+},
+{
+"word": "think.",
+"start": 425.627,
+"end": 425.929
+},
+{
+"word": "And",
+"start": 426.276,
+"end": 426.499
+},
+{
+"word": "the",
+"start": 426.518,
+"end": 426.741
+},
+{
+"word": "payment",
+"start": 426.76,
+"end": 427.162
+},
+{
+"word": "on",
+"start": 427.197,
+"end": 427.375
+},
+{
+"word": "her",
+"start": 427.391,
+"end": 427.613
+},
+{
+"word": "little",
+"start": 427.633,
+"end": 427.99
+},
+{
+"word": "house",
+"start": 428.021,
+"end": 428.333
+},
+{
+"word": "is",
+"start": 428.36,
+"end": 428.538
+},
+{
+"word": "due",
+"start": 428.554,
+"end": 428.777
+},
+{
+"word": "in",
+"start": 428.796,
+"end": 428.975
+},
+{
+"word": "nine",
+"start": 428.99,
+"end": 429.258
+},
+{
+"word": "days.",
+"start": 429.281,
+"end": 429.593
+},
+{
+"word": "Miss",
+"start": 429.94,
+"end": 430.257
+},
+{
+"word": "it...",
+"start": 430.285,
+"end": 430.655
+},
+{
+"word": "and",
+"start": 431.237,
+"end": 431.435
+},
+{
+"word": "she",
+"start": 431.452,
+"end": 431.649
+},
+{
+"word": "could",
+"start": 431.667,
+"end": 431.943
+},
+{
+"word": "lose",
+"start": 431.967,
+"end": 432.204
+},
+{
+"word": "the",
+"start": 432.224,
+"end": 432.422
+},
+{
+"word": "place",
+"start": 432.439,
+"end": 432.715
+},
+{
+"word": "she's",
+"start": 432.739,
+"end": 433.016
+},
+{
+"word": "lived",
+"start": 433.04,
+"end": 433.316
+},
+{
+"word": "in",
+"start": 433.34,
+"end": 433.498
+},
+{
+"word": "for",
+"start": 433.512,
+"end": 433.709
+},
+{
+"word": "forty",
+"start": 433.726,
+"end": 434.003
+},
+{
+"word": "years.",
+"start": 434.027,
+"end": 434.342
+},
+{
+"word": "You",
+"start": 434.69,
+"end": 434.919
+},
+{
+"word": "open",
+"start": 434.939,
+"end": 435.213
+},
+{
+"word": "the",
+"start": 435.237,
+"end": 435.466
+},
+{
+"word": "app.",
+"start": 435.486,
+"end": 435.76
+},
+{
+"word": "Eighty-one",
+"start": 436.104,
+"end": 436.661
+},
+{
+"word": "thousand",
+"start": 436.709,
+"end": 437.174
+},
+{
+"word": "dollars.",
+"start": 437.214,
+"end": 437.678
+},
+{
+"word": "The",
+"start": 438.039,
+"end": 438.255
+},
+{
+"word": "rule",
+"start": 438.273,
+"end": 438.532
+},
+{
+"word": "echoes",
+"start": 438.555,
+"end": 438.9
+},
+{
+"word": "in",
+"start": 438.93,
+"end": 439.103
+},
+{
+"word": "your",
+"start": 439.118,
+"end": 439.377
+},
+{
+"word": "head.",
+"start": 439.399,
+"end": 439.701
+},
+{
+"word": "Every",
+"start": 440.048,
+"end": 440.331
+},
+{
+"word": "dollar",
+"start": 440.355,
+"end": 440.679
+},
+{
+"word": "you",
+"start": 440.707,
+"end": 440.909
+},
+{
+"word": "pull",
+"start": 440.927,
+"end": 441.17
+},
+{
+"word": "out...",
+"start": 441.191,
+"end": 441.514
+},
+{
+"word": "stops",
+"start": 442.093,
+"end": 442.481
+},
+{
+"word": "growing.",
+"start": 442.514,
+"end": 443.069
+},
+{
+"word": "Forever.",
+"start": 443.437,
+"end": 444.05
+},
+{
+"word": "You",
+"start": 444.423,
+"end": 444.63
+},
+{
+"word": "do",
+"start": 444.648,
+"end": 444.813
+},
+{
+"word": "the",
+"start": 444.828,
+"end": 445.034
+},
+{
+"word": "math.",
+"start": 445.052,
+"end": 445.342
+},
+{
+"word": "Pull",
+"start": 445.687,
+"end": 445.959
+},
+{
+"word": "fifteen",
+"start": 445.983,
+"end": 446.391
+},
+{
+"word": "thousand",
+"start": 446.426,
+"end": 446.88
+},
+{
+"word": "now...",
+"start": 446.919,
+"end": 447.282
+},
+{
+"word": "and",
+"start": 447.864,
+"end": 448.076
+},
+{
+"word": "in",
+"start": 448.095,
+"end": 448.265
+},
+{
+"word": "seven",
+"start": 448.279,
+"end": 448.577
+},
+{
+"word": "years,",
+"start": 448.603,
+"end": 448.943
+},
+{
+"word": "that",
+"start": 448.972,
+"end": 449.227
+},
+{
+"word": "money",
+"start": 449.249,
+"end": 449.547
+},
+{
+"word": "would",
+"start": 449.572,
+"end": 449.87
+},
+{
+"word": "have",
+"start": 449.896,
+"end": 450.151
+},
+{
+"word": "nearly",
+"start": 450.173,
+"end": 450.513
+},
+{
+"word": "doubled.",
+"start": 450.542,
+"end": 450.967
+},
+{
+"word": "Almost",
+"start": 451.324,
+"end": 451.694
+},
+{
+"word": "thirty",
+"start": 451.726,
+"end": 452.095
+},
+{
+"word": "thousand",
+"start": 452.128,
+"end": 452.59
+},
+{
+"word": "dollars.",
+"start": 452.63,
+"end": 453.092
+},
+{
+"word": "Gone",
+"start": 453.452,
+"end": 453.726
+},
+{
+"word": "for",
+"start": 453.75,
+"end": 453.979
+},
+{
+"word": "good.",
+"start": 453.999,
+"end": 454.319
+},
+{
+"word": "Max",
+"start": 454.667,
+"end": 454.879
+},
+{
+"word": "stares",
+"start": 454.897,
+"end": 455.237
+},
+{
+"word": "at",
+"start": 455.266,
+"end": 455.436
+},
+{
+"word": "the",
+"start": 455.451,
+"end": 455.663
+},
+{
+"word": "screen.",
+"start": 455.681,
+"end": 456.063
+},
+{
+"word": "Dude.",
+"start": 456.416,
+"end": 456.999
+},
+{
+"word": "That's",
+"start": 457.369,
+"end": 457.722
+},
+{
+"word": "your",
+"start": 457.753,
+"end": 458.018
+},
+{
+"word": "retirement.",
+"start": 458.041,
+"end": 458.615
+},
+{
+"word": "You",
+"start": 458.985,
+"end": 459.189
+},
+{
+"word": "look",
+"start": 459.207,
+"end": 459.451
+},
+{
+"word": "at",
+"start": 459.472,
+"end": 459.635
+},
+{
+"word": "the",
+"start": 459.649,
+"end": 459.853
+},
+{
+"word": "jar.",
+"start": 459.87,
+"end": 460.115
+},
+{
+"word": "Thirty-three",
+"start": 460.456,
+"end": 461.126
+},
+{
+"word": "years.",
+"start": 461.184,
+"end": 461.567
+},
+{
+"word": "Never",
+"start": 461.921,
+"end": 462.277
+},
+{
+"word": "touched.",
+"start": 462.308,
+"end": 462.818
+},
+{
+"word": "Not",
+"start": 463.183,
+"end": 463.413
+},
+{
+"word": "in",
+"start": 463.433,
+"end": 463.617
+},
+{
+"word": "the",
+"start": 463.633,
+"end": 463.864
+},
+{
+"word": "crash.",
+"start": 463.884,
+"end": 464.253
+},
+{
+"word": "Not",
+"start": 464.605,
+"end": 464.824
+},
+{
+"word": "for",
+"start": 464.843,
+"end": 465.063
+},
+{
+"word": "the",
+"start": 465.082,
+"end": 465.301
+},
+{
+"word": "phone.",
+"start": 465.321,
+"end": 465.672
+},
+{
+"word": "Not",
+"start": 466.022,
+"end": 466.268
+},
+{
+"word": "for",
+"start": 466.289,
+"end": 466.534
+},
+{
+"word": "the",
+"start": 466.556,
+"end": 466.801
+},
+{
+"word": "car.",
+"start": 466.823,
+"end": 467.117
+},
+{
+"word": "Not",
+"start": 467.463,
+"end": 467.78
+},
+{
+"word": "once.",
+"start": 467.807,
+"end": 468.251
+},
+{
+"word": "Your",
+"start": 468.61,
+"end": 468.864
+},
+{
+"word": "number...",
+"start": 468.886,
+"end": 469.351
+},
+{
+"word": "or",
+"start": 469.942,
+"end": 470.147
+},
+{
+"word": "your",
+"start": 470.164,
+"end": 470.472
+},
+{
+"word": "mom.",
+"start": 470.498,
+"end": 470.806
+},
+{
+"word": "You",
+"start": 471.152,
+"end": 471.363
+},
+{
+"word": "reach",
+"start": 471.381,
+"end": 471.675
+},
+{
+"word": "for",
+"start": 471.701,
+"end": 471.911
+},
+{
+"word": "the",
+"start": 471.929,
+"end": 472.139
+},
+{
+"word": "jar.",
+"start": 472.158,
+"end": 472.41
+},
+{
+"word": "Your",
+"start": 472.752,
+"end": 473.01
+},
+{
+"word": "hand",
+"start": 473.032,
+"end": 473.29
+},
+{
+"word": "knocks",
+"start": 473.313,
+"end": 473.656
+},
+{
+"word": "the",
+"start": 473.686,
+"end": 473.901
+},
+{
+"word": "note",
+"start": 473.92,
+"end": 474.178
+},
+{
+"word": "loose.",
+"start": 474.2,
+"end": 474.544
+},
+{
+"word": "It",
+"start": 474.894,
+"end": 475.1
+},
+{
+"word": "flips",
+"start": 475.118,
+"end": 475.479
+},
+{
+"word": "over.",
+"start": 475.51,
+"end": 475.871
+},
+{
+"word": "And",
+"start": 476.223,
+"end": 476.41
+},
+{
+"word": "for",
+"start": 476.426,
+"end": 476.613
+},
+{
+"word": "the",
+"start": 476.629,
+"end": 476.816
+},
+{
+"word": "first",
+"start": 476.833,
+"end": 477.094
+},
+{
+"word": "time...",
+"start": 477.117,
+"end": 477.454
+},
+{
+"word": "you",
+"start": 478.033,
+"end": 478.245
+},
+{
+"word": "read",
+"start": 478.264,
+"end": 478.518
+},
+{
+"word": "the",
+"start": 478.54,
+"end": 478.752
+},
+{
+"word": "back.",
+"start": 478.771,
+"end": 479.068
+},
+{
+"word": "'Unless",
+"start": 479.413,
+"end": 479.793
+},
+{
+"word": "it's",
+"start": 479.827,
+"end": 480.08
+},
+{
+"word": "for",
+"start": 480.102,
+"end": 480.313
+},
+{
+"word": "someone",
+"start": 480.332,
+"end": 480.712
+},
+{
+"word": "you",
+"start": 480.745,
+"end": 480.956
+},
+{
+"word": "love.'",
+"start": 480.974,
+"end": 481.312
+},
+{
+"word": "You",
+"start": 481.342,
+"end": 481.553
+},
+{
+"word": "laugh.",
+"start": 481.571,
+"end": 481.909
+},
+{
+"word": "Then",
+"start": 482.259,
+"end": 482.503
+},
+{
+"word": "you",
+"start": 482.525,
+"end": 482.729
+},
+{
+"word": "cry",
+"start": 482.746,
+"end": 482.95
+},
+{
+"word": "a",
+"start": 482.968,
+"end": 483.09
+},
+{
+"word": "little.",
+"start": 483.101,
+"end": 483.468
+},
+{
+"word": "Then",
+"start": 483.82,
+"end": 484.075
+},
+{
+"word": "you",
+"start": 484.098,
+"end": 484.31
+},
+{
+"word": "press",
+"start": 484.329,
+"end": 484.627
+},
+{
+"word": "withdraw.",
+"start": 484.653,
+"end": 485.121
+},
+{
+"word": "Fifteen",
+"start": 485.481,
+"end": 485.929
+},
+{
+"word": "thousand",
+"start": 485.968,
+"end": 486.466
+},
+{
+"word": "dollars.",
+"start": 486.509,
+"end": 487.007
+},
+{
+"word": "Out",
+"start": 487.37,
+"end": 487.574
+},
+{
+"word": "of",
+"start": 487.592,
+"end": 487.756
+},
+{
+"word": "your",
+"start": 487.77,
+"end": 488.015
+},
+{
+"word": "account.",
+"start": 488.036,
+"end": 488.445
+},
+{
+"word": "Into",
+"start": 488.801,
+"end": 489.18
+},
+{
+"word": "hers.",
+"start": 489.213,
+"end": 489.656
+},
+{
+"word": "Your",
+"start": 490.014,
+"end": 490.307
+},
+{
+"word": "mom",
+"start": 490.332,
+"end": 490.576
+},
+{
+"word": "calls",
+"start": 490.597,
+"end": 490.938
+},
+{
+"word": "back.",
+"start": 490.968,
+"end": 491.309
+},
+{
+"word": "Her",
+"start": 491.659,
+"end": 491.882
+},
+{
+"word": "voice",
+"start": 491.901,
+"end": 492.213
+},
+{
+"word": "isn't",
+"start": 492.24,
+"end": 492.551
+},
+{
+"word": "shaking",
+"start": 492.579,
+"end": 492.979
+},
+{
+"word": "anymore.",
+"start": 493.014,
+"end": 493.46
+},
+{
+"word": "Then",
+"start": 493.818,
+"end": 494.04
+},
+{
+"word": "you",
+"start": 494.059,
+"end": 494.244
+},
+{
+"word": "do",
+"start": 494.26,
+"end": 494.408
+},
+{
+"word": "the",
+"start": 494.421,
+"end": 494.606
+},
+{
+"word": "second",
+"start": 494.622,
+"end": 494.917
+},
+{
+"word": "thing.",
+"start": 494.943,
+"end": 495.239
+},
+{
+"word": "You",
+"start": 495.584,
+"end": 495.765
+},
+{
+"word": "still",
+"start": 495.781,
+"end": 496.035
+},
+{
+"word": "have",
+"start": 496.057,
+"end": 496.274
+},
+{
+"word": "the",
+"start": 496.293,
+"end": 496.474
+},
+{
+"word": "scammer's",
+"start": 496.489,
+"end": 496.888
+},
+{
+"word": "number.",
+"start": 496.922,
+"end": 497.248
+},
+{
+"word": "You",
+"start": 497.596,
+"end": 497.831
+},
+{
+"word": "call",
+"start": 497.851,
+"end": 498.133
+},
+{
+"word": "her",
+"start": 498.158,
+"end": 498.392
+},
+{
+"word": "real",
+"start": 498.413,
+"end": 498.695
+},
+{
+"word": "bank.",
+"start": 498.719,
+"end": 499.048
+},
+{
+"word": "You",
+"start": 499.396,
+"end": 499.623
+},
+{
+"word": "file",
+"start": 499.642,
+"end": 499.914
+},
+{
+"word": "a",
+"start": 499.937,
+"end": 500.073
+},
+{
+"word": "police",
+"start": 500.085,
+"end": 500.447
+},
+{
+"word": "report.",
+"start": 500.478,
+"end": 500.885
+},
+{
+"word": "You",
+"start": 501.241,
+"end": 501.457
+},
+{
+"word": "warn",
+"start": 501.476,
+"end": 501.735
+},
+{
+"word": "every",
+"start": 501.757,
+"end": 502.06
+},
+{
+"word": "neighbor",
+"start": 502.086,
+"end": 502.518
+},
+{
+"word": "on",
+"start": 502.555,
+"end": 502.728
+},
+{
+"word": "her",
+"start": 502.743,
+"end": 502.959
+},
+{
+"word": "street.",
+"start": 502.978,
+"end": 503.367
+},
+{
+"word": "Because",
+"start": 503.72,
+"end": 504.099
+},
+{
+"word": "real",
+"start": 504.132,
+"end": 504.384
+},
+{
+"word": "banks",
+"start": 504.406,
+"end": 504.701
+},
+{
+"word": "never",
+"start": 504.726,
+"end": 505.021
+},
+{
+"word": "ask",
+"start": 505.047,
+"end": 505.257
+},
+{
+"word": "you",
+"start": 505.275,
+"end": 505.486
+},
+{
+"word": "to",
+"start": 505.504,
+"end": 505.672
+},
+{
+"word": "move",
+"start": 505.687,
+"end": 505.939
+},
+{
+"word": "money",
+"start": 505.961,
+"end": 506.256
+},
+{
+"word": "to",
+"start": 506.281,
+"end": 506.45
+},
+{
+"word": "a",
+"start": 506.464,
+"end": 506.59
+},
+{
+"word": "'safe",
+"start": 506.601,
+"end": 506.896
+},
+{
+"word": "account'.",
+"start": 506.921,
+"end": 507.384
+},
+{
+"word": "Ever.",
+"start": 507.745,
+"end": 508.215
+},
+{
+"word": "Two",
+"start": 508.576,
+"end": 508.771
+},
+{
+"word": "weeks",
+"start": 508.788,
+"end": 509.061
+},
+{
+"word": "later,",
+"start": 509.085,
+"end": 509.396
+},
+{
+"word": "the",
+"start": 509.424,
+"end": 509.619
+},
+{
+"word": "same",
+"start": 509.636,
+"end": 509.87
+},
+{
+"word": "crew",
+"start": 509.89,
+"end": 510.124
+},
+{
+"word": "calls",
+"start": 510.144,
+"end": 510.417
+},
+{
+"word": "her",
+"start": 510.441,
+"end": 510.636
+},
+{
+"word": "neighbor.",
+"start": 510.653,
+"end": 511.082
+},
+{
+"word": "She",
+"start": 511.439,
+"end": 511.683
+},
+{
+"word": "hangs",
+"start": 511.704,
+"end": 512.045
+},
+{
+"word": "up.",
+"start": 512.075,
+"end": 512.319
+},
+{
+"word": "Then",
+"start": 512.66,
+"end": 512.903
+},
+{
+"word": "she",
+"start": 512.925,
+"end": 513.128
+},
+{
+"word": "calls",
+"start": 513.145,
+"end": 513.429
+},
+{
+"word": "the",
+"start": 513.454,
+"end": 513.657
+},
+{
+"word": "police.",
+"start": 513.675,
+"end": 514.04
+},
+{
+"word": "Years",
+"start": 514.392,
+"end": 514.814
+},
+{
+"word": "pass.",
+"start": 514.851,
+"end": 515.274
+},
+{
+"word": "At",
+"start": 515.631,
+"end": 515.814
+},
+{
+"word": "sixty-five,",
+"start": 515.83,
+"end": 516.426
+},
+{
+"word": "you",
+"start": 516.478,
+"end": 516.707
+},
+{
+"word": "check",
+"start": 516.727,
+"end": 517.048
+},
+{
+"word": "the",
+"start": 517.076,
+"end": 517.305
+},
+{
+"word": "app",
+"start": 517.325,
+"end": 517.554
+},
+{
+"word": "one",
+"start": 517.574,
+"end": 517.803
+},
+{
+"word": "last",
+"start": 517.823,
+"end": 518.098
+},
+{
+"word": "time.",
+"start": 518.122,
+"end": 518.443
+},
+{
+"word": "Not",
+"start": 518.791,
+"end": 519.016
+},
+{
+"word": "one",
+"start": 519.036,
+"end": 519.262
+},
+{
+"word": "hundred",
+"start": 519.281,
+"end": 519.688
+},
+{
+"word": "sixty",
+"start": 519.723,
+"end": 520.039
+},
+{
+"word": "thousand.",
+"start": 520.067,
+"end": 520.563
+},
+{
+"word": "About",
+"start": 520.927,
+"end": 521.25
+},
+{
+"word": "one",
+"start": 521.278,
+"end": 521.509
+},
+{
+"word": "hundred",
+"start": 521.529,
+"end": 521.945
+},
+{
+"word": "thirty.",
+"start": 521.981,
+"end": 522.396
+},
+{
+"word": "Less",
+"start": 522.753,
+"end": 523.003
+},
+{
+"word": "than",
+"start": 523.025,
+"end": 523.275
+},
+{
+"word": "the",
+"start": 523.297,
+"end": 523.506
+},
+{
+"word": "plan.",
+"start": 523.524,
+"end": 523.816
+},
+{
+"word": "More",
+"start": 524.161,
+"end": 524.418
+},
+{
+"word": "than",
+"start": 524.44,
+"end": 524.696
+},
+{
+"word": "enough.",
+"start": 524.719,
+"end": 525.103
+},
+{
+"word": "Your",
+"start": 525.457,
+"end": 525.764
+},
+{
+"word": "mom",
+"start": 525.791,
+"end": 526.047
+},
+{
+"word": "is",
+"start": 526.069,
+"end": 526.274
+},
+{
+"word": "ninety",
+"start": 526.291,
+"end": 526.701
+},
+{
+"word": "now.",
+"start": 526.737,
+"end": 527.044
+},
+{
+"word": "She",
+"start": 527.391,
+"end": 527.615
+},
+{
+"word": "raises",
+"start": 527.635,
+"end": 527.994
+},
+{
+"word": "a",
+"start": 528.025,
+"end": 528.16
+},
+{
+"word": "cup",
+"start": 528.172,
+"end": 528.396
+},
+{
+"word": "of",
+"start": 528.416,
+"end": 528.596
+},
+{
+"word": "tea.",
+"start": 528.611,
+"end": 528.881
+},
+{
+"word": "One",
+"start": 529.224,
+"end": 529.453
+},
+{
+"word": "a",
+"start": 529.472,
+"end": 529.609
+},
+{
+"word": "day,",
+"start": 529.621,
+"end": 529.895
+},
+{
+"word": "she",
+"start": 529.919,
+"end": 530.147
+},
+{
+"word": "says.",
+"start": 530.167,
+"end": 530.487
+},
+{
+"word": "Don't",
+"start": 530.835,
+"end": 531.178
+},
+{
+"word": "touch.",
+"start": 531.208,
+"end": 531.6
+},
+{
+"word": "You",
+"start": 531.954,
+"end": 532.236
+},
+{
+"word": "smile.",
+"start": 532.26,
+"end": 532.712
+},
+{
+"word": "Unless",
+"start": 533.071,
+"end": 533.38
+},
+{
+"word": "it's",
+"start": 533.407,
+"end": 533.638
+},
+{
+"word": "for",
+"start": 533.658,
+"end": 533.851
+},
+{
+"word": "someone",
+"start": 533.868,
+"end": 534.215
+},
+{
+"word": "you",
+"start": 534.246,
+"end": 534.439
+},
+{
+"word": "love.",
+"start": 534.455,
+"end": 534.725
+},
+{
+"word": "Across",
+"start": 535.069,
+"end": 535.453
+},
+{
+"word": "the",
+"start": 535.486,
+"end": 535.726
+},
+{
+"word": "table,",
+"start": 535.747,
+"end": 536.131
+},
+{
+"word": "Max",
+"start": 536.164,
+"end": 536.404
+},
+{
+"word": "hands",
+"start": 536.425,
+"end": 536.761
+},
+{
+"word": "his",
+"start": 536.79,
+"end": 537.03
+},
+{
+"word": "granddaughter",
+"start": 537.051,
+"end": 537.77
+},
+{
+"word": "Mia",
+"start": 537.833,
+"end": 538.073
+},
+{
+"word": "a",
+"start": 538.094,
+"end": 538.238
+},
+{
+"word": "glass",
+"start": 538.25,
+"end": 538.586
+},
+{
+"word": "jar",
+"start": 538.615,
+"end": 538.855
+},
+{
+"word": "with",
+"start": 538.876,
+"end": 539.164
+},
+{
+"word": "one",
+"start": 539.189,
+"end": 539.429
+},
+{
+"word": "dollar",
+"start": 539.45,
+"end": 539.834
+},
+{
+"word": "inside.",
+"start": 539.867,
+"end": 540.299
+},
+{
+"word": "And",
+"start": 540.656,
+"end": 540.878
+},
+{
+"word": "all",
+"start": 540.897,
+"end": 541.119
+},
+{
+"word": "those",
+"start": 541.138,
+"end": 541.449
+},
+{
+"word": "boring",
+"start": 541.476,
+"end": 541.83
+},
+{
+"word": "years...",
+"start": 541.861,
+"end": 542.305
+},
+{
+"word": "finally",
+"start": 542.893,
+"end": 543.276
+},
+{
+"word": "feel",
+"start": 543.309,
+"end": 543.565
+},
+{
+"word": "worth",
+"start": 543.587,
+"end": 543.885
+},
+{
+"word": "it.",
+"start": 543.91,
+"end": 544.123
+},
+{
+"word": "So...",
+"start": 544.462,
+"end": 545.03
+},
+{
+"word": "is",
+"start": 545.629,
+"end": 545.801
+},
+{
+"word": "any",
+"start": 545.816,
+"end": 546.031
+},
+{
+"word": "of",
+"start": 546.049,
+"end": 546.221
+},
+{
+"word": "this",
+"start": 546.236,
+"end": 546.494
+},
+{
+"word": "real?",
+"start": 546.516,
+"end": 546.817
+},
+{
+"word": "Mostly,",
+"start": 547.294,
+"end": 547.88
+},
+{
+"word": "yes.",
+"start": 547.931,
+"end": 548.322
+},
+{
+"word": "The",
+"start": 548.677,
+"end": 548.967
+},
+{
+"word": "S&P",
+"start": 548.992,
+"end": 549.514
+},
+{
+"word": "500,",
+"start": 549.56,
+"end": 550.43
+},
+{
+"word": "a",
+"start": 550.506,
+"end": 550.68
+},
+{
+"word": "measure",
+"start": 550.695,
+"end": 551.217
+},
+{
+"word": "of",
+"start": 551.263,
+"end": 551.495
+},
+{
+"word": "five",
+"start": 551.515,
+"end": 551.863
+},
+{
+"word": "hundred",
+"start": 551.893,
+"end": 552.416
+},
+{
+"word": "big",
+"start": 552.461,
+"end": 552.751
+},
+{
+"word": "US",
+"start": 552.776,
+"end": 553.125
+},
+{
+"word": "companies,",
+"start": 553.155,
+"end": 553.851
+},
+{
+"word": "has",
+"start": 553.912,
+"end": 554.202
+},
+{
+"word": "averaged",
+"start": 554.227,
+"end": 554.807
+},
+{
+"word": "roughly",
+"start": 554.858,
+"end": 555.38
+},
+{
+"word": "ten",
+"start": 555.426,
+"end": 555.716
+},
+{
+"word": "percent",
+"start": 555.741,
+"end": 556.263
+},
+{
+"word": "a",
+"start": 556.309,
+"end": 556.483
+},
+{
+"word": "year",
+"start": 556.498,
+"end": 556.846
+},
+{
+"word": "over",
+"start": 556.876,
+"end": 557.224
+},
+{
+"word": "the",
+"start": 557.255,
+"end": 557.545
+},
+{
+"word": "long",
+"start": 557.57,
+"end": 557.918
+},
+{
+"word": "run,",
+"start": 557.949,
+"end": 558.297
+},
+{
+"word": "with",
+"start": 558.327,
+"end": 558.675
+},
+{
+"word": "dividends",
+"start": 558.705,
+"end": 559.344
+},
+{
+"word": "reinvested.",
+"start": 559.399,
+"end": 560.154
+},
+{
+"word": "But",
+"start": 560.539,
+"end": 560.746
+},
+{
+"word": "that's",
+"start": 560.764,
+"end": 561.095
+},
+{
+"word": "an",
+"start": 561.124,
+"end": 561.29
+},
+{
+"word": "average,",
+"start": 561.304,
+"end": 561.718
+},
+{
+"word": "not",
+"start": 561.754,
+"end": 561.961
+},
+{
+"word": "a",
+"start": 561.979,
+"end": 562.103
+},
+{
+"word": "promise.",
+"start": 562.114,
+"end": 562.527
+},
+{
+"word": "In",
+"start": 562.883,
+"end": 563.073
+},
+{
+"word": "2008,",
+"start": 563.09,
+"end": 564.086
+},
+{
+"word": "it",
+"start": 564.173,
+"end": 564.363
+},
+{
+"word": "fell",
+"start": 564.379,
+"end": 564.664
+},
+{
+"word": "about",
+"start": 564.689,
+"end": 565.021
+},
+{
+"word": "thirty-seven",
+"start": 565.05,
+"end": 565.715
+},
+{
+"word": "percent",
+"start": 565.772,
+"end": 566.199
+},
+{
+"word": "in",
+"start": 566.237,
+"end": 566.426
+},
+{
+"word": "a",
+"start": 566.443,
+"end": 566.585
+},
+{
+"word": "single",
+"start": 566.598,
+"end": 566.977
+},
+{
+"word": "year.",
+"start": 567.01,
+"end": 567.343
+},
+{
+"word": "And",
+"start": 567.692,
+"end": 567.972
+},
+{
+"word": "past",
+"start": 567.997,
+"end": 568.334
+},
+{
+"word": "returns",
+"start": 568.363,
+"end": 568.868
+},
+{
+"word": "never",
+"start": 568.912,
+"end": 569.305
+},
+{
+"word": "guarantee",
+"start": 569.339,
+"end": 569.957
+},
+{
+"word": "future",
+"start": 570.011,
+"end": 570.46
+},
+{
+"word": "ones.",
+"start": 570.499,
+"end": 570.892
+},
+{
+"word": "The",
+"start": 571.246,
+"end": 571.51
+},
+{
+"word": "first",
+"start": 571.532,
+"end": 571.901
+},
+{
+"word": "index",
+"start": 571.933,
+"end": 572.301
+},
+{
+"word": "fund",
+"start": 572.333,
+"end": 572.649
+},
+{
+"word": "for",
+"start": 572.677,
+"end": 572.94
+},
+{
+"word": "everyday",
+"start": 572.963,
+"end": 573.489
+},
+{
+"word": "investors",
+"start": 573.535,
+"end": 574.114
+},
+{
+"word": "launched",
+"start": 574.164,
+"end": 574.691
+},
+{
+"word": "in",
+"start": 574.736,
+"end": 574.947
+},
+{
+"word": "1976,",
+"start": 574.965,
+"end": 576.176
+},
+{
+"word": "started",
+"start": 576.281,
+"end": 576.755
+},
+{
+"word": "by",
+"start": 576.796,
+"end": 577.006
+},
+{
+"word": "John",
+"start": 577.025,
+"end": 577.341
+},
+{
+"word": "Bogle.",
+"start": 577.368,
+"end": 577.789
+},
+{
+"word": "Fees",
+"start": 578.146,
+"end": 578.469
+},
+{
+"word": "matter",
+"start": 578.497,
+"end": 578.928
+},
+{
+"word": "too.",
+"start": 578.965,
+"end": 579.288
+},
+{
+"word": "Lose",
+"start": 579.636,
+"end": 579.926
+},
+{
+"word": "just",
+"start": 579.951,
+"end": 580.24
+},
+{
+"word": "one",
+"start": 580.266,
+"end": 580.507
+},
+{
+"word": "extra",
+"start": 580.528,
+"end": 580.865
+},
+{
+"word": "percent",
+"start": 580.895,
+"end": 581.329
+},
+{
+"word": "a",
+"start": 581.367,
+"end": 581.511
+},
+{
+"word": "year",
+"start": 581.524,
+"end": 581.813
+},
+{
+"word": "to",
+"start": 581.839,
+"end": 582.031
+},
+{
+"word": "fees...",
+"start": 582.048,
+"end": 582.482
+},
+{
+"word": "and",
+"start": 583.07,
+"end": 583.3
+},
+{
+"word": "your",
+"start": 583.32,
+"end": 583.596
+},
+{
+"word": "one",
+"start": 583.62,
+"end": 583.85
+},
+{
+"word": "hundred",
+"start": 583.87,
+"end": 584.283
+},
+{
+"word": "sixty",
+"start": 584.319,
+"end": 584.641
+},
+{
+"word": "thousand",
+"start": 584.669,
+"end": 585.129
+},
+{
+"word": "shrinks",
+"start": 585.169,
+"end": 585.582
+},
+{
+"word": "to",
+"start": 585.618,
+"end": 585.802
+},
+{
+"word": "about",
+"start": 585.818,
+"end": 586.14
+},
+{
+"word": "one",
+"start": 586.168,
+"end": 586.398
+},
+{
+"word": "hundred",
+"start": 586.418,
+"end": 586.832
+},
+{
+"word": "twenty-three",
+"start": 586.868,
+"end": 587.511
+},
+{
+"word": "thousand.",
+"start": 587.567,
+"end": 588.073
+},
+{
+"word": "This",
+"start": 588.437,
+"end": 588.736
+},
+{
+"word": "isn't",
+"start": 588.762,
+"end": 589.112
+},
+{
+"word": "financial",
+"start": 589.142,
+"end": 589.691
+},
+{
+"word": "advice.",
+"start": 589.739,
+"end": 590.188
+},
+{
+"word": "It's",
+"start": 590.548,
+"end": 590.827
+},
+{
+"word": "just",
+"start": 590.851,
+"end": 591.131
+},
+{
+"word": "math.",
+"start": 591.155,
+"end": 591.481
+},
+{
+"word": "So",
+"start": 591.829,
+"end": 592.007
+},
+{
+"word": "if",
+"start": 592.023,
+"end": 592.201
+},
+{
+"word": "time",
+"start": 592.216,
+"end": 592.483
+},
+{
+"word": "is",
+"start": 592.506,
+"end": 592.684
+},
+{
+"word": "the",
+"start": 592.7,
+"end": 592.922
+},
+{
+"word": "most",
+"start": 592.942,
+"end": 593.209
+},
+{
+"word": "powerful",
+"start": 593.232,
+"end": 593.677
+},
+{
+"word": "force",
+"start": 593.716,
+"end": 594.027
+},
+{
+"word": "in",
+"start": 594.054,
+"end": 594.232
+},
+{
+"word": "investing...",
+"start": 594.248,
+"end": 594.871
+},
+{
+"word": "what",
+"start": 595.475,
+"end": 595.711
+},
+{
+"word": "does",
+"start": 595.732,
+"end": 595.968
+},
+{
+"word": "waiting",
+"start": 595.988,
+"end": 596.342
+},
+{
+"word": "one",
+"start": 596.373,
+"end": 596.57
+},
+{
+"word": "more",
+"start": 596.587,
+"end": 596.823
+},
+{
+"word": "year",
+"start": 596.844,
+"end": 597.08
+},
+{
+"word": "really",
+"start": 597.1,
+"end": 597.415
+},
+{
+"word": "cost",
+"start": 597.443,
+"end": 597.679
+},
+{
+"word": "you?",
+"start": 597.699,
+"end": 597.935
+},
+{
+"word": "That",
+"start": 598.406,
+"end": 598.65
+},
+{
+"word": "night,",
+"start": 598.671,
+"end": 598.997
+},
+{
+"word": "your",
+"start": 599.025,
+"end": 599.27
+},
+{
+"word": "phone",
+"start": 599.291,
+"end": 599.576
+},
+{
+"word": "rings",
+"start": 599.601,
+"end": 599.886
+},
+{
+"word": "again.",
+"start": 599.911,
+"end": 600.237
+},
+{
+"word": "Unknown",
+"start": 600.585,
+"end": 601.019
+},
+{
+"word": "number.",
+"start": 601.057,
+"end": 601.49
+},
+{
+"word": "You",
+"start": 601.848,
+"end": 602.076
+},
+{
+"word": "pick",
+"start": 602.096,
+"end": 602.37
+},
+{
+"word": "up.",
+"start": 602.394,
+"end": 602.622
+},
+{
+"word": "Silence.",
+"start": 602.962,
+"end": 603.634
+},
+{
+"word": "Then",
+"start": 604.012,
+"end": 604.237
+},
+{
+"word": "a",
+"start": 604.257,
+"end": 604.369
+},
+{
+"word": "calm",
+"start": 604.379,
+"end": 604.604
+},
+{
+"word": "voice",
+"start": 604.623,
+"end": 604.886
+},
+{
+"word": "says",
+"start": 604.908,
+"end": 605.133
+},
+{
+"word": "your",
+"start": 605.153,
+"end": 605.378
+},
+{
+"word": "name.",
+"start": 605.397,
+"end": 605.66
+},
+{
+"word": "Sam.",
+"start": 606.002,
+"end": 606.544
+},
+{
+"word": "You",
+"start": 606.912,
+"end": 607.14
+},
+{
+"word": "cost",
+"start": 607.159,
+"end": 607.433
+},
+{
+"word": "my",
+"start": 607.457,
+"end": 607.639
+},
+{
+"word": "team",
+"start": 607.655,
+"end": 607.929
+},
+{
+"word": "a",
+"start": 607.953,
+"end": 608.089
+},
+{
+"word": "lot",
+"start": 608.101,
+"end": 608.329
+},
+{
+"word": "of",
+"start": 608.349,
+"end": 608.531
+},
+{
+"word": "money.",
+"start": 608.547,
+"end": 608.912
+},
+{
+"word": "It's",
+"start": 609.264,
+"end": 609.528
+},
+{
+"word": "Mr.",
+"start": 609.551,
+"end": 609.904
+},
+{
+"word": "Black.",
+"start": 609.934,
+"end": 610.287
+},
+{
+"word": "What",
+"start": 610.637,
+"end": 610.861
+},
+{
+"word": "do",
+"start": 610.881,
+"end": 611.03
+},
+{
+"word": "you",
+"start": 611.043,
+"end": 611.229
+},
+{
+"word": "think?",
+"start": 611.246,
+"end": 611.544
+},
+{
+"word": "Tell",
+"start": 612.02,
+"end": 612.268
+},
+{
+"word": "us",
+"start": 612.29,
+"end": 612.455
+},
+{
+"word": "in",
+"start": 612.47,
+"end": 612.635
+},
+{
+"word": "the",
+"start": 612.649,
+"end": 612.856
+},
+{
+"word": "comments,",
+"start": 612.874,
+"end": 613.329
+},
+{
+"word": "and",
+"start": 613.368,
+"end": 613.575
+},
+{
+"word": "tell",
+"start": 613.593,
+"end": 613.841
+},
+{
+"word": "us",
+"start": 613.863,
+"end": 614.028
+},
+{
+"word": "which",
+"start": 614.042,
+"end": 614.332
+},
+{
+"word": "money",
+"start": 614.357,
+"end": 614.646
+},
+{
+"word": "What",
+"start": 614.671,
+"end": 614.919
+},
+{
+"word": "If",
+"start": 614.941,
+"end": 615.106
+},
+{
+"word": "we",
+"start": 615.121,
+"end": 615.286
+},
+{
+"word": "should",
+"start": 615.301,
+"end": 615.631
+},
+{
+"word": "do",
+"start": 615.66,
+"end": 615.825
+},
+{
+"word": "next.",
+"start": 615.84,
+"end": 616.129
+},
+{
+"word": "And",
+"start": 616.474,
+"end": 616.666
+},
+{
+"word": "if",
+"start": 616.682,
+"end": 616.835
+},
+{
+"word": "that",
+"start": 616.848,
+"end": 617.078
+},
+{
+"word": "note",
+"start": 617.098,
+"end": 617.327
+},
+{
+"word": "on",
+"start": 617.347,
+"end": 617.5
+},
+{
+"word": "the",
+"start": 617.514,
+"end": 617.705
+},
+{
+"word": "jar",
+"start": 617.721,
+"end": 617.913
+},
+{
+"word": "got",
+"start": 617.929,
+"end": 618.12
+},
+{
+"word": "you...",
+"start": 618.137,
+"end": 618.443
+},
+{
+"word": "hit",
+"start": 619.02,
+"end": 619.239
+},
+{
+"word": "like,",
+"start": 619.258,
+"end": 619.565
+},
+{
+"word": "and",
+"start": 619.592,
+"end": 619.811
+},
+{
+"word": "subscribe",
+"start": 619.831,
+"end": 620.313
+},
+{
+"word": "for",
+"start": 620.355,
+"end": 620.575
+},
+{
+"word": "Part",
+"start": 620.594,
+"end": 620.857
+},
+{
+"word": "Two.",
+"start": 620.88,
+"end": 621.143
+}
+]
+}
