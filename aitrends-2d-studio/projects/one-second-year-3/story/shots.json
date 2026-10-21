@@ -1,1 +1,4535 @@
-{"title": "t", "duration": 6, "shots": [{"id": "s001", "start": 0, "end": 3, "line": "", "scene": "", "set": "corridor", "bars": null, "in": {"type": "cut"}, "sfx": [], "notes": ""}, {"id": "s002", "start": 3, "end": 6, "line": "", "scene": "", "set": "corridor", "bars": null, "in": {"type": "cut"}, "sfx": [], "notes": ""}], "music": [], "sfx": []}
+{
+ "title": "What If One Second Felt Like a Year? Final Part",
+ "duration": 409.69,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 1.37,
+   "line": "Three minds.",
+   "scene": "three figures far apart in the dark void: Leo, faint Nova, Sol silhouette",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s002",
+   "start": 1.37,
+   "end": 3.0,
+   "line": "One frozen second.",
+   "scene": "frozen clock 0.0 s",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s003",
+   "start": 3.0,
+   "end": 4.38,
+   "line": "And no way out.",
+   "scene": "the void closes in, vignette tightens",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s004",
+   "start": 4.38,
+   "end": 6.66,
+   "line": "You’ve been trapped inside one second...",
+   "scene": "Leo tiny on the frozen clock face",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "freeze",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s005",
+   "start": 6.66,
+   "end": 8.44,
+   "line": "for nine hundred years.",
+   "scene": "counter races to 900 YEARS",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s006",
+   "start": 8.44,
+   "end": 10.63,
+   "line": "Nova’s voice is getting quieter.",
+   "scene": "Nova fading away",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s007",
+   "start": 10.63,
+   "end": 12.61,
+   "line": "The other voice is getting louder.",
+   "scene": "Sol silhouette grows, violet",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s008",
+   "start": 12.61,
+   "end": 13.52,
+   "line": "Stay.",
+   "scene": "whisper STAY in violet",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hum",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s009",
+   "start": 13.52,
+   "end": 14.49,
+   "line": "Both of you.",
+   "scene": "Sol with glinting glasses",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s010",
+   "start": 14.49,
+   "end": 16.92,
+   "line": "There’s nothing out there worth breathing for.",
+   "scene": "Sol wide in fog",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s011",
+   "start": 16.92,
+   "end": 18.33,
+   "line": "You try to breathe out.",
+   "scene": "bigFace Leo straining, cheeks held",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "riser",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s012",
+   "start": 18.33,
+   "end": 19.35,
+   "line": "You can’t.",
+   "scene": "lock snaps over the breath",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s013",
+   "start": 19.35,
+   "end": 21.71,
+   "line": "Something is holding the second shut.",
+   "scene": "violet ring clamps around the clock",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s014",
+   "start": 21.71,
+   "end": 22.8,
+   "line": "Something...",
+   "scene": "darkness, Sol face in shadow",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s015",
+   "start": 22.8,
+   "end": 23.99,
+   "line": "very old.",
+   "scene": "Sol close-up, glints",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s016",
+   "start": 23.99,
+   "end": 27.7,
+   "line": "Ten days earlier, you heard his name for the first time.",
+   "scene": "bedroom, label TEN DAYS EARLIER",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s017",
+   "start": 27.7,
+   "end": 28.81,
+   "line": "You’re Leo.",
+   "scene": "Leo medium, label LEO",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s018",
+   "start": 28.81,
+   "end": 32.17,
+   "line": "Hold your breath, and one second becomes a year.",
+   "scene": "lungs fill: 1 SECOND = 1 YEAR",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s019",
+   "start": 32.17,
+   "end": 33.82,
+   "line": "Your mind runs free.",
+   "scene": "thought bubbles circle Leo",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s020",
+   "start": 33.82,
+   "end": 35.41,
+   "line": "Your body can’t move.",
+   "scene": "frozen arm with a lock",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s021",
+   "start": 35.41,
+   "end": 37.86,
+   "line": "You saved your grandpa with that year.",
+   "scene": "PART ONE flashback: frozen kitchen, sepia",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "freeze",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s022",
+   "start": 37.86,
+   "end": 41.59,
+   "line": "Then you saved Nova, the only other person who has it.",
+   "scene": "PART TWO flashback: bus passes, Leo pulls Nova back, sepia",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "carpass",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s023",
+   "start": 41.59,
+   "end": 44.2,
+   "line": "And then a cold voice spoke inside the year.",
+   "scene": "violet ripple in the void",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s024",
+   "start": 44.2,
+   "end": 45.92,
+   "line": "His name is Sol.",
+   "scene": "Sol reveal, label SOL",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s025",
+   "start": 45.92,
+   "end": 51.12,
+   "line": "So what happens when one second feels like a year... and someone wants it to last forever?",
+   "scene": "TITLE CARD FINAL PART",
+   "set": "title",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   },
+   "captions": false
+  },
+  {
+   "id": "s026",
+   "start": 51.12,
+   "end": 52.49,
+   "line": "Sol is polite.",
+   "scene": "Sol medium, a small bow",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s027",
+   "start": 52.49,
+   "end": 53.38,
+   "line": "Calm.",
+   "scene": "Sol face, calm",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s028",
+   "start": 53.38,
+   "end": 54.32,
+   "line": "Ancient.",
+   "scene": "Sol among drifting dust, ANCIENT",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "wind",
+     "gain": -20
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s029",
+   "start": 54.32,
+   "end": 56.09,
+   "line": "How long have you been in here?",
+   "scene": "Leo asks Sol across a violet link",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s030",
+   "start": 56.09,
+   "end": 58.07,
+   "line": "About three thousand years.",
+   "scene": "Sol face talking",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s031",
+   "start": 58.07,
+   "end": 59.32,
+   "line": "Three thousand?",
+   "scene": "bigFace Leo shocked",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s032",
+   "start": 59.32,
+   "end": 63.01,
+   "line": "Nova lived two hundred and thought that was forever.",
+   "scene": "bars NOVA 200 vs SOL 3,000",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s033",
+   "start": 63.01,
+   "end": 67.24,
+   "line": "For Sol, one second now lasts a thousand years.",
+   "scene": "1 SECOND = 1,000 YEARS",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s034",
+   "start": 67.24,
+   "end": 70.74,
+   "line": "Out there, he’s just a very still old man.",
+   "scene": "real world: a very still old man on the hospital bench",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s035",
+   "start": 70.74,
+   "end": 75.29,
+   "line": "A whole human life lasts roughly two and a half billion heartbeats.",
+   "scene": "heart + counter 2,500,000,000 BEATS",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s036",
+   "start": 75.29,
+   "end": 77.9,
+   "line": "Sol has lived three thousand years...",
+   "scene": "3,000 YEARS ... heartbeats heard",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s037",
+   "start": 77.9,
+   "end": 79.67,
+   "line": "and heard just three.",
+   "scene": "three slow heartbeats: 3",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -10,
+     "bpm": 50
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s038",
+   "start": 79.67,
+   "end": 82.03,
+   "line": "Plus: he knows everything.",
+   "scene": "PLUS chapter, Sol with glowing symbols",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s039",
+   "start": 82.03,
+   "end": 85.71,
+   "line": "Every language he ever heard, he rebuilt in his head.",
+   "scene": "letters of many scripts orbit Sol",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s040",
+   "start": 85.71,
+   "end": 87.14,
+   "line": "Every maths problem.",
+   "scene": "equations fill the board",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s041",
+   "start": 87.14,
+   "end": 88.35,
+   "line": "Every story.",
+   "scene": "books float around Sol",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s042",
+   "start": 88.35,
+   "end": 90.11,
+   "line": "He beats Nova at chess...",
+   "scene": "chessboard between Sol and Nova",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "tick",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s043",
+   "start": 90.11,
+   "end": 91.52,
+   "line": "in four moves.",
+   "scene": "CHECKMATE IN 4",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s044",
+   "start": 91.52,
+   "end": 93.31,
+   "line": "She doesn’t talk for a week.",
+   "scene": "Nova face sulking, 1 WEEK",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s045",
+   "start": 93.31,
+   "end": 95.98,
+   "line": "Minus: he knows something you don’t.",
+   "scene": "MINUS chapter, Sol and Leo",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s046",
+   "start": 95.98,
+   "end": 98.03,
+   "line": "Your power wasn’t growing, Leo.",
+   "scene": "Sol face talking",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s047",
+   "start": 98.03,
+   "end": 99.52,
+   "line": "I was pulling you in.",
+   "scene": "violet threads pull Leo toward Sol",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s048",
+   "start": 99.52,
+   "end": 101.04,
+   "line": "The slammed doors.",
+   "scene": "flashback: door slam, violet tint",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s049",
+   "start": 101.04,
+   "end": 102.32,
+   "line": "The car horns.",
+   "scene": "flashback: car horn, violet tint",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "horn",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s050",
+   "start": 102.32,
+   "end": 104.59,
+   "line": "The years that came without asking.",
+   "scene": "calendar pages fly past",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s051",
+   "start": 104.59,
+   "end": 105.94,
+   "line": "That was me.",
+   "scene": "Sol close, glints",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s052",
+   "start": 105.94,
+   "end": 106.78,
+   "line": "Why?",
+   "scene": "bigFace Leo",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s053",
+   "start": 106.78,
+   "end": 109.05,
+   "line": "Because three thousand years...",
+   "scene": "Sol tiny alone in a huge void",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s054",
+   "start": 109.05,
+   "end": 111.28,
+   "line": "is a very long time to be alone.",
+   "scene": "slow pull back, Sol alone",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s055",
+   "start": 111.28,
+   "end": 112.18,
+   "line": "The catch?",
+   "scene": "THE CATCH chapter",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s056",
+   "start": 112.18,
+   "end": 114.85,
+   "line": "Sol only sees one frozen picture.",
+   "scene": "a frozen picture frame floats by Sol, blurred",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s057",
+   "start": 114.85,
+   "end": 116.24,
+   "line": "Always the same.",
+   "scene": "the same frame repeated",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s058",
+   "start": 116.24,
+   "end": 117.83,
+   "line": "He won’t say what it is.",
+   "scene": "Sol turns away",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s059",
+   "start": 117.83,
+   "end": 119.83,
+   "line": "Nova has her own picture.",
+   "scene": "Nova with her own frame: evening sky",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s060",
+   "start": 119.83,
+   "end": 121.38,
+   "line": "The evening sky.",
+   "scene": "evening sky full of stars",
+   "set": "sky",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s061",
+   "start": 121.38,
+   "end": 125.51,
+   "line": "On a clear night, your eyes can see only a few thousand stars.",
+   "scene": "eye + stars: A FEW THOUSAND VISIBLE",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s062",
+   "start": 125.51,
+   "end": 129.1,
+   "line": "She’s counted four thousand, one hundred and twelve.",
+   "scene": "counter 4,112 STARS",
+   "set": "sky",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s063",
+   "start": 129.1,
+   "end": 130.49,
+   "line": "Almost all of them.",
+   "scene": "sky wide, sparkles",
+   "set": "sky",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s064",
+   "start": 130.49,
+   "end": 132.87,
+   "line": "But where it gets really frightening...",
+   "scene": "dark void, Leo alone",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s065",
+   "start": 132.87,
+   "end": 135.11,
+   "line": "is how often it happens now.",
+   "scene": "a day bar with freeze marks",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s066",
+   "start": 135.11,
+   "end": 136.67,
+   "line": "Ten times a day.",
+   "scene": "clock with 10 marks",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 0.8,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s067",
+   "start": 136.67,
+   "end": 138.33,
+   "line": "Ten years a day.",
+   "scene": "counter 10 YEARS / DAY",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s068",
+   "start": 138.33,
+   "end": 141.04,
+   "line": "Jake waves a hand in front of your face.",
+   "scene": "Jake waves a hand in front of frozen Leo",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s069",
+   "start": 141.04,
+   "end": 142.0,
+   "line": "Mate.",
+   "scene": "Jake face",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s070",
+   "start": 142.0,
+   "end": 143.64,
+   "line": "Where do you keep going?",
+   "scene": "Jake talking",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s071",
+   "start": 143.64,
+   "end": 145.41,
+   "line": "Somewhere very quiet.",
+   "scene": "Leo face, distant",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s072",
+   "start": 145.41,
+   "end": 146.81,
+   "line": "And there’s a cost.",
+   "scene": "void dims",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s073",
+   "start": 146.81,
+   "end": 147.96,
+   "line": "The price?",
+   "scene": "THE PRICE chapter",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s074",
+   "start": 147.96,
+   "end": 149.31,
+   "line": "You’re fifteen.",
+   "scene": "Leo AGE 15",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s075",
+   "start": 149.31,
+   "end": 153.14,
+   "line": "But inside, you’ve now lived over a hundred years.",
+   "scene": "BODY 15 vs MIND 100+",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s076",
+   "start": 153.14,
+   "end": 155.72,
+   "line": "You start forgetting small real things.",
+   "scene": "Leo at his locker, confused",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s077",
+   "start": 155.72,
+   "end": 157.03,
+   "line": "Your locker code.",
+   "scene": "locker dial: ? ? ?",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s078",
+   "start": 157.03,
+   "end": 158.71,
+   "line": "Your mom’s birthday.",
+   "scene": "calendar with a blank date",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s079",
+   "start": 158.71,
+   "end": 163.77,
+   "line": "Memories that aren’t used fade, and you have a century of thinking crowding them out.",
+   "scene": "memory shelves fading, a century of boxes crowding",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s080",
+   "start": 163.77,
+   "end": 165.48,
+   "line": "Your mom notices.",
+   "scene": "Mom watches Leo in the kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s081",
+   "start": 165.48,
+   "end": 166.33,
+   "line": "Leo...",
+   "scene": "Mom face",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s082",
+   "start": 166.33,
+   "end": 167.87,
+   "line": "is everything okay?",
+   "scene": "Mom face talking",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s083",
+   "start": 167.87,
+   "end": 169.02,
+   "line": "You smile.",
+   "scene": "Leo face smiling",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s084",
+   "start": 169.02,
+   "end": 170.12,
+   "line": "You say yes.",
+   "scene": "Leo face talking",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s085",
+   "start": 170.12,
+   "end": 171.59,
+   "line": "But you’re scared.",
+   "scene": "Leo face scared",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hum",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s086",
+   "start": 171.59,
+   "end": 174.11,
+   "line": "Because you know exactly what you’re becoming.",
+   "scene": "Leo's shadow stretches into Sol's shape",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s087",
+   "start": 174.11,
+   "end": 175.53,
+   "line": "Someone like Sol.",
+   "scene": "Sol silhouette over Leo",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s088",
+   "start": 175.53,
+   "end": 177.78,
+   "line": "What if you can’t remember who you were?",
+   "scene": "Leo fades out",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s089",
+   "start": 177.78,
+   "end": 179.87,
+   "line": "So you go where it all started.",
+   "scene": "hospital corridor wide",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s090",
+   "start": 179.87,
+   "end": 181.34,
+   "line": "Grandpa’s checkup.",
+   "scene": "Grandpa, Leo, Nova walk in",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 0.6,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s091",
+   "start": 181.34,
+   "end": 182.44,
+   "line": "The hospital.",
+   "scene": "corridor wide, lights",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s092",
+   "start": 182.44,
+   "end": 184.04,
+   "line": "Same long corridor.",
+   "scene": "slow push down the corridor",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s093",
+   "start": 184.04,
+   "end": 185.54,
+   "line": "Same green door.",
+   "scene": "insert: green door",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s094",
+   "start": 185.54,
+   "end": 189.97,
+   "line": "Same vending machine, with one blue can stuck halfway down.",
+   "scene": "insert: vending machine, blue can stuck",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s095",
+   "start": 189.97,
+   "end": 193.57,
+   "line": "It was stuck the day they brought me in, Grandpa says.",
+   "scene": "Grandpa face talking",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s096",
+   "start": 193.57,
+   "end": 196.73,
+   "line": "Maybe it’s waiting for someone to give it a little push.",
+   "scene": "Grandpa face",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s097",
+   "start": 196.73,
+   "end": 198.1,
+   "line": "He gives it a tap.",
+   "scene": "Grandpa taps the machine",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s098",
+   "start": 198.1,
+   "end": 199.41,
+   "line": "It doesn’t move.",
+   "scene": "insert: can wobbles, stays",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s099",
+   "start": 199.41,
+   "end": 200.84,
+   "line": "Stubborn thing.",
+   "scene": "Grandpa face smiling",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s100",
+   "start": 200.84,
+   "end": 202.11,
+   "line": "Like you.",
+   "scene": "Grandpa nudges Leo",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s101",
+   "start": 202.11,
+   "end": 206.71,
+   "line": "On the bench by the green door, an old man sits perfectly still.",
+   "scene": "old man on the bench by the green door",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s102",
+   "start": 206.71,
+   "end": 208.0,
+   "line": "Eyes closed.",
+   "scene": "old Sol face, eyes closed",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s103",
+   "start": 208.0,
+   "end": 209.35,
+   "line": "Hands folded.",
+   "scene": "insert: folded hands",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s104",
+   "start": 209.35,
+   "end": 211.59,
+   "line": "Grandpa squeezes your shoulder.",
+   "scene": "Grandpa's hand on Leo's shoulder",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s105",
+   "start": 211.59,
+   "end": 213.24,
+   "line": "You look tired, Leo.",
+   "scene": "Grandpa face",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s106",
+   "start": 213.24,
+   "end": 214.7,
+   "line": "Whatever it is...",
+   "scene": "Grandpa face",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s107",
+   "start": 214.7,
+   "end": 216.19,
+   "line": "a second is plenty.",
+   "scene": "gold words",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s108",
+   "start": 216.19,
+   "end": 217.49,
+   "line": "If you use it.",
+   "scene": "gold words continue",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s109",
+   "start": 217.49,
+   "end": 219.29,
+   "line": "Nova came with you today.",
+   "scene": "Nova by the window",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s110",
+   "start": 219.29,
+   "end": 222.84,
+   "line": "And as a doctor walks down the corridor toward the green door...",
+   "scene": "doctor walks toward the green door",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -16
+    },
+    {
+     "at": 0.9,
+     "name": "footstep",
+     "gain": -16
+    },
+    {
+     "at": 1.5,
+     "name": "footstep",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s111",
+   "start": 222.84,
+   "end": 223.95,
+   "line": "it happens.",
+   "scene": "bigFace Leo",
+   "set": "corridor",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s112",
+   "start": 223.95,
+   "end": 225.47,
+   "line": "Your breath catches.",
+   "scene": "Leo gasps",
+   "set": "corridor",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s113",
+   "start": 225.47,
+   "end": 226.89,
+   "line": "So does Nova’s.",
+   "scene": "Nova gasps",
+   "set": "corridor",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s114",
+   "start": 226.89,
+   "end": 228.4,
+   "line": "The year begins.",
+   "scene": "FREEZE: corridor, blue tint",
+   "set": "corridor",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -5
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s115",
+   "start": 228.4,
+   "end": 229.98,
+   "line": "Then it keeps going.",
+   "scene": "years counter keeps going",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s116",
+   "start": 229.98,
+   "end": 231.55,
+   "line": "A hundred years.",
+   "scene": "100",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "tick",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s117",
+   "start": 231.55,
+   "end": 232.81,
+   "line": "Five hundred.",
+   "scene": "500",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "tick",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s118",
+   "start": 232.81,
+   "end": 234.02,
+   "line": "Nine hundred.",
+   "scene": "900",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s119",
+   "start": 234.02,
+   "end": 236.47,
+   "line": "Sol’s grip holds the second shut.",
+   "scene": "violet ring clamps the clock",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s120",
+   "start": 236.47,
+   "end": 237.64,
+   "line": "Stay.",
+   "scene": "whisper STAY",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hum",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s121",
+   "start": 237.64,
+   "end": 241.15,
+   "line": "The doctor is five steps from the old man on the bench.",
+   "scene": "frozen: five footprints from doctor to bench",
+   "set": "corridor",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s122",
+   "start": 241.15,
+   "end": 244.47,
+   "line": "At a normal walk, that’s about three seconds.",
+   "scene": "5 STEPS ≈ 3 SECONDS",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s123",
+   "start": 244.47,
+   "end": 245.83,
+   "line": "In Sol’s time...",
+   "scene": "3 SECONDS × 1,000 YEARS",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s124",
+   "start": 245.83,
+   "end": 247.67,
+   "line": "three thousand years.",
+   "scene": "= 3,000 YEARS",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s125",
+   "start": 247.67,
+   "end": 250.2,
+   "line": "Nova’s voice is barely there now.",
+   "scene": "Nova barely visible",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s126",
+   "start": 250.2,
+   "end": 251.16,
+   "line": "Leo...",
+   "scene": "faint whisper: Leo...",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s127",
+   "start": 251.16,
+   "end": 253.29,
+   "line": "I can’t feel the edges anymore.",
+   "scene": "Nova face dissolving",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s128",
+   "start": 253.29,
+   "end": 255.27,
+   "line": "Then Sol speaks again.",
+   "scene": "Sol steps forward",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s129",
+   "start": 255.27,
+   "end": 257.19,
+   "line": "You can still leave, Leo.",
+   "scene": "Sol face talking",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s130",
+   "start": 257.19,
+   "end": 258.57,
+   "line": "You’re strong enough.",
+   "scene": "Sol face",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s131",
+   "start": 258.57,
+   "end": 259.88,
+   "line": "Breathe out.",
+   "scene": "whisper BREATHE OUT",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s132",
+   "start": 259.88,
+   "end": 260.85,
+   "line": "Go home.",
+   "scene": "a doorway of light opens",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s133",
+   "start": 260.85,
+   "end": 262.51,
+   "line": "But she stays with me.",
+   "scene": "violet threads hold Nova",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s134",
+   "start": 262.51,
+   "end": 263.65,
+   "line": "You feel it.",
+   "scene": "bigFace Leo",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s135",
+   "start": 263.65,
+   "end": 265.99,
+   "line": "One breath, and you’re free.",
+   "scene": "Leo near the light doorway",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s136",
+   "start": 265.99,
+   "end": 267.07,
+   "line": "Your mom.",
+   "scene": "memory: Mom smiling, warm",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dipWhite",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s137",
+   "start": 267.07,
+   "end": 268.16,
+   "line": "Grandpa.",
+   "scene": "memory: Grandpa dancing",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s138",
+   "start": 268.16,
+   "end": 269.5,
+   "line": "Real seconds.",
+   "scene": "a clock ticking for real",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "tick",
+     "gain": -10
+    },
+    {
+     "at": 0.6,
+     "name": "tick",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s139",
+   "start": 269.5,
+   "end": 271.23,
+   "line": "But Nova would be gone...",
+   "scene": "Nova fading",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s140",
+   "start": 271.23,
+   "end": 272.33,
+   "line": "forever.",
+   "scene": "empty space where Nova was",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s141",
+   "start": 272.33,
+   "end": 274.71,
+   "line": "Can you carry two people out of a second?",
+   "scene": "line figure carrying two",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s142",
+   "start": 274.71,
+   "end": 275.75,
+   "line": "Three?",
+   "scene": "THREE?",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s143",
+   "start": 275.75,
+   "end": 276.99,
+   "line": "Save yourself...",
+   "scene": "balance: YOURSELF",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s144",
+   "start": 276.99,
+   "end": 278.55,
+   "line": "or save all three.",
+   "scene": "balance tips: ALL THREE",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s145",
+   "start": 278.55,
+   "end": 280.89,
+   "line": "You think about the old man on the bench.",
+   "scene": "frozen corridor, old man on the bench",
+   "set": "corridor",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s146",
+   "start": 280.89,
+   "end": 281.85,
+   "line": "Still.",
+   "scene": "old Sol face, still",
+   "set": "corridor",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s147",
+   "start": 281.85,
+   "end": 283.27,
+   "line": "Eyes closed.",
+   "scene": "eyes closed",
+   "set": "corridor",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s148",
+   "start": 283.27,
+   "end": 285.56,
+   "line": "Every time someone walks toward him...",
+   "scene": "frozen doctor mid-step toward him",
+   "set": "corridor",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s149",
+   "start": 285.56,
+   "end": 286.93,
+   "line": "he disappears.",
+   "scene": "the bench fades into the void",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s150",
+   "start": 286.93,
+   "end": 287.77,
+   "line": "Sol.",
+   "scene": "bigFace Leo, realising",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s151",
+   "start": 287.77,
+   "end": 289.63,
+   "line": "What do you see in your picture?",
+   "scene": "Leo asks",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s152",
+   "start": 289.63,
+   "end": 290.73,
+   "line": "Silence.",
+   "scene": "darkness",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s153",
+   "start": 290.73,
+   "end": 292.02,
+   "line": "A green door.",
+   "scene": "the green door appears in the void",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s154",
+   "start": 292.02,
+   "end": 293.38,
+   "line": "A vending machine.",
+   "scene": "the vending machine appears",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s155",
+   "start": 293.38,
+   "end": 294.82,
+   "line": "One blue can...",
+   "scene": "the stuck blue can glows",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s156",
+   "start": 294.82,
+   "end": 295.8,
+   "line": "stuck.",
+   "scene": "STUCK",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s157",
+   "start": 295.8,
+   "end": 296.86,
+   "line": "It’s you.",
+   "scene": "bigFace Leo, it clicks",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s158",
+   "start": 296.86,
+   "end": 298.56,
+   "line": "You’re the man on the bench.",
+   "scene": "the old man on the bench IS Sol",
+   "set": "corridor",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s159",
+   "start": 298.56,
+   "end": 300.69,
+   "line": "What’s behind that door, Sol?",
+   "scene": "the green door glows",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s160",
+   "start": 300.69,
+   "end": 302.08,
+   "line": "A long pause.",
+   "scene": "darkness, held",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s161",
+   "start": 302.08,
+   "end": 303.23,
+   "line": "My wife.",
+   "scene": "Sol face, grief",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s162",
+   "start": 303.23,
+   "end": 306.03,
+   "line": "The doctor is coming to tell me if she woke up.",
+   "scene": "frozen doctor, the door",
+   "set": "corridor",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s163",
+   "start": 306.03,
+   "end": 307.91,
+   "line": "I couldn’t bear to hear the answer.",
+   "scene": "Sol face, tears",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s164",
+   "start": 307.91,
+   "end": 309.66,
+   "line": "So you’ve been hiding from it.",
+   "scene": "Sol curled small in the void",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s165",
+   "start": 309.66,
+   "end": 311.56,
+   "line": "For three thousand years.",
+   "scene": "3,000 YEARS OF HIDING",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s166",
+   "start": 311.56,
+   "end": 312.99,
+   "line": "You don’t fight him.",
+   "scene": "three figures, no struggle",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s167",
+   "start": 312.99,
+   "end": 314.24,
+   "line": "You don’t push.",
+   "scene": "Leo lowers his hands",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s168",
+   "start": 314.24,
+   "end": 315.99,
+   "line": "You just tell him the truth.",
+   "scene": "bigFace Leo, gentle",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s169",
+   "start": 315.99,
+   "end": 317.31,
+   "line": "We’ll hear it with you.",
+   "scene": "Leo and Nova stand beside Sol, gold link",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s170",
+   "start": 317.31,
+   "end": 319.4,
+   "line": "Then you hum Grandpa’s song.",
+   "scene": "memory: Grandpa dancing, warm",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dipWhite",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s171",
+   "start": 319.4,
+   "end": 320.31,
+   "line": "Boom.",
+   "scene": "heart pulse 1",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "kick",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s172",
+   "start": 320.31,
+   "end": 321.27,
+   "line": "Boom.",
+   "scene": "heart pulse 2",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "kick",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s173",
+   "start": 321.27,
+   "end": 322.29,
+   "line": "Boom.",
+   "scene": "heart pulse 3",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "kick",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s174",
+   "start": 322.29,
+   "end": 324.15,
+   "line": "A second is plenty, Sol...",
+   "scene": "gold words: A SECOND IS PLENTY, SOL",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s175",
+   "start": 324.15,
+   "end": 325.57,
+   "line": "if you use it.",
+   "scene": "...IF YOU USE IT",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s176",
+   "start": 325.57,
+   "end": 329.82,
+   "line": "And Nova, barely there, whispers the only thing she has left.",
+   "scene": "Nova faint, whispering",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s177",
+   "start": 329.82,
+   "end": 330.58,
+   "line": "Three.",
+   "scene": "3",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s178",
+   "start": 330.58,
+   "end": 331.39,
+   "line": "Two.",
+   "scene": "2",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s179",
+   "start": 331.39,
+   "end": 332.42,
+   "line": "One.",
+   "scene": "1",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s180",
+   "start": 332.42,
+   "end": 334.2,
+   "line": "All three of you breathe out.",
+   "scene": "unfreeze: colour returns, the corridor breathes",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "dipWhite",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s181",
+   "start": 334.2,
+   "end": 335.73,
+   "line": "The corridor moves.",
+   "scene": "corridor wide, people moving",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s182",
+   "start": 335.73,
+   "end": 337.09,
+   "line": "The doctor smiles.",
+   "scene": "doctor face smiling",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s183",
+   "start": 337.09,
+   "end": 338.29,
+   "line": "She’s awake.",
+   "scene": "doctor talking, SHE'S AWAKE",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s184",
+   "start": 338.29,
+   "end": 339.76,
+   "line": "She’s asking for you.",
+   "scene": "doctor talking",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s185",
+   "start": 339.76,
+   "end": 341.72,
+   "line": "The old man opens his eyes...",
+   "scene": "old Sol opens his eyes",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s186",
+   "start": 341.72,
+   "end": 342.95,
+   "line": "and cries.",
+   "scene": "tears, a smile",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s187",
+   "start": 342.95,
+   "end": 345.72,
+   "line": "Grandpa gives the vending machine one more tap.",
+   "scene": "Grandpa taps the machine again",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s188",
+   "start": 345.72,
+   "end": 347.24,
+   "line": "The blue can drops.",
+   "scene": "the can falls",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s189",
+   "start": 347.24,
+   "end": 348.32,
+   "line": "Clunk.",
+   "scene": "can in the tray, CLUNK",
+   "set": "corridor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hit",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -27
+   }
+  },
+  {
+   "id": "s190",
+   "start": 348.32,
+   "end": 350.87,
+   "line": "After that, the years get shorter.",
+   "scene": "freeze bars getting shorter",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s191",
+   "start": 350.87,
+   "end": 351.82,
+   "line": "A month.",
+   "scene": "A MONTH",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s192",
+   "start": 351.82,
+   "end": 352.7,
+   "line": "A day.",
+   "scene": "A DAY",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s193",
+   "start": 352.7,
+   "end": 353.72,
+   "line": "An hour.",
+   "scene": "AN HOUR",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s194",
+   "start": 353.72,
+   "end": 360.68,
+   "line": "Then one Sunday, Grandpa’s song plays, Sol dances with his wife, Nova dances with Jake...",
+   "scene": "Sunday dance: Grandpa, Sol with his wife, Nova with Jake",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dipWhite",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s195",
+   "start": 360.68,
+   "end": 362.33,
+   "line": "and you notice something.",
+   "scene": "Leo face, noticing",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s196",
+   "start": 362.33,
+   "end": 363.42,
+   "line": "A second...",
+   "scene": "the kitchen clock",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s197",
+   "start": 363.42,
+   "end": 364.98,
+   "line": "feels like a second.",
+   "scene": "second hand ticks once",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s198",
+   "start": 364.98,
+   "end": 366.07,
+   "line": "Just one.",
+   "scene": "1 SECOND",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s199",
+   "start": 366.07,
+   "end": 367.04,
+   "line": "Ordinary.",
+   "scene": "kitchen wide warm",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s200",
+   "start": 367.04,
+   "end": 368.1,
+   "line": "Perfect.",
+   "scene": "everyone dancing",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s201",
+   "start": 368.1,
+   "end": 369.93,
+   "line": "You don’t need a year anymore.",
+   "scene": "Leo face, content",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s202",
+   "start": 369.93,
+   "end": 371.33,
+   "line": "Grandpa winks.",
+   "scene": "Grandpa face winking",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s203",
+   "start": 371.33,
+   "end": 372.46,
+   "line": "Told you.",
+   "scene": "Grandpa talking",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s204",
+   "start": 372.46,
+   "end": 373.9,
+   "line": "A second is plenty.",
+   "scene": "gold words",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s205",
+   "start": 373.9,
+   "end": 375.11,
+   "line": "It always was.",
+   "scene": "kitchen wide, pull back",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s206",
+   "start": 375.11,
+   "end": 376.56,
+   "line": "Is any of this real?",
+   "scene": "IS ANY OF THIS REAL?",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s207",
+   "start": 376.56,
+   "end": 378.82,
+   "line": "No one can live a year in a second.",
+   "scene": "NOT POSSIBLE stamp",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s208",
+   "start": 378.82,
+   "end": 381.38,
+   "line": "But your brain really does bend time.",
+   "scene": "brain bends a timeline",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s209",
+   "start": 381.38,
+   "end": 383.4,
+   "line": "Waiting makes minutes drag.",
+   "scene": "WAITING: clock crawls",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 1.4,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s210",
+   "start": 383.4,
+   "end": 385.29,
+   "line": "Fun makes hours vanish.",
+   "scene": "FUN: clock spins",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s211",
+   "start": 385.29,
+   "end": 391.46,
+   "line": "And new experiences often feel longer when you look back, because your brain stores more detail about them.",
+   "scene": "memory density: new days hold more detail",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s212",
+   "start": 391.46,
+   "end": 394.28,
+   "line": "So the best way to make your life feel longer...",
+   "scene": "a life filled with new things feels longer",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s213",
+   "start": 394.28,
+   "end": 397.08,
+   "line": "might be filling your seconds with new things.",
+   "scene": "seconds fill with new icons",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -16
+    },
+    {
+     "at": 0.8,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s214",
+   "start": 397.08,
+   "end": 399.44,
+   "line": "So which second would you stretch?",
+   "scene": "Leo and Nova look up at the clock",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s215",
+   "start": 399.44,
+   "end": 409.69,
+   "line": "What do you think? Tell us in the comments, and tell us which superpower we should do next. Hit like, and subscribe for more What Ifs.",
+   "scene": "END SCREEN: question, cast, MORE WHAT IFS",
+   "set": "end",
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0.0,
+   "end": 23.74,
+   "mood": "dark",
+   "intensity": 0.5
+  },
+  {
+   "start": 23.74,
+   "end": 45.67,
+   "mood": "hopeful",
+   "intensity": 0.4
+  },
+  {
+   "start": 45.67,
+   "end": 50.87,
+   "mood": "epic",
+   "intensity": 0.65
+  },
+  {
+   "start": 50.87,
+   "end": 79.42,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 79.42,
+   "end": 93.06,
+   "mood": "wonder",
+   "intensity": 0.45
+  },
+  {
+   "start": 93.06,
+   "end": 111.03,
+   "mood": "dark",
+   "intensity": 0.5
+  },
+  {
+   "start": 111.03,
+   "end": 130.24,
+   "mood": "mystery",
+   "intensity": 0.4
+  },
+  {
+   "start": 130.24,
+   "end": 146.56,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 146.56,
+   "end": 177.53,
+   "mood": "sad",
+   "intensity": 0.35
+  },
+  {
+   "start": 177.53,
+   "end": 219.04,
+   "mood": "hopeful",
+   "intensity": 0.4
+  },
+  {
+   "start": 219.04,
+   "end": 226.64,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 226.64,
+   "end": 253.04,
+   "mood": "dark",
+   "intensity": 0.55
+  },
+  {
+   "start": 253.04,
+   "end": 278.3,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 278.3,
+   "end": 301.83,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 301.83,
+   "end": 317.06,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 317.06,
+   "end": 332.17,
+   "mood": "epic",
+   "intensity": 0.5
+  },
+  {
+   "start": 332.17,
+   "end": 348.07,
+   "mood": "triumph",
+   "intensity": 0.55
+  },
+  {
+   "start": 348.07,
+   "end": 353.47,
+   "mood": "hopeful",
+   "intensity": 0.45
+  },
+  {
+   "start": 353.47,
+   "end": 374.86,
+   "mood": "playful",
+   "intensity": 0.5
+  },
+  {
+   "start": 374.86,
+   "end": 396.83,
+   "mood": "wonder",
+   "intensity": 0.4
+  },
+  {
+   "start": 396.83,
+   "end": 409.69,
+   "mood": "mystery",
+   "intensity": 0.4
+  }
+ ],
+ "sfx": []
+}
