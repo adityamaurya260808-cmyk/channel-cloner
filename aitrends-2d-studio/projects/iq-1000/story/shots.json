@@ -1,0 +1,4827 @@
+{
+ "title": "What If You Had 1,000 IQ?",
+ "duration": 460.42,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 1.71,
+   "line": "You look at a Rubik’s cube.",
+   "scene": "Kai at the kitchen table, a scrambled Rubik's cube in front of him",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s002",
+   "start": 1.71,
+   "end": 2.66,
+   "line": "Once.",
+   "scene": "bigFace Kai, one glance, eyes flick",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s003",
+   "start": 2.66,
+   "end": 3.87,
+   "line": "You hand it back...",
+   "scene": "Kai hands the cube back",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s004",
+   "start": 3.87,
+   "end": 4.98,
+   "line": "solved.",
+   "scene": "insert: cube solved, six clean faces",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s005",
+   "start": 4.98,
+   "end": 7.5,
+   "line": "You read a physics textbook over breakfast.",
+   "scene": "Kai reads a thick PHYSICS book with cereal",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s006",
+   "start": 7.5,
+   "end": 10.14,
+   "line": "Then you find a mistake on page two hundred.",
+   "scene": "insert: page 200, red circle around a mistake",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s007",
+   "start": 10.14,
+   "end": 12.63,
+   "line": "Your dad’s car makes a strange noise.",
+   "scene": "driveway: Dad's car rattles, smoke puff",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "buzz",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s008",
+   "start": 12.63,
+   "end": 14.76,
+   "line": "You tell him which part is broken...",
+   "scene": "Kai at the kitchen window points out",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s009",
+   "start": 14.76,
+   "end": 15.96,
+   "line": "from the kitchen.",
+   "scene": "X-ray car diagram, one part glows: BELT",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s010",
+   "start": 15.96,
+   "end": 18.02,
+   "line": "How... how did you know that?",
+   "scene": "Dad face, stunned",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s011",
+   "start": 18.02,
+   "end": 19.41,
+   "line": "It told me.",
+   "scene": "Kai face, shrugging smile",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s012",
+   "start": 19.41,
+   "end": 21.49,
+   "line": "And your little sister still beats you...",
+   "scene": "hide and seek: Kai counting at the wall",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s013",
+   "start": 21.49,
+   "end": 22.89,
+   "line": "at hide and seek.",
+   "scene": "Mia hidden behind the curtain, giggling",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s014",
+   "start": 22.89,
+   "end": 24.62,
+   "line": "Every single time.",
+   "scene": "Kai searching, confused, Mia's feet poke out",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s015",
+   "start": 24.62,
+   "end": 25.98,
+   "line": "Your name is Kai.",
+   "scene": "Kai medium, label KAI",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s016",
+   "start": 25.98,
+   "end": 27.27,
+   "line": "You’re thirteen.",
+   "scene": "label AGE 13",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s017",
+   "start": 27.27,
+   "end": 30.51,
+   "line": "Most people score around a hundred on an IQ test.",
+   "scene": "bell curve, peak at 100",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s018",
+   "start": 30.51,
+   "end": 34.92,
+   "line": "Fewer than one in seven hundred score above one hundred and forty-five.",
+   "scene": "tail past 145 highlighted: 1 IN 700",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s019",
+   "start": 34.92,
+   "end": 35.7,
+   "line": "You?",
+   "scene": "curve, a dot far off the chart",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s020",
+   "start": 35.7,
+   "end": 37.01,
+   "line": "One thousand.",
+   "scene": "1,000 slams in, chart breaks",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s021",
+   "start": 37.01,
+   "end": 39.1,
+   "line": "No test can even measure that.",
+   "scene": "test sheet with ERROR",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s022",
+   "start": 39.1,
+   "end": 42.4,
+   "line": "Most stop working well before one hundred and sixty.",
+   "scene": "scale tops out at 160",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s023",
+   "start": 42.4,
+   "end": 43.67,
+   "line": "But there’s a rule.",
+   "scene": "BUT THERE'S A RULE",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s024",
+   "start": 43.67,
+   "end": 45.42,
+   "line": "Your brain got smarter.",
+   "scene": "Kai with glowing big brain",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "powerup",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s025",
+   "start": 45.42,
+   "end": 46.81,
+   "line": "Your body didn’t.",
+   "scene": "Kai's normal small body, gauge",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s026",
+   "start": 46.81,
+   "end": 49.52,
+   "line": "Your brain is only about two percent of your weight...",
+   "scene": "body silhouette, brain 2% WEIGHT",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s027",
+   "start": 49.52,
+   "end": 52.4,
+   "line": "yet it burns about twenty percent of your energy.",
+   "scene": "brain 20% ENERGY bar",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s028",
+   "start": 52.4,
+   "end": 55.82,
+   "line": "Running at full power, yours burns far more.",
+   "scene": "Kai's brain meter overflows",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s029",
+   "start": 55.82,
+   "end": 57.2,
+   "line": "Push it too hard...",
+   "scene": "Kai strains, sparks",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "buzz",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s030",
+   "start": 57.2,
+   "end": 58.75,
+   "line": "and it shuts down.",
+   "scene": "lights out: SHUT DOWN",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s031",
+   "start": 58.75,
+   "end": 61.12,
+   "line": "So what if you had a thousand IQ?",
+   "scene": "TITLE CARD: WHAT IF YOU HAD 1,000 IQ?",
+   "set": "title",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   },
+   "captions": false
+  },
+  {
+   "id": "s032",
+   "start": 61.12,
+   "end": 63.55,
+   "line": "Plus: school becomes a joke.",
+   "scene": "PLUS chapter, Kai bored in class",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s033",
+   "start": 63.55,
+   "end": 65.99,
+   "line": "You finish the year’s maths in a weekend.",
+   "scene": "a year of worksheets flies into DONE",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s034",
+   "start": 65.99,
+   "end": 67.81,
+   "line": "Then the next five years.",
+   "scene": "grades 8-13 stamped DONE",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.8,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s035",
+   "start": 67.81,
+   "end": 70.07,
+   "line": "Your teacher stares at your homework.",
+   "scene": "teacher holds homework, squinting",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s036",
+   "start": 70.07,
+   "end": 71.07,
+   "line": "Kai...",
+   "scene": "teacher face, confused",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s037",
+   "start": 71.07,
+   "end": 72.98,
+   "line": "I don’t understand your answer.",
+   "scene": "insert: homework full of wild equations",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s038",
+   "start": 72.98,
+   "end": 74.09,
+   "line": "That’s okay.",
+   "scene": "Kai face, kind",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s039",
+   "start": 74.09,
+   "end": 75.79,
+   "line": "I wrote you a simpler one.",
+   "scene": "Kai hands a page: SIMPLER VERSION",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s040",
+   "start": 75.79,
+   "end": 76.8,
+   "line": "Languages?",
+   "scene": "LANGUAGES",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s041",
+   "start": 76.8,
+   "end": 78.71,
+   "line": "You learn Spanish on Saturday.",
+   "scene": "SAT: HOLA",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s042",
+   "start": 78.71,
+   "end": 80.4,
+   "line": "Japanese on Sunday.",
+   "scene": "SUN: こんにちは",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s043",
+   "start": 80.4,
+   "end": 83.71,
+   "line": "Your best friend Ben is still learning his times tables.",
+   "scene": "Ben counting on fingers: 7 x 8 = ?",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s044",
+   "start": 83.71,
+   "end": 84.67,
+   "line": "Show-off.",
+   "scene": "Ben face, eye roll",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s045",
+   "start": 84.67,
+   "end": 85.48,
+   "line": "Chess?",
+   "scene": "chess table in the park",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s046",
+   "start": 85.48,
+   "end": 87.76,
+   "line": "You beat the town champion blindfolded.",
+   "scene": "Kai blindfolded vs champion",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s047",
+   "start": 87.76,
+   "end": 89.2,
+   "line": "While eating cereal.",
+   "scene": "Kai eats cereal; champion shocked, CHECKMATE",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s048",
+   "start": 89.2,
+   "end": 92.82,
+   "line": "The world record for solving a Rubik’s cube is around three seconds.",
+   "scene": "WORLD RECORD ~3 s timer",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 1.3,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s049",
+   "start": 92.82,
+   "end": 94.31,
+   "line": "You don’t time yourself.",
+   "scene": "Kai solves a cube, no timer",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s050",
+   "start": 94.31,
+   "end": 95.44,
+   "line": "It feels rude.",
+   "scene": "Kai face, polite smile",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s051",
+   "start": 95.44,
+   "end": 97.06,
+   "line": "Then everyone wants something.",
+   "scene": "crowd with requests surrounding Kai",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "murmur",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s052",
+   "start": 97.06,
+   "end": 99.05,
+   "line": "Your uncle wants lottery numbers.",
+   "scene": "Uncle with a lottery ticket",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s053",
+   "start": 99.05,
+   "end": 101.43,
+   "line": "Kai, just one lucky guess?",
+   "scene": "Uncle face, pleading",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s054",
+   "start": 101.43,
+   "end": 103.13,
+   "line": "Lotteries are random, Uncle.",
+   "scene": "Kai face, deadpan",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s055",
+   "start": 103.13,
+   "end": 104.48,
+   "line": "That’s the whole point.",
+   "scene": "random balls bouncing: RANDOM",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s056",
+   "start": 104.48,
+   "end": 106.33,
+   "line": "Then you fix something real.",
+   "scene": "Kai on a bench with a laptop by the road",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s057",
+   "start": 106.33,
+   "end": 108.91,
+   "line": "The town’s traffic lights are badly timed.",
+   "scene": "traffic jam at red lights",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "horn",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s058",
+   "start": 108.91,
+   "end": 111.41,
+   "line": "You rewrite the pattern in one afternoon.",
+   "scene": "map of junctions, green wave flows",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s059",
+   "start": 111.41,
+   "end": 113.77,
+   "line": "Rush hour gets twelve minutes shorter.",
+   "scene": "-12 MINUTES",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s060",
+   "start": 113.77,
+   "end": 115.56,
+   "line": "Nobody knows it was you.",
+   "scene": "cars flowing, Kai unnoticed",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "carpass",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s061",
+   "start": 115.56,
+   "end": 117.85,
+   "line": "Which... is kind of nice.",
+   "scene": "Kai face, small smile",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s062",
+   "start": 117.85,
+   "end": 119.95,
+   "line": "Minus: the headaches.",
+   "scene": "MINUS chapter, Kai holding his head",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s063",
+   "start": 119.95,
+   "end": 124.0,
+   "line": "Think too fast for too long, and your skull starts to pound.",
+   "scene": "pulsing red rings around Kai's head",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -12,
+     "bpm": 110
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s064",
+   "start": 124.0,
+   "end": 127.19,
+   "line": "Your brain has about eighty-six billion neurons.",
+   "scene": "neuron network: 86 BILLION",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s065",
+   "start": 127.19,
+   "end": 130.06,
+   "line": "Yours fire like they’re all late for something.",
+   "scene": "neurons firing rapidly",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "buzz",
+     "gain": -18
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s066",
+   "start": 130.06,
+   "end": 131.85,
+   "line": "You sleep twelve hours a night.",
+   "scene": "Kai asleep, clock spins 12 h",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s067",
+   "start": 131.85,
+   "end": 133.45,
+   "line": "And you’re always hungry.",
+   "scene": "Kai eating, plates stacked",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s068",
+   "start": 133.45,
+   "end": 135.11,
+   "line": "Is that your third sandwich?",
+   "scene": "Mom face, eyebrows up",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s069",
+   "start": 135.11,
+   "end": 135.84,
+   "line": "Fourth...",
+   "scene": "Kai mouth full, 4 fingers",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s070",
+   "start": 135.84,
+   "end": 137.4,
+   "line": "Brains are expensive.",
+   "scene": "brain + burger fuel gauge",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s071",
+   "start": 137.4,
+   "end": 140.6,
+   "line": "But where it gets really crazy... is the weather.",
+   "scene": "Kai looks up at dark clouds",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "thunder",
+     "gain": -22
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s072",
+   "start": 140.6,
+   "end": 143.56,
+   "line": "You start predicting storms better than the forecast.",
+   "scene": "Kai's forecast vs official: Kai wins",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s073",
+   "start": 143.56,
+   "end": 146.01,
+   "line": "A scientist named Dr. Lee notices.",
+   "scene": "Dr. Lee at her screens notices",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s074",
+   "start": 146.01,
+   "end": 148.34,
+   "line": "She invites you to the city’s flood center.",
+   "scene": "Kai enters the flood center",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s075",
+   "start": 148.34,
+   "end": 150.21,
+   "line": "How did you know it would rain on Tuesday?",
+   "scene": "Dr. Lee face, curious",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s076",
+   "start": 150.21,
+   "end": 151.84,
+   "line": "The clouds told me.",
+   "scene": "Kai face, simple",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s077",
+   "start": 151.84,
+   "end": 153.26,
+   "line": "You just weren’t listening.",
+   "scene": "clouds whisper data",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s078",
+   "start": 153.26,
+   "end": 154.45,
+   "line": "She doesn’t laugh.",
+   "scene": "Dr. Lee face, serious",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s079",
+   "start": 154.45,
+   "end": 155.76,
+   "line": "She gives you a desk.",
+   "scene": "a desk with KAI nameplate",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s080",
+   "start": 155.76,
+   "end": 156.93,
+   "line": "And there’s a cost.",
+   "scene": "void dims",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s081",
+   "start": 156.93,
+   "end": 157.98,
+   "line": "The price?",
+   "scene": "THE PRICE chapter",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s082",
+   "start": 157.98,
+   "end": 159.65,
+   "line": "People stop seeing a kid.",
+   "scene": "Kai among classmates, faded",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s083",
+   "start": 159.65,
+   "end": 161.27,
+   "line": "They see a calculator.",
+   "scene": "Kai's head becomes a calculator",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s084",
+   "start": 161.27,
+   "end": 163.15,
+   "line": "Teachers ask you for answers.",
+   "scene": "teachers queue with papers",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s085",
+   "start": 163.15,
+   "end": 164.94,
+   "line": "Adults ask you for money.",
+   "scene": "adults with money signs",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s086",
+   "start": 164.94,
+   "end": 167.27,
+   "line": "Even Ben stops joking around.",
+   "scene": "Ben quiet, distant",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s087",
+   "start": 167.27,
+   "end": 168.14,
+   "line": "Mate...",
+   "scene": "Ben face",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s088",
+   "start": 168.14,
+   "end": 169.72,
+   "line": "are you even still you?",
+   "scene": "Ben face, worried",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s089",
+   "start": 169.72,
+   "end": 170.9,
+   "line": "You don’t know.",
+   "scene": "Kai face, unsure",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s090",
+   "start": 170.9,
+   "end": 172.51,
+   "line": "Everything feels slow.",
+   "scene": "classroom in slow motion, blur",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "slowmo",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s091",
+   "start": 172.51,
+   "end": 175.06,
+   "line": "Conversations feel like waiting for a bus.",
+   "scene": "Kai at a bus stop, clock crawling",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s092",
+   "start": 175.06,
+   "end": 178.94,
+   "line": "Mom finds you awake at three in the morning, staring at the ceiling.",
+   "scene": "night bedroom, Kai awake on bed, Mom at door",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s093",
+   "start": 178.94,
+   "end": 180.97,
+   "line": "What are you thinking about, sweetheart?",
+   "scene": "Mom face, soft",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s094",
+   "start": 180.97,
+   "end": 181.93,
+   "line": "Everything.",
+   "scene": "Kai face, overwhelmed",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s095",
+   "start": 181.93,
+   "end": 183.1,
+   "line": "All at once.",
+   "scene": "thousand thoughts swirling",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s096",
+   "start": 183.1,
+   "end": 184.51,
+   "line": "It’s loud in here.",
+   "scene": "noise rings slam",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s097",
+   "start": 184.51,
+   "end": 187.45,
+   "line": "And the more you use your brain, the more it hurts.",
+   "scene": "Kai head pain rings",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s098",
+   "start": 187.45,
+   "end": 189.12,
+   "line": "Dr. Lee warns you.",
+   "scene": "Dr. Lee talks to Kai",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s099",
+   "start": 189.12,
+   "end": 191.04,
+   "line": "Full power for too long...",
+   "scene": "Dr. Lee face, warning",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s100",
+   "start": 191.04,
+   "end": 193.16,
+   "line": "and you might not come back the same.",
+   "scene": "brain meter in the red: DANGER",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s101",
+   "start": 193.16,
+   "end": 196.11,
+   "line": "Being smart is easy, you tell her.",
+   "scene": "Kai face, gold words",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s102",
+   "start": 196.11,
+   "end": 198.37,
+   "line": "Being useful is the hard part.",
+   "scene": "gold words continue",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s103",
+   "start": 198.37,
+   "end": 201.37,
+   "line": "Only one person treats you like nothing changed.",
+   "scene": "Mia's room, Mia drawing",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s104",
+   "start": 201.37,
+   "end": 203.24,
+   "line": "Your little sister, Mia.",
+   "scene": "Mia medium, label MIA",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s105",
+   "start": 203.24,
+   "end": 204.25,
+   "line": "She’s eight.",
+   "scene": "label AGE 8",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s106",
+   "start": 204.25,
+   "end": 206.26,
+   "line": "She thinks your brain is boring.",
+   "scene": "Mia face, bored",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s107",
+   "start": 206.26,
+   "end": 209.35,
+   "line": "She wins at hide and seek because you let her.",
+   "scene": "Kai pretends not to see Mia",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s108",
+   "start": 209.35,
+   "end": 212.43,
+   "line": "And she draws you every week with a tiny little head.",
+   "scene": "drawing: Kai with a tiny head",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s109",
+   "start": 212.43,
+   "end": 214.08,
+   "line": "I like you better dumb.",
+   "scene": "Mia face, grin",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s110",
+   "start": 214.08,
+   "end": 218.84,
+   "line": "Every Friday, you two lie on the grass and guess shapes in the clouds.",
+   "scene": "Kai and Mia lie on the grass, clouds",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s111",
+   "start": 218.84,
+   "end": 221.57,
+   "line": "You could name every cloud type in Latin.",
+   "scene": "cloud labels flicker: CUMULUS, CIRRUS",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s112",
+   "start": 221.57,
+   "end": 222.66,
+   "line": "You don’t.",
+   "scene": "labels vanish",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s113",
+   "start": 222.66,
+   "end": 225.15,
+   "line": "That one’s a dragon, Mia says.",
+   "scene": "a cloud shaped like a dragon",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s114",
+   "start": 225.15,
+   "end": 226.67,
+   "line": "Definitely a dragon.",
+   "scene": "Kai and Mia grin",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s115",
+   "start": 226.67,
+   "end": 229.74,
+   "line": "When storms come, you taught her one rhyme.",
+   "scene": "Kai teaches Mia, rain on the window",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s116",
+   "start": 229.74,
+   "end": 230.94,
+   "line": "Turn around...",
+   "scene": "TURN AROUND",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s117",
+   "start": 230.94,
+   "end": 232.26,
+   "line": "don’t drown.",
+   "scene": "DON'T DROWN",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s118",
+   "start": 232.26,
+   "end": 235.29,
+   "line": "If water’s on the road, you don’t walk through it.",
+   "scene": "figure at flooded road: X",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s119",
+   "start": 235.29,
+   "end": 236.42,
+   "line": "You go up.",
+   "scene": "arrow up to high ground",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s120",
+   "start": 236.42,
+   "end": 241.24,
+   "line": "Moving water just fifteen centimeters deep can knock an adult off their feet.",
+   "scene": "15 cm water knocks a figure over",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s121",
+   "start": 241.24,
+   "end": 243.73,
+   "line": "Thirty centimeters can float a car.",
+   "scene": "30 cm: car floats",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s122",
+   "start": 243.73,
+   "end": 245.3,
+   "line": "Mia rolls her eyes.",
+   "scene": "Mia face, eye roll",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s123",
+   "start": 245.3,
+   "end": 246.75,
+   "line": "I know, Kai.",
+   "scene": "Mia talking",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s124",
+   "start": 246.75,
+   "end": 247.51,
+   "line": "Up.",
+   "scene": "Mia points up: UP",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s125",
+   "start": 247.51,
+   "end": 248.69,
+   "line": "Not through.",
+   "scene": "NOT THROUGH",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s126",
+   "start": 248.69,
+   "end": 250.36,
+   "line": "Then comes the storm.",
+   "scene": "storm over the river and levee",
+   "set": "river",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "thunder",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s127",
+   "start": 250.36,
+   "end": 251.83,
+   "line": "Three days of rain.",
+   "scene": "rain, calendar 3 days",
+   "set": "river",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s128",
+   "start": 251.83,
+   "end": 254.74,
+   "line": "At the flood center, every screen is blue.",
+   "scene": "every screen glowing blue",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s129",
+   "start": 254.74,
+   "end": 256.23,
+   "line": "The river is rising.",
+   "scene": "river level rising on the levee",
+   "set": "river",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s130",
+   "start": 256.23,
+   "end": 259.69,
+   "line": "The water is climbing about ten centimeters every hour.",
+   "scene": "gauge: +10 cm / HOUR",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s131",
+   "start": 259.69,
+   "end": 263.14,
+   "line": "The official forecast says the old levee will hold.",
+   "scene": "screen: FORECAST: LEVEE HOLDS",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s132",
+   "start": 263.14,
+   "end": 264.45,
+   "line": "You look at the numbers...",
+   "scene": "Kai stares at numbers",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s133",
+   "start": 264.45,
+   "end": 265.97,
+   "line": "and your stomach drops.",
+   "scene": "bigFace Kai, dread",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s134",
+   "start": 265.97,
+   "end": 267.0,
+   "line": "It won’t.",
+   "scene": "IT WON'T",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s135",
+   "start": 267.0,
+   "end": 270.72,
+   "line": "Somewhere along twelve kilometers of wall, it’s going to break.",
+   "scene": "12 km levee line, risk flickers",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s136",
+   "start": 270.72,
+   "end": 271.83,
+   "line": "But where?",
+   "scene": "WHERE?",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s137",
+   "start": 271.83,
+   "end": 272.85,
+   "line": "And when?",
+   "scene": "WHEN?",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s138",
+   "start": 272.85,
+   "end": 274.44,
+   "line": "Can you even be sure?",
+   "scene": "Kai face, doubt",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s139",
+   "start": 274.44,
+   "end": 278.13,
+   "line": "To find out, you’d have to run every piece of data at once.",
+   "scene": "all data streams converge on Kai",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s140",
+   "start": 278.13,
+   "end": 279.27,
+   "line": "Full power.",
+   "scene": "FULL POWER warning",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s141",
+   "start": 279.27,
+   "end": 282.19,
+   "line": "The one thing Dr. Lee told you never to do.",
+   "scene": "memory: Dr. Lee warning",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s142",
+   "start": 282.19,
+   "end": 283.68,
+   "line": "Then your phone buzzes.",
+   "scene": "phone buzzes on the desk",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "phonebuzz",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s143",
+   "start": 283.68,
+   "end": 285.85,
+   "line": "Mia’s school is on a field trip today.",
+   "scene": "phone screen: FIELD TRIP TODAY",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s144",
+   "start": 285.85,
+   "end": 287.56,
+   "line": "To the riverside museum.",
+   "scene": "the museum by the river",
+   "set": "river",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s145",
+   "start": 287.56,
+   "end": 289.24,
+   "line": "Right beside the levee.",
+   "scene": "wide: museum next to the levee wall",
+   "set": "river",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "thunder",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s146",
+   "start": 289.24,
+   "end": 290.79,
+   "line": "You call Mia’s teacher.",
+   "scene": "Kai on the phone",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "phonering",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s147",
+   "start": 290.79,
+   "end": 291.91,
+   "line": "No answer.",
+   "scene": "phone: CALL FAILED",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s148",
+   "start": 291.91,
+   "end": 294.74,
+   "line": "The storm has knocked out half the phone towers.",
+   "scene": "phone towers dark, lightning",
+   "set": "river",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "thunder",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s149",
+   "start": 294.74,
+   "end": 297.67,
+   "line": "Buses would need twenty minutes to reach the museum.",
+   "scene": "bus to museum: 20 MIN",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s150",
+   "start": 297.67,
+   "end": 300.92,
+   "line": "If the wall breaks first... there’s no time at all.",
+   "scene": "timeline: wall break before bus",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s151",
+   "start": 300.92,
+   "end": 302.21,
+   "line": "You could stay safe.",
+   "scene": "balance: KEEP THE GIFT vs MIA",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s152",
+   "start": 302.21,
+   "end": 303.86,
+   "line": "Keep your thousand IQ.",
+   "scene": "balance tips to KEEP",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s153",
+   "start": 303.86,
+   "end": 305.47,
+   "line": "Hope the forecast is right.",
+   "scene": "forecast screen: HOLDS",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s154",
+   "start": 305.47,
+   "end": 307.7,
+   "line": "Or you could push your brain past its limit...",
+   "scene": "Kai's brain glowing, cracks",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s155",
+   "start": 307.7,
+   "end": 309.37,
+   "line": "and maybe lose it forever.",
+   "scene": "glow fades out",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s156",
+   "start": 309.37,
+   "end": 311.02,
+   "line": "Dr. Lee grabs your arm.",
+   "scene": "Dr. Lee grabs Kai's arm",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s157",
+   "start": 311.02,
+   "end": 311.79,
+   "line": "Kai.",
+   "scene": "Dr. Lee face",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s158",
+   "start": 311.79,
+   "end": 314.66,
+   "line": "If you do this, I can’t promise what comes back.",
+   "scene": "Dr. Lee face, scared",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s159",
+   "start": 314.66,
+   "end": 316.32,
+   "line": "What’s the point of a brain...",
+   "scene": "Kai face, determined",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s160",
+   "start": 316.32,
+   "end": 317.7,
+   "line": "if it just watches?",
+   "scene": "Kai face",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s161",
+   "start": 317.7,
+   "end": 318.51,
+   "line": "Keep the gift...",
+   "scene": "balance: THE GIFT",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s162",
+   "start": 318.51,
+   "end": 319.91,
+   "line": "or keep your sister.",
+   "scene": "balance tips to MIA",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s163",
+   "start": 319.91,
+   "end": 321.47,
+   "line": "Being smart is easy.",
+   "scene": "gold words",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s164",
+   "start": 321.47,
+   "end": 323.43,
+   "line": "Being useful is the hard part.",
+   "scene": "gold words continue",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s165",
+   "start": 323.43,
+   "end": 324.73,
+   "line": "You close your eyes.",
+   "scene": "bigFace Kai closes his eyes",
+   "set": "floodcenter",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hum",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s166",
+   "start": 324.73,
+   "end": 327.0,
+   "line": "And you open the floodgates in your head.",
+   "scene": "floodgates open: data floods in",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "powerup",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s167",
+   "start": 327.0,
+   "end": 328.37,
+   "line": "Every rain gauge.",
+   "scene": "rain gauges fly in",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s168",
+   "start": 328.37,
+   "end": 330.98,
+   "line": "Every crack report since 2007.",
+   "scene": "crack reports 2007-2024 fly in",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s169",
+   "start": 330.98,
+   "end": 332.53,
+   "line": "Every bend in the river.",
+   "scene": "river map draws itself",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s170",
+   "start": 332.53,
+   "end": 333.85,
+   "line": "Your head burns.",
+   "scene": "Kai's head glows red hot",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "buzz",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s171",
+   "start": 333.85,
+   "end": 334.74,
+   "line": "The room tilts.",
+   "scene": "the room tilts, dutch angle",
+   "set": "floodcenter",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "slowmo",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s172",
+   "start": 334.74,
+   "end": 336.72,
+   "line": "But the answer arrives.",
+   "scene": "everything clicks into one point",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s173",
+   "start": 336.72,
+   "end": 338.07,
+   "line": "Section nine.",
+   "scene": "levee map: SECTION 9 flashes red",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s174",
+   "start": 338.07,
+   "end": 339.7,
+   "line": "Thirty-eight minutes.",
+   "scene": "countdown 38:00",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "tick",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s175",
+   "start": 339.7,
+   "end": 341.61,
+   "line": "Right behind the museum.",
+   "scene": "section 9 is behind the museum",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s176",
+   "start": 341.61,
+   "end": 344.52,
+   "line": "Nobody listens to a thirteen-year-old with a hunch.",
+   "scene": "adults ignore Kai",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s177",
+   "start": 344.52,
+   "end": 346.18,
+   "line": "So you don’t give them a hunch.",
+   "scene": "Kai face, determined",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s178",
+   "start": 346.18,
+   "end": 347.49,
+   "line": "You give them proof.",
+   "scene": "Kai slaps data on the big screen",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s179",
+   "start": 347.49,
+   "end": 349.72,
+   "line": "The man in charge folds his arms.",
+   "scene": "the chief folds his arms",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s180",
+   "start": 349.72,
+   "end": 351.68,
+   "line": "The forecast says it holds.",
+   "scene": "chief face, stubborn",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s181",
+   "start": 351.68,
+   "end": 354.9,
+   "line": "The forecast is using last year’s data, you say.",
+   "scene": "Kai face, firm",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s182",
+   "start": 354.9,
+   "end": 356.14,
+   "line": "The river moved.",
+   "scene": "old vs new river path overlay",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s183",
+   "start": 356.14,
+   "end": 358.17,
+   "line": "You show him the pressure numbers.",
+   "scene": "screen: PRESSURE numbers",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s184",
+   "start": 358.17,
+   "end": 360.18,
+   "line": "The old crack nobody fixed.",
+   "scene": "the old crack zooms in",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s185",
+   "start": 360.18,
+   "end": 361.62,
+   "line": "Dr. Lee checks it...",
+   "scene": "Dr. Lee checks the screen",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s186",
+   "start": 361.62,
+   "end": 363.02,
+   "line": "and goes pale.",
+   "scene": "Dr. Lee face, pale",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s187",
+   "start": 363.02,
+   "end": 364.13,
+   "line": "Evacuate.",
+   "scene": "red alarm lights: EVACUATE",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s188",
+   "start": 364.13,
+   "end": 365.11,
+   "line": "Now.",
+   "scene": "NOW",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s189",
+   "start": 365.11,
+   "end": 367.13,
+   "line": "Then the floor rushes up to meet you.",
+   "scene": "Kai collapses, camera falls",
+   "set": "floodcenter",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s190",
+   "start": 367.13,
+   "end": 368.65,
+   "line": "Everything goes dark.",
+   "scene": "black",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s191",
+   "start": 368.65,
+   "end": 370.45,
+   "line": "You wake up two days later.",
+   "scene": "hospital bed, Kai wakes, TWO DAYS LATER",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "heartbeat",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s192",
+   "start": 370.45,
+   "end": 371.72,
+   "line": "Mom is crying.",
+   "scene": "Mom face, tears",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s193",
+   "start": 371.72,
+   "end": 374.31,
+   "line": "Ben is holding a sandwich, just in case.",
+   "scene": "Ben holding a sandwich",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s194",
+   "start": 374.31,
+   "end": 375.46,
+   "line": "You did it, mate.",
+   "scene": "Ben face, grin",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s195",
+   "start": 375.46,
+   "end": 376.81,
+   "line": "You’re still you.",
+   "scene": "Ben face",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s196",
+   "start": 376.81,
+   "end": 379.02,
+   "line": "The levee broke at section nine...",
+   "scene": "levee breaks at section 9, water bursts",
+   "set": "river",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -8
+    },
+    {
+     "at": 0.3,
+     "name": "rain",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s197",
+   "start": 379.02,
+   "end": 380.81,
+   "line": "thirty-eight minutes later.",
+   "scene": "38:00 matched",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s198",
+   "start": 380.81,
+   "end": 382.16,
+   "line": "Nobody was hurt.",
+   "scene": "empty museum steps, people safe on the hill",
+   "set": "river",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s199",
+   "start": 382.16,
+   "end": 383.29,
+   "line": "And Mia?",
+   "scene": "Kai face, worried",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s200",
+   "start": 383.29,
+   "end": 387.74,
+   "line": "When the alarm went off, she grabbed her teacher’s hand and shouted one thing.",
+   "scene": "flashback: alarm, Mia grabs teacher's hand",
+   "set": "river",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s201",
+   "start": 387.74,
+   "end": 388.86,
+   "line": "Not through!",
+   "scene": "Mia shouting: NOT THROUGH!",
+   "set": "river",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s202",
+   "start": 388.86,
+   "end": 389.67,
+   "line": "Up!",
+   "scene": "UP!",
+   "set": "river",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s203",
+   "start": 389.67,
+   "end": 392.82,
+   "line": "Her whole class climbed to the museum’s top floor.",
+   "scene": "class climbs to the museum's top floor",
+   "set": "river",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -16
+    },
+    {
+     "at": 0.7,
+     "name": "footstep",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s204",
+   "start": 392.82,
+   "end": 394.96,
+   "line": "Then Dr. Lee hands you a test.",
+   "scene": "Dr. Lee hands Kai a test",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s205",
+   "start": 394.96,
+   "end": 396.37,
+   "line": "Your new IQ?",
+   "scene": "IQ counter falling from 1,000",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s206",
+   "start": 396.37,
+   "end": 398.23,
+   "line": "One hundred and thirty-two.",
+   "scene": "132",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s207",
+   "start": 398.23,
+   "end": 399.32,
+   "line": "Still clever.",
+   "scene": "Kai face, smiling",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s208",
+   "start": 399.32,
+   "end": 400.12,
+   "line": "Just...",
+   "scene": "Kai face",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s209",
+   "start": 400.12,
+   "end": 401.25,
+   "line": "human.",
+   "scene": "HUMAN",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s210",
+   "start": 401.25,
+   "end": 403.17,
+   "line": "Mia hands you a new drawing.",
+   "scene": "Mia gives Kai a drawing",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s211",
+   "start": 403.17,
+   "end": 405.15,
+   "line": "Your head is normal-sized now.",
+   "scene": "drawing: Kai with a normal head",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s212",
+   "start": 405.15,
+   "end": 406.18,
+   "line": "Much better.",
+   "scene": "Mia face, grin",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s213",
+   "start": 406.18,
+   "end": 410.57,
+   "line": "And for the first time in months, Ben’s jokes feel fast enough to be funny.",
+   "scene": "Ben joking, Kai laughing",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s214",
+   "start": 410.57,
+   "end": 413.68,
+   "line": "That Friday, you lie on the grass with Mia.",
+   "scene": "Kai and Mia on the grass",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s215",
+   "start": 413.68,
+   "end": 415.11,
+   "line": "Look, she says.",
+   "scene": "Mia points up",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s216",
+   "start": 415.11,
+   "end": 416.14,
+   "line": "A dragon.",
+   "scene": "dragon cloud",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s217",
+   "start": 416.14,
+   "end": 417.19,
+   "line": "You squint.",
+   "scene": "Kai face, squinting",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s218",
+   "start": 417.19,
+   "end": 419.98,
+   "line": "You can’t remember a single cloud name in Latin.",
+   "scene": "blank cloud labels: ???",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s219",
+   "start": 419.98,
+   "end": 421.67,
+   "line": "Definitely a dragon.",
+   "scene": "Kai and Mia laughing",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s220",
+   "start": 421.67,
+   "end": 423.59,
+   "line": "Being smart is easy.",
+   "scene": "gold words over the sky",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s221",
+   "start": 423.59,
+   "end": 425.97,
+   "line": "Being useful is the hard part.",
+   "scene": "gold words continue, pull back",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s222",
+   "start": 425.97,
+   "end": 427.54,
+   "line": "Is any of this real?",
+   "scene": "IS ANY OF THIS REAL?",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s223",
+   "start": 427.54,
+   "end": 433.47,
+   "line": "IQ tests compare you with other people your age, so a score of a thousand doesn’t really mean anything.",
+   "scene": "IQ = compared with your age group; 1,000 off the scale",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s224",
+   "start": 433.47,
+   "end": 436.94,
+   "line": "Your brain really does use about a fifth of your body’s energy.",
+   "scene": "brain = 1/5 of energy: TRUE",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s225",
+   "start": 436.94,
+   "end": 440.59,
+   "line": "Though, honestly, hard thinking only burns a little extra.",
+   "scene": "hard thinking: + a little",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s226",
+   "start": 440.59,
+   "end": 442.99,
+   "line": "And the flood advice is completely real.",
+   "scene": "flood advice: REAL",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s227",
+   "start": 442.99,
+   "end": 445.59,
+   "line": "Never walk or drive through moving water.",
+   "scene": "no walking / driving through water",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s228",
+   "start": 445.59,
+   "end": 447.75,
+   "line": "Go up, not through.",
+   "scene": "UP, NOT THROUGH",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s229",
+   "start": 447.75,
+   "end": 450.65,
+   "line": "So could anyone ever be a thousand times smarter?",
+   "scene": "Kai and Mia look at the sky",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s230",
+   "start": 450.65,
+   "end": 460.42,
+   "line": "What do you think? Tell us in the comments, and tell us which superpower we should do next. Hit like, and subscribe for more What Ifs.",
+   "scene": "END SCREEN: question, cast, MORE WHAT IFS",
+   "set": "end",
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0.0,
+   "end": 42.15,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 42.15,
+   "end": 58.5,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 58.5,
+   "end": 60.87,
+   "mood": "epic",
+   "intensity": 0.65
+  },
+  {
+   "start": 60.87,
+   "end": 95.19,
+   "mood": "playful",
+   "intensity": 0.5
+  },
+  {
+   "start": 95.19,
+   "end": 117.6,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 117.6,
+   "end": 137.15,
+   "mood": "tension",
+   "intensity": 0.45
+  },
+  {
+   "start": 137.15,
+   "end": 155.51,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 155.51,
+   "end": 198.12,
+   "mood": "sad",
+   "intensity": 0.35
+  },
+  {
+   "start": 198.12,
+   "end": 248.44,
+   "mood": "hopeful",
+   "intensity": 0.4
+  },
+  {
+   "start": 248.44,
+   "end": 281.94,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 281.94,
+   "end": 300.67,
+   "mood": "dark",
+   "intensity": 0.55
+  },
+  {
+   "start": 300.67,
+   "end": 323.18,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 323.18,
+   "end": 341.36,
+   "mood": "epic",
+   "intensity": 0.7
+  },
+  {
+   "start": 341.36,
+   "end": 366.88,
+   "mood": "action",
+   "intensity": 0.65
+  },
+  {
+   "start": 366.88,
+   "end": 368.4,
+   "mood": "dark",
+   "intensity": 0.3
+  },
+  {
+   "start": 368.4,
+   "end": 376.56,
+   "mood": "hopeful",
+   "intensity": 0.4
+  },
+  {
+   "start": 376.56,
+   "end": 392.57,
+   "mood": "triumph",
+   "intensity": 0.55
+  },
+  {
+   "start": 392.57,
+   "end": 410.32,
+   "mood": "hopeful",
+   "intensity": 0.45
+  },
+  {
+   "start": 410.32,
+   "end": 425.72,
+   "mood": "wonder",
+   "intensity": 0.45
+  },
+  {
+   "start": 425.72,
+   "end": 447.5,
+   "mood": "wonder",
+   "intensity": 0.4
+  },
+  {
+   "start": 447.5,
+   "end": 460.42,
+   "mood": "mystery",
+   "intensity": 0.4
+  }
+ ],
+ "sfx": []
+}
