@@ -1,0 +1,1454 @@
+[
+ {
+  "i": 0,
+  "start": 0.19,
+  "end": 1.5,
+  "text": "You look at a Rubik’s cube."
+ },
+ {
+  "i": 1,
+  "start": 1.86,
+  "end": 2.34,
+  "text": "Once."
+ },
+ {
+  "i": 2,
+  "start": 2.81,
+  "end": 3.62,
+  "text": "You hand it back..."
+ },
+ {
+  "i": 3,
+  "start": 4.02,
+  "end": 4.6,
+  "text": "solved."
+ },
+ {
+  "i": 4,
+  "start": 5.13,
+  "end": 7.17,
+  "text": "You read a physics textbook over breakfast."
+ },
+ {
+  "i": 5,
+  "start": 7.65,
+  "end": 9.81,
+  "text": "Then you find a mistake on page two hundred."
+ },
+ {
+  "i": 6,
+  "start": 10.29,
+  "end": 12.33,
+  "text": "Your dad’s car makes a strange noise."
+ },
+ {
+  "i": 7,
+  "start": 12.78,
+  "end": 14.43,
+  "text": "You tell him which part is broken..."
+ },
+ {
+  "i": 8,
+  "start": 14.91,
+  "end": 15.65,
+  "text": "from the kitchen."
+ },
+ {
+  "i": 9,
+  "start": 16.11,
+  "end": 16.41,
+  "text": "How..."
+ },
+ {
+  "i": 10,
+  "start": 16.74,
+  "end": 17.69,
+  "text": "how did you know that?"
+ },
+ {
+  "i": 11,
+  "start": 18.17,
+  "end": 18.83,
+  "text": "It told me."
+ },
+ {
+  "i": 12,
+  "start": 19.56,
+  "end": 21.28,
+  "text": "And your little sister still beats you..."
+ },
+ {
+  "i": 13,
+  "start": 21.64,
+  "end": 22.69,
+  "text": "at hide and seek."
+ },
+ {
+  "i": 14,
+  "start": 23.04,
+  "end": 24.28,
+  "text": "Every single time."
+ },
+ {
+  "i": 15,
+  "start": 24.77,
+  "end": 25.77,
+  "text": "Your name is Kai."
+ },
+ {
+  "i": 16,
+  "start": 26.13,
+  "end": 27.02,
+  "text": "You’re thirteen."
+ },
+ {
+  "i": 17,
+  "start": 27.42,
+  "end": 30.1,
+  "text": "Most people score around a hundred on an IQ test."
+ },
+ {
+  "i": 18,
+  "start": 30.66,
+  "end": 34.68,
+  "text": "Fewer than one in seven hundred score above one hundred and forty-five."
+ },
+ {
+  "i": 19,
+  "start": 35.07,
+  "end": 35.46,
+  "text": "You?"
+ },
+ {
+  "i": 20,
+  "start": 35.85,
+  "end": 36.73,
+  "text": "One thousand."
+ },
+ {
+  "i": 21,
+  "start": 37.16,
+  "end": 38.82,
+  "text": "No test can even measure that."
+ },
+ {
+  "i": 22,
+  "start": 39.25,
+  "end": 42.14,
+  "text": "Most stop working well before one hundred and sixty."
+ },
+ {
+  "i": 23,
+  "start": 42.55,
+  "end": 43.4,
+  "text": "But there’s a rule."
+ },
+ {
+  "i": 24,
+  "start": 43.82,
+  "end": 45.2,
+  "text": "Your brain got smarter."
+ },
+ {
+  "i": 25,
+  "start": 45.57,
+  "end": 46.51,
+  "text": "Your body didn’t."
+ },
+ {
+  "i": 26,
+  "start": 46.96,
+  "end": 49.33,
+  "text": "Your brain is only about two percent of your weight..."
+ },
+ {
+  "i": 27,
+  "start": 49.67,
+  "end": 52.11,
+  "text": "yet it burns about twenty percent of your energy."
+ },
+ {
+  "i": 28,
+  "start": 52.55,
+  "end": 55.56,
+  "text": "Running at full power, yours burns far more."
+ },
+ {
+  "i": 29,
+  "start": 55.97,
+  "end": 56.98,
+  "text": "Push it too hard..."
+ },
+ {
+  "i": 30,
+  "start": 57.35,
+  "end": 58.4,
+  "text": "and it shuts down."
+ },
+ {
+  "i": 31,
+  "start": 58.9,
+  "end": 60.94,
+  "text": "So what if you had a thousand IQ?"
+ },
+ {
+  "i": 32,
+  "start": 61.27,
+  "end": 63.22,
+  "text": "Plus: school becomes a joke."
+ },
+ {
+  "i": 33,
+  "start": 63.7,
+  "end": 65.69,
+  "text": "You finish the year’s maths in a weekend."
+ },
+ {
+  "i": 34,
+  "start": 66.14,
+  "end": 67.55,
+  "text": "Then the next five years."
+ },
+ {
+  "i": 35,
+  "start": 67.96,
+  "end": 69.77,
+  "text": "Your teacher stares at your homework."
+ },
+ {
+  "i": 36,
+  "start": 70.22,
+  "end": 70.74,
+  "text": "Kai..."
+ },
+ {
+  "i": 37,
+  "start": 71.22,
+  "end": 72.68,
+  "text": "I don’t understand your answer."
+ },
+ {
+  "i": 38,
+  "start": 73.13,
+  "end": 73.84,
+  "text": "That’s okay."
+ },
+ {
+  "i": 39,
+  "start": 74.24,
+  "end": 75.5,
+  "text": "I wrote you a simpler one."
+ },
+ {
+  "i": 40,
+  "start": 75.94,
+  "end": 76.59,
+  "text": "Languages?"
+ },
+ {
+  "i": 41,
+  "start": 76.95,
+  "end": 78.47,
+  "text": "You learn Spanish on Saturday."
+ },
+ {
+  "i": 42,
+  "start": 78.86,
+  "end": 80.09,
+  "text": "Japanese on Sunday."
+ },
+ {
+  "i": 43,
+  "start": 80.55,
+  "end": 83.47,
+  "text": "Your best friend Ben is still learning his times tables."
+ },
+ {
+  "i": 44,
+  "start": 83.86,
+  "end": 84.45,
+  "text": "Show-off."
+ },
+ {
+  "i": 45,
+  "start": 84.82,
+  "end": 85.27,
+  "text": "Chess?"
+ },
+ {
+  "i": 46,
+  "start": 85.63,
+  "end": 87.54,
+  "text": "You beat the town champion blindfolded."
+ },
+ {
+  "i": 47,
+  "start": 87.91,
+  "end": 88.96,
+  "text": "While eating cereal."
+ },
+ {
+  "i": 48,
+  "start": 89.35,
+  "end": 92.63,
+  "text": "The world record for solving a Rubik’s cube is around three seconds."
+ },
+ {
+  "i": 49,
+  "start": 92.97,
+  "end": 94.1,
+  "text": "You don’t time yourself."
+ },
+ {
+  "i": 50,
+  "start": 94.46,
+  "end": 95.29,
+  "text": "It feels rude."
+ },
+ {
+  "i": 51,
+  "start": 95.59,
+  "end": 96.85,
+  "text": "Then everyone wants something."
+ },
+ {
+  "i": 52,
+  "start": 97.21,
+  "end": 98.69,
+  "text": "Your uncle wants lottery numbers."
+ },
+ {
+  "i": 53,
+  "start": 99.2,
+  "end": 101.04,
+  "text": "Kai, just one lucky guess?"
+ },
+ {
+  "i": 54,
+  "start": 101.58,
+  "end": 102.96,
+  "text": "Lotteries are random, Uncle."
+ },
+ {
+  "i": 55,
+  "start": 103.28,
+  "end": 104.22,
+  "text": "That’s the whole point."
+ },
+ {
+  "i": 56,
+  "start": 104.63,
+  "end": 106.07,
+  "text": "Then you fix something real."
+ },
+ {
+  "i": 57,
+  "start": 106.48,
+  "end": 108.6,
+  "text": "The town’s traffic lights are badly timed."
+ },
+ {
+  "i": 58,
+  "start": 109.06,
+  "end": 111.09,
+  "text": "You rewrite the pattern in one afternoon."
+ },
+ {
+  "i": 59,
+  "start": 111.56,
+  "end": 113.48,
+  "text": "Rush hour gets twelve minutes shorter."
+ },
+ {
+  "i": 60,
+  "start": 113.92,
+  "end": 115.28,
+  "text": "Nobody knows it was you."
+ },
+ {
+  "i": 61,
+  "start": 115.71,
+  "end": 116.18,
+  "text": "Which..."
+ },
+ {
+  "i": 62,
+  "start": 116.51,
+  "end": 117.56,
+  "text": "is kind of nice."
+ },
+ {
+  "i": 63,
+  "start": 118.0,
+  "end": 119.57,
+  "text": "Minus: the headaches."
+ },
+ {
+  "i": 64,
+  "start": 120.1,
+  "end": 123.64,
+  "text": "Think too fast for too long, and your skull starts to pound."
+ },
+ {
+  "i": 65,
+  "start": 124.15,
+  "end": 126.94,
+  "text": "Your brain has about eighty-six billion neurons."
+ },
+ {
+  "i": 66,
+  "start": 127.34,
+  "end": 129.79,
+  "text": "Yours fire like they’re all late for something."
+ },
+ {
+  "i": 67,
+  "start": 130.21,
+  "end": 131.67,
+  "text": "You sleep twelve hours a night."
+ },
+ {
+  "i": 68,
+  "start": 132.0,
+  "end": 133.16,
+  "text": "And you’re always hungry."
+ },
+ {
+  "i": 69,
+  "start": 133.6,
+  "end": 134.98,
+  "text": "Is that your third sandwich?"
+ },
+ {
+  "i": 70,
+  "start": 135.26,
+  "end": 135.66,
+  "text": "Fourth..."
+ },
+ {
+  "i": 71,
+  "start": 135.99,
+  "end": 137.14,
+  "text": "Brains are expensive."
+ },
+ {
+  "i": 72,
+  "start": 137.55,
+  "end": 139.14,
+  "text": "But where it gets really crazy..."
+ },
+ {
+  "i": 73,
+  "start": 139.7,
+  "end": 140.44,
+  "text": "is the weather."
+ },
+ {
+  "i": 74,
+  "start": 140.75,
+  "end": 143.45,
+  "text": "You start predicting storms better than the forecast."
+ },
+ {
+  "i": 75,
+  "start": 143.71,
+  "end": 144.94,
+  "text": "A scientist named Dr."
+ },
+ {
+  "i": 76,
+  "start": 144.94,
+  "end": 145.93,
+  "text": "Lee notices."
+ },
+ {
+  "i": 77,
+  "start": 146.16,
+  "end": 148.22,
+  "text": "She invites you to the city’s flood center."
+ },
+ {
+  "i": 78,
+  "start": 148.49,
+  "end": 150.36,
+  "text": "How did you know it would rain on Tuesday?"
+ },
+ {
+  "i": 79,
+  "start": 150.36,
+  "end": 151.7,
+  "text": "The clouds told me."
+ },
+ {
+  "i": 80,
+  "start": 151.99,
+  "end": 153.1,
+  "text": "You just weren’t listening."
+ },
+ {
+  "i": 81,
+  "start": 153.41,
+  "end": 154.31,
+  "text": "She doesn’t laugh."
+ },
+ {
+  "i": 82,
+  "start": 154.6,
+  "end": 155.64,
+  "text": "She gives you a desk."
+ },
+ {
+  "i": 83,
+  "start": 155.91,
+  "end": 156.83,
+  "text": "And there’s a cost."
+ },
+ {
+  "i": 84,
+  "start": 157.08,
+  "end": 157.68,
+  "text": "The price?"
+ },
+ {
+  "i": 85,
+  "start": 158.13,
+  "end": 159.42,
+  "text": "People stop seeing a kid."
+ },
+ {
+  "i": 86,
+  "start": 159.8,
+  "end": 160.98,
+  "text": "They see a calculator."
+ },
+ {
+  "i": 87,
+  "start": 161.42,
+  "end": 162.91,
+  "text": "Teachers ask you for answers."
+ },
+ {
+  "i": 88,
+  "start": 163.3,
+  "end": 164.68,
+  "text": "Adults ask you for money."
+ },
+ {
+  "i": 89,
+  "start": 165.09,
+  "end": 167.02,
+  "text": "Even Ben stops joking around."
+ },
+ {
+  "i": 90,
+  "start": 167.42,
+  "end": 167.84,
+  "text": "Mate..."
+ },
+ {
+  "i": 91,
+  "start": 168.29,
+  "end": 169.51,
+  "text": "are you even still you?"
+ },
+ {
+  "i": 92,
+  "start": 169.87,
+  "end": 170.67,
+  "text": "You don’t know."
+ },
+ {
+  "i": 93,
+  "start": 171.05,
+  "end": 172.33,
+  "text": "Everything feels slow."
+ },
+ {
+  "i": 94,
+  "start": 172.66,
+  "end": 174.86,
+  "text": "Conversations feel like waiting for a bus."
+ },
+ {
+  "i": 95,
+  "start": 175.21,
+  "end": 178.75,
+  "text": "Mom finds you awake at three in the morning, staring at the ceiling."
+ },
+ {
+  "i": 96,
+  "start": 179.09,
+  "end": 180.77,
+  "text": "What are you thinking about, sweetheart?"
+ },
+ {
+  "i": 97,
+  "start": 181.12,
+  "end": 181.75,
+  "text": "Everything."
+ },
+ {
+  "i": 98,
+  "start": 182.08,
+  "end": 182.94,
+  "text": "All at once."
+ },
+ {
+  "i": 99,
+  "start": 183.25,
+  "end": 184.24,
+  "text": "It’s loud in here."
+ },
+ {
+  "i": 100,
+  "start": 184.66,
+  "end": 187.14,
+  "text": "And the more you use your brain, the more it hurts."
+ },
+ {
+  "i": 101,
+  "start": 187.6,
+  "end": 187.98,
+  "text": "Dr."
+ },
+ {
+  "i": 102,
+  "start": 187.98,
+  "end": 188.88,
+  "text": "Lee warns you."
+ },
+ {
+  "i": 103,
+  "start": 189.27,
+  "end": 190.78,
+  "text": "Full power for too long..."
+ },
+ {
+  "i": 104,
+  "start": 191.19,
+  "end": 192.9,
+  "text": "and you might not come back the same."
+ },
+ {
+  "i": 105,
+  "start": 193.31,
+  "end": 195.82,
+  "text": "Being smart is easy, you tell her."
+ },
+ {
+  "i": 106,
+  "start": 196.26,
+  "end": 198.1,
+  "text": "Being useful is the hard part."
+ },
+ {
+  "i": 107,
+  "start": 198.52,
+  "end": 200.98,
+  "text": "Only one person treats you like nothing changed."
+ },
+ {
+  "i": 108,
+  "start": 201.52,
+  "end": 202.96,
+  "text": "Your little sister, Mia."
+ },
+ {
+  "i": 109,
+  "start": 203.39,
+  "end": 203.99,
+  "text": "She’s eight."
+ },
+ {
+  "i": 110,
+  "start": 204.4,
+  "end": 205.94,
+  "text": "She thinks your brain is boring."
+ },
+ {
+  "i": 111,
+  "start": 206.41,
+  "end": 208.92,
+  "text": "She wins at hide and seek because you let her."
+ },
+ {
+  "i": 112,
+  "start": 209.5,
+  "end": 212.05,
+  "text": "And she draws you every week with a tiny little head."
+ },
+ {
+  "i": 113,
+  "start": 212.58,
+  "end": 213.76,
+  "text": "I like you better dumb."
+ },
+ {
+  "i": 114,
+  "start": 214.23,
+  "end": 218.46,
+  "text": "Every Friday, you two lie on the grass and guess shapes in the clouds."
+ },
+ {
+  "i": 115,
+  "start": 218.99,
+  "end": 221.27,
+  "text": "You could name every cloud type in Latin."
+ },
+ {
+  "i": 116,
+  "start": 221.72,
+  "end": 222.34,
+  "text": "You don’t."
+ },
+ {
+  "i": 117,
+  "start": 222.81,
+  "end": 224.83,
+  "text": "That one’s a dragon, Mia says."
+ },
+ {
+  "i": 118,
+  "start": 225.3,
+  "end": 226.35,
+  "text": "Definitely a dragon."
+ },
+ {
+  "i": 119,
+  "start": 226.82,
+  "end": 229.4,
+  "text": "When storms come, you taught her one rhyme."
+ },
+ {
+  "i": 120,
+  "start": 229.89,
+  "end": 230.66,
+  "text": "Turn around..."
+ },
+ {
+  "i": 121,
+  "start": 231.09,
+  "end": 231.93,
+  "text": "don’t drown."
+ },
+ {
+  "i": 122,
+  "start": 232.41,
+  "end": 235.05,
+  "text": "If water’s on the road, you don’t walk through it."
+ },
+ {
+  "i": 123,
+  "start": 235.44,
+  "end": 236.12,
+  "text": "You go up."
+ },
+ {
+  "i": 124,
+  "start": 236.57,
+  "end": 241.07,
+  "text": "Moving water just fifteen centimeters deep can knock an adult off their feet."
+ },
+ {
+  "i": 125,
+  "start": 241.39,
+  "end": 243.41,
+  "text": "Thirty centimeters can float a car."
+ },
+ {
+  "i": 126,
+  "start": 243.88,
+  "end": 245.11,
+  "text": "Mia rolls her eyes."
+ },
+ {
+  "i": 127,
+  "start": 245.45,
+  "end": 246.47,
+  "text": "I know, Kai."
+ },
+ {
+  "i": 128,
+  "start": 246.9,
+  "end": 247.25,
+  "text": "Up."
+ },
+ {
+  "i": 129,
+  "start": 247.66,
+  "end": 248.51,
+  "text": "Not through."
+ },
+ {
+  "i": 130,
+  "start": 248.84,
+  "end": 250.09,
+  "text": "Then comes the storm."
+ },
+ {
+  "i": 131,
+  "start": 250.51,
+  "end": 251.68,
+  "text": "Three days of rain."
+ },
+ {
+  "i": 132,
+  "start": 251.98,
+  "end": 254.55,
+  "text": "At the flood center, every screen is blue."
+ },
+ {
+  "i": 133,
+  "start": 254.89,
+  "end": 256.04,
+  "text": "The river is rising."
+ },
+ {
+  "i": 134,
+  "start": 256.38,
+  "end": 259.45,
+  "text": "The water is climbing about ten centimeters every hour."
+ },
+ {
+  "i": 135,
+  "start": 259.84,
+  "end": 262.66,
+  "text": "The official forecast says the old levee will hold."
+ },
+ {
+  "i": 136,
+  "start": 263.29,
+  "end": 264.2,
+  "text": "You look at the numbers..."
+ },
+ {
+  "i": 137,
+  "start": 264.6,
+  "end": 265.65,
+  "text": "and your stomach drops."
+ },
+ {
+  "i": 138,
+  "start": 266.12,
+  "end": 266.73,
+  "text": "It won’t."
+ },
+ {
+  "i": 139,
+  "start": 267.15,
+  "end": 270.52,
+  "text": "Somewhere along twelve kilometers of wall, it’s going to break."
+ },
+ {
+  "i": 140,
+  "start": 270.87,
+  "end": 271.53,
+  "text": "But where?"
+ },
+ {
+  "i": 141,
+  "start": 271.98,
+  "end": 272.55,
+  "text": "And when?"
+ },
+ {
+  "i": 142,
+  "start": 273.0,
+  "end": 274.21,
+  "text": "Can you even be sure?"
+ },
+ {
+  "i": 143,
+  "start": 274.59,
+  "end": 277.95,
+  "text": "To find out, you’d have to run every piece of data at once."
+ },
+ {
+  "i": 144,
+  "start": 278.28,
+  "end": 279.05,
+  "text": "Full power."
+ },
+ {
+  "i": 145,
+  "start": 279.42,
+  "end": 280.31,
+  "text": "The one thing Dr."
+ },
+ {
+  "i": 146,
+  "start": 280.31,
+  "end": 281.72,
+  "text": "Lee told you never to do."
+ },
+ {
+  "i": 147,
+  "start": 282.34,
+  "end": 283.54,
+  "text": "Then your phone buzzes."
+ },
+ {
+  "i": 148,
+  "start": 283.83,
+  "end": 285.72,
+  "text": "Mia’s school is on a field trip today."
+ },
+ {
+  "i": 149,
+  "start": 286.0,
+  "end": 287.33,
+  "text": "To the riverside museum."
+ },
+ {
+  "i": 150,
+  "start": 287.71,
+  "end": 288.97,
+  "text": "Right beside the levee."
+ },
+ {
+  "i": 151,
+  "start": 289.39,
+  "end": 290.62,
+  "text": "You call Mia’s teacher."
+ },
+ {
+  "i": 152,
+  "start": 290.94,
+  "end": 291.63,
+  "text": "No answer."
+ },
+ {
+  "i": 153,
+  "start": 292.06,
+  "end": 294.41,
+  "text": "The storm has knocked out half the phone towers."
+ },
+ {
+  "i": 154,
+  "start": 294.89,
+  "end": 297.5,
+  "text": "Buses would need twenty minutes to reach the museum."
+ },
+ {
+  "i": 155,
+  "start": 297.82,
+  "end": 299.08,
+  "text": "If the wall breaks first..."
+ },
+ {
+  "i": 156,
+  "start": 299.36,
+  "end": 300.52,
+  "text": "there’s no time at all."
+ },
+ {
+  "i": 157,
+  "start": 301.07,
+  "end": 302.07,
+  "text": "You could stay safe."
+ },
+ {
+  "i": 158,
+  "start": 302.36,
+  "end": 303.74,
+  "text": "Keep your thousand IQ."
+ },
+ {
+  "i": 159,
+  "start": 304.01,
+  "end": 305.34,
+  "text": "Hope the forecast is right."
+ },
+ {
+  "i": 160,
+  "start": 305.62,
+  "end": 307.58,
+  "text": "Or you could push your brain past its limit..."
+ },
+ {
+  "i": 161,
+  "start": 307.85,
+  "end": 309.2,
+  "text": "and maybe lose it forever."
+ },
+ {
+  "i": 162,
+  "start": 309.52,
+  "end": 309.82,
+  "text": "Dr."
+ },
+ {
+  "i": 163,
+  "start": 309.82,
+  "end": 310.88,
+  "text": "Lee grabs your arm."
+ },
+ {
+  "i": 164,
+  "start": 311.17,
+  "end": 311.59,
+  "text": "Kai."
+ },
+ {
+  "i": 165,
+  "start": 311.94,
+  "end": 314.52,
+  "text": "If you do this, I can’t promise what comes back."
+ },
+ {
+  "i": 166,
+  "start": 314.81,
+  "end": 316.14,
+  "text": "What’s the point of a brain..."
+ },
+ {
+  "i": 167,
+  "start": 316.47,
+  "end": 317.49,
+  "text": "if it just watches?"
+ },
+ {
+  "i": 168,
+  "start": 317.85,
+  "end": 318.43,
+  "text": "Keep the gift..."
+ },
+ {
+  "i": 169,
+  "start": 318.66,
+  "end": 319.75,
+  "text": "or keep your sister."
+ },
+ {
+  "i": 170,
+  "start": 320.06,
+  "end": 321.37,
+  "text": "Being smart is easy."
+ },
+ {
+  "i": 171,
+  "start": 321.62,
+  "end": 323.26,
+  "text": "Being useful is the hard part."
+ },
+ {
+  "i": 172,
+  "start": 323.58,
+  "end": 324.62,
+  "text": "You close your eyes."
+ },
+ {
+  "i": 173,
+  "start": 324.88,
+  "end": 326.76,
+  "text": "And you open the floodgates in your head."
+ },
+ {
+  "i": 174,
+  "start": 327.15,
+  "end": 328.19,
+  "text": "Every rain gauge."
+ },
+ {
+  "i": 175,
+  "start": 328.52,
+  "end": 330.79,
+  "text": "Every crack report since 2007."
+ },
+ {
+  "i": 176,
+  "start": 331.13,
+  "end": 332.36,
+  "text": "Every bend in the river."
+ },
+ {
+  "i": 177,
+  "start": 332.68,
+  "end": 333.73,
+  "text": "Your head burns."
+ },
+ {
+  "i": 178,
+  "start": 334.0,
+  "end": 334.89,
+  "text": "The room tilts."
+ },
+ {
+  "i": 179,
+  "start": 334.89,
+  "end": 336.55,
+  "text": "But the answer arrives."
+ },
+ {
+  "i": 180,
+  "start": 336.87,
+  "end": 337.88,
+  "text": "Section nine."
+ },
+ {
+  "i": 181,
+  "start": 338.22,
+  "end": 339.28,
+  "text": "Thirty-eight minutes."
+ },
+ {
+  "i": 182,
+  "start": 339.85,
+  "end": 341.39,
+  "text": "Right behind the museum."
+ },
+ {
+  "i": 183,
+  "start": 341.76,
+  "end": 344.34,
+  "text": "Nobody listens to a thirteen-year-old with a hunch."
+ },
+ {
+  "i": 184,
+  "start": 344.67,
+  "end": 346.0,
+  "text": "So you don’t give them a hunch."
+ },
+ {
+  "i": 185,
+  "start": 346.33,
+  "end": 347.28,
+  "text": "You give them proof."
+ },
+ {
+  "i": 186,
+  "start": 347.64,
+  "end": 349.48,
+  "text": "The man in charge folds his arms."
+ },
+ {
+  "i": 187,
+  "start": 349.87,
+  "end": 351.51,
+  "text": "The forecast says it holds."
+ },
+ {
+  "i": 188,
+  "start": 351.83,
+  "end": 354.64,
+  "text": "The forecast is using last year’s data, you say."
+ },
+ {
+  "i": 189,
+  "start": 355.05,
+  "end": 355.9,
+  "text": "The river moved."
+ },
+ {
+  "i": 190,
+  "start": 356.29,
+  "end": 357.83,
+  "text": "You show him the pressure numbers."
+ },
+ {
+  "i": 191,
+  "start": 358.32,
+  "end": 360.03,
+  "text": "The old crack nobody fixed."
+ },
+ {
+  "i": 192,
+  "start": 360.33,
+  "end": 360.62,
+  "text": "Dr."
+ },
+ {
+  "i": 193,
+  "start": 360.62,
+  "end": 361.44,
+  "text": "Lee checks it..."
+ },
+ {
+  "i": 194,
+  "start": 361.77,
+  "end": 362.72,
+  "text": "and goes pale."
+ },
+ {
+  "i": 195,
+  "start": 363.17,
+  "end": 363.95,
+  "text": "Evacuate."
+ },
+ {
+  "i": 196,
+  "start": 364.28,
+  "end": 364.81,
+  "text": "Now."
+ },
+ {
+  "i": 197,
+  "start": 365.26,
+  "end": 366.97,
+  "text": "Then the floor rushes up to meet you."
+ },
+ {
+  "i": 198,
+  "start": 367.28,
+  "end": 368.46,
+  "text": "Everything goes dark."
+ },
+ {
+  "i": 199,
+  "start": 368.8,
+  "end": 370.23,
+  "text": "You wake up two days later."
+ },
+ {
+  "i": 200,
+  "start": 370.6,
+  "end": 371.53,
+  "text": "Mom is crying."
+ },
+ {
+  "i": 201,
+  "start": 371.87,
+  "end": 374.05,
+  "text": "Ben is holding a sandwich, just in case."
+ },
+ {
+  "i": 202,
+  "start": 374.46,
+  "end": 375.27,
+  "text": "You did it, mate."
+ },
+ {
+  "i": 203,
+  "start": 375.61,
+  "end": 376.55,
+  "text": "You’re still you."
+ },
+ {
+  "i": 204,
+  "start": 376.96,
+  "end": 378.67,
+  "text": "The levee broke at section nine..."
+ },
+ {
+  "i": 205,
+  "start": 379.17,
+  "end": 380.55,
+  "text": "thirty-eight minutes later."
+ },
+ {
+  "i": 206,
+  "start": 380.96,
+  "end": 381.9,
+  "text": "Nobody was hurt."
+ },
+ {
+  "i": 207,
+  "start": 382.31,
+  "end": 382.96,
+  "text": "And Mia?"
+ },
+ {
+  "i": 208,
+  "start": 383.44,
+  "end": 387.4,
+  "text": "When the alarm went off, she grabbed her teacher’s hand and shouted one thing."
+ },
+ {
+  "i": 209,
+  "start": 387.89,
+  "end": 388.6,
+  "text": "Not through!"
+ },
+ {
+  "i": 210,
+  "start": 389.01,
+  "end": 389.38,
+  "text": "Up!"
+ },
+ {
+  "i": 211,
+  "start": 389.82,
+  "end": 392.42,
+  "text": "Her whole class climbed to the museum’s top floor."
+ },
+ {
+  "i": 212,
+  "start": 392.97,
+  "end": 393.48,
+  "text": "Then Dr."
+ },
+ {
+  "i": 213,
+  "start": 393.48,
+  "end": 394.73,
+  "text": "Lee hands you a test."
+ },
+ {
+  "i": 214,
+  "start": 395.11,
+  "end": 396.1,
+  "text": "Your new IQ?"
+ },
+ {
+  "i": 215,
+  "start": 396.52,
+  "end": 397.95,
+  "text": "One hundred and thirty-two."
+ },
+ {
+  "i": 216,
+  "start": 398.38,
+  "end": 399.15,
+  "text": "Still clever."
+ },
+ {
+  "i": 217,
+  "start": 399.47,
+  "end": 399.84,
+  "text": "Just..."
+ },
+ {
+  "i": 218,
+  "start": 400.27,
+  "end": 400.77,
+  "text": "human."
+ },
+ {
+  "i": 219,
+  "start": 401.4,
+  "end": 403.02,
+  "text": "Mia hands you a new drawing."
+ },
+ {
+  "i": 220,
+  "start": 403.32,
+  "end": 404.88,
+  "text": "Your head is normal-sized now."
+ },
+ {
+  "i": 221,
+  "start": 405.3,
+  "end": 405.96,
+  "text": "Much better."
+ },
+ {
+  "i": 222,
+  "start": 406.33,
+  "end": 410.23,
+  "text": "And for the first time in months, Ben’s jokes feel fast enough to be funny."
+ },
+ {
+  "i": 223,
+  "start": 410.72,
+  "end": 413.37,
+  "text": "That Friday, you lie on the grass with Mia."
+ },
+ {
+  "i": 224,
+  "start": 413.83,
+  "end": 414.91,
+  "text": "Look, she says."
+ },
+ {
+  "i": 225,
+  "start": 415.26,
+  "end": 415.89,
+  "text": "A dragon."
+ },
+ {
+  "i": 226,
+  "start": 416.29,
+  "end": 416.93,
+  "text": "You squint."
+ },
+ {
+  "i": 227,
+  "start": 417.34,
+  "end": 419.71,
+  "text": "You can’t remember a single cloud name in Latin."
+ },
+ {
+  "i": 228,
+  "start": 420.13,
+  "end": 421.36,
+  "text": "Definitely a dragon."
+ },
+ {
+  "i": 229,
+  "start": 421.82,
+  "end": 423.33,
+  "text": "Being smart is easy."
+ },
+ {
+  "i": 230,
+  "start": 423.74,
+  "end": 425.73,
+  "text": "Being useful is the hard part."
+ },
+ {
+  "i": 231,
+  "start": 426.12,
+  "end": 427.26,
+  "text": "Is any of this real?"
+ },
+ {
+  "i": 232,
+  "start": 427.69,
+  "end": 433.2,
+  "text": "IQ tests compare you with other people your age, so a score of a thousand doesn’t really mean anything."
+ },
+ {
+  "i": 233,
+  "start": 433.62,
+  "end": 436.7,
+  "text": "Your brain really does use about a fifth of your body’s energy."
+ },
+ {
+  "i": 234,
+  "start": 437.09,
+  "end": 440.36,
+  "text": "Though, honestly, hard thinking only burns a little extra."
+ },
+ {
+  "i": 235,
+  "start": 440.74,
+  "end": 442.74,
+  "text": "And the flood advice is completely real."
+ },
+ {
+  "i": 236,
+  "start": 443.14,
+  "end": 445.28,
+  "text": "Never walk or drive through moving water."
+ },
+ {
+  "i": 237,
+  "start": 445.74,
+  "end": 447.38,
+  "text": "Go up, not through."
+ },
+ {
+  "i": 238,
+  "start": 447.9,
+  "end": 450.39,
+  "text": "So could anyone ever be a thousand times smarter?"
+ },
+ {
+  "i": 239,
+  "start": 450.8,
+  "end": 451.51,
+  "text": "What do you think?"
+ },
+ {
+  "i": 240,
+  "start": 452.01,
+  "end": 455.62,
+  "text": "Tell us in the comments, and tell us which superpower we should do next."
+ },
+ {
+  "i": 241,
+  "start": 456.05,
+  "end": 458.48,
+  "text": "Hit like, and subscribe for more What Ifs."
+ }
+]
