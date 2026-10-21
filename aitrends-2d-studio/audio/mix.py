@@ -41,6 +41,9 @@ def main():
     cfg = json.load(open(os.path.join(P, "config.json"), encoding="utf-8")); story = json.load(open(os.path.join(P, "story", "shots.json"), encoding="utf-8"))
     total = story.get("duration") or story["shots"][-1]["end"]; n = secs(total)
     voice = load_any(os.path.join(P, cfg["voiceover"]))
+    vpk = float(np.abs(voice).max()) if len(voice) else 0.0
+    if vpk > 0.7:   # hot uploads (e.g. TTS MP3s that decode above 0 dBFS): make headroom so nothing clips; loudness is restored at the end
+        voice = voice * (0.7 / vpk); print(f"voice peaked at {20 * np.log10(vpk):+.1f} dBFS, lowered by {20 * np.log10(vpk / 0.7):.1f} dB for headroom")
     voice = np.concatenate([voice, np.zeros((max(0, n - len(voice)), 2), np.float32)])[:n]
     v_rms = rms_db(voice[np.abs(voice).mean(1) > db(-40)]) if np.any(np.abs(voice).mean(1) > db(-40)) else -20
     env = envelope(voice)
@@ -91,7 +94,12 @@ def main():
     if peak > 0.95: mix = np.tanh(mix / peak * 1.2) / np.tanh(1.2) * 0.95
     raw = os.path.join(P, "build", "mix_raw.wav"); write_wav(raw, mix)
     out_wav = os.path.join(P, "build", "mix.wav"); lufs = cfg.get("loudness", -14)
-    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", raw, "-af", f"loudnorm=I={lufs}:TP=-1.5:LRA=11", "-ar", str(SR), out_wav], check=True)
+    # two-pass linear loudness normalisation (no pumping), then a true-peak limiter so playback and AAC never clip
+    meas = subprocess.run(["ffmpeg", "-hide_banner", "-nostats", "-i", raw, "-af", f"loudnorm=I={lufs}:TP=-2:LRA=20:print_format=json", "-f", "null", "-"], capture_output=True, text=True).stderr
+    m = json.loads(meas[meas.rindex("{"):meas.rindex("}") + 1])
+    ln = (f"loudnorm=I={lufs}:TP=-2:LRA=20:linear=true:measured_I={m['input_i']}:measured_TP={m['input_tp']}:measured_LRA={m['input_lra']}"
+          f":measured_thresh={m['input_thresh']}:offset={m['target_offset']}")
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", raw, "-af", f"{ln},alimiter=limit=0.79:attack=2:release=60:level=false", "-ar", str(SR), out_wav], check=True)
     print(f"wrote {out_wav}  ({total:.1f}s, target {lufs} LUFS)")
     video = a.video or os.path.join(P, "build", "video_silent.mp4")
     if os.path.exists(video):
