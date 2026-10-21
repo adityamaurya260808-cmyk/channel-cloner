@@ -16,6 +16,7 @@ EXTRA = {
     "clicky": "K L IH K IY", "dustpan": "D AH S T P AE N", "houseflies": "HH AW S F L AY Z",
     "slideshow": "S L AY D SH OW", "strobes": "S T R OW B Z",
     "cpr": "S IY P IY AA R", "eagleman": "IY G AH L M AH N", "maths": "M AE TH S",
+    "sol's": "S AA L Z",
 }
 # numbers written as digits in the script -> the words the voice actually says
 SPOKEN = {"2007": "two thousand seven"}
