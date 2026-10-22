@@ -1,0 +1,10270 @@
+{
+ "title": "What If You Invested $1 Every Day for 40 Years? (Part Two)",
+ "duration": 540.86,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 2.679,
+   "line": "Mia's thumb hovers over a green button.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "value": 9000,
+     "button": "SEND $8,000",
+     "chip": "RELEASE FEE DUE"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "thumb": "hover",
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s002",
+   "start": 2.679,
+   "end": 4.667,
+   "line": "'Send.' Eight thousand dollars.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "value": 9000,
+     "button": "SEND $8,000",
+     "chip": "RELEASE FEE DUE"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "thumb": "hover",
+    "pw": 1.2,
+    "push": 0.12,
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s003",
+   "start": 4.667,
+   "end": 6.504,
+   "line": "Every dollar she has left.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -420,
+      "facing": 1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "prop": {
+       "type": "phone",
+       "glow": "#5fd39a"
+      },
+      "pose": "phone",
+      "expr": "worried"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "cam": {
+     "z": [
+      1.4,
+      1.48
+     ],
+     "x": [
+      -400,
+      -420
+     ],
+     "y": [
+      40,
+      40
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s004",
+   "start": 6.504,
+   "end": 8.374,
+   "line": "A chat bubble pops up.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "who": "MIA18",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "underGlow": "#5fd39a",
+    "look": [
+     0.2,
+     0.6
+    ],
+    "expr": "worried",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s005",
+   "start": 8.374,
+   "end": 13.812,
+   "line": "Last chance, sweetie. Pay the release fee... and your nine thousand is yours.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "blip",
+     "gain": -10
+    },
+    {
+     "at": 1.6,
+     "name": "blip",
+     "gain": -10
+    },
+    {
+     "at": 3.4,
+     "name": "blip",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "dm",
+     "name": "Jade",
+     "msgs": [
+      [
+       0.1,
+       "Last chance, sweetie.",
+       "them"
+      ],
+      [
+       1.6,
+       "Pay the release fee...",
+       "them",
+       "#a8352a"
+      ],
+      [
+       3.4,
+       "...and your $9,000 is yours",
+       "them",
+       "#a8352a"
+      ]
+     ]
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "push": 0.1,
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s006",
+   "start": 13.812,
+   "end": 16.69,
+   "line": "Across town, your car is stuck at a red light.",
+   "scene": "wide: street",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "set": "street",
+    "actors": [],
+    "setOpts": {
+     "mood": "night",
+     "wet": true,
+     "light": "red",
+     "car": true,
+     "carX": 760,
+     "carColor": "#d64a33",
+     "carS": 0.9,
+     "carY": 60
+    },
+    "cam": {
+     "z": [
+      1.05,
+      1.12
+     ],
+     "x": [
+      120,
+      160
+     ],
+     "y": [
+      20,
+      20
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s007",
+   "start": 16.69,
+   "end": 18.526,
+   "line": "Your phone keeps ringing her.",
+   "scene": "phone: street",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "phonering",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "call",
+     "name": "MIA",
+     "sub": "calling...",
+     "avatar": "#f29ac0"
+    },
+    "set": "street",
+    "setOpts": {
+     "mood": "night",
+     "light": "red"
+    },
+    "who": "SAM_OLD",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s008",
+   "start": 18.526,
+   "end": 19.95,
+   "line": "She isn't picking up.",
+   "scene": "phone: street",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "app": {
+     "mode": "call",
+     "name": "MIA",
+     "sub": "no answer",
+     "avatar": "#f29ac0",
+     "redFlag": "NO ANSWER"
+    },
+    "set": "street",
+    "setOpts": {
+     "mood": "night",
+     "light": "red"
+    },
+    "who": "SAM_OLD",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s009",
+   "start": 19.95,
+   "end": 21.275,
+   "line": "Ninety seconds.",
+   "scene": "bigNum: street",
+   "set": null,
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "clock",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "to": 88,
+    "prefix": "0:",
+    "label": "TIME LEFT",
+    "start": 0.0,
+    "cdur": 1.2,
+    "color": "accent",
+    "bg": "street",
+    "bgOpts": {
+     "mood": "night",
+     "light": "red"
+    },
+    "from": 90,
+    "tpl": "bigNum"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s010",
+   "start": 21.275,
+   "end": 22.729,
+   "line": "That's all you have.",
+   "scene": "face: street",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "street",
+    "setOpts": {
+     "mood": "night",
+     "light": "red",
+     "rain": true
+    },
+    "rimColor": "#ff5a4a",
+    "push": 0.12,
+    "expr": "determined",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s011",
+   "start": 22.729,
+   "end": 26.422,
+   "line": "How did a girl with a glass jar... end up here?",
+   "scene": "jarMacro: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "coins": 31,
+    "bills": 1,
+    "glow": 1.0,
+    "push": 0.12,
+    "tpl": "jarMacro"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s012",
+   "start": 26.422,
+   "end": 29.901,
+   "line": "Three weeks earlier, a voice on the phone said your name.",
+   "scene": "title: ",
+   "set": null,
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -6
+    }
+   ],
+   "params": {
+    "lines": [
+     "WHAT IF YOU INVESTED",
+     "$1 EVERY DAY",
+     "PART TWO"
+    ],
+    "sub": "3 WEEKS EARLIER",
+    "tpl": "title"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s013",
+   "start": 29.901,
+   "end": 35.276,
+   "line": "Last time, you turned one dollar a day into about one hundred thirty thousand.",
+   "scene": "bigNum: kitchen",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "to": 130000,
+    "label": "LAST TIME \u00b7 $1 A DAY",
+    "start": 1.5,
+    "cdur": 2.4,
+    "icon": "jar",
+    "bg": "kitchen",
+    "from": 0,
+    "tpl": "bigNum"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s014",
+   "start": 35.276,
+   "end": 37.777,
+   "line": "You saved your mom from a fake bank call.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "MOM_OLD",
+      "x": -20,
+      "facing": 1,
+      "s": 1.5,
+      "prop": "phone",
+      "pose": "phone",
+      "expr": "cry"
+     }
+    ],
+    "setOpts": {
+     "night": true
+    },
+    "cam": {
+     "z": [
+      1.15,
+      1.2
+     ],
+     "y": [
+      -60,
+      -60
+     ]
+    },
+    "flashback": true,
+    "badge": {
+     "str": "PART ONE"
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s015",
+   "start": 37.777,
+   "end": 40.131,
+   "line": "You blocked a man named Mr. Black.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.7,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "dm",
+     "name": "Mr. Black",
+     "msgs": [
+      [
+       0,
+       "GUARANTEED 20%",
+       "them",
+       "#a8352a"
+      ]
+     ],
+     "blockBtn": 0.5,
+     "blocked": 0.7
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night"
+    },
+    "flashback": true,
+    "who": "SAM_OLD",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s016",
+   "start": 40.131,
+   "end": 41.72,
+   "line": "And he never forgot.",
+   "scene": "wide: lair",
+   "set": "lair",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "set": "lair",
+    "actors": [
+     {
+      "who": "MRBLACK",
+      "x": 0,
+      "facing": 1,
+      "s": 1.7,
+      "pose": "crossArms",
+      "expr": "angry"
+     }
+    ],
+    "cam": {
+     "z": [
+      1.25,
+      1.32
+     ],
+     "x": [
+      60,
+      20
+     ],
+     "y": [
+      -70,
+      -70
+     ]
+    },
+    "rimDir": [
+     0.6,
+     -1
+    ],
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s017",
+   "start": 41.72,
+   "end": 42.629,
+   "line": "Sam.",
+   "scene": "face: lair",
+   "set": "lair",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MRBLACK",
+    "set": "lair",
+    "rimColor": "#3fd0c0",
+    "rimSide": 1,
+    "veil": 0.6,
+    "talk": [
+     0.05,
+     0.809
+    ],
+    "push": 0.1,
+    "expr": "neutral",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s018",
+   "start": 42.629,
+   "end": 44.982,
+   "line": "You cost my team a lot of money.",
+   "scene": "wide: lair",
+   "set": "lair",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "lair",
+    "actors": [
+     {
+      "who": "MRBLACK",
+      "x": 60,
+      "facing": -1,
+      "s": 1.7,
+      "prop": "phone",
+      "talk": [
+       0.12,
+       2.153
+      ],
+      "pose": "phone",
+      "expr": "smirk"
+     }
+    ],
+    "cam": {
+     "z": [
+      1.25,
+      1.3
+     ],
+     "x": [
+      40,
+      60
+     ],
+     "y": [
+      -70,
+      -70
+     ]
+    },
+    "rimDir": [
+     0.6,
+     -1
+    ],
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s019",
+   "start": 44.982,
+   "end": 46.624,
+   "line": "Then the line went dead.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "call",
+     "name": "UNKNOWN",
+     "sub": "call ended",
+     "avatar": "#2a2a34",
+     "initial": "?",
+     "bg": [
+      "#101018",
+      "#05050a"
+     ]
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night"
+    },
+    "who": "SAM_OLD",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s020",
+   "start": 46.624,
+   "end": 48.338,
+   "line": "You're sixty-five now.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "badge": {
+     "str": "AGE 65"
+    },
+    "expr": "smile",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s021",
+   "start": 48.338,
+   "end": 50.182,
+   "line": "Your mom is ninety-one.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "MOM_OLD",
+      "x": 0,
+      "facing": 1,
+      "s": 1.3,
+      "shadow": false,
+      "pose": "sit",
+      "expr": "smile"
+     }
+    ],
+    "chairs": [
+     {
+      "x": 0,
+      "facing": 1,
+      "s": 1.3
+     }
+    ],
+    "table": true,
+    "tableX": 420,
+    "tableItems": [
+     {
+      "kind": "tea",
+      "x": 340
+     }
+    ],
+    "cam": {
+     "z": [
+      1.05,
+      1.12
+     ],
+     "x": [
+      100,
+      120
+     ]
+    },
+    "badge": {
+     "str": "AGE 91"
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s022",
+   "start": 50.182,
+   "end": 52.174,
+   "line": "Max is still your best friend.",
+   "scene": "wide: street",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "street",
+    "actors": [
+     {
+      "who": "SAM_OLD",
+      "x": -200,
+      "facing": 1,
+      "s": 1.5,
+      "pose": "stand",
+      "expr": "happy"
+     },
+     {
+      "who": "MAX",
+      "x": 200,
+      "facing": -1,
+      "s": 1.5,
+      "poses": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        0.5,
+        "cheer"
+       ]
+      ],
+      "expr": "joy"
+     }
+    ],
+    "setOpts": {
+     "mood": "golden"
+    },
+    "cam": {
+     "z": [
+      1.12,
+      1.18
+     ],
+     "y": [
+      -50,
+      -50
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s023",
+   "start": 52.174,
+   "end": 55.87,
+   "line": "And Max's granddaughter Mia... just turned eighteen.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "who": "MIA18",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "rimSide": 1,
+    "badge": {
+     "str": "AGE 18",
+     "t0": 1.8
+    },
+    "exprs": [
+     [
+      0,
+      "smile"
+     ],
+     [
+      1.6,
+      "happy"
+     ]
+    ],
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s024",
+   "start": 55.87,
+   "end": 58.933,
+   "line": "On her birthday, Max hands her a glass jar.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "MAX",
+      "x": -150,
+      "facing": 1,
+      "s": 1.5,
+      "hold": {
+       "kind": "jar",
+       "coins": 0,
+       "bills": 1
+      },
+      "poses": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        0.4,
+        "reach"
+       ]
+      ],
+      "expr": "smile"
+     },
+     {
+      "who": "MIA18",
+      "x": 150,
+      "facing": -1,
+      "s": 1.5,
+      "poses": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        1.6,
+        "reach"
+       ]
+      ],
+      "exprs": [
+       [
+        0,
+        "surprised"
+       ],
+       [
+        1.8,
+        "smirk"
+       ]
+      ]
+     }
+    ],
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "cam": {
+     "z": [
+      1.15,
+      1.22
+     ],
+     "y": [
+      -80,
+      -80
+     ]
+    },
+    "bigText": {
+     "str": "HAPPY 18TH, MIA",
+     "t0": 0.3,
+     "y": 150,
+     "size": 54
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s025",
+   "start": 58.933,
+   "end": 60.614,
+   "line": "One dollar inside.",
+   "scene": "jarMacro: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "coins": 0,
+    "bills": 1,
+    "glow": 1.2,
+    "push": 0.1,
+    "tpl": "jarMacro"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s026",
+   "start": 60.614,
+   "end": 62.345,
+   "line": "Same rule as yours.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "SAM_OLD",
+      "x": -200,
+      "facing": 1,
+      "s": 1.6,
+      "pose": "point",
+      "expr": "smile"
+     },
+     {
+      "who": "MIA18",
+      "x": 200,
+      "facing": -1,
+      "s": 1.6,
+      "hold": {
+       "kind": "jar",
+       "coins": 0,
+       "bills": 1
+      },
+      "pose": "holdFront",
+      "expr": "neutral"
+     }
+    ],
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "cam": {
+     "z": [
+      1.2,
+      1.26
+     ],
+     "y": [
+      -60,
+      -60
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s027",
+   "start": 62.345,
+   "end": 64.563,
+   "line": "One a day. Don't touch.",
+   "scene": "noteMacro: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "set": "kitchen",
+    "warm": true,
+    "tpl": "noteMacro"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s028",
+   "start": 64.563,
+   "end": 66.294,
+   "line": "Mia rolls her eyes.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "look": [
+     [
+      0,
+      [
+       0,
+       0
+      ]
+     ],
+     [
+      0.4,
+      [
+       0.6,
+       -1
+      ]
+     ],
+     [
+      1.3,
+      [
+       -0.6,
+       -1
+      ]
+     ]
+    ],
+    "rimSide": 1,
+    "expr": "neutral",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s029",
+   "start": 66.294,
+   "end": 70.033,
+   "line": "One dollar? Grandpa. That buys nothing.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "talk": [
+     0.05,
+     3.639
+    ],
+    "rimSide": 1,
+    "fgBlur": "jar",
+    "expr": "smirk",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s030",
+   "start": 70.033,
+   "end": 71.585,
+   "line": "You do the math for her.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "SAM_OLD",
+      "x": -200,
+      "facing": 1,
+      "s": 1.6,
+      "pose": "explain",
+      "expr": "smile"
+     },
+     {
+      "who": "MIA18",
+      "x": 200,
+      "facing": -1,
+      "s": 1.6,
+      "pose": "crossArms",
+      "expr": "neutral"
+     }
+    ],
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "cam": {
+     "z": [
+      1.2,
+      1.26
+     ],
+     "y": [
+      -60,
+      -60
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s031",
+   "start": 71.585,
+   "end": 76.111,
+   "line": "Start at eighteen. One dollar a day. Ten percent average.",
+   "scene": "chart: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "riser",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "years": [
+     0,
+     30
+    ],
+    "maxX": 47,
+    "start": 0.0,
+    "cdur": 4.6,
+    "valueTag": false,
+    "title": "START AT 18 \u00b7 $1 A DAY \u00b7 10%",
+    "tpl": "chart"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s032",
+   "start": 76.111,
+   "end": 79.894,
+   "line": "By sixty-five... over three hundred thousand.",
+   "scene": "chart: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "years": [
+     30,
+     47
+    ],
+    "maxX": 47,
+    "start": 0.0,
+    "cdur": 1.6,
+    "markers": [
+     {
+      "y": 47,
+      "label": "OVER $300K",
+      "t0": 1.8,
+      "size": 56
+     }
+    ],
+    "valueTag": false,
+    "title": "BY AGE 65",
+    "tpl": "chart"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s033",
+   "start": 79.894,
+   "end": 83.849,
+   "line": "Wait. Sam got one sixty. I get double?",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "talk": [
+     0.05,
+     3.855
+    ],
+    "rimSide": 1,
+    "exprs": [
+     [
+      0,
+      "surprised"
+     ],
+     [
+      1.0,
+      "shocked"
+     ]
+    ],
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s034",
+   "start": 83.849,
+   "end": 84.966,
+   "line": "You smile.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "expr": "smile",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s035",
+   "start": 84.966,
+   "end": 86.829,
+   "line": "Just seven extra years.",
+   "scene": "compare: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "rows": [
+     {
+      "label": "SAM \u00b7 40 YEARS",
+      "who": "SAM_OLD",
+      "v": 161550,
+      "color": "cream",
+      "t0": 0.1,
+      "dur": 0.6
+     },
+     {
+      "label": "MIA \u00b7 47 YEARS",
+      "who": "MIA18",
+      "v": 318300,
+      "color": "gold",
+      "t0": 0.5,
+      "dur": 1.0
+     }
+    ],
+    "max": 330000,
+    "tpl": "compare"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s036",
+   "start": 86.829,
+   "end": 89.119,
+   "line": "Remember the rule of seventy-two?",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "THE RULE OF",
+      "x": 0.5,
+      "y": 0.36,
+      "t0": 0.1,
+      "size": 54,
+      "color": "cream",
+      "spacing": 8
+     },
+     {
+      "kind": "text",
+      "str": "72",
+      "x": 0.5,
+      "y": 0.56,
+      "t0": 0.4,
+      "size": 230,
+      "color": "gold",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s037",
+   "start": 89.119,
+   "end": 92.159,
+   "line": "Seven years... is one more doubling.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "$160K",
+      "x": 0.25,
+      "y": 0.5,
+      "t0": 0.0,
+      "size": 110,
+      "color": "cream",
+      "font": "title"
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.38,
+       0.5
+      ],
+      "to": [
+       0.6,
+       0.5
+      ],
+      "t0": 0.4,
+      "color": "gold"
+     },
+     {
+      "kind": "text",
+      "str": "+7 YEARS",
+      "x": 0.49,
+      "y": 0.42,
+      "t0": 0.5,
+      "size": 40,
+      "color": "blue"
+     },
+     {
+      "kind": "text",
+      "str": "$320K",
+      "x": 0.76,
+      "y": 0.5,
+      "t0": 1.6,
+      "size": 130,
+      "color": "gold",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "\u00d72",
+      "x": 0.76,
+      "y": 0.3,
+      "t0": 1.9,
+      "size": 70,
+      "color": "accent",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s038",
+   "start": 92.159,
+   "end": 94.526,
+   "line": "That's the whole trick. Time.",
+   "scene": "clockBig: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "clock",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "label": "THE WHOLE TRICK: TIME",
+    "labelAt": 0.2,
+    "speed": 600,
+    "tpl": "clockBig"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s039",
+   "start": 94.526,
+   "end": 96.239,
+   "line": "But Mia has a problem.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "rimSide": 1,
+    "underGlow": "#7fb6ff",
+    "expr": "sleepy",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s040",
+   "start": 96.239,
+   "end": 97.506,
+   "line": "She's eighteen.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -420,
+      "facing": 1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "prop": "phone",
+      "pose": "phone",
+      "expr": "neutral"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "cam": {
+     "z": [
+      1.25,
+      1.3
+     ],
+     "x": [
+      -380,
+      -400
+     ],
+     "y": [
+      20,
+      20
+     ]
+    },
+    "badge": {
+     "str": "AGE 18"
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s041",
+   "start": 97.506,
+   "end": 101.915,
+   "line": "And three hundred thousand at sixty-five... feels like never.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "slowmo",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "$300,000",
+      "x": 0.5,
+      "y": 0.42,
+      "t0": 0.1,
+      "size": 140,
+      "color": "gold",
+      "font": "title",
+      "ghost": true
+     },
+     {
+      "kind": "text",
+      "str": "AT AGE 65",
+      "x": 0.5,
+      "y": 0.6,
+      "t0": 0.6,
+      "size": 50,
+      "color": "cream",
+      "ghost": true
+     },
+     {
+      "kind": "text",
+      "str": "FEELS LIKE NEVER",
+      "x": 0.5,
+      "y": 0.82,
+      "t0": 2.6,
+      "size": 64,
+      "color": "accent",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s042",
+   "start": 101.915,
+   "end": 107.133,
+   "line": "And the rule hasn't changed. Real money grows slowly. Painfully slowly.",
+   "scene": "chart: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "years": [
+     0,
+     14
+    ],
+    "maxX": 47,
+    "start": 0.0,
+    "cdur": 5.0,
+    "valueTag": false,
+    "markers": [
+     {
+      "y": 6,
+      "label": "SLOWLY",
+      "t0": 2.0,
+      "color": "cream",
+      "size": 34
+     },
+     {
+      "y": 13,
+      "label": "PAINFULLY SLOWLY",
+      "t0": 3.9,
+      "color": "cream",
+      "size": 34
+     }
+    ],
+    "tpl": "chart"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s043",
+   "start": 107.133,
+   "end": 110.501,
+   "line": "So what if someone promised you could skip the slow part?",
+   "scene": "bigLine: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "lines": [
+     "WHAT IF YOU COULD",
+     "SKIP THE SLOW PART?"
+    ],
+    "stagger": 1.4,
+    "sizes": [
+     70,
+     100
+    ],
+    "gap": 140,
+    "tpl": "bigLine"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s044",
+   "start": 110.501,
+   "end": 111.581,
+   "line": "Week one.",
+   "scene": "yearCard: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "year": 1,
+    "set": "bedroom",
+    "word": "WEEK",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "tpl": "yearCard"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s045",
+   "start": 111.581,
+   "end": 113.255,
+   "line": "Mia feeds the jar.",
+   "scene": "jarMacro: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "coins": 4,
+    "bills": 1,
+    "drops": [
+     0.5
+    ],
+    "glow": 0.8,
+    "tpl": "jarMacro",
+    "badge": {
+     "str": "WEEK 1",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s046",
+   "start": 113.255,
+   "end": 115.055,
+   "line": "Then she opens her phone.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -420,
+      "facing": 1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "prop": {
+       "type": "phone"
+      },
+      "pose": "phone",
+      "expr": "neutral"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7,
+     "phone": 0
+    },
+    "cam": {
+     "z": [
+      1.3,
+      1.36
+     ],
+     "x": [
+      -400,
+      -410
+     ],
+     "y": [
+      30,
+      30
+     ]
+    },
+    "tpl": "wide",
+    "badge": {
+     "str": "WEEK 1",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s047",
+   "start": 115.055,
+   "end": 117.623,
+   "line": "Everyone her age is posting gains.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "feed"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone",
+    "badge": {
+     "str": "WEEK 1",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s048",
+   "start": 117.623,
+   "end": 118.85,
+   "line": "Screenshots.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "feed"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "pw": 1.3,
+    "push": 0.15,
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone",
+    "badge": {
+     "str": "WEEK 1",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s049",
+   "start": 118.85,
+   "end": 120.209,
+   "line": "Green arrows.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "arrow",
+      "from": [
+       0.2,
+       0.8
+      ],
+      "to": [
+       0.35,
+       0.25
+      ],
+      "t0": 0.0,
+      "color": "good"
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.45,
+       0.85
+      ],
+      "to": [
+       0.55,
+       0.2
+      ],
+      "t0": 0.2,
+      "color": "good"
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.65,
+       0.8
+      ],
+      "to": [
+       0.82,
+       0.3
+      ],
+      "t0": 0.4,
+      "color": "good"
+     },
+     {
+      "kind": "text",
+      "str": "+340%",
+      "x": 0.5,
+      "y": 0.55,
+      "t0": 0.3,
+      "size": 80,
+      "color": "good",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s050",
+   "start": 120.209,
+   "end": 121.457,
+   "line": "New cars.",
+   "scene": "card: street",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "car",
+      "x": 0.5,
+      "y": 0.7,
+      "t0": 0.0,
+      "s": 1.6,
+      "color": "#e0e0f0"
+     },
+     {
+      "kind": "text",
+      "str": "NEW CAR!",
+      "x": 0.5,
+      "y": 0.22,
+      "t0": 0.2,
+      "size": 90,
+      "color": "good",
+      "font": "title"
+     }
+    ],
+    "bg": "street",
+    "bgOpts": {
+     "mood": "golden"
+    },
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s051",
+   "start": 121.457,
+   "end": 123.462,
+   "line": "Fake? Maybe.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "underGlow": "#5fd39a",
+    "rimSide": 1,
+    "float": [
+     {
+      "str": "FAKE?",
+      "t0": 0.1,
+      "dx": -420,
+      "dy": -250,
+      "color": "#fff1dc"
+     },
+     {
+      "str": "MAYBE.",
+      "t0": 1.0,
+      "dx": 420,
+      "dy": -220,
+      "color": "#fff1dc"
+     }
+    ],
+    "expr": "thinking",
+    "tpl": "face",
+    "badge": {
+     "str": "WEEK 1",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s052",
+   "start": 123.462,
+   "end": 126.563,
+   "line": "But at eighteen... it doesn't feel fake.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "who": "MIA18",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "underGlow": "#5fd39a",
+    "rimSide": 1,
+    "push": 0.1,
+    "expr": "awe",
+    "tpl": "face",
+    "badge": {
+     "str": "WEEK 1",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s053",
+   "start": 126.563,
+   "end": 127.673,
+   "line": "Week two.",
+   "scene": "yearCard: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "year": 2,
+    "set": "bedroom",
+    "word": "WEEK",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "tpl": "yearCard"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s054",
+   "start": 127.673,
+   "end": 130.975,
+   "line": "A message arrives. Oops, wrong number, sorry!",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "phonebuzz",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "blip",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "dm",
+     "name": "Jade",
+     "msgs": [
+      [
+       1.6,
+       "Oops, wrong number, sorry!",
+       "them"
+      ]
+     ]
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "buzz": [
+     0,
+     1.0
+    ],
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone",
+    "badge": {
+     "str": "WEEK 2",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s055",
+   "start": 130.975,
+   "end": 132.775,
+   "line": "The profile says Jade.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "person",
+      "x": 0.5,
+      "y": 0.36,
+      "t0": 0.0,
+      "s": 1.6,
+      "color": "#f29ac0"
+     },
+     {
+      "kind": "text",
+      "str": "JADE",
+      "x": 0.5,
+      "y": 0.62,
+      "t0": 0.3,
+      "size": 90,
+      "color": "cream",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "\u25cf online",
+      "x": 0.5,
+      "y": 0.72,
+      "t0": 0.6,
+      "size": 34,
+      "color": "good"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s056",
+   "start": 132.775,
+   "end": 136.194,
+   "line": "Friendly. Funny. Smart about money.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.0,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.9,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "tag",
+      "str": "FRIENDLY",
+      "x": 0.22,
+      "y": 0.5,
+      "t0": 0.0,
+      "size": 56
+     },
+     {
+      "kind": "tag",
+      "str": "FUNNY",
+      "x": 0.5,
+      "y": 0.5,
+      "t0": 1.0,
+      "size": 56
+     },
+     {
+      "kind": "tag",
+      "str": "SMART ABOUT MONEY",
+      "x": 0.5,
+      "y": 0.72,
+      "t0": 1.9,
+      "size": 56
+     },
+     {
+      "kind": "text",
+      "str": "JADE",
+      "x": 0.5,
+      "y": 0.25,
+      "t0": 0.0,
+      "size": 60,
+      "color": "blue",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s057",
+   "start": 136.194,
+   "end": 137.78,
+   "line": "They chat every day.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -16
+    },
+    {
+     "at": 0.9,
+     "name": "blip",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "dm",
+     "name": "Jade",
+     "msgs": [
+      [
+       0.0,
+       "lol same",
+       "them"
+      ],
+      [
+       0.3,
+       "haha",
+       "me"
+      ],
+      [
+       0.6,
+       "good morning!",
+       "them"
+      ],
+      [
+       0.9,
+       "how was class?",
+       "them"
+      ],
+      [
+       1.2,
+       "ok :)",
+       "me"
+      ]
+     ]
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone",
+    "badge": {
+     "str": "WEEK 2",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s058",
+   "start": 137.78,
+   "end": 139.875,
+   "line": "Jade never asks for anything.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "underGlow": "#7fb6ff",
+    "rimSide": 1,
+    "expr": "smile",
+    "tpl": "face",
+    "badge": {
+     "str": "WEEK 2",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s059",
+   "start": 139.875,
+   "end": 140.993,
+   "line": "Not yet.",
+   "scene": "wide: lair",
+   "set": "lair",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "set": "lair",
+    "actors": [
+     {
+      "who": "MRBLACK",
+      "x": 0,
+      "facing": 1,
+      "s": 1.7,
+      "pose": "crossArms",
+      "expr": "smirk"
+     }
+    ],
+    "cam": {
+     "z": [
+      1.25,
+      1.32
+     ],
+     "x": [
+      60,
+      20
+     ],
+     "y": [
+      -70,
+      -70
+     ]
+    },
+    "rimDir": [
+     0.6,
+     -1
+    ],
+    "bigText": {
+     "str": "NOT YET.",
+     "t0": 0.1,
+     "y": 170,
+     "color": "#3fd0c0",
+     "size": 70
+    },
+    "tpl": "wide",
+    "badge": {
+     "str": "WEEK 2",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s060",
+   "start": 140.993,
+   "end": 142.163,
+   "line": "Week three.",
+   "scene": "yearCard: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "year": 3,
+    "set": "bedroom",
+    "word": "WEEK",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "tpl": "yearCard"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s061",
+   "start": 142.163,
+   "end": 144.99,
+   "line": "Jade shares a tip. A trading app.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 1.5,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "dm",
+     "name": "Jade",
+     "msgs": [
+      [
+       0.2,
+       "little tip for you",
+       "them"
+      ],
+      [
+       1.5,
+       "try this app: QUIKGAIN",
+       "them",
+       "#2a7a4a"
+      ]
+     ]
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone",
+    "badge": {
+     "str": "WEEK 3",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s062",
+   "start": 144.99,
+   "end": 148.303,
+   "line": "Three percent profit... every single day.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "value": 200,
+     "chip": "+3% EVERY DAY"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "push": 0.1,
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone",
+    "badge": {
+     "str": "WEEK 3",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s063",
+   "start": 148.303,
+   "end": 149.51,
+   "line": "Mia shows you.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "SAM_OLD",
+      "x": -200,
+      "facing": 1,
+      "s": 1.6,
+      "pose": "stand",
+      "expr": "neutral"
+     },
+     {
+      "who": "MIA18",
+      "x": 200,
+      "facing": -1,
+      "s": 1.6,
+      "prop": {
+       "type": "phone",
+       "glow": "#5fd39a"
+      },
+      "pose": "phone",
+      "expr": "joy"
+     }
+    ],
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "cam": {
+     "z": [
+      1.2,
+      1.26
+     ],
+     "y": [
+      -60,
+      -60
+     ]
+    },
+    "tpl": "wide",
+    "badge": {
+     "str": "WEEK 3",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s064",
+   "start": 149.51,
+   "end": 151.018,
+   "line": "You don't even blink.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "noBlink": true,
+    "push": 0.03,
+    "expr": "neutral",
+    "tpl": "face",
+    "badge": {
+     "str": "WEEK 3",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s065",
+   "start": 151.018,
+   "end": 153.214,
+   "line": "Three percent a day, for one year?",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "3% A DAY",
+      "x": 0.5,
+      "y": 0.4,
+      "t0": 0.0,
+      "size": 120,
+      "color": "good",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "\u00d7 365 DAYS",
+      "x": 0.5,
+      "y": 0.6,
+      "t0": 0.8,
+      "size": 80,
+      "color": "cream",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s066",
+   "start": 153.214,
+   "end": 157.852,
+   "line": "One dollar would turn into almost fifty thousand. In twelve months.",
+   "scene": "bigNum: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "to": 48600,
+    "label": "$1 AT 3% A DAY",
+    "start": 0.3,
+    "cdur": 2.6,
+    "sub": "IN 12 MONTHS",
+    "subAt": 3.4,
+    "sparkle": true,
+    "from": 1,
+    "tpl": "bigNum"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s067",
+   "start": 157.852,
+   "end": 161.941,
+   "line": "If that really worked... everyone on Earth would be rich.",
+   "scene": "city500: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "label": "EVERYONE ON EARTH WOULD BE RICH",
+    "noCount": true,
+    "tpl": "city500"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s068",
+   "start": 161.941,
+   "end": 163.636,
+   "line": "Is everyone rich?",
+   "scene": "wide: street",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "street",
+    "actors": [
+     {
+      "who": "CALLER",
+      "x": -500,
+      "facing": 1,
+      "s": 1.1,
+      "walk": {
+       "x1": -100,
+       "t0": 0
+      },
+      "pose": "stand",
+      "expr": "neutral"
+     },
+     {
+      "who": "CALLER",
+      "x": 300,
+      "facing": -1,
+      "s": 1.1,
+      "pose": "shrug",
+      "expr": "confused"
+     },
+     {
+      "who": "CALLER",
+      "x": 600,
+      "facing": -1,
+      "s": 1.1,
+      "pose": "stand",
+      "expr": "neutral"
+     }
+    ],
+    "setOpts": {
+     "mood": "dusk"
+    },
+    "cam": {
+     "z": [
+      1.0,
+      1.05
+     ]
+    },
+    "bigText": {
+     "str": "IS EVERYONE RICH?",
+     "t0": 0.2,
+     "y": 170,
+     "size": 64
+    },
+    "tpl": "wide",
+    "badge": {
+     "str": "WEEK 3",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s069",
+   "start": 163.636,
+   "end": 166.503,
+   "line": "Mia sighs. You're so old-school.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "talk": [
+     1.37,
+     2.667
+    ],
+    "rimSide": 1,
+    "exprs": [
+     [
+      0,
+      "sleepy"
+     ],
+     [
+      1.0,
+      "smirk"
+     ]
+    ],
+    "tpl": "face",
+    "badge": {
+     "str": "WEEK 3",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s070",
+   "start": 166.503,
+   "end": 168.143,
+   "line": "Mia tries it anyway.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -420,
+      "facing": 1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "prop": {
+       "type": "phone",
+       "glow": "#5fd39a"
+      },
+      "pose": "phone",
+      "expr": "determined"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "cam": {
+     "z": [
+      1.3,
+      1.36
+     ],
+     "x": [
+      -400,
+      -410
+     ],
+     "y": [
+      30,
+      30
+     ]
+    },
+    "tpl": "wide",
+    "badge": {
+     "str": "WEEK 3",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s071",
+   "start": 168.143,
+   "end": 169.747,
+   "line": "Two hundred dollars.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "blip",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "value": 200,
+     "button": "INVEST $200",
+     "btnPress": 0.9
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "thumb": [
+     [
+      0,
+      "hover"
+     ],
+     [
+      0.6,
+      "press"
+     ]
+    ],
+    "pressAt": 0.6,
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone",
+    "badge": {
+     "str": "WEEK 3",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s072",
+   "start": 169.747,
+   "end": 172.506,
+   "line": "The next day, the app says two hundred six.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "from": 200,
+     "to": 206,
+     "cStart": 1.0,
+     "cDur": 1.0,
+     "chip": "+$6 TODAY"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "dusk"
+    },
+    "badge": {
+     "str": "NEXT DAY"
+    },
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s073",
+   "start": 172.506,
+   "end": 174.159,
+   "line": "She withdraws fifty.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.7,
+     "name": "blip",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "value": 156,
+     "button": "WITHDRAW $50",
+     "btnPress": 0.7,
+     "chip": "WITHDRAWING"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "dusk"
+    },
+    "thumb": [
+     [
+      0,
+      "hover"
+     ],
+     [
+      0.4,
+      "press"
+     ]
+    ],
+    "pressAt": 0.4,
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone",
+    "badge": {
+     "str": "WEEK 3",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s074",
+   "start": 174.159,
+   "end": 176.144,
+   "line": "It actually lands in her bank.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "balance",
+     "header": "MY BANK",
+     "value": 50,
+     "chip": "+$50 RECEIVED",
+     "chipAt": 0.6,
+     "chartP": 0.2
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "dusk"
+    },
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone",
+    "badge": {
+     "str": "WEEK 3",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s075",
+   "start": 176.144,
+   "end": 178.243,
+   "line": "See? It's real!",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "talk": [
+     0.05,
+     1.999
+    ],
+    "rimSide": 1,
+    "expr": "joy",
+    "tpl": "face",
+    "badge": {
+     "str": "WEEK 3",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s076",
+   "start": 178.243,
+   "end": 179.618,
+   "line": "And that's the trick.",
+   "scene": "bigLine: blueprint",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "set": "blueprint",
+    "str": "THAT'S THE TRICK",
+    "size": 90,
+    "tpl": "bigLine"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s077",
+   "start": 179.618,
+   "end": 181.995,
+   "line": "The first withdrawal always works.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "FIRST WITHDRAWAL",
+      "x": 0.5,
+      "y": 0.36,
+      "t0": 0.0,
+      "size": 80,
+      "color": "cream",
+      "font": "title"
+     },
+     {
+      "kind": "icon",
+      "name": "check",
+      "x": 0.5,
+      "y": 0.58,
+      "t0": 0.5,
+      "s": 1.4,
+      "color": "good"
+     },
+     {
+      "kind": "text",
+      "str": "ALWAYS WORKS",
+      "x": 0.5,
+      "y": 0.78,
+      "t0": 0.8,
+      "size": 64,
+      "color": "good"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s078",
+   "start": 181.995,
+   "end": 184.42,
+   "line": "It isn't profit. It's bait.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "PROFIT",
+      "x": 0.5,
+      "y": 0.4,
+      "t0": 0.0,
+      "size": 120,
+      "color": "good",
+      "font": "title"
+     },
+     {
+      "kind": "line",
+      "from": [
+       0.33,
+       0.4
+      ],
+      "to": [
+       0.67,
+       0.4
+      ],
+      "t0": 0.9,
+      "color": "accent",
+      "w": 12
+     },
+     {
+      "kind": "stamp",
+      "str": "BAIT",
+      "x": 0.5,
+      "y": 0.68,
+      "t0": 1.4,
+      "size": 110
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s079",
+   "start": 184.42,
+   "end": 187.433,
+   "line": "Your money... used to buy your trust.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "coin",
+      "x": 0.28,
+      "y": 0.48,
+      "t0": 0.0,
+      "s": 1.4
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.37,
+       0.48
+      ],
+      "to": [
+       0.6,
+       0.48
+      ],
+      "t0": 0.6,
+      "color": "gold"
+     },
+     {
+      "kind": "icon",
+      "name": "person",
+      "x": 0.72,
+      "y": 0.48,
+      "t0": 1.2,
+      "s": 1.4,
+      "color": "#f29ac0"
+     },
+     {
+      "kind": "text",
+      "str": "BUYING YOUR TRUST",
+      "x": 0.5,
+      "y": 0.8,
+      "t0": 1.4,
+      "size": 64,
+      "color": "gold"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s080",
+   "start": 187.433,
+   "end": 190.664,
+   "line": "Scammers have a name for this. Pig butchering.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "pig",
+      "x": 0.5,
+      "y": 0.42,
+      "t0": 0.2,
+      "s": 2.0,
+      "color": "#f29ac0"
+     },
+     {
+      "kind": "text",
+      "str": "PIG BUTCHERING",
+      "x": 0.5,
+      "y": 0.75,
+      "t0": 1.9,
+      "size": 90,
+      "color": "accent",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s081",
+   "start": 190.664,
+   "end": 197.182,
+   "line": "First... they fatten you up. With friendship. With small wins. Then...",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 3.5,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 4.8,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "pig",
+      "x": 0.5,
+      "y": 0.42,
+      "t0": 0.0,
+      "s": 2.6,
+      "color": "#f29ac0"
+     },
+     {
+      "kind": "text",
+      "str": "1. FATTEN YOU UP",
+      "x": 0.5,
+      "y": 0.12,
+      "t0": 0.8,
+      "size": 54,
+      "color": "cream"
+     },
+     {
+      "kind": "tag",
+      "str": "FRIENDSHIP",
+      "x": 0.22,
+      "y": 0.78,
+      "t0": 2.2,
+      "size": 50
+     },
+     {
+      "kind": "tag",
+      "str": "SMALL WINS",
+      "x": 0.5,
+      "y": 0.82,
+      "t0": 3.5,
+      "size": 50
+     },
+     {
+      "kind": "text",
+      "str": "THEN...",
+      "x": 0.8,
+      "y": 0.78,
+      "t0": 4.8,
+      "size": 70,
+      "color": "accent",
+      "font": "title"
+     }
+    ],
+    "push": 0.1,
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s082",
+   "start": 197.182,
+   "end": 198.325,
+   "line": "Week four.",
+   "scene": "yearCard: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "glitch",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "year": 4,
+    "set": "bedroom",
+    "word": "WEEK",
+    "color": "#ff6f61",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "tpl": "yearCard"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s083",
+   "start": 198.325,
+   "end": 200.288,
+   "line": "Mia puts in two thousand.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "blip",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "value": 2206,
+     "button": "INVEST $2,000",
+     "btnPress": 1.0
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "thumb": [
+     [
+      0,
+      "hover"
+     ],
+     [
+      0.7,
+      "press"
+     ]
+    ],
+    "pressAt": 0.7,
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone",
+    "badge": {
+     "str": "WEEK 4",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s084",
+   "start": 200.288,
+   "end": 204.933,
+   "line": "The screen climbs. Five thousand. Seven. Nine.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 3.0,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "from": 2206,
+     "to": 9000,
+     "cStart": 0.4,
+     "cDur": 5.2,
+     "chip": "+3% EVERY DAY"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "push": 0.16,
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone",
+    "badge": {
+     "str": "WEEK 4",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s085",
+   "start": 204.933,
+   "end": 206.785,
+   "line": "Her jar on the shelf?",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "bedroom",
+    "actors": [],
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "cam": {
+     "z": [
+      2.0,
+      2.25
+     ],
+     "x": [
+      -160,
+      -150
+     ],
+     "y": [
+      -400,
+      -405
+     ]
+    },
+    "tpl": "wide",
+    "badge": {
+     "str": "WEEK 4",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s086",
+   "start": 206.785,
+   "end": 208.336,
+   "line": "Thirty-one dollars.",
+   "scene": "jarMacro: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "coins": 31,
+    "bills": 0,
+    "glow": 0.5,
+    "label": "$31",
+    "labelAt": 0.2,
+    "tpl": "jarMacro",
+    "badge": {
+     "str": "WEEK 4",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s087",
+   "start": 208.336,
+   "end": 212.794,
+   "line": "One is boring and real. One is exciting... and fake.",
+   "scene": "split: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.7,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "left": {
+     "tpl": "jarMacro",
+     "set": "bedroom",
+     "setOpts": {
+      "mood": "night",
+      "coins": 31,
+      "jarGlow": 0.8,
+      "lamp": 0.7
+     },
+     "coins": 31,
+     "glow": 0.6,
+     "bigText": {
+      "str": "BORING \u00b7 REAL",
+      "t0": 0.2,
+      "x": 960,
+      "y": 160,
+      "size": 50,
+      "color": "#ffd47e"
+     }
+    },
+    "right": {
+     "tpl": "phone",
+     "set": "bedroom",
+     "setOpts": {
+      "mood": "night",
+      "coins": 31,
+      "jarGlow": 0.8,
+      "lamp": 0.7
+     },
+     "app": {
+      "mode": "trade",
+      "value": 9000,
+      "header": " "
+     },
+     "hand": false,
+     "bigText": {
+      "str": "EXCITING \u00b7 FAKE",
+      "t0": 1.7,
+      "x": 960,
+      "y": 160,
+      "size": 50,
+      "color": "#ff6f61"
+     }
+    },
+    "tpl": "split"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s088",
+   "start": 212.794,
+   "end": 214.123,
+   "line": "Max finds out.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "MAX",
+      "x": -220,
+      "facing": 1,
+      "s": 1.6,
+      "poses": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        0.4,
+        "handsOnHead"
+       ]
+      ],
+      "expr": "shocked"
+     },
+     {
+      "who": "MIA18",
+      "x": 200,
+      "facing": -1,
+      "s": 1.6,
+      "prop": {
+       "type": "phone",
+       "glow": "#5fd39a"
+      },
+      "pose": "phone",
+      "expr": "neutral"
+     }
+    ],
+    "setOpts": {
+     "night": true
+    },
+    "cam": {
+     "z": [
+      1.2,
+      1.26
+     ],
+     "y": [
+      -60,
+      -60
+     ]
+    },
+    "tpl": "wide",
+    "badge": {
+     "str": "WEEK 4",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s089",
+   "start": 214.123,
+   "end": 216.557,
+   "line": "Mia! That's your car money!",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MAX",
+    "set": "kitchen",
+    "setOpts": {
+     "night": true
+    },
+    "talk": [
+     0.05,
+     2.334
+    ],
+    "rimSide": 1,
+    "shake": 3,
+    "expr": "shocked",
+    "tpl": "face",
+    "badge": {
+     "str": "WEEK 4",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s090",
+   "start": 216.557,
+   "end": 218.35,
+   "line": "Grandpa, look at the number!",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "kitchen",
+    "setOpts": {
+     "night": true
+    },
+    "talk": [
+     0.05,
+     1.693
+    ],
+    "underGlow": "#5fd39a",
+    "rimSide": 1,
+    "expr": "joy",
+    "tpl": "face",
+    "badge": {
+     "str": "WEEK 4",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s091",
+   "start": 218.35,
+   "end": 219.896,
+   "line": "You say it quietly.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "SAM_OLD",
+      "x": -300,
+      "facing": 1,
+      "s": 1.5,
+      "pose": "stand",
+      "expr": "neutral"
+     },
+     {
+      "who": "MIA18",
+      "x": 100,
+      "facing": -1,
+      "s": 1.5,
+      "prop": "phone",
+      "pose": "phone",
+      "expr": "neutral"
+     },
+     {
+      "who": "MAX",
+      "x": 380,
+      "facing": -1,
+      "s": 1.5,
+      "pose": "crossArms",
+      "expr": "worried"
+     }
+    ],
+    "setOpts": {
+     "night": true
+    },
+    "cam": {
+     "z": [
+      1.12,
+      1.18
+     ],
+     "y": [
+      -50,
+      -50
+     ]
+    },
+    "tpl": "wide",
+    "badge": {
+     "str": "WEEK 4",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s092",
+   "start": 219.896,
+   "end": 222.065,
+   "line": "A number on a screen isn't money.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "phone",
+      "x": 0.5,
+      "y": 0.42,
+      "t0": 0.0,
+      "s": 3.0
+     },
+     {
+      "kind": "text",
+      "str": "$9,000",
+      "x": 0.5,
+      "y": 0.42,
+      "t0": 0.2,
+      "size": 54,
+      "color": "good"
+     },
+     {
+      "kind": "stamp",
+      "str": "NOT MONEY",
+      "x": 0.5,
+      "y": 0.78,
+      "t0": 1.2,
+      "size": 80
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s093",
+   "start": 222.065,
+   "end": 224.124,
+   "line": "Money is what you can take out.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "phone",
+      "x": 0.25,
+      "y": 0.45,
+      "t0": 0.0,
+      "s": 1.5
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.33,
+       0.45
+      ],
+      "to": [
+       0.58,
+       0.45
+      ],
+      "t0": 0.3,
+      "color": "gold"
+     },
+     {
+      "kind": "bill",
+      "x": 0.72,
+      "y": 0.45,
+      "t0": 0.8,
+      "w": 260
+     },
+     {
+      "kind": "text",
+      "str": "MONEY = WHAT YOU CAN TAKE OUT",
+      "x": 0.5,
+      "y": 0.8,
+      "t0": 1.1,
+      "size": 56,
+      "color": "gold"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s094",
+   "start": 224.124,
+   "end": 226.808,
+   "line": "The catch? She can't take it out.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.3,
+     "name": "glitch",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "value": 9000,
+     "button": "WITHDRAW",
+     "btnPress": 1.3,
+     "btnColor": "#7a7a88"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "thumb": [
+     [
+      0,
+      "hover"
+     ],
+     [
+      1.0,
+      "press"
+     ]
+    ],
+    "pressAt": 1.0,
+    "bigText": {
+     "str": "WITHDRAW FAILED",
+     "t0": 1.6,
+     "y": 150,
+     "color": "#ff6f61",
+     "size": 56
+    },
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone",
+    "badge": {
+     "str": "WEEK 4",
+     "t0": 0.2
+    }
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s095",
+   "start": 226.808,
+   "end": 228.136,
+   "line": "A new message.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "value": 9000,
+     "flagged": 0.6,
+     "chipColor": "#ff6f61",
+     "chip": "LOCKED"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "buzz": [
+     0.5,
+     1.2
+    ],
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s096",
+   "start": 228.136,
+   "end": 233.792,
+   "line": "'Account flagged. Pay an eight thousand dollar security deposit to release funds.' Real firms don't hold your money hostage.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "value": 9000,
+     "flagged": 0.0,
+     "chipColor": "#ff6f61",
+     "chip": "LOCKED"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "pw": 1.3,
+    "push": 0.12,
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s097",
+   "start": 233.792,
+   "end": 236.92,
+   "line": "",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "bank",
+      "x": 0.5,
+      "y": 0.3,
+      "t0": 0.0,
+      "s": 1.6
+     },
+     {
+      "kind": "text",
+      "str": "REAL FIRMS DON'T HOLD",
+      "x": 0.5,
+      "y": 0.58,
+      "t0": 0.3,
+      "size": 64,
+      "color": "cream",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "YOUR MONEY HOSTAGE",
+      "x": 0.5,
+      "y": 0.7,
+      "t0": 0.8,
+      "size": 64,
+      "color": "gold",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s098",
+   "start": 236.92,
+   "end": 239.453,
+   "line": "They just... give it back.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "bank",
+      "x": 0.25,
+      "y": 0.45,
+      "t0": 0.0,
+      "s": 1.4
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.35,
+       0.45
+      ],
+      "to": [
+       0.62,
+       0.45
+      ],
+      "t0": 1.2,
+      "color": "good"
+     },
+     {
+      "kind": "icon",
+      "name": "person",
+      "x": 0.75,
+      "y": 0.45,
+      "t0": 0.2,
+      "s": 1.4
+     },
+     {
+      "kind": "text",
+      "str": "THEY GIVE IT BACK",
+      "x": 0.5,
+      "y": 0.8,
+      "t0": 1.5,
+      "size": 60,
+      "color": "good"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s099",
+   "start": 239.453,
+   "end": 241.671,
+   "line": "And there's a cost to knowing all this.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "kitchen",
+    "setOpts": {
+     "night": true
+    },
+    "expr": "sad",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s100",
+   "start": 241.671,
+   "end": 243.946,
+   "line": "You can see the trap from a mile away.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "phone",
+      "x": 0.75,
+      "y": 0.5,
+      "t0": 0.0,
+      "s": 0.6
+     },
+     {
+      "kind": "stamp",
+      "str": "TRAP",
+      "x": 0.75,
+      "y": 0.35,
+      "t0": 0.6,
+      "size": 40
+     },
+     {
+      "kind": "figure",
+      "x": 0.15,
+      "y": 0.72,
+      "t0": 0.0,
+      "s": 1.2,
+      "pose": "point"
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.25,
+       0.55
+      ],
+      "to": [
+       0.68,
+       0.5
+      ],
+      "t0": 0.9,
+      "color": "blue"
+     },
+     {
+      "kind": "text",
+      "str": "A MILE AWAY",
+      "x": 0.47,
+      "y": 0.42,
+      "t0": 1.3,
+      "size": 50,
+      "color": "cream"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s101",
+   "start": 243.946,
+   "end": 245.58,
+   "line": "But seeing isn't enough.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "kitchen",
+    "setOpts": {
+     "night": true
+    },
+    "push": 0.06,
+    "expr": "worried",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s102",
+   "start": 245.58,
+   "end": 249.446,
+   "line": "Every time you warn Mia... she pulls further away.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "footstep",
+     "gain": -16
+    },
+    {
+     "at": 2.2,
+     "name": "footstep",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "SAM_OLD",
+      "x": -300,
+      "facing": 1,
+      "s": 1.5,
+      "talk": [
+       0.12,
+       1.738
+      ],
+      "pose": "talk",
+      "expr": "worried"
+     },
+     {
+      "who": "MIA18",
+      "x": 0,
+      "facing": 1,
+      "s": 1.5,
+      "walk": {
+       "x1": 520,
+       "t0": 1.4
+      },
+      "pose": "stand",
+      "expr": "angry"
+     }
+    ],
+    "setOpts": {
+     "night": true
+    },
+    "cam": {
+     "z": [
+      1.12,
+      1.18
+     ],
+     "y": [
+      -50,
+      -50
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s103",
+   "start": 249.446,
+   "end": 252.917,
+   "line": "You sound like every boring adult she's ever ignored.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "kitchen",
+    "setOpts": {
+     "night": true
+    },
+    "rimSide": 1,
+    "look": [
+     0.5,
+     -1
+    ],
+    "float": [
+     {
+      "str": "blah blah",
+      "t0": 0.2,
+      "dx": -460,
+      "dy": -230,
+      "color": "#9fb6d8",
+      "size": 44
+     },
+     {
+      "str": "blah",
+      "t0": 1.2,
+      "dx": 450,
+      "dy": -180,
+      "color": "#9fb6d8",
+      "size": 44
+     }
+    ],
+    "expr": "sleepy",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s104",
+   "start": 252.917,
+   "end": 254.558,
+   "line": "Scammers count on that.",
+   "scene": "wide: lair",
+   "set": "lair",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "lair",
+    "actors": [
+     {
+      "who": "MRBLACK",
+      "x": 0,
+      "facing": 1,
+      "s": 1.7,
+      "pose": "stand",
+      "expr": "smirk"
+     }
+    ],
+    "cam": {
+     "z": [
+      1.25,
+      1.32
+     ],
+     "x": [
+      60,
+      20
+     ],
+     "y": [
+      -70,
+      -70
+     ]
+    },
+    "rimDir": [
+     0.6,
+     -1
+    ],
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s105",
+   "start": 254.558,
+   "end": 258.033,
+   "line": "Their best weapon isn't the fake app. It's shame.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "THEIR BEST WEAPON:",
+      "x": 0.5,
+      "y": 0.25,
+      "t0": 0.0,
+      "size": 54,
+      "color": "cream",
+      "spacing": 4
+     },
+     {
+      "kind": "text",
+      "str": "THE FAKE APP",
+      "x": 0.5,
+      "y": 0.45,
+      "t0": 0.4,
+      "size": 80,
+      "color": "blue",
+      "font": "title"
+     },
+     {
+      "kind": "line",
+      "from": [
+       0.3,
+       0.45
+      ],
+      "to": [
+       0.7,
+       0.45
+      ],
+      "t0": 1.6,
+      "color": "accent",
+      "w": 10
+     },
+     {
+      "kind": "text",
+      "str": "SHAME",
+      "x": 0.5,
+      "y": 0.7,
+      "t0": 2.4,
+      "size": 140,
+      "color": "accent",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s106",
+   "start": 258.033,
+   "end": 261.194,
+   "line": "People who feel foolish... stay quiet.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -420,
+      "facing": 1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "pose": "sad",
+      "expr": "sad"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0
+    },
+    "cam": {
+     "z": [
+      1.2,
+      1.26
+     ],
+     "x": [
+      -380,
+      -400
+     ],
+     "y": [
+      20,
+      20
+     ]
+    },
+    "bigText": {
+     "str": "QUIET",
+     "t0": 1.9,
+     "y": 170,
+     "size": 60,
+     "color": "#9fb6d8"
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s107",
+   "start": 261.194,
+   "end": 264.019,
+   "line": "And quiet people... send more.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "value": 9000,
+     "button": "SEND MORE",
+     "flagged": null
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "thumb": "hover",
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s108",
+   "start": 264.019,
+   "end": 265.89,
+   "line": "You can't force her to listen.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "kitchen",
+    "setOpts": {
+     "night": true
+    },
+    "push": 0.04,
+    "expr": "sad",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s109",
+   "start": 265.89,
+   "end": 270.17,
+   "line": "You can only make sure... she's never too embarrassed to call you.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "phone",
+      "x": 0.5,
+      "y": 0.36,
+      "t0": 0.0,
+      "s": 1.6
+     },
+     {
+      "kind": "text",
+      "str": "NEVER TOO EMBARRASSED",
+      "x": 0.5,
+      "y": 0.66,
+      "t0": 0.4,
+      "size": 70,
+      "color": "cream",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "TO CALL YOU",
+      "x": 0.5,
+      "y": 0.78,
+      "t0": 2.0,
+      "size": 70,
+      "color": "gold",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s110",
+   "start": 270.17,
+   "end": 272.136,
+   "line": "And that's where your mom comes in.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "roomtone",
+     "gain": -20
+    }
+   ],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "MOM_OLD",
+      "x": 160,
+      "facing": -1,
+      "s": 1.5,
+      "hold": "pan",
+      "pose": "holdFront",
+      "expr": "smile"
+     }
+    ],
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "cam": {
+     "z": [
+      1.1,
+      1.16
+     ],
+     "y": [
+      -50,
+      -50
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s111",
+   "start": 272.136,
+   "end": 275.777,
+   "line": "After her fake bank call, she made a new family rule.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "MOM_OLD",
+      "x": 0,
+      "facing": 1,
+      "s": 1.6,
+      "poses": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        1.0,
+        "pointUp"
+       ]
+      ],
+      "expr": "determined"
+     }
+    ],
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "cam": {
+     "z": [
+      1.2,
+      1.26
+     ],
+     "y": [
+      -60,
+      -60
+     ]
+    },
+    "flashback": false,
+    "badge": {
+     "str": "NEW FAMILY RULE",
+     "t0": 1.6
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s112",
+   "start": 275.777,
+   "end": 277.03,
+   "line": "A code word.",
+   "scene": "bigLine: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "str": "A CODE WORD",
+    "size": 100,
+    "tpl": "bigLine"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s113",
+   "start": 277.03,
+   "end": 279.401,
+   "line": "Something a stranger could never guess.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "lock",
+      "x": 0.5,
+      "y": 0.4,
+      "t0": 0.0,
+      "s": 1.8,
+      "color": "gold"
+     },
+     {
+      "kind": "text",
+      "str": "? ? ? ? ? ?",
+      "x": 0.5,
+      "y": 0.72,
+      "t0": 0.5,
+      "size": 80,
+      "color": "cream",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s114",
+   "start": 279.401,
+   "end": 281.595,
+   "line": "Hers? Pancakes.",
+   "scene": "noteMacro: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "warm": true,
+    "lines": [
+     "Our code word:",
+     "PANCAKES"
+    ],
+    "reveal": 1.0,
+    "tpl": "noteMacro"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s115",
+   "start": 281.595,
+   "end": 285.472,
+   "line": "Because every Sunday, for sixty years, she's made pancakes.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "MOM_OLD",
+      "x": 160,
+      "facing": -1,
+      "s": 1.5,
+      "hold": "pan",
+      "pose": "holdFront",
+      "expr": "happy"
+     }
+    ],
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "cam": {
+     "z": [
+      1.12,
+      1.18
+     ],
+     "x": [
+      40,
+      60
+     ],
+     "y": [
+      -50,
+      -50
+     ]
+    },
+    "badge": {
+     "str": "EVERY SUNDAY \u00b7 60 YEARS"
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s116",
+   "start": 285.472,
+   "end": 287.076,
+   "line": "Even at ninety-one.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MOM_OLD",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "rimSide": 1,
+    "badge": {
+     "str": "AGE 91"
+    },
+    "expr": "happy",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s117",
+   "start": 287.076,
+   "end": 288.649,
+   "line": "Her hands shake now.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "MOM_OLD",
+      "x": 120,
+      "facing": -1,
+      "s": 1.8,
+      "hold": "pan",
+      "pose": "holdFront",
+      "expr": "determined"
+     }
+    ],
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "cam": {
+     "z": [
+      1.35,
+      1.4
+     ],
+     "x": [
+      120,
+      120
+     ],
+     "y": [
+      -120,
+      -120
+     ],
+     "shake": 2
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s118",
+   "start": 288.649,
+   "end": 290.804,
+   "line": "Still the best pancakes in the city.",
+   "scene": "bigLine: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "lines": [
+     "STILL THE BEST PANCAKES",
+     "IN THE CITY"
+    ],
+    "stagger": 0.5,
+    "sizes": [
+     76,
+     76
+    ],
+    "gap": 110,
+    "tpl": "bigLine"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s119",
+   "start": 290.804,
+   "end": 292.818,
+   "line": "Mia comes every Sunday too.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -330,
+      "facing": 1,
+      "s": 1.3,
+      "shadow": false,
+      "pose": "sit",
+      "expr": "smile"
+     },
+     {
+      "who": "MOM_OLD",
+      "x": 330,
+      "facing": -1,
+      "s": 1.3,
+      "shadow": false,
+      "pose": "sit",
+      "expr": "smile"
+     }
+    ],
+    "table": true,
+    "chairs": [
+     {
+      "x": -330,
+      "facing": 1,
+      "s": 1.3
+     },
+     {
+      "x": 330,
+      "facing": -1,
+      "s": 1.3
+     }
+    ],
+    "tableItems": [
+     {
+      "kind": "tea",
+      "x": -90
+     },
+     {
+      "kind": "tea",
+      "x": 90
+     }
+    ],
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "cam": {
+     "z": [
+      1.02,
+      1.08
+     ],
+     "x": [
+      -20,
+      20
+     ]
+    },
+    "badge": {
+     "str": "SUNDAY"
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s120",
+   "start": 292.818,
+   "end": 296.335,
+   "line": "And every Sunday, your mom asks her the old question.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -330,
+      "facing": 1,
+      "s": 1.3,
+      "shadow": false,
+      "pose": "sit",
+      "expr": "smile"
+     },
+     {
+      "who": "MOM_OLD",
+      "x": 330,
+      "facing": -1,
+      "s": 1.3,
+      "shadow": false,
+      "pose": "sit",
+      "expr": "smile"
+     }
+    ],
+    "table": true,
+    "chairs": [
+     {
+      "x": -330,
+      "facing": 1,
+      "s": 1.3
+     },
+     {
+      "x": 330,
+      "facing": -1,
+      "s": 1.3
+     }
+    ],
+    "tableItems": [
+     {
+      "kind": "tea",
+      "x": -90
+     },
+     {
+      "kind": "tea",
+      "x": 90
+     }
+    ],
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "cam": {
+     "z": [
+      1.2,
+      1.26
+     ],
+     "x": [
+      140,
+      160
+     ],
+     "y": [
+      -40,
+      -40
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s121",
+   "start": 296.335,
+   "end": 298.118,
+   "line": "Still feeding the jar?",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MOM_OLD",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "talk": [
+     0.05,
+     1.683
+    ],
+    "rimSide": 1,
+    "expr": "smile",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s122",
+   "start": 298.118,
+   "end": 299.801,
+   "line": "Still feeding the jar.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "talk": [
+     0.05,
+     1.583
+    ],
+    "expr": "happy",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s123",
+   "start": 299.801,
+   "end": 302.469,
+   "line": "Your mom winks. And the word?",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MOM_OLD",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "rimSide": 1,
+    "talk": [
+     1.515,
+     2.338
+    ],
+    "exprs": [
+     [
+      0,
+      "smile"
+     ],
+     [
+      0.4,
+      "smirk"
+     ]
+    ],
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s124",
+   "start": 302.469,
+   "end": 305.297,
+   "line": "Mia groans. Pancakes, Grandma.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "talk": [
+     1.411,
+     2.628
+    ],
+    "exprs": [
+     [
+      0,
+      "sleepy"
+     ],
+     [
+      1.2,
+      "smile"
+     ]
+    ],
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s125",
+   "start": 305.297,
+   "end": 307.688,
+   "line": "Then, Sunday night, your phone rings.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "phonering",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "SAM_OLD",
+      "x": -640,
+      "facing": 1,
+      "y": 4,
+      "rot": -1.5708,
+      "s": 1.1,
+      "shadow": false,
+      "pose": "lie",
+      "expr": "sleepy"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 60,
+     "jarGlow": 1.0,
+     "phone": 1,
+     "buzz": true
+    },
+    "cam": {
+     "z": [
+      1.22,
+      1.32
+     ],
+     "x": [
+      -400,
+      -440
+     ],
+     "y": [
+      -30,
+      -30
+     ]
+    },
+    "badge": {
+     "str": "SUNDAY NIGHT"
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s126",
+   "start": 307.688,
+   "end": 308.741,
+   "line": "It's Mia.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "phonering",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "call",
+     "name": "MIA",
+     "avatar": "#f29ac0"
+    },
+    "set": "bedroom",
+    "buzz": [
+     0,
+     0.8
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 60,
+     "jarGlow": 1.0
+    },
+    "who": "SAM_OLD",
+    "thumb": [
+     [
+      0,
+      "off"
+     ],
+     [
+      0.6,
+      "press"
+     ]
+    ],
+    "pressAt": 0.6,
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s127",
+   "start": 308.741,
+   "end": 314.899,
+   "line": "Crying. Grandpa Sam... I'm in trouble. I need money. Right now.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 60,
+     "jarGlow": 1.0
+    },
+    "phoneEar": true,
+    "voice": true,
+    "voiceShake": true,
+    "voiceColor": "#f29ac0",
+    "float": [
+     {
+      "str": "\"GRANDPA SAM...\"",
+      "t0": 0.9,
+      "dx": -470,
+      "dy": -260,
+      "color": "#f29ac0",
+      "size": 42
+     },
+     {
+      "str": "\"I'M IN TROUBLE\"",
+      "t0": 2.5,
+      "dx": 470,
+      "dy": -230,
+      "color": "#f29ac0",
+      "size": 42
+     },
+     {
+      "str": "\"I NEED MONEY\"",
+      "t0": 3.8,
+      "dx": -470,
+      "dy": -120,
+      "color": "#f29ac0",
+      "size": 42
+     },
+     {
+      "str": "\"RIGHT NOW\"",
+      "t0": 5.0,
+      "dx": 470,
+      "dy": -100,
+      "color": "#ff6f61",
+      "size": 42
+     }
+    ],
+    "exprs": [
+     [
+      0,
+      "worried"
+     ],
+     [
+      3.0,
+      "scared"
+     ]
+    ],
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s128",
+   "start": 314.899,
+   "end": 316.58,
+   "line": "Please don't tell anyone.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 60,
+     "jarGlow": 1.0
+    },
+    "phoneEar": true,
+    "voice": true,
+    "voiceColor": "#f29ac0",
+    "push": 0.1,
+    "float": [
+     {
+      "str": "\"DON'T TELL ANYONE\"",
+      "t0": 0.2,
+      "dx": 0,
+      "dy": -330,
+      "color": "#ff6f61",
+      "size": 46
+     }
+    ],
+    "expr": "scared",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s129",
+   "start": 316.58,
+   "end": 318.045,
+   "line": "Your heart drops.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -6
+    }
+   ],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 60,
+     "jarGlow": 1.0
+    },
+    "push": 0.14,
+    "shake": 3,
+    "expr": "shocked",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s130",
+   "start": 318.045,
+   "end": 319.822,
+   "line": "Then something feels off.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 60,
+     "jarGlow": 1.0
+    },
+    "phoneEar": true,
+    "expr": "thinking",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s131",
+   "start": 319.822,
+   "end": 322.122,
+   "line": "Mia never calls you Grandpa Sam.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "\"GRANDPA SAM\"",
+      "x": 0.5,
+      "y": 0.42,
+      "t0": 0.0,
+      "size": 100,
+      "color": "cream",
+      "font": "serif"
+     },
+     {
+      "kind": "stamp",
+      "str": "SHE NEVER SAYS THAT",
+      "x": 0.5,
+      "y": 0.7,
+      "t0": 1.2,
+      "size": 56
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s132",
+   "start": 322.122,
+   "end": 325.2,
+   "line": "You ask one question. What's the word?",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 60,
+     "jarGlow": 1.0
+    },
+    "phoneEar": true,
+    "talk": [
+     1.797,
+     2.748
+    ],
+    "expr": "determined",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s133",
+   "start": 325.2,
+   "end": 326.251,
+   "line": "Silence.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "app": {
+     "mode": "call",
+     "name": "MIA",
+     "avatar": "#f29ac0",
+     "sub": "00:42"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 60,
+     "jarGlow": 1.0
+    },
+    "who": "SAM_OLD",
+    "hand": false,
+    "push": 0.15,
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s134",
+   "start": 326.251,
+   "end": 329.025,
+   "line": "What word? Just send it, please!",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "wave",
+      "x": 0.5,
+      "y": 0.5,
+      "t0": 0.0,
+      "color": "accent",
+      "h": 140
+     },
+     {
+      "kind": "text",
+      "str": "\"WHAT WORD?\"",
+      "x": 0.3,
+      "y": 0.2,
+      "t0": 0.1,
+      "size": 64,
+      "color": "cream",
+      "font": "serif"
+     },
+     {
+      "kind": "text",
+      "str": "\"JUST SEND IT!\"",
+      "x": 0.7,
+      "y": 0.82,
+      "t0": 1.2,
+      "size": 64,
+      "color": "accent",
+      "font": "serif"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s135",
+   "start": 329.025,
+   "end": 330.592,
+   "line": "The line goes dead.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "call",
+     "name": "MIA",
+     "avatar": "#f29ac0",
+     "sub": "call ended",
+     "redFlag": "CALL ENDED"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 60,
+     "jarGlow": 1.0
+    },
+    "who": "SAM_OLD",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s136",
+   "start": 330.592,
+   "end": 331.873,
+   "line": "It wasn't Mia.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "wave",
+      "x": 0.5,
+      "y": 0.45,
+      "t0": 0.0,
+      "color": "blue",
+      "h": 120
+     },
+     {
+      "kind": "stamp",
+      "str": "NOT MIA",
+      "x": 0.5,
+      "y": 0.75,
+      "t0": 0.4,
+      "size": 100
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s137",
+   "start": 331.873,
+   "end": 333.83,
+   "line": "It was a copy of her voice.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "MIA'S VOICE",
+      "x": 0.25,
+      "y": 0.25,
+      "t0": 0.0,
+      "size": 44,
+      "color": "gold"
+     },
+     {
+      "kind": "wave",
+      "x": 0.25,
+      "y": 0.5,
+      "t0": 0.0,
+      "color": "gold",
+      "n": 22,
+      "h": 90
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.42,
+       0.5
+      ],
+      "to": [
+       0.58,
+       0.5
+      ],
+      "t0": 0.5,
+      "color": "cream"
+     },
+     {
+      "kind": "text",
+      "str": "COPY",
+      "x": 0.75,
+      "y": 0.25,
+      "t0": 0.8,
+      "size": 44,
+      "color": "accent"
+     },
+     {
+      "kind": "wave",
+      "x": 0.75,
+      "y": 0.5,
+      "t0": 0.8,
+      "color": "accent",
+      "n": 22,
+      "h": 90
+     },
+     {
+      "kind": "text",
+      "str": "VOICE CLONE",
+      "x": 0.5,
+      "y": 0.82,
+      "t0": 1.2,
+      "size": 70,
+      "color": "accent",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s138",
+   "start": 333.83,
+   "end": 337.606,
+   "line": "Built by a machine... from a few seconds of her videos.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "phone",
+      "x": 0.2,
+      "y": 0.45,
+      "t0": 0.0,
+      "s": 1.4
+     },
+     {
+      "kind": "text",
+      "str": "3 SEC OF VIDEO",
+      "x": 0.2,
+      "y": 0.75,
+      "t0": 0.3,
+      "size": 40,
+      "color": "cream"
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.3,
+       0.45
+      ],
+      "to": [
+       0.45,
+       0.45
+      ],
+      "t0": 0.5,
+      "color": "blue"
+     },
+     {
+      "kind": "icon",
+      "name": "brain",
+      "x": 0.55,
+      "y": 0.45,
+      "t0": 0.7,
+      "s": 1.0
+     },
+     {
+      "kind": "text",
+      "str": "MACHINE",
+      "x": 0.55,
+      "y": 0.75,
+      "t0": 0.9,
+      "size": 40,
+      "color": "blue"
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.65,
+       0.45
+      ],
+      "to": [
+       0.75,
+       0.45
+      ],
+      "t0": 1.8,
+      "color": "accent"
+     },
+     {
+      "kind": "wave",
+      "x": 0.85,
+      "y": 0.45,
+      "t0": 2.0,
+      "color": "accent",
+      "n": 10,
+      "h": 70
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s139",
+   "start": 337.606,
+   "end": 341.068,
+   "line": "Which means Mr. Black knows exactly who she is.",
+   "scene": "wide: lair",
+   "set": "lair",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "set": "lair",
+    "actors": [
+     {
+      "who": "MRBLACK",
+      "x": -200,
+      "facing": 1,
+      "s": 1.6,
+      "pose": "crossArms",
+      "expr": "smirk"
+     }
+    ],
+    "cam": {
+     "z": [
+      1.15,
+      1.22
+     ],
+     "x": [
+      0,
+      -20
+     ],
+     "y": [
+      -60,
+      -60
+     ]
+    },
+    "rimDir": [
+     0.6,
+     -1
+    ],
+    "bigText": {
+     "str": "TARGET: MIA, 18",
+     "t0": 1.2,
+     "y": 170,
+     "color": "#3fd0c0",
+     "size": 62
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s140",
+   "start": 341.068,
+   "end": 343.833,
+   "line": "You call the real Mia. No answer.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "phonering",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "call",
+     "name": "MIA",
+     "sub": "calling...",
+     "avatar": "#f29ac0",
+     "redFlag": "NO ANSWER"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 60,
+     "jarGlow": 1.0
+    },
+    "who": "SAM_OLD",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s141",
+   "start": 343.833,
+   "end": 345.186,
+   "line": "You call Max.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "phonering",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "call",
+     "name": "MAX",
+     "sub": "calling...",
+     "avatar": "#c9a21a"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 60,
+     "jarGlow": 1.0
+    },
+    "who": "SAM_OLD",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s142",
+   "start": 345.186,
+   "end": 349.768,
+   "line": "She's in her room, he says. Said she's paying something to unlock her money.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MAX",
+    "set": "kitchen",
+    "setOpts": {
+     "night": true
+    },
+    "talk": [
+     0.05,
+     4.482
+    ],
+    "phoneEar": true,
+    "rimSide": 1,
+    "expr": "worried",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s143",
+   "start": 349.768,
+   "end": 351.328,
+   "line": "You grab your keys.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -12
+    },
+    {
+     "at": 0.7,
+     "name": "footstep",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "SAM_OLD",
+      "x": -300,
+      "facing": 1,
+      "s": 1.3,
+      "walk": {
+       "x1": 500,
+       "t0": 0.2,
+       "run": true
+      },
+      "hold": "keys",
+      "pose": "stand",
+      "expr": "determined"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 60,
+     "jarGlow": 1.0
+    },
+    "cam": {
+     "z": [
+      1.1,
+      1.14
+     ],
+     "x": [
+      -100,
+      100
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s144",
+   "start": 351.328,
+   "end": 354.59,
+   "line": "Eight thousand dollars. Everything she has left.",
+   "scene": "bigNum: bedroom",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "to": 8000,
+    "label": "EVERYTHING SHE HAS LEFT",
+    "color": "accent",
+    "bg": "bedroom",
+    "bgOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "tpl": "bigNum"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s145",
+   "start": 354.59,
+   "end": 358.646,
+   "line": "If she sends it... it's not paused. It's gone.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.9,
+     "name": "impact",
+     "gain": -4
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "SENT",
+      "x": 0.5,
+      "y": 0.25,
+      "t0": 0.0,
+      "size": 90,
+      "color": "cream",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "NOT PAUSED",
+      "x": 0.5,
+      "y": 0.48,
+      "t0": 1.4,
+      "size": 70,
+      "color": "blue"
+     },
+     {
+      "kind": "line",
+      "from": [
+       0.36,
+       0.48
+      ],
+      "to": [
+       0.64,
+       0.48
+      ],
+      "t0": 2.3,
+      "color": "accent",
+      "w": 10
+     },
+     {
+      "kind": "stamp",
+      "str": "GONE",
+      "x": 0.5,
+      "y": 0.75,
+      "t0": 2.9,
+      "size": 120
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s146",
+   "start": 358.646,
+   "end": 359.745,
+   "line": "Red light.",
+   "scene": "wide: street",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "carpass",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "set": "street",
+    "actors": [],
+    "setOpts": {
+     "mood": "night",
+     "wet": true,
+     "light": "red",
+     "car": true,
+     "carX": 760,
+     "carColor": "#d64a33",
+     "carS": 0.9,
+     "carY": 60,
+     "rain": true
+    },
+    "cam": {
+     "z": [
+      1.1,
+      1.18
+     ],
+     "x": [
+      200,
+      220
+     ],
+     "y": [
+      -20,
+      -20
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s147",
+   "start": 359.745,
+   "end": 363.701,
+   "line": "Your phone buzzes. A text. From Mr. Black.",
+   "scene": "phone: street",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "phonebuzz",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "dm",
+     "name": "Mr. Black",
+     "msgs": []
+    },
+    "set": "street",
+    "setOpts": {
+     "mood": "night",
+     "light": "red"
+    },
+    "buzz": [
+     0,
+     1.2
+    ],
+    "who": "SAM_OLD",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s148",
+   "start": 363.701,
+   "end": 367.756,
+   "line": "Send me twenty thousand, old man. And I'll leave the girl alone.",
+   "scene": "phone: street",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "blip",
+     "gain": -10
+    },
+    {
+     "at": 2.4,
+     "name": "blip",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "dm",
+     "name": "Mr. Black",
+     "msgs": [
+      [
+       0.1,
+       "Send me $20,000, old man.",
+       "them",
+       "#2a2a34"
+      ],
+      [
+       2.4,
+       "And I'll leave the girl alone.",
+       "them",
+       "#a8352a"
+      ]
+     ]
+    },
+    "set": "street",
+    "setOpts": {
+     "mood": "night",
+     "light": "red"
+    },
+    "who": "SAM_OLD",
+    "push": 0.12,
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s149",
+   "start": 367.756,
+   "end": 369.094,
+   "line": "You have the money.",
+   "scene": "phone: street",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "app": {
+     "mode": "balance",
+     "value": 130000,
+     "chartP": 1
+    },
+    "set": "street",
+    "setOpts": {
+     "mood": "night",
+     "light": "red"
+    },
+    "who": "SAM_OLD",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s150",
+   "start": 369.094,
+   "end": 372.045,
+   "line": "You could pay. Make it all stop tonight.",
+   "scene": "face: street",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "street",
+    "setOpts": {
+     "mood": "night",
+     "light": "red",
+     "rain": true
+    },
+    "rimColor": "#ff5a4a",
+    "expr": "thinking",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s151",
+   "start": 372.045,
+   "end": 376.387,
+   "line": "Or you could walk in there... and tell her the whole embarrassing truth.",
+   "scene": "face: street",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "street",
+    "setOpts": {
+     "mood": "night",
+     "light": "red",
+     "rain": true
+    },
+    "rimColor": "#ff5a4a",
+    "push": 0.1,
+    "exprs": [
+     [
+      0,
+      "thinking"
+     ],
+     [
+      1.6,
+      "determined"
+     ]
+    ],
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s152",
+   "start": 376.387,
+   "end": 379.381,
+   "line": "Pay him off... or tell her the truth.",
+   "scene": "split: ",
+   "set": null,
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "left": {
+     "tpl": "phone",
+     "set": "street",
+     "setOpts": {
+      "mood": "night",
+      "light": "red"
+     },
+     "app": {
+      "mode": "dm",
+      "name": "Mr. Black",
+      "msgs": [
+       [
+        0,
+        "Send me $20,000",
+        "them",
+        "#2a2a34"
+       ]
+      ]
+     },
+     "hand": false,
+     "bigText": {
+      "str": "PAY HIM?",
+      "t0": 0.1,
+      "x": 960,
+      "y": 150,
+      "size": 50,
+      "color": "#ff6f61"
+     }
+    },
+    "right": {
+     "tpl": "wide",
+     "set": "bedroom",
+     "setOpts": {
+      "mood": "night",
+      "coins": 31,
+      "jarGlow": 0.8,
+      "lamp": 0.7
+     },
+     "actors": [
+      {
+       "who": "MIA18",
+       "x": 0,
+       "facing": 1,
+       "s": 1.5,
+       "shadow": false,
+       "pose": "sit",
+       "expr": "sad"
+      }
+     ],
+     "cam": {
+      "z": [
+       1.15,
+       1.2
+      ],
+      "x": [
+       0,
+       0
+      ],
+      "y": [
+       -40,
+       -40
+      ]
+     },
+     "bigText": {
+      "str": "TELL THE TRUTH?",
+      "t0": 1.4,
+      "x": 960,
+      "y": 150,
+      "size": 50,
+      "color": "#ffd47e"
+     }
+    },
+    "tpl": "split"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s153",
+   "start": 379.381,
+   "end": 381.823,
+   "line": "You don't pay. You never pay.",
+   "scene": "face: street",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "street",
+    "setOpts": {
+     "mood": "night",
+     "light": "green"
+    },
+    "rimColor": "#3fe07a",
+    "push": 0.1,
+    "bigText": {
+     "str": "NEVER PAY",
+     "t0": 1.1,
+     "y": 170,
+     "size": 70
+    },
+    "expr": "determined",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s154",
+   "start": 381.823,
+   "end": 384.423,
+   "line": "Paying a scammer just proves you'll pay again.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "coin",
+      "x": 0.25,
+      "y": 0.45,
+      "t0": 0.0,
+      "s": 1.2
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.33,
+       0.4
+      ],
+      "to": [
+       0.62,
+       0.4
+      ],
+      "t0": 0.3,
+      "color": "accent"
+     },
+     {
+      "kind": "icon",
+      "name": "person",
+      "x": 0.72,
+      "y": 0.45,
+      "t0": 0.5,
+      "s": 1.3,
+      "color": "#3fd0c0"
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.62,
+       0.55
+      ],
+      "to": [
+       0.33,
+       0.55
+      ],
+      "t0": 1.0,
+      "color": "accent"
+     },
+     {
+      "kind": "text",
+      "str": "PAY ONCE = PAY AGAIN",
+      "x": 0.5,
+      "y": 0.82,
+      "t0": 1.4,
+      "size": 64,
+      "color": "accent",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s155",
+   "start": 384.423,
+   "end": 386.418,
+   "line": "You burst through Max's door.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -8
+    },
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -420,
+      "facing": 1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "prop": {
+       "type": "phone",
+       "glow": "#5fd39a"
+      },
+      "pose": "phone",
+      "expr": "worried"
+     },
+     {
+      "who": "SAM_OLD",
+      "x": 600,
+      "facing": -1,
+      "s": 1.2,
+      "walk": {
+       "x1": -200,
+       "t0": 0.0,
+       "run": true
+      },
+      "pose": "stand",
+      "expr": "determined"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "cam": {
+     "z": [
+      1.05,
+      1.1
+     ],
+     "x": [
+      -100,
+      -160
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s156",
+   "start": 386.418,
+   "end": 388.354,
+   "line": "Mia's thumb is on the button.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "trade",
+     "header": " ",
+     "value": 9000,
+     "button": "SEND $8,000",
+     "chip": "RELEASE FEE DUE"
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "thumb": "hover",
+    "pw": 1.15,
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s157",
+   "start": 388.354,
+   "end": 389.905,
+   "line": "You don't grab the phone.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "push": 0.03,
+    "expr": "neutral",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s158",
+   "start": 389.905,
+   "end": 391.196,
+   "line": "You sit down.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -520,
+      "facing": 1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "pose": "sit",
+      "expr": "worried"
+     },
+     {
+      "who": "SAM_OLD",
+      "x": -330,
+      "facing": -1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "pose": "sit",
+      "expr": "smile"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "cam": {
+     "z": [
+      1.35,
+      1.42
+     ],
+     "x": [
+      -480,
+      -470
+     ],
+     "y": [
+      40,
+      40
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s159",
+   "start": 391.196,
+   "end": 395.308,
+   "line": "And you tell her everything. Your mom. The fake bank.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -520,
+      "facing": 1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "pose": "sit",
+      "expr": "worried"
+     },
+     {
+      "who": "SAM_OLD",
+      "x": -330,
+      "facing": -1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "talk": [
+       0.12,
+       3.912
+      ],
+      "pose": "sit",
+      "expr": "sad"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "cam": {
+     "z": [
+      1.5,
+      1.55
+     ],
+     "x": [
+      -470,
+      -460
+     ],
+     "y": [
+      60,
+      60
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s160",
+   "start": 395.308,
+   "end": 397.789,
+   "line": "How she cried, I'm so stupid, Sam.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "who": "MOM_OLD",
+    "set": "kitchen",
+    "setOpts": {
+     "night": true
+    },
+    "phoneEar": true,
+    "rimSide": 1,
+    "flashback": true,
+    "talk": [
+     0.12,
+     2.281
+    ],
+    "expr": "cry",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s161",
+   "start": 397.789,
+   "end": 399.428,
+   "line": "Mia's eyes fill up.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "rimSide": 1,
+    "exprs": [
+     [
+      0,
+      "sad"
+     ],
+     [
+      1.0,
+      "cry"
+     ]
+    ],
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s162",
+   "start": 399.428,
+   "end": 400.853,
+   "line": "I'm so stupid.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "rimSide": 1,
+    "talk": [
+     0.05,
+     1.325
+    ],
+    "expr": "cry",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s163",
+   "start": 400.853,
+   "end": 402.261,
+   "line": "You're not stupid.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "talk": [
+     0.12,
+     1.208
+    ],
+    "expr": "smile",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s164",
+   "start": 402.261,
+   "end": 403.88,
+   "line": "They do this for a living.",
+   "scene": "scamCenter: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "boss": true,
+    "tpl": "scamCenter"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s165",
+   "start": 403.88,
+   "end": 405.768,
+   "line": "Then you show her one test.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -520,
+      "facing": 1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "pose": "sit",
+      "expr": "neutral"
+     },
+     {
+      "who": "SAM_OLD",
+      "x": -330,
+      "facing": -1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "prop": "phone",
+      "pose": "phone",
+      "expr": "explain"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "cam": {
+     "z": [
+      1.4,
+      1.46
+     ],
+     "x": [
+      -470,
+      -460
+     ],
+     "y": [
+      40,
+      40
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s166",
+   "start": 405.768,
+   "end": 408.437,
+   "line": "Real investment firms are registered.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "bank",
+      "x": 0.5,
+      "y": 0.32,
+      "t0": 0.0,
+      "s": 1.6
+     },
+     {
+      "kind": "icon",
+      "name": "check",
+      "x": 0.68,
+      "y": 0.24,
+      "t0": 0.6,
+      "s": 0.8,
+      "color": "good"
+     },
+     {
+      "kind": "text",
+      "str": "REAL FIRMS ARE REGISTERED",
+      "x": 0.5,
+      "y": 0.64,
+      "t0": 0.3,
+      "size": 64,
+      "color": "cream",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s167",
+   "start": 408.437,
+   "end": 410.109,
+   "line": "You can check in minutes.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "clock",
+      "x": 0.5,
+      "y": 0.4,
+      "t0": 0.0,
+      "s": 1.4
+     },
+     {
+      "kind": "text",
+      "str": "CHECK IN MINUTES",
+      "x": 0.5,
+      "y": 0.72,
+      "t0": 0.2,
+      "size": 70,
+      "color": "gold",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s168",
+   "start": 410.109,
+   "end": 412.868,
+   "line": "She searches the app's name. Nothing.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "search",
+     "query": "QUIKGAIN",
+     "resultAt": 1.9
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s169",
+   "start": 412.868,
+   "end": 415.01,
+   "line": "She asks Jade for a video call.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "phonering",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "video",
+     "endAt": 9
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s170",
+   "start": 415.01,
+   "end": 417.554,
+   "line": "Jade goes silent. Forever.",
+   "scene": "phone: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "video",
+     "endAt": 0.2
+    },
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "push": 0.1,
+    "who": "MIA18",
+    "sleeve": "#3a3446",
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s171",
+   "start": 417.554,
+   "end": 419.327,
+   "line": "Mia puts the phone down.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -520,
+      "facing": 1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "pose": "sit",
+      "expr": "sad"
+     },
+     {
+      "who": "SAM_OLD",
+      "x": -330,
+      "facing": -1,
+      "y": 6,
+      "s": 1.2,
+      "shadow": false,
+      "pose": "sit",
+      "expr": "smile"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "items": [],
+    "cam": {
+     "z": [
+      1.35,
+      1.42
+     ],
+     "x": [
+      -480,
+      -470
+     ],
+     "y": [
+      40,
+      40
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s172",
+   "start": 419.327,
+   "end": 421.07,
+   "line": "The eight thousand stays.",
+   "scene": "bigNum: bedroom",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "to": 8000,
+    "label": "THE $8,000",
+    "color": "good",
+    "chip": "STAYS",
+    "chipAt": 0.6,
+    "bg": "bedroom",
+    "bgOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "tpl": "bigNum"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s173",
+   "start": 421.07,
+   "end": 423.796,
+   "line": "The two thousand... is gone.",
+   "scene": "bigNum: bedroom",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "to": 2000,
+    "label": "THE $2,000",
+    "color": "accent",
+    "strikeAt": 1.6,
+    "sub": "GONE",
+    "subAt": 1.7,
+    "subColor": "accent",
+    "bg": "bedroom",
+    "bgOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "tpl": "bigNum"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s174",
+   "start": 423.796,
+   "end": 426.354,
+   "line": "That part hurts. And it should.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "rimSide": 1,
+    "push": 0.04,
+    "expr": "sad",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s175",
+   "start": 426.354,
+   "end": 427.952,
+   "line": "You report everything.",
+   "scene": "wide: office",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "params": {
+    "set": "office",
+    "actors": [
+     {
+      "who": "SAM_OLD",
+      "x": -380,
+      "facing": 1,
+      "s": 1.4,
+      "pose": "explain",
+      "expr": "determined"
+     },
+     {
+      "who": "MIA18",
+      "x": -200,
+      "facing": 1,
+      "s": 1.4,
+      "pose": "stand",
+      "expr": "neutral"
+     },
+     {
+      "who": "OFFICER",
+      "x": 340,
+      "facing": -1,
+      "s": 1.4,
+      "pose": "think",
+      "expr": "determined"
+     }
+    ],
+    "desk": true,
+    "setOpts": {
+     "sign": "POLICE",
+     "signColor": "#9fc0ff",
+     "police": true
+    },
+    "cam": {
+     "z": [
+      1.08,
+      1.14
+     ],
+     "y": [
+      -40,
+      -40
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s176",
+   "start": 427.952,
+   "end": 431.46,
+   "line": "The app. The chats. The cloned call.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.0,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 2.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "phone",
+      "x": 0.25,
+      "y": 0.45,
+      "t0": 0.0,
+      "s": 1.3
+     },
+     {
+      "kind": "text",
+      "str": "THE APP",
+      "x": 0.25,
+      "y": 0.75,
+      "t0": 0.0,
+      "size": 44,
+      "color": "cream"
+     },
+     {
+      "kind": "icon",
+      "name": "chat",
+      "x": 0.5,
+      "y": 0.45,
+      "t0": 1.0,
+      "s": 1.3
+     },
+     {
+      "kind": "text",
+      "str": "THE CHATS",
+      "x": 0.5,
+      "y": 0.75,
+      "t0": 1.0,
+      "size": 44,
+      "color": "cream"
+     },
+     {
+      "kind": "icon",
+      "name": "wave",
+      "x": 0.75,
+      "y": 0.45,
+      "t0": 2.1,
+      "s": 1.1
+     },
+     {
+      "kind": "text",
+      "str": "THE CLONED CALL",
+      "x": 0.75,
+      "y": 0.75,
+      "t0": 2.1,
+      "size": 44,
+      "color": "cream"
+     },
+     {
+      "kind": "text",
+      "str": "REPORTED",
+      "x": 0.5,
+      "y": 0.15,
+      "t0": 2.8,
+      "size": 60,
+      "color": "good",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s177",
+   "start": 431.46,
+   "end": 435.312,
+   "line": "Months later, it's on the news. A scam ring shut down.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "tv",
+      "x": 0.5,
+      "y": 0.42,
+      "t0": 0.0,
+      "s": 2.6
+     },
+     {
+      "kind": "text",
+      "str": "BREAKING NEWS",
+      "x": 0.5,
+      "y": 0.15,
+      "t0": 0.3,
+      "size": 64,
+      "color": "accent",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "SCAM RING SHUT DOWN",
+      "x": 0.5,
+      "y": 0.78,
+      "t0": 1.9,
+      "size": 70,
+      "color": "cream",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s178",
+   "start": 435.312,
+   "end": 437.628,
+   "line": "Your report was one of the pieces.",
+   "scene": "scamCenter: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {
+    "stampTxt": {
+     "str": "SHUT DOWN",
+     "t0": 0.2,
+     "size": 110
+    },
+    "cam": {
+     "z": [
+      1.1,
+      1.0
+     ],
+     "x": [
+      0,
+      0
+     ]
+    },
+    "tpl": "scamCenter"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s179",
+   "start": 437.628,
+   "end": 439.596,
+   "line": "Mr. Black's real name?",
+   "scene": "face: lair",
+   "set": "lair",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MRBLACK",
+    "set": "lair",
+    "rimColor": "#3fd0c0",
+    "rimSide": 1,
+    "veil": 0.6,
+    "push": 0.06,
+    "expr": "neutral",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s180",
+   "start": 439.596,
+   "end": 442.277,
+   "line": "Something boring. They always are.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "MR. BLACK",
+      "x": 0.5,
+      "y": 0.36,
+      "t0": 0.0,
+      "size": 110,
+      "color": "blue",
+      "font": "title"
+     },
+     {
+      "kind": "line",
+      "from": [
+       0.3,
+       0.36
+      ],
+      "to": [
+       0.7,
+       0.36
+      ],
+      "t0": 0.4,
+      "color": "accent",
+      "w": 10
+     },
+     {
+      "kind": "text",
+      "str": "REAL NAME: SOMETHING BORING",
+      "x": 0.5,
+      "y": 0.62,
+      "t0": 0.6,
+      "size": 56,
+      "color": "cream"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s181",
+   "start": 442.277,
+   "end": 444.313,
+   "line": "Then you open your own account.",
+   "scene": "phone: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "logo"
+    },
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "who": "SAM_OLD",
+    "thumb": [
+     [
+      0,
+      [
+       0.5,
+       0.75
+      ]
+     ],
+     [
+      0.5,
+      "off"
+     ]
+    ],
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s182",
+   "start": 444.313,
+   "end": 448.528,
+   "line": "One a day. Don't touch. Unless it's for someone you love.",
+   "scene": "noteMacro: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "swish",
+     "gain": -14
+    },
+    {
+     "at": 2.6,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "warm": true,
+    "flip": [
+     1.9,
+     2.6
+    ],
+    "reveal": 2.6,
+    "tpl": "noteMacro"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s183",
+   "start": 448.528,
+   "end": 451.086,
+   "line": "You set up one automatic transfer.",
+   "scene": "phone: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.05,
+     "name": "blip",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "app": {
+     "mode": "toggle",
+     "on": 1.0
+    },
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "who": "SAM_OLD",
+    "thumb": [
+     [
+      0,
+      [
+       0.75,
+       0.3
+      ]
+     ],
+     [
+      1.4,
+      "off"
+     ]
+    ],
+    "badge": {
+     "str": "TO: MIA"
+    },
+    "tpl": "phone"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s184",
+   "start": 451.086,
+   "end": 456.773,
+   "line": "One dollar a day... into Mia's account. Matching hers. Forever.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "jar",
+      "x": 0.3,
+      "y": 0.62,
+      "t0": 0.0,
+      "s": 1.4,
+      "coins": 20
+     },
+     {
+      "kind": "text",
+      "str": "SAM",
+      "x": 0.3,
+      "y": 0.78,
+      "t0": 0.0,
+      "size": 44,
+      "color": "cream"
+     },
+     {
+      "kind": "arrow",
+      "from": [
+       0.4,
+       0.45
+      ],
+      "to": [
+       0.6,
+       0.45
+      ],
+      "t0": 0.6,
+      "color": "gold"
+     },
+     {
+      "kind": "text",
+      "str": "+$1 A DAY",
+      "x": 0.5,
+      "y": 0.36,
+      "t0": 0.8,
+      "size": 44,
+      "color": "gold"
+     },
+     {
+      "kind": "jar",
+      "x": 0.7,
+      "y": 0.62,
+      "t0": 0.3,
+      "s": 1.4,
+      "coins": 20
+     },
+     {
+      "kind": "text",
+      "str": "MIA",
+      "x": 0.7,
+      "y": 0.78,
+      "t0": 0.3,
+      "size": 44,
+      "color": "#f29ac0"
+     },
+     {
+      "kind": "text",
+      "str": "MATCHING HERS \u00b7 FOREVER",
+      "x": 0.5,
+      "y": 0.15,
+      "t0": 2.4,
+      "size": 54,
+      "color": "gold",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s185",
+   "start": 456.773,
+   "end": 461.992,
+   "line": "Two dollars a day, from eighteen to sixty-five? Over six hundred thousand.",
+   "scene": "chart: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -12
+    },
+    {
+     "at": 2.8,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "years": [
+     0,
+     47
+    ],
+    "maxX": 47,
+    "start": 0.2,
+    "cdur": 2.4,
+    "perDay": 2,
+    "valueTag": false,
+    "markers": [
+     {
+      "y": 47,
+      "label": "OVER $600K",
+      "t0": 2.8,
+      "size": 56
+     }
+    ],
+    "title": "$2 A DAY \u00b7 AGE 18 \u2192 65",
+    "lines": [
+     {
+      "rate": 0.1,
+      "perDay": 2,
+      "color": "gold"
+     }
+    ],
+    "tpl": "chart"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s186",
+   "start": 461.992,
+   "end": 463.614,
+   "line": "Mia hugs you hard.",
+   "scene": "wide: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "set": "bedroom",
+    "actors": [
+     {
+      "who": "MIA18",
+      "x": -140,
+      "facing": 1,
+      "s": 1.6,
+      "pose": "reach",
+      "expr": "joy"
+     },
+     {
+      "who": "SAM_OLD",
+      "x": 60,
+      "facing": -1,
+      "s": 1.6,
+      "pose": "reach",
+      "expr": "happy"
+     }
+    ],
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "cam": {
+     "z": [
+      1.3,
+      1.36
+     ],
+     "x": [
+      -60,
+      -40
+     ],
+     "y": [
+      -20,
+      -20
+     ]
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s187",
+   "start": 463.614,
+   "end": 464.98,
+   "line": "No shortcut?",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "talk": [
+     0.05,
+     1.266
+    ],
+    "rimSide": 1,
+    "expr": "smile",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s188",
+   "start": 464.98,
+   "end": 466.194,
+   "line": "No shortcut.",
+   "scene": "face: bedroom",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAM_OLD",
+    "set": "bedroom",
+    "setOpts": {
+     "mood": "night",
+     "coins": 31,
+     "jarGlow": 0.8,
+     "lamp": 0.7
+    },
+    "talk": [
+     0.05,
+     1.114
+    ],
+    "expr": "smile",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s189",
+   "start": 466.194,
+   "end": 467.334,
+   "line": "Just time.",
+   "scene": "clockBig: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "clock",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "label": "JUST TIME",
+    "labelAt": 0.1,
+    "speed": 300,
+    "tpl": "clockBig"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s190",
+   "start": 467.334,
+   "end": 470.038,
+   "line": "That Sunday, your mom flips a pancake.",
+   "scene": "wide: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "set": "kitchen",
+    "actors": [
+     {
+      "who": "MOM_OLD",
+      "x": 360,
+      "facing": -1,
+      "s": 1.4,
+      "hold": "pan",
+      "pose": "holdFront",
+      "expr": "happy"
+     },
+     {
+      "who": "MIA18",
+      "x": -300,
+      "facing": 1,
+      "s": 1.3,
+      "shadow": false,
+      "pose": "sit",
+      "expr": "smile"
+     },
+     {
+      "who": "SAM_OLD",
+      "x": -40,
+      "facing": -1,
+      "s": 1.3,
+      "pose": "stand",
+      "expr": "smile"
+     }
+    ],
+    "chairs": [
+     {
+      "x": -300,
+      "facing": 1,
+      "s": 1.3
+     }
+    ],
+    "table": true,
+    "tableX": -60,
+    "tableItems": [
+     {
+      "kind": "tea",
+      "x": -150
+     }
+    ],
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "cam": {
+     "z": [
+      1.04,
+      1.1
+     ],
+     "x": [
+      0,
+      30
+     ]
+    },
+    "badge": {
+     "str": "SUNDAY"
+    },
+    "tpl": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s191",
+   "start": 470.038,
+   "end": 471.821,
+   "line": "Still feeding the jar?",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MOM_OLD",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "talk": [
+     0.05,
+     1.683
+    ],
+    "rimSide": 1,
+    "expr": "smile",
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s192",
+   "start": 471.821,
+   "end": 474.266,
+   "line": "Mia grins. Both of them.",
+   "scene": "face: kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "who": "MIA18",
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "talk": [
+     1.37,
+     2.245
+    ],
+    "float": [
+     {
+      "str": "BOTH OF THEM",
+      "t0": 1.3,
+      "dx": 0,
+      "dy": -330,
+      "size": 50
+     }
+    ],
+    "exprs": [
+     [
+      0,
+      "smile"
+     ],
+     [
+      0.8,
+      "joy"
+     ]
+    ],
+    "tpl": "face"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s193",
+   "start": 474.266,
+   "end": 477.098,
+   "line": "So... is any of this real?",
+   "scene": "bigLine: blueprint",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "set": "blueprint",
+    "str": "IS ANY OF THIS REAL?",
+    "size": 92,
+    "tpl": "bigLine"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s194",
+   "start": 477.098,
+   "end": 478.391,
+   "line": "Sadly, yes.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "SADLY, YES.",
+      "x": 0.5,
+      "y": 0.5,
+      "t0": 0.0,
+      "size": 100,
+      "color": "accent",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s195",
+   "start": 478.391,
+   "end": 484.946,
+   "line": "In 2024, Americans reported losing more than twelve and a half billion dollars to fraud.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "2024",
+      "x": 0.5,
+      "y": 0.22,
+      "t0": 0.0,
+      "size": 110,
+      "color": "cream",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "$12.5 BILLION",
+      "x": 0.5,
+      "y": 0.5,
+      "t0": 2.2,
+      "size": 140,
+      "color": "accent",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "REPORTED LOST TO FRAUD \u00b7 USA",
+      "x": 0.5,
+      "y": 0.74,
+      "t0": 3.4,
+      "size": 48,
+      "color": "cream"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s196",
+   "start": 484.946,
+   "end": 489.837,
+   "line": "The biggest slice? Investment scams. Five point seven billion.",
+   "scene": "compare: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "rows": [
+     {
+      "label": "ALL FRAUD (2024)",
+      "v": 12.5,
+      "valStr": "$12.5B",
+      "color": "cream",
+      "t0": 0.1,
+      "dur": 0.6
+     },
+     {
+      "label": "INVESTMENT SCAMS",
+      "v": 5.7,
+      "valStr": "$5.7B",
+      "color": "accent",
+      "t0": 1.6,
+      "dur": 1.2
+     }
+    ],
+    "max": 13,
+    "title": "THE BIGGEST SLICE",
+    "tpl": "compare"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s197",
+   "start": 489.837,
+   "end": 492.484,
+   "line": "And that only counts the people who reported it.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "items": [
+     {
+      "kind": "coins",
+      "x": 0.5,
+      "y": 0.35,
+      "t0": 0.0,
+      "n": 5,
+      "r": 30,
+      "gap": 80
+     },
+     {
+      "kind": "coins",
+      "x": 0.5,
+      "y": 0.6,
+      "t0": 0.6,
+      "n": 9,
+      "r": 30,
+      "gap": 80,
+      "grey": true
+     },
+     {
+      "kind": "text",
+      "str": "ONLY WHAT WAS REPORTED",
+      "x": 0.5,
+      "y": 0.15,
+      "t0": 0.2,
+      "size": 54,
+      "color": "cream"
+     },
+     {
+      "kind": "text",
+      "str": "...AND MANY NEVER REPORT",
+      "x": 0.5,
+      "y": 0.82,
+      "t0": 1.2,
+      "size": 50,
+      "color": "blue"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s198",
+   "start": 492.484,
+   "end": 496.65,
+   "line": "Pig butchering is a real name for these slow, friendly scams.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "pig",
+      "x": 0.5,
+      "y": 0.38,
+      "t0": 0.0,
+      "s": 1.8,
+      "color": "#f29ac0"
+     },
+     {
+      "kind": "text",
+      "str": "\"PIG BUTCHERING\"",
+      "x": 0.5,
+      "y": 0.68,
+      "t0": 0.3,
+      "size": 80,
+      "color": "accent",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "A REAL NAME FOR SLOW, FRIENDLY SCAMS",
+      "x": 0.5,
+      "y": 0.8,
+      "t0": 1.2,
+      "size": 40,
+      "color": "cream"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s199",
+   "start": 496.65,
+   "end": 498.564,
+   "line": "Voice cloning is real too.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "wave",
+      "x": 0.5,
+      "y": 0.42,
+      "t0": 0.0,
+      "color": "accent",
+      "h": 110
+     },
+     {
+      "kind": "text",
+      "str": "VOICE CLONING IS REAL",
+      "x": 0.5,
+      "y": 0.78,
+      "t0": 0.3,
+      "size": 70,
+      "color": "cream",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s200",
+   "start": 498.564,
+   "end": 503.556,
+   "line": "That's why the FBI tells families to agree on a secret word or phrase.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "FBI ADVICE:",
+      "x": 0.5,
+      "y": 0.2,
+      "t0": 0.0,
+      "size": 54,
+      "color": "blue",
+      "spacing": 4
+     },
+     {
+      "kind": "icon",
+      "name": "lock",
+      "x": 0.5,
+      "y": 0.45,
+      "t0": 0.4,
+      "s": 1.4,
+      "color": "gold"
+     },
+     {
+      "kind": "text",
+      "str": "AGREE ON A SECRET",
+      "x": 0.5,
+      "y": 0.7,
+      "t0": 1.4,
+      "size": 64,
+      "color": "cream",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "WORD OR PHRASE",
+      "x": 0.5,
+      "y": 0.8,
+      "t0": 2.6,
+      "size": 64,
+      "color": "gold",
+      "font": "title"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s201",
+   "start": 503.556,
+   "end": 506.433,
+   "line": "And fake returns are older than the internet.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "FAKE RETURNS",
+      "x": 0.5,
+      "y": 0.4,
+      "t0": 0.0,
+      "size": 90,
+      "color": "accent",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "ARE OLDER THAN THE INTERNET",
+      "x": 0.5,
+      "y": 0.58,
+      "t0": 0.8,
+      "size": 54,
+      "color": "cream"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s202",
+   "start": 506.433,
+   "end": 512.791,
+   "line": "In 1920, Charles Ponzi promised investors fifty percent in forty-five days.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.8,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "1920",
+      "x": 0.5,
+      "y": 0.18,
+      "t0": 0.0,
+      "size": 120,
+      "color": "cream",
+      "font": "title"
+     },
+     {
+      "kind": "figure",
+      "x": 0.3,
+      "y": 0.78,
+      "t0": 0.6,
+      "s": 1.3,
+      "pose": "explain"
+     },
+     {
+      "kind": "text",
+      "str": "CHARLES PONZI",
+      "x": 0.62,
+      "y": 0.45,
+      "t0": 1.0,
+      "size": 64,
+      "color": "gold",
+      "font": "title"
+     },
+     {
+      "kind": "text",
+      "str": "PROMISED 50% IN 45 DAYS",
+      "x": 0.62,
+      "y": 0.6,
+      "t0": 2.8,
+      "size": 50,
+      "color": "accent"
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s203",
+   "start": 512.791,
+   "end": 514.529,
+   "line": "It collapsed within months.",
+   "scene": "crash: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {
+    "show": [
+     0.3,
+     0.56
+    ],
+    "start": 0.0,
+    "cdur": 1.2,
+    "shake": true,
+    "title": "PONZI SCHEME",
+    "pct": "COLLAPSED",
+    "pctAt": 1.0,
+    "tpl": "crash"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s204",
+   "start": 514.529,
+   "end": 517.893,
+   "line": "Real markets have averaged around ten percent a year.",
+   "scene": "chart: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "years": [
+     0,
+     40
+    ],
+    "maxX": 40,
+    "start": 0.2,
+    "cdur": 2.2,
+    "valueTag": false,
+    "bigText": {
+     "str": "REAL MARKETS \u224810% A YEAR",
+     "t0": 1.2,
+     "size": 64,
+     "x": 0.42,
+     "y": 0.3
+    },
+    "tpl": "chart"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s205",
+   "start": 517.893,
+   "end": 519.614,
+   "line": "Not three percent a day.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "text",
+      "str": "3% A DAY",
+      "x": 0.5,
+      "y": 0.45,
+      "t0": 0.0,
+      "size": 130,
+      "color": "good",
+      "font": "title"
+     },
+     {
+      "kind": "stamp",
+      "str": "NOT REAL",
+      "x": 0.5,
+      "y": 0.72,
+      "t0": 0.6,
+      "size": 90
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s206",
+   "start": 519.614,
+   "end": 522.066,
+   "line": "So if the real secret is time...",
+   "scene": "clockBig: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "clock",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "label": "THE REAL SECRET: TIME",
+    "labelAt": 0.4,
+    "speed": 1200,
+    "tpl": "clockBig"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s207",
+   "start": 522.066,
+   "end": 524.589,
+   "line": "why do we keep falling for shortcuts?",
+   "scene": "bigLine: kitchen",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "set": "kitchen",
+    "setOpts": {
+     "mood": "interiorWarm"
+    },
+    "lines": [
+     "Why do we keep falling",
+     "for shortcuts?"
+    ],
+    "serif": true,
+    "sizes": [
+     70,
+     80
+    ],
+    "stagger": 0.8,
+    "color": "#fff1dc",
+    "tpl": "bigLine"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s208",
+   "start": 524.589,
+   "end": 527.616,
+   "line": "What do you think? Tell us in the comments.",
+   "scene": "end: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "question": "What do you think?",
+    "tpl": "end"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s209",
+   "start": 527.616,
+   "end": 530.893,
+   "line": "Not your family's code word, though. Never that.",
+   "scene": "card: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "items": [
+     {
+      "kind": "icon",
+      "name": "lock",
+      "x": 0.5,
+      "y": 0.4,
+      "t0": 0.0,
+      "s": 1.8,
+      "color": "gold"
+     },
+     {
+      "kind": "text",
+      "str": "NOT YOUR CODE WORD",
+      "x": 0.5,
+      "y": 0.68,
+      "t0": 0.2,
+      "size": 70,
+      "color": "cream",
+      "font": "title"
+     },
+     {
+      "kind": "stamp",
+      "str": "NEVER",
+      "x": 0.5,
+      "y": 0.84,
+      "t0": 2.0,
+      "size": 70
+     }
+    ],
+    "tpl": "card"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s210",
+   "start": 530.893,
+   "end": 540.86,
+   "line": "Tell us which money What If we should do next. And if Mia's two-dollar jar got you... hit like, and subscribe for more What Ifs.",
+   "scene": "end: ",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "params": {
+    "question": "Which money What If next?",
+    "jar": true,
+    "tpl": "end"
+   },
+   "notes": ""
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 26.4,
+   "mood": "tension",
+   "intensity": 0.65
+  },
+  {
+   "start": 26.4,
+   "end": 46.6,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 46.6,
+   "end": 94.5,
+   "mood": "hopeful",
+   "intensity": 0.35
+  },
+  {
+   "start": 94.5,
+   "end": 141.0,
+   "mood": "playful",
+   "intensity": 0.4
+  },
+  {
+   "start": 141.0,
+   "end": 197.2,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 197.2,
+   "end": 239.5,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 239.5,
+   "end": 270.2,
+   "mood": "sad",
+   "intensity": 0.3
+  },
+  {
+   "start": 270.2,
+   "end": 305.3,
+   "mood": "calm",
+   "intensity": 0.3
+  },
+  {
+   "start": 305.3,
+   "end": 358.7,
+   "mood": "dark",
+   "intensity": 0.6
+  },
+  {
+   "start": 358.7,
+   "end": 384.4,
+   "mood": "tension",
+   "intensity": 0.7
+  },
+  {
+   "start": 384.4,
+   "end": 426.4,
+   "mood": "sad",
+   "intensity": 0.35
+  },
+  {
+   "start": 426.4,
+   "end": 474.3,
+   "mood": "hopeful",
+   "intensity": 0.45
+  },
+  {
+   "start": 474.3,
+   "end": 524.6,
+   "mood": "wonder",
+   "intensity": 0.35
+  },
+  {
+   "start": 524.6,
+   "end": 540.86,
+   "mood": "hopeful",
+   "intensity": 0.3
+  }
+ ],
+ "sfx": []
+}
