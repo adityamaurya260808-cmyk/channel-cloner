@@ -16,10 +16,11 @@ EXTRA = {
     "clicky": "K L IH K IY", "dustpan": "D AH S T P AE N", "houseflies": "HH AW S F L AY Z",
     "slideshow": "S L AY D SH OW", "strobes": "S T R OW B Z",
     "cpr": "S IY P IY AA R", "eagleman": "IY G AH L M AH N", "maths": "M AE TH S",
+    "gilovich": "G IH L AH V IH CH", "kiddo": "K IH D OW", "medvec": "M EH D V EH K", "omar's": "OW M AA R Z", "roommate's": "R UW M M EY T S", "squints": "S K W IH N T S",
     "sol's": "S AA L Z", "mia's": "M IY AH Z",
 }
 # numbers written as digits in the script -> the words the voice actually says
-SPOKEN = {"2007": "two thousand seven"}
+SPOKEN = {"2007": "two thousand seven", "1995": "nineteen ninety five"}
 
 
 def tokens(script):
@@ -48,7 +49,7 @@ def main():
     missing = sorted({w for _, ws in toks for w in ws if w not in dic and w not in EXTRA})
     if missing:
         sys.exit(f"add pronunciations to EXTRA for: {missing}")
-    dec = Decoder(samprate=16000, lm=None)
+    dec = Decoder(samprate=16000, lm=None, beam=1e-100, wbeam=1e-80, pbeam=1e-100)
     for w, ph in EXTRA.items():
         dec.add_word(w, ph, True)
     flat = [w for _, ws in toks for w in ws]
