@@ -1,0 +1,40 @@
+// cast.js: one outfit per recurring character. The signature colour is their identity; keep it identical in every shot.
+export const LEO = { top: 'hoodie', color: '#d64a33', head: 'curly' };                                    // "you", 15
+export const GRANDPA = { top: 'suit', color: '#b5862a', color2: '#7a5a1a', head: 'none', face: 'glasses' }; // mustard cardigan + glasses
+export const JAKE = { top: 'none', head: 'cap', headColor: '#3fb950' };                                    // best friend
+export const MOM = { top: 'dress', color: '#8a5ad6', head: 'bun' };
+export const TEACHER = { top: 'suit', color: '#3a3448', head: 'bun', face: 'glasses' };
+export const CHAMP = { top: 'none', head: 'spiky', face: 'glasses' };
+export const STRIKER = { top: 'jersey', color: '#4a4458', color2: '#d8d2e0', number: '9', head: 'none' };
+export const MEDIC = { top: 'tshirt', color: '#4a9a7a', head: 'none' };
+export const STRANGER = { top: 'trench', color: '#2c2833', head: 'fedora', headColor: '#1c1a22', face: 'sunglasses' };
+export const EXTRA = { top: 'none', head: 'none' };
+export const EXTRA2 = { top: 'none', head: 'ponytail' };
+export const CAST = [LEO, GRANDPA, JAKE, MOM];
+export const NOVA = { top: 'hoodie', color: '#2fb5a8', head: 'ponytail' };                               // Nova, 16: teal hoodie
+export const DRIVER = { top: 'tshirt', color: '#4a4a5a', head: 'none' };
+export const CAST2 = [LEO, NOVA, GRANDPA, JAKE];
+export const SOL = { top: 'trench', color: '#2c2833', head: 'none', face: 'glasses' };                     // Sol: very old, still, no hat in the real world
+export const WIFE = { top: 'dress', color: '#6a8ad6', head: 'bun' };
+export const DOCTOR = { top: 'labcoat', color: '#ebe7f0', head: 'none' };
+export const CAST3 = [LEO, NOVA, GRANDPA, SOL, JAKE];
+// ---- What If You Had 1,000 IQ? ----
+export const KAI = { top: 'hoodie', color: '#3a7ae0', head: 'spiky' };                                      // Kai, 13: blue hoodie
+export const MIA = { top: 'dress', color: '#f2c21a', head: 'bun', kid: true };                              // Mia, 8: yellow dress
+export const BEN = { top: 'tshirt', color: '#5fbf6a', head: 'cap', headColor: '#e04a3a' };                   // best friend
+export const DRLEE = { top: 'labcoat', color: '#ebe7f0', head: 'ponytail', face: 'glasses' };               // flood scientist
+export const KMOM = { top: 'dress', color: '#c05ad0', head: 'bun' };
+export const DAD = { top: 'tshirt', color: '#8a6a4a', head: 'none' };
+export const UNCLE = { top: 'suit', color: '#6a6a7a', head: 'none', face: 'glasses' };
+export const CHIEF = { top: 'suit', color: '#2a3448', head: 'none' };
+export const CAST_IQ = [KAI, MIA, BEN, DRLEE];
+// ---- What If You Woke Up at 12 With All Your Memories? ----
+export const ELI = { top: 'hoodie', color: '#e07a2a', head: 'curly', kid: true };                         // Eli, 12 (mind 32): orange hoodie
+export const ELI32 = { top: 'suit', color: '#4a4a5a', head: 'curly' };                                     // adult Eli, 32
+export const OMAR = { top: 'tshirt', color: '#2fb56a', head: 'spiky', kid: true };                         // best friend
+export const EMOM = { top: 'dress', color: '#8a5ad6', head: 'bun' };
+export const EDAD = { top: 'tshirt', color: '#5a8ab0', head: 'none' };                                     // night-shift laundry
+export const REYES = { top: 'suit', color: '#b05a4a', head: 'ponytail', face: 'glasses' };                 // Ms. Reyes
+export const HART = { top: 'suit', color: '#2a3448', head: 'bun', face: 'glasses' };                       // Principal Hart
+export const OMOM = { top: 'dress', color: '#c0a03a', head: 'bun' };                                       // Omar's mom
+export const CAST_W12 = [ELI, OMAR, EMOM, EDAD];
